@@ -170,56 +170,6 @@
         "country": ""
     },
     {
-        "name": "CA CTV Edmonton Alberta HD (D)",
-        "id": "cactvedmontonalbertahdd",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/58725",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Global Edmonton News (E)",
-        "id": "caglobaledmontonnewse",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/58724",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Peachtree TV HD (R)",
-        "id": "capeachtreetvhdr",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/47362",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Sportsnet One (HD)",
-        "id": "casportsnetonehd",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/47379",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: Vision",
-        "id": "cavision",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/57468",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA CP24 News HD (D)",
         "id": "cacp24newshdd",
         "logo": "",
@@ -264,6 +214,66 @@
         "id": "cabbcworldnews",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/139752",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: BNN Bloomberg HD",
+        "id": "cabnnbloomberghd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/57358",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CP24 HD",
+        "id": "cacp24hd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/57345",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Toronto HD (R)",
+        "id": "cactvtorontohdr",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/47296",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: GLOBAL TORONTO",
+        "id": "caglobaltoronto",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/57302",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CBC Winnipeg",
+        "id": "cacbcwinnipeg",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/100628",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV WINNIPEG (E)",
+        "id": "cactvwinnipege",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/100630",
         "categories": [
             "canada"
         ],

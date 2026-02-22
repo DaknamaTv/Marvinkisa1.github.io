@@ -2530,16 +2530,6 @@
         "country": ""
     },
     {
-        "name": "Star Sports Select 1 HD",
-        "id": "starsportsselect1hd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0bz/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ARY MUSIK",
         "id": "arymusik",
         "logo": "",
@@ -3050,16 +3040,6 @@
         "country": ""
     },
     {
-        "name": "History TV 18 HD",
-        "id": "historytv18hd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a02z/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "TRT 1",
         "id": "trt1",
         "logo": "",
@@ -3264,6 +3244,16 @@
         "id": "me",
         "logo": "",
         "url": "https://iptvbd.live/metv1080/1080.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hum tv",
+        "id": "humtv",
+        "logo": "http://tvassets.roarzone.info/images/humtv.png",
+        "url": "https://edge2.roarzone.info:8445/roarzone/edge3/hum/index.m3u8?token=7b70c607c56ed790f1a53ee0700e8ae44c8bdbc6-f9ed371f0e0e21515828364db3e49149-1771789656-1771786056",
         "categories": [
             "bd"
         ],

@@ -620,16 +620,6 @@
         "country": ""
     },
     {
-        "name": "Nigbati TV",
-        "id": "nigbatitv",
-        "logo": "https://a.jsrdn.com/hls/23195/nigbati-tv/poster_20250109_233316.jpg",
-        "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8",
-        "categories": [
-            "distrotv"
-        ],
-        "country": ""
-    },
-    {
         "name": "MomCave",
         "id": "momcave",
         "logo": "https://a.jsrdn.com/hls/23195/momcave/poster_20241211_000232.png",
@@ -804,6 +794,16 @@
         "id": "hiphoptv",
         "logo": "https://a.jsrdn.com/hls/23195/hip-hop-tv/poster_20241211_000949.jpg",
         "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/SOLUN7O6J2CB9D8VZDG7/hls3/now,-1m/m.m3u8",
+        "categories": [
+            "distrotv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CinePast",
+        "id": "cinepast",
+        "logo": "https://a.jsrdn.com/hls/23195/cinepast/poster_20250102_204100.jpg",
+        "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/JW6DDHFNN2OK5AXRIPYE/hls3/now,-1m/m.m3u8",
         "categories": [
             "distrotv"
         ],

@@ -144,16 +144,6 @@
         "country": "VN"
     },
     {
-        "name": "HTV Sports",
-        "id": "HTVSports.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "DAZN Combat",
         "id": "DAZNCombat.uk",
         "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
@@ -695,26 +685,6 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 2",
-        "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 5",
-        "id": "SonySportsTen5.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Sports 2 Hindi",
         "id": "StarSports2Hindi.in",
         "logo": "https://dtil.tmsimg.com/assets/s143807_ld_h15_ac.png",
@@ -860,6 +830,16 @@
         "id": "VitalDrive.ru",
         "logo": "https://i.imgur.com/XoR9zLh.png",
         "url": "https://tv.a21network.ru/stream/37909/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "MMA-TV.com",
+        "id": "MMATVcom.ru",
+        "logo": "https://i.imgur.com/QhdxNsB.png",
+        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
         "categories": [
             "sports"
         ],
@@ -1096,16 +1076,6 @@
         "country": "MN"
     },
     {
-        "name": "MNB Sport",
-        "id": "MNBSport.mn",
-        "logo": "https://i.imgur.com/z854PC3.png",
-        "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "MN"
-    },
-    {
         "name": "RTI La 3",
         "id": "RTILa3.ci",
         "logo": "https://i.imgur.com/HdNshgF.png",
@@ -1196,16 +1166,6 @@
             "sports"
         ],
         "country": "BO"
-    },
-    {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
     },
     {
         "name": "Alkass Five",

@@ -250,40 +250,10 @@
         "country": ""
     },
     {
-        "name": "US CBS 2 (WCBS) NEW YORK",
-        "id": "uscbs2wcbsnewyork",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120749",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LOC | TX | EL PASO | CBS KDBC",
-        "id": "loctxelpasocbskdbc",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120807",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "CBS: AL MOBILE WKRG",
         "id": "cbsalmobilewkrg",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/120641",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AZ | Phoenix | CBS KPHO",
-        "id": "azphoenixcbskpho",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120648",
         "categories": [
             "usa | news | regionals"
         ],
@@ -304,16 +274,6 @@
         "id": "nbcohtoledownwo",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/120763",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBS: SC COLUMBIA WLTX",
-        "id": "cbssccolumbiawltx",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120784",
         "categories": [
             "usa | news | regionals"
         ],
@@ -360,86 +320,6 @@
         "country": ""
     },
     {
-        "name": "US NBC (WDSU) New Orleans",
-        "id": "usnbcwdsuneworleans",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120705",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX (WVUE) New Orleans",
-        "id": "usfoxwvueneworleans",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120706",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MA | Springfield | FOX WGGB",
-        "id": "maspringfieldfoxwggb",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120710",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBC: MA SPRINGFIELD WWLP",
-        "id": "nbcmaspringfieldwwlp",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120711",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (KTTC) Rochester",
-        "id": "usnbckttcrochester",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120725",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TX | Abilene | | KRBC",
-        "id": "txabilenekrbc",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120800",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (KXAN) Austin",
-        "id": "usnbckxanaustin",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17749",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (KUSA) Denver",
-        "id": "usnbckusadenver",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120664",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "NBC: ME PORTLAND WCSH",
         "id": "nbcmeportlandwcsh",
         "logo": "",
@@ -450,90 +330,10 @@
         "country": ""
     },
     {
-        "name": "US NBC (WDIV) Detroit",
-        "id": "usnbcwdivdetroit",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120717",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MI | Grand Rapids | NBC WOOD",
-        "id": "migrandrapidsnbcwood",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120719",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WA | Tacoma | CW KSTW",
-        "id": "watacomacwkstw",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120828",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ABC: NASHVILLE WKRN",
-        "id": "abcnashvillewkrn",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120860",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "LOC | OR | PORTLAND | ABC KATU",
         "id": "locorportlandabckatu",
         "logo": "",
         "url": "http://1tv41.icu:8080/5ZCJFs/416986/120862",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CW (KTLA)",
-        "id": "uscwktla",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120889",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS 7 (WDBJ) Roanoke",
-        "id": "uscbs7wdbjroanoke",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121077",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FOX: GREENSBORO NC WGHP",
-        "id": "foxgreensboroncwghp",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121085",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX (WGHP) High Point (F)",
-        "id": "usfoxwghphighpointf",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121132",
         "categories": [
             "usa | news | regionals"
         ],
@@ -560,160 +360,10 @@
         "country": ""
     },
     {
-        "name": "US ABC 26 (WGNO) New Orleans",
-        "id": "usabc26wgnoneworleans",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121159",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS 32 (WLKY) Louisville",
-        "id": "uscbs32wlkylouisville",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121160",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CW 8 (KPAX) Missoula (H)",
-        "id": "uscw8kpaxmissoulah",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121163",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FOX: SAN DIEGO CA KSWB",
-        "id": "foxsandiegocakswb",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121174",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US abc10 (KGTV) San Diego",
-        "id": "usabc10kgtvsandiego",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121176",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (KTXA) Fort Worth",
-        "id": "uscbsktxafortworth",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121238",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US MY 33 (WBFS) Miami",
-        "id": "usmy33wbfsmiami",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121246",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FOX: DOTHAN AL WDFX",
-        "id": "foxdothanalwdfx",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121592",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX (WFLX) West Palm Beach (F)",
-        "id": "usfoxwflxwestpalmbeachf",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121595",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "US CBS 12 (WPEC) West Palm Beach",
         "id": "uscbs12wpecwestpalmbeach",
         "logo": "",
         "url": "http://1tv41.icu:8080/5ZCJFs/416986/121596",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US abc7 (WLS) Chicago",
-        "id": "usabc7wlschicago",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121665",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US ABC6 (WJBF) Augusta (A)",
-        "id": "usabc6wjbfaugustaa",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122270",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (WDEF) Chattanooga (F)",
-        "id": "uscbswdefchattanoogaf",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/136739",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX (KBSI) Paducah",
-        "id": "usfoxkbsipaducah",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/136884",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBS: MI DETROIT WWJ",
-        "id": "cbsmidetroitwwj",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/147201",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (WGCL) Atlanta",
-        "id": "uscbswgclatlanta",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/160715",
         "categories": [
             "usa | news | regionals"
         ],
@@ -730,60 +380,10 @@
         "country": ""
     },
     {
-        "name": "NBC: NC RALEIGH WRAL",
-        "id": "nbcncraleighwral",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120736",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (WIVB) HD",
-        "id": "uscbswivbhd",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120746",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WGRZ) HD",
-        "id": "usnbcwgrzhd",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120748",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX (WJW) HD",
-        "id": "usfoxwjwhd",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120756",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "NBC: OH DAYTON WDTN",
         "id": "nbcohdaytonwdtn",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/120760",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC 2 (KJRH) Tulsa",
-        "id": "usnbc2kjrhtulsa",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120767",
         "categories": [
             "usa | news | regionals"
         ],
@@ -800,50 +400,10 @@
         "country": ""
     },
     {
-        "name": "FOX: TULSA OK KOKI",
-        "id": "foxtulsaokkoki",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120769",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "US NBC 10 (WCAU) Philadelphia",
         "id": "usnbc10wcauphiladelphia",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/120776",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (KDKA) Pittsburgh (F)",
-        "id": "uscbskdkapittsburghf",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120777",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RI | Providence | | WJAR",
-        "id": "riprovidencewjar",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120781",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WCBD) Charleston",
-        "id": "usnbcwcbdcharleston",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120783",
         "categories": [
             "usa | news | regionals"
         ],
@@ -890,40 +450,10 @@
         "country": ""
     },
     {
-        "name": "FOX: SPOKANE WA KAYU",
-        "id": "foxspokanewakayu",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120827",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "US CBS (WUSA) Washington (F)",
         "id": "uscbswusawashingtonf",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/120830",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC 4 (WRC) Washington",
-        "id": "usnbc4wrcwashington",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120832",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Telemundo (WZDC( Leesburg (H)",
-        "id": "ustelemundowzdcleesburgh",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120833",
         "categories": [
             "usa | news | regionals"
         ],
@@ -940,200 +470,10 @@
         "country": ""
     },
     {
-        "name": "US ABC (WSOC)",
-        "id": "usabcwsoc",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120852",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
         "name": "ABC: LOUISVILLE WHAS",
         "id": "abclouisvillewhas",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/120858",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ABC: MILWAUKEE WISN",
-        "id": "abcmilwaukeewisn",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120859",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WFLA)",
-        "id": "usnbcwfla",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/120950",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FOX: ROANOKE VA WFXR",
-        "id": "foxroanokevawfxr",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121078",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US ABC 13 (WSET) Lynchburg (H)",
-        "id": "usabc13wsetlynchburgh",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121079",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WSAV)",
-        "id": "usnbcwsav",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121081",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US abc 45 (WXLV) Greensboro/High Point/Winston-Salem (A)",
-        "id": "usabc45wxlvgreensborohighpointwinstonsalema",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121083",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WXIA) Atlanta (F)",
-        "id": "usnbcwxiaatlantaf",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121136",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (KTVT)",
-        "id": "uscbsktvt",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121140",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Florida - Alabama",
-        "id": "floridaalabama",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121154",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC 4 (WOAI) San Antonio (H)",
-        "id": "usnbc4woaisanantonioh",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121157",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (KCBS) Los Angeles (F)",
-        "id": "uscbskcbslosangelesf",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121234",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (WFOR) Miami",
-        "id": "uscbswformiami",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/121243",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX (WSYT) Syracuse (F)",
-        "id": "usfoxwsytsyracusef",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/122003",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS (WTVH) Syracuse (F)",
-        "id": "uscbswtvhsyracusef",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/122004",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS 57 (WYMT-DT) Hazard",
-        "id": "uscbs57wymtdthazard",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/122006",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WAGT) Augusta",
-        "id": "usnbcwagtaugusta",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/122271",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US abc36 (WTVQ) Lexington",
-        "id": "usabc36wtvqlexington",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/125674",
-        "categories": [
-            "usa | news | regionals"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC (WMGT) Macon",
-        "id": "usnbcwmgtmacon",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/134938",
         "categories": [
             "usa | news | regionals"
         ],
@@ -1150,80 +490,580 @@
         "country": ""
     },
     {
-        "name": "US CW (WUPA) Atlanta",
-        "id": "uscwwupaatlanta",
+        "name": "AK | Anchorage | NBC KTUU",
+        "id": "akanchoragenbcktuu",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/139462",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120634",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "US PBS (WGBH) MA | Boston",
-        "id": "uspbswgbhmaboston",
+        "name": "AK | Juneau-douglas | NBC KATH",
+        "id": "akjuneaudouglasnbckath",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/149621",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120636",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "CBS: LA LAFAYETTE KLFY",
-        "id": "cbslalafayetteklfy",
+        "name": "FOX: BIRMINGHAM AL WBRC",
+        "id": "foxbirminghamalwbrc",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/158058",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120638",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "US FOX (KVRR) Fargo (F)",
-        "id": "usfoxkvrrfargof",
+        "name": "US NBC 13 (WVTM) Birmingham",
+        "id": "usnbc13wvtmbirmingham",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/160733",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120639",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "NBC: WI GREEN BAY WGBA",
-        "id": "nbcwigreenbaywgba",
+        "name": "US FOX 11 (KMSB) Tucson",
+        "id": "usfox11kmsbtucson",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/187593",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120651",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "US FOX 38 (KSCC) Corpus Christi (H)",
-        "id": "usfox38kscccorpuschristih",
+        "name": "US NBC 4 (KVOA) Tucson",
+        "id": "usnbc4kvoatucson",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/216549",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120652",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "MI | Kalamazoo | CBS WWMT",
-        "id": "mikalamazoocbswwmt",
+        "name": "US Telemundo (KDEN) Parker",
+        "id": "ustelemundokdenparker",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/221616",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120665",
         "categories": [
             "usa | news | regionals"
         ],
         "country": ""
     },
     {
-        "name": "MI | Grand Rapids | FOX WXMI",
-        "id": "migrandrapidsfoxwxmi",
+        "name": "US CBS (WJAX) Jacksonville",
+        "id": "uscbswjaxjacksonville",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/221618",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120670",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WTLV) Jacksonville",
+        "id": "usnbcwtlvjacksonville",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120672",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: ORLANDO FL WOFL",
+        "id": "foxorlandoflwofl",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120673",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 10 (WTSP) Tampa/Saint Petersburg (H)",
+        "id": "uscbs10wtsptampasaintpetersburgh",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120675",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WPTV) West Palm Beach",
+        "id": "usnbcwptvwestpalmbeach",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120676",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: GA COLUMBUS WLTZ",
+        "id": "nbcgacolumbuswltz",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120677",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: IA DES MOINES WHO",
+        "id": "nbciadesmoineswho",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120682",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX 32 (WFLD) Chicago",
+        "id": "usfox32wfldchicago",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120689",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WMAQ) Chicago",
+        "id": "usnbcwmaqchicago",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120690",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Telemundo (WSNS) Chicago",
+        "id": "ustelemundowsnschicago",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120691",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: LOUISVILLE KY WDRB",
+        "id": "foxlouisvillekywdrb",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120696",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: LAFAYETTE LA KADN",
+        "id": "foxlafayettelakadn",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120702",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: GRAND RAPIDS MI WXMI",
+        "id": "foxgrandrapidsmiwxmi",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120718",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KMOV) St. Louis",
+        "id": "uscbskmovstlouis",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120729",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WITN) Washington (F)",
+        "id": "usnbcwitnwashingtonf",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120737",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CBS: LAS VEGAS NV KLAS",
+        "id": "cbslasvegasnvklas",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120742",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (WNYW) New York",
+        "id": "usfoxwnywnewyork",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120750",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS WLNY",
+        "id": "uscbswlny",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120752",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (KOKH) Oklahoma City (F)",
+        "id": "usfoxkokhoklahomacityf",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120765",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBC: PA LANCASTER WGAL",
+        "id": "nbcpalancasterwgal",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120774",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC 10 (WIS) Columbia (H)",
+        "id": "usnbc10wiscolumbiah",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120786",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TX | Fort Worth | NBC KXAS",
+        "id": "txfortworthnbckxas",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120811",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (KABB) San Antonio",
+        "id": "usfoxkabbsanantonio",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120817",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CBS:UT SALT LAKE CITY KUTV",
+        "id": "cbsutsaltlakecitykutv",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120820",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX: SALT LAKE CITY UT KSTU",
+        "id": "foxsaltlakecityutkstu",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120821",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 7 (KIRO) Seattle (H)",
+        "id": "uscbs7kiroseattleh",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120825",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC 5 (KING) Seattle (H)",
+        "id": "usnbc5kingseattleh",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120826",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc 2 (WSB) Atlanta (A)",
+        "id": "usabc2wsbatlantaa",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120849",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC Sacramento KXTV",
+        "id": "abcsacramentokxtv",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120863",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: CA SAN FRANCISCO ABC 7",
+        "id": "abccasanfranciscoabc7",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120865",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ABC7 (KVIA) El Paso (A)",
+        "id": "usabc7kviaelpasoa",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120875",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KFMB) San Diego (F)",
+        "id": "uscbskfmbsandiegof",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121175",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc10 (WPLG) Miami",
+        "id": "usabc10wplgmiami",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121245",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ABC 25 (WPBF) West Palm Beach",
+        "id": "usabc25wpbfwestpalmbeach",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121597",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC (WBTS) Boston",
+        "id": "usnbcwbtsboston",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121746",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US abc 4 (WCIV-DT) Charleston",
+        "id": "usabc4wcivdtcharleston",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/121759",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ABC9 (WSYR) Syracuse",
+        "id": "usabc9wsyrsyracuse",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122002",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WKYT) Lexington",
+        "id": "uscbswkytlexington",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122007",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ABC (WTVD) HD",
+        "id": "usabcwtvdhd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122064",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (WRDW) Augusta (F)",
+        "id": "uscbswrdwaugustaf",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122273",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US WGN 9 (WGNDT) Chicago",
+        "id": "uswgn9wgndtchicago",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122274",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS 4 (WTVY) Dothan (H)",
+        "id": "uscbs4wtvydothanh",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/122275",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (WDKY) Lexington",
+        "id": "usfoxwdkylexington",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/125675",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CBS: WV HUNTINGTON WOWK",
+        "id": "cbswvhuntingtonwowk",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/125916",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (WGXA) Macon",
+        "id": "usfoxwgxamacon",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/134940",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ABC: CHATTANOOGA WTVC",
+        "id": "abcchattanoogawtvc",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/136741",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KFVS) Cape Girardeau (F)",
+        "id": "uscbskfvscapegirardeauf",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/136883",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CW (WYCW) HD (SP)",
+        "id": "uscwwycwhdsp",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/137049",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FOX (KSAZ) Phoenix",
+        "id": "usfoxksazphoenix",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/137505",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CBS (KGPE) Fresno (F)",
+        "id": "uscbskgpefresnof",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/137682",
+        "categories": [
+            "usa | news | regionals"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: NEWS 12 CONNECTICUT HD",
+        "id": "usnews12connecticuthd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/159246",
         "categories": [
             "usa | news | regionals"
         ],

@@ -347,16 +347,6 @@
         "country": "NL"
     },
     {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "Bonches Latinos TV",
         "id": "BonchesLatinosTV.do",
         "logo": "https://i.imgur.com/Kp8x0NS.png",
@@ -567,6 +557,16 @@
         "country": "DO"
     },
     {
+        "name": "Yunavision",
+        "id": "Yunavision.do",
+        "logo": "https://i.imgur.com/YjceEv5.png",
+        "url": "https://tele-stream.telecasa.net:8080/play/yunavision-hd/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Kapamilya Channel",
         "id": "KapamilyaChannel.ph",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/512px-Kapamilya_Channel_Logo_2020.svg.png",
@@ -654,19 +654,6 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -3061,16 +3048,6 @@
         "country": "IT"
     },
     {
-        "name": "Gold TV Sat",
-        "id": "GoldTVSat.it",
-        "logo": "https://i.imgur.com/gQzNIg5.png",
-        "url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Edutainment TV",
         "id": "EdutainmentTV.mn",
         "logo": "https://i.imgur.com/0m8t3vh.png",
@@ -3374,6 +3351,16 @@
         "country": "HU"
     },
     {
+        "name": "Jiangsu Variety Channel",
+        "id": "JiangsuVarietyChannel.cn",
+        "logo": "https://www.tvchinese.net/uploads/tv/jszy.jpg",
+        "url": "http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CN"
+    },
+    {
         "name": "This is Bulgaria HD",
         "id": "ThisisBulgariaHD.bg",
         "logo": "https://i.imgur.com/062jkXw.png",
@@ -3557,16 +3544,6 @@
             "entertainment"
         ],
         "country": "CR"
-    },
-    {
-        "name": "ETV+",
-        "id": "ETVPlus.ee",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
-        "url": "https://sb.err.ee/live/etvpluss.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EE"
     },
     {
         "name": "Nos Isla TV",
@@ -4046,16 +4023,6 @@
         "id": "fxeast",
         "logo": "https://i.postimg.cc/263GFb0J/fx.png",
         "url": "http://fl12.moveonjoy.com/FX/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "INSP",
-        "id": "insp",
-        "logo": "https://i.imgur.com/YgOC51j.png",
-        "url": "http://fl12.moveonjoy.com/INSP/index.m3u8",
         "categories": [
             "entertainment"
         ],

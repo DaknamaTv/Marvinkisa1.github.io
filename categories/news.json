@@ -127,16 +127,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Sim Cachoeiro",
-        "id": "TVSimCachoeiro.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Colatina",
         "id": "TVSimColatina.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -489,17 +479,6 @@
         "country": "AR"
     },
     {
-        "name": "Catamarca TV",
-        "id": "CatamarcaTV.ar",
-        "logo": "https://i.imgur.com/CEuPoqG.png",
-        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
-        "categories": [
-            "culture",
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Multivision Federal",
         "id": "MultivisionFederal.ar",
         "logo": "https://i.imgur.com/jX0lqy3.png",
@@ -765,41 +744,6 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3709,36 +3653,6 @@
         "country": "IN"
     },
     {
-        "name": "Bada Khabar",
-        "id": "BadaKhabar.in",
-        "logo": "https://i.imgur.com/XiwygDJ.png",
-        "url": "https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Malabar News",
         "id": "MalabarNews.in",
         "logo": "https://i.imgur.com/Un2gxt4.png",
@@ -3903,16 +3817,6 @@
         "id": "RPPTV.pe",
         "logo": "https://i.imgur.com/oBz3CgE.png",
         "url": "https://redirector.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Exitosa TV",
-        "id": "ExitosaTV.pe",
-        "logo": "https://i.imgur.com/pu0BSB7.png",
-        "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4427,16 +4331,6 @@
         "id": "Channel8.iq",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png",
         "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Dijlah TV",
-        "id": "DijlahTV.iq",
-        "logo": "https://i.imgur.com/kyzH3G5.png",
-        "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
         "categories": [
             "news"
         ],
@@ -5256,16 +5150,6 @@
         "country": "KR"
     },
     {
-        "name": "Palestine Al Yawm",
-        "id": "PalestineAlYawm.lb",
-        "logo": "https://i.imgur.com/n8dSgx4.png",
-        "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "ALWifak News TV",
         "id": "ALWifakNewsTV.lb",
         "logo": "https://i.imgur.com/1vqhmNz.png",
@@ -5450,16 +5334,6 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "C9N",
-        "id": "C9N.py",
-        "logo": "https://i.imgur.com/Cp4zJ7O.png",
-        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
         "categories": [
             "news"
         ],

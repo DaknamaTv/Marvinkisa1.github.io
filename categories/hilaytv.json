@@ -700,16 +700,6 @@
         "country": ""
     },
     {
-        "name": "BERITA RTM",
-        "id": "beritartm",
-        "logo": "https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "FANDUEL RACING",
         "id": "fanduelracing",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-racing-us.png",
@@ -4930,16 +4920,6 @@
         "country": ""
     },
     {
-        "name": "Spectrum Sportsnet LA Dodgers",
-        "id": "spectrumsportsnetladodgers",
-        "logo": "https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png",
-        "url": "https://a1xs.vip/400052",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "SEC Network HD",
         "id": "secnetworkhd",
         "logo": "https://pixvid.org/images/2025/01/25/sec-nw.png",
@@ -5234,26 +5214,6 @@
         "id": "hbo2us",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-2-us.png",
         "url": "http://23.237.104.106:8080/USA_HBO2/index.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HITS",
-        "id": "hits",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-asia/hits-asi.png",
-        "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/hits/manifest.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "tvN Movies",
-        "id": "tvnmovies",
-        "logo": "https://www.mncvision.tv/userfiles/image/channel/channel_25.png",
-        "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd",
         "categories": [
             "hilaytv"
         ],
@@ -6170,16 +6130,6 @@
         "country": ""
     },
     {
-        "name": "Astro Sports UHD",
-        "id": "astrosportsuhd",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-sports-uhd-my.png",
-        "url": "https://a1xs.vip/9000013",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Mnet ÏõîÎìú Ïò§Î∏å Ïä§Ìä∏Î¶ø Ïö∞Î®º ÌååÏù¥ÌÑ∞ ÌïòÏù¥ÎùºÏù¥Ìä∏",
         "id": "mnet",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20250811T061429SQUARE.png",
@@ -6280,26 +6230,6 @@
         "country": ""
     },
     {
-        "name": "SPARK TV",
-        "id": "sparktv",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/eb1dbd690001553eacdf32d7b155b933/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659742235158_Whitt_Hansen_-_SparkTVLogo_HUD_2_v2.png",
-        "url": "https://jmp2.uk/rok-eb1dbd690001553eacdf32d7b155b933.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "So Real",
-        "id": "soreal",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b41118f76d1a5abcb701b9cc0a035c5b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752502909488_Info_HUD_Logo_260x147_px.png",
-        "url": "https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "100 Hip Hop and RNB FM",
         "id": "100hiphopandrnbfm",
         "logo": "https://images.radio.com/independent/logos/100hiphopandrnbfm.jpg",
@@ -6324,16 +6254,6 @@
         "id": "hiphop95",
         "logo": "https://hiphop95.com/assets/images/logos/hip-hop-95-logo-white-bg.png",
         "url": "https://ice64.securenetsystems.net/HHJRR",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hot 412",
-        "id": "hot412",
-        "logo": "https://media.live365.com/download/b96d71a6-5b77-4794-a186-29b0739f26ff.jpg",
-        "url": "https://ice24.securenetsystems.net/HOT412IH",
         "categories": [
             "hilaytv"
         ],
@@ -6404,6 +6324,116 @@
         "id": "persianaemirates",
         "logo": "",
         "url": "https://pemirateshls.persiana.live/hls/stream.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNT Sport 1 HD",
+        "id": "tntsport1hd",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+        "url": "https://a1xs.vip/2000021",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Sports F1",
+        "id": "skysportsf1",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png",
+        "url": "https://a1xs.vip/2000005",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FilmRise British TV",
+        "id": "filmrisebritishtv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450854254_FR_BRITISHTV_HUD_CenterAligned.png",
+        "url": "https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "QVC's The Big Dish",
+        "id": "qvcsthebigdish",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b3b6c3d670c5008be3b100fd622fa0d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1727129041516_TheBigDish-Channel_Logo_HUD.png",
+        "url": "https://jmp2.uk/rok-7b3b6c3d670c5008be3b100fd622fa0d.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Stingray Cozy Cafe",
+        "id": "stingraycozycafe",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8f717f72440fb688192f83faa71a8ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260347726_CozyCafe_HUDlogo_centered_260x147.png",
+        "url": "https://jmp2.uk/rok-f8f717f72440fb688192f83faa71a8ab.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVOAI Channel",
+        "id": "tvoaichannel",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77b94bceefad7df653d27acc05ae420/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738699180944_hud_logo-2.png",
+        "url": "https://jmp2.uk/rok-a77b94bceefad7df653d27acc05ae420.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Sports Main Event FHD",
+        "id": "skysportsmaineventfhd",
+        "logo": "https://i.ibb.co/CwMZcpP/sky-main-event.png",
+        "url": "https://a1xs.vip/2000001",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ESPN2 HD",
+        "id": "espn2hd",
+        "logo": "https://pixvid.org/images/2025/01/25/espn-2.png",
+        "url": "https://a1xs.vip/40000012",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Altitude Sports",
+        "id": "altitudesports",
+        "logo": "https://pixvid.org/images/2025/02/20/altitude-sports.png",
+        "url": "https://a1xs.vip/40000048",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Comedy FHD",
+        "id": "hbocomedyfhd",
+        "logo": "https://i.imgur.com/CvxmOqV.png",
+        "url": "https://a1xs.vip/300005",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fox Sports 506 FHD",
+        "id": "foxsports506fhd",
+        "logo": "https://i.imgur.com/eA1hiR0.png",
+        "url": "https://a1xs.vip/700006",
         "categories": [
             "hilaytv"
         ],

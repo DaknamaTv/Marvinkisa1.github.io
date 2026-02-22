@@ -230,110 +230,40 @@
         "country": ""
     },
     {
-        "name": "107.5 Cool FM",
-        "id": "1075coolfm",
-        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17548",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ace Radio",
-        "id": "aceradio",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17783",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Alex Jones - Infowars.com",
-        "id": "alexjonesinfowarscom",
-        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17579",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BBC World Service English (UK Schedule)",
-        "id": "bbcworldserviceenglishukschedule",
-        "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14387",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Got Radio Hip Hop Live",
-        "id": "gotradiohiphoplive",
-        "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17526",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JazzRadio (MRG.fm)",
-        "id": "jazzradiomrgfm",
-        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17837",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Reggae Jam",
-        "id": "reggaejam",
-        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14661",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sportsnet 590 The FAN",
-        "id": "sportsnet590thefan",
-        "logo": "https://ca0-cdn.onlineradiobox.com/img/logo/2/10962.v13.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14207",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Big 80s Station",
-        "id": "thebig80sstation",
-        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17566",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WSHU Public Radio",
-        "id": "wshupublicradio",
-        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17865",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
         "name": "Alternative Rock",
         "id": "alternativerock",
         "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/17849",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BeGoodRadio - 80s New Wave live",
+        "id": "begoodradio80snewwavelive",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17802",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Best Hits Radio 80's",
+        "id": "besthitsradio80s",
+        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17539",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Territory FM 104.1 Darwin",
+        "id": "territoryfm1041darwin",
+        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14684",
         "categories": [
             "radio stations"
         ],

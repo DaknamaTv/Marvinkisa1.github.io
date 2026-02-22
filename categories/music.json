@@ -575,16 +575,6 @@
         "country": "DO"
     },
     {
-        "name": "Tu Musica HD",
-        "id": "TuMusicaHD.do",
-        "logo": "https://i.imgur.com/HnjUjog.png",
-        "url": "https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "LA MIA TV",
         "id": "LAMIATV.do",
         "logo": "https://i.imgur.com/XIwTM1h.png",
@@ -703,19 +693,6 @@
             "music"
         ],
         "country": "HN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
     },
     {
         "name": "First Music Channel",
@@ -1596,16 +1573,6 @@
         "id": "Tunes6.in",
         "logo": "https://i.imgur.com/VUzMQ9S.png",
         "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2667,16 +2634,6 @@
         "country": "EG"
     },
     {
-        "name": "NogoumFMTV",
-        "id": "NogoumFMTV.eg",
-        "logo": "https://i.imgur.com/krp3kgv.png",
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EG"
-    },
-    {
         "name": "Ocko",
         "id": "Ocko.cz",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png",
@@ -2695,16 +2652,6 @@
             "music"
         ],
         "country": "CZ"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "MuzzOne",
@@ -2897,6 +2844,16 @@
         "country": "IT"
     },
     {
+        "name": "Radio Piter Pan TV",
+        "id": "RadioPiterPanTV.it",
+        "logo": "https://i.imgur.com/hbqVWV4.png",
+        "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Look Thoong TV",
         "id": "LookThoongTV.la",
         "logo": "https://i.imgur.com/eT7iE34.png",
@@ -3006,16 +2963,6 @@
             "music"
         ],
         "country": "MX"
-    },
-    {
-        "name": "D3 TV",
-        "id": "D3TV.ml",
-        "logo": "https://i.imgur.com/uFEIBtB.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ML"
     },
     {
         "name": "Live99FM",
@@ -3443,26 +3390,6 @@
         "country": "KR"
     },
     {
-        "name": "OneFM",
-        "id": "OneFM.lb",
-        "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
-        "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "One TV",
-        "id": "OneTV.lb",
-        "logo": "https://i.imgur.com/O4DuR9G.png",
-        "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "Gex TV",
         "id": "GexTV.cr",
         "logo": "https://gextv.com/LOGO-WHITE.png",
@@ -3538,6 +3465,26 @@
         "id": "VMLatino.cr",
         "logo": "https://i.imgur.com/Dvo1b82.png",
         "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "SOY Plancha TV",
+        "id": "SOYPlanchaTV.cr",
+        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Vintage Music",
+        "id": "VintageMusic.cr",
+        "logo": "https://i.imgur.com/KImqYnN.jpeg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
         ],

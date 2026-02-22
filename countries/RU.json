@@ -1717,16 +1717,6 @@
         "country": "RU"
     },
     {
-        "name": "RTR-Planeta Asia",
-        "id": "RTRPlanetaAsia.ru",
-        "logo": "https://i.imgur.com/DTtK0z7.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
-        "categories": [
-            "general"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Russkiy Bestseller",
         "id": "RusskiyBestseller.ru",
         "logo": "https://i.imgur.com/w0ZE9QJ.png",
@@ -1924,16 +1914,6 @@
         "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "RTR-Planeta",
-        "id": "RTRPlaneta.ru",
-        "logo": "https://i.imgur.com/T42cuYx.png",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a",
-        "categories": [
-            "general"
         ],
         "country": "RU"
     },
@@ -2275,6 +2255,26 @@
         "url": "https://dumatv.iptv2022.com/playlist.m3u8",
         "categories": [
             "legislative"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "MMA-TV.com",
+        "id": "MMATVcom.ru",
+        "logo": "https://i.imgur.com/QhdxNsB.png",
+        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "NTM",
+        "id": "NTM.ru",
+        "logo": "https://i.imgur.com/AH50pGT.png",
+        "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "RU"
     }

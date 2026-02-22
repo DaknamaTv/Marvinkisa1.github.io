@@ -420,16 +420,6 @@
         "country": "DO"
     },
     {
-        "name": "Caoba TV Radio",
-        "id": "CaobaTVRadio.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg",
-        "url": "https://host.streamingnation.live:3940/live/caobatvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Telenord 10",
         "id": "Telenord10.do",
         "logo": "https://i.imgur.com/1Ei0kB8.png",
@@ -750,16 +740,6 @@
         "country": "DO"
     },
     {
-        "name": "Tu Musica HD",
-        "id": "TuMusicaHD.do",
-        "logo": "https://i.imgur.com/HnjUjog.png",
-        "url": "https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "LA MIA TV",
         "id": "LAMIATV.do",
         "logo": "https://i.imgur.com/XIwTM1h.png",
@@ -854,16 +834,6 @@
         "id": "Teleimpacto.do",
         "logo": "https://i.imgur.com/dBEysOV.png",
         "url": "https://vpss2003.streamprolive.com/hls/live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Cotubanama TV",
-        "id": "CotubanamaTV.do",
-        "logo": "https://i.imgur.com/D6gAezp.png",
-        "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
         "categories": [
             "general"
         ],
@@ -1592,16 +1562,6 @@
         "country": "DO"
     },
     {
-        "name": "TV Luz",
-        "id": "TVLuz.do",
-        "logo": "https://i.imgur.com/FZUQ2WP.png",
-        "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Cana TV Digital",
         "id": "CanaTVDigital.do",
         "logo": "https://i.imgur.com/k8jxt12.png",
@@ -1968,6 +1928,46 @@
         "url": "https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "OxiTV",
+        "id": "OxiTV.do",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg",
+        "url": "https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Simavision Canal 18",
+        "id": "SimavisionCanal18.do",
+        "logo": "https://i.imgur.com/io9o30K.jpg",
+        "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telever",
+        "id": "Telever.do",
+        "logo": "https://imgur.com/ejKctXc.png",
+        "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Yunavision",
+        "id": "Yunavision.do",
+        "logo": "https://i.imgur.com/YjceEv5.png",
+        "url": "https://tele-stream.telecasa.net:8080/play/yunavision-hd/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "DO"
     }

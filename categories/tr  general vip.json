@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "TR: TV 360 FHD",
-        "id": "trtv360fhd",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP016571763906336130/d4752a7fef16/141284",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: HALK TV FHD",
         "id": "trhalktvfhd",
         "logo": "https://docdog.top/logo/countries/turkey/halk-tv-tr.png",
@@ -160,16 +150,6 @@
         "country": ""
     },
     {
-        "name": "TR: DAMAR TV",
-        "id": "trdamartv",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP011431763919048130/afa7408c7967/140901",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: ER TV",
         "id": "trertv",
         "logo": "",
@@ -194,26 +174,6 @@
         "id": "trkanalb",
         "logo": "https://docdog.top/logo/countries/turkey/kanal-b-tr.png",
         "url": "http://vipbhbiss.top:8080/VIP011431763919048130/afa7408c7967/141050",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: KONUSAN TOM",
-        "id": "trkonusantom",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP01611756900902621/807c1f25a25d/141073",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: BELGESEL 2",
-        "id": "trbelgesel2",
-        "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP017381727977428101/1d2465f693b2/140860",
         "categories": [
             "tr | general vip"
         ],
@@ -290,16 +250,6 @@
         "country": ""
     },
     {
-        "name": "TR: A2 FHD",
-        "id": "tra2fhd",
-        "logo": "https://docdog.top/logo/countries/turkey/a2-tr.png",
-        "url": "http://vipbhbiss.top:8080/VIP018631755037102548/1a2018c56272/140820",
-        "categories": [
-            "tr | general vip"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: FLASH TV",
         "id": "trflashtv",
         "logo": "",
@@ -330,20 +280,70 @@
         "country": ""
     },
     {
-        "name": "TR: KAY TV",
-        "id": "trkaytv",
+        "name": "TR: KAYSERI TV",
+        "id": "trkayseritv",
         "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP017381727977428101/1d2465f693b2/141063",
+        "url": "http://vipbhbiss.top:8080/VIP017381727977428101/1d2465f693b2/141064",
         "categories": [
             "tr | general vip"
         ],
         "country": ""
     },
     {
-        "name": "TR: KAYSERI TV",
-        "id": "trkayseritv",
+        "name": "TR: A HABER FHD",
+        "id": "trahaberfhd",
+        "logo": "https://docdog.top/logo/countries/turkey/a-haber-tr.png",
+        "url": "http://vipbhbiss.top:8080/VIP014081765268833157/dd7d22aadd59/140813",
+        "categories": [
+            "tr | general vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: ANKARA TÜRKIYEM TV",
+        "id": "trankaratrkiyemtv",
         "logo": "",
-        "url": "http://vipbhbiss.top:8080/VIP017381727977428101/1d2465f693b2/141064",
+        "url": "http://vipbhbiss.top:8080/VIP014081765268833157/dd7d22aadd59/140842",
+        "categories": [
+            "tr | general vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT COCUK FHD",
+        "id": "trtrtcocukfhd",
+        "logo": "https://docdog.top/logo/countries/turkey/trt-cocuk-tr.png",
+        "url": "http://vipbhbiss.top:8080/VIP014081765268833157/dd7d22aadd59/141250",
+        "categories": [
+            "tr | general vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: EKOL TV",
+        "id": "trekoltv",
+        "logo": "",
+        "url": "http://vipbhbiss.top:8080/VIP011431763919048130/afa7408c7967/140959",
+        "categories": [
+            "tr | general vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT HABER FHD",
+        "id": "trtrthaberfhd",
+        "logo": "https://docdog.top/logo/countries/turkey/trt-haber-tr.png",
+        "url": "http://vipbhbiss.top:8080/VIP011431763919048130/afa7408c7967/141262",
+        "categories": [
+            "tr | general vip"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: FAST FUN FHD",
+        "id": "trfastfunfhd",
+        "logo": "",
+        "url": "http://vipbhbiss.top:8080/VIP017381727977428101/1d2465f693b2/140977",
         "categories": [
             "tr | general vip"
         ],

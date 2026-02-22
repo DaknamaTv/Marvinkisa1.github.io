@@ -30,10 +30,20 @@
         "country": ""
     },
     {
-        "name": "USA Real NBA 04: Memphis Grizzlies vs Miami Heat @ 08:00 PM EST",
-        "id": "usarealnba04memphisgrizzliesvsmiamiheat0800pmest",
+        "name": "CA-NBA TV",
+        "id": "canbatv",
+        "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/22995",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real NBA 02: DEN Nuggets VS GSW Warriors ( ABC Feed ) @ 3:30 PM",
+        "id": "usarealnba02dennuggetsvsgswwarriorsabcfeed330pm",
         "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/262406",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/262517",
         "categories": [
             "nba"
         ],

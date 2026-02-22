@@ -323,26 +323,6 @@
         "country": ""
     },
     {
-        "name": "US Destination America (A)",
-        "id": "usdestinationamericaa",
-        "logo": "https://fontmeme.com/images/destination-america-new-logo.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14222",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Discovery Channel (East)",
-        "id": "usdiscoverychanneleast",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46720",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA: DISCOVERY FAMILY",
         "id": "usadiscoveryfamily",
         "logo": "https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png",
@@ -357,36 +337,6 @@
         "id": "usadogtv",
         "logo": "",
         "url": "http://1tv41.icu:8080/5ZCJFs/416986/53539",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Laff (KNVA)",
-        "id": "uslaffknva",
-        "logo": "https://sky21.com/wp-content/uploads/2019/02/LAFF.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17777",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Nick Jr",
-        "id": "usnickjr",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46710",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US BET Her",
-        "id": "usbether",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/137790",
         "categories": [
             "usa"
         ],
@@ -417,6 +367,446 @@
         "id": "uspokergo",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/140814",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Infowars",
+        "id": "infowars",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/78578",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US A&E (A)",
+        "id": "usaea",
+        "logo": "https://juicetv.app/channellogo/ae.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/2201",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US AMC",
+        "id": "usamc",
+        "logo": "https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/18925",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Aspire (A)",
+        "id": "usaspirea",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21927",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BBC America",
+        "id": "usbbcamerica",
+        "logo": "https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/20194",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BET (East)",
+        "id": "usbeteast",
+        "logo": "https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/13702",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bloomberg",
+        "id": "usbloomberg",
+        "logo": "https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/15158",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BUZZR (STV)",
+        "id": "usbuzzrstv",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21896",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CNN",
+        "id": "uscnn",
+        "logo": "https://juicetv.app/channellogo/cnn2.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/1817",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Cooking Channel",
+        "id": "uscookingchannel",
+        "logo": "https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/9229",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Cozi",
+        "id": "uscozi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/11868",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Decades",
+        "id": "usdecades",
+        "logo": "https://decades.com/images/logo_tagline.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/20189",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: Discovery Life HD",
+        "id": "usadiscoverylifehd",
+        "logo": "https://logodix.com/logo/997920.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/9861",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Magnolia Network",
+        "id": "usmagnolianetwork",
+        "logo": "https://dockanddeck.com/wp-content/uploads/2019/02/diy.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10503",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US E! Entertainment Television East",
+        "id": "useentertainmenttelevisioneast",
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/eentertain.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/11651",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Freeform East",
+        "id": "usfreeformeast",
+        "logo": "https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/13370",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Fuse",
+        "id": "usfuse",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46701",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FXM",
+        "id": "usfxm",
+        "logo": "https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10260",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FXX (East)",
+        "id": "usfxxeast",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46699",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US GetTV",
+        "id": "usgettv",
+        "logo": "https://logodix.com/logo/1826254.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/18366",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Grit TV",
+        "id": "usgrittv",
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/grittv.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/20861",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Heroes & Icons (Los Angeles)",
+        "id": "usheroesiconslosangeles",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/66087",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Lifetime",
+        "id": "uslifetime",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46714",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Lifetime Movie",
+        "id": "uslifetimemovie",
+        "logo": "https://juicetv.app/channellogo/lmn2.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/2208",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MotorTrend (A)",
+        "id": "usmotortrenda",
+        "logo": "https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10399",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US One America News",
+        "id": "usoneamericanews",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21752",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: OWN",
+        "id": "usaown",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46698",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Pursuit UP",
+        "id": "uspursuitup",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/22888",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Reelz",
+        "id": "usreelz",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10526",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US RFD-TV",
+        "id": "usrfdtv",
+        "logo": "https://www.logolynx.com/images/logolynx/29/29694e6e70adeb8ed1c66a5f40c42af2.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17868",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Smithsonian Channel (East)",
+        "id": "ussmithsonianchanneleast",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/31150",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Sportsman Channel (A)",
+        "id": "ussportsmanchannela",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/79913",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Syfy (East)",
+        "id": "ussyfyeast",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46685",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TBN",
+        "id": "ustbn",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21895",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TBS",
+        "id": "ustbs",
+        "logo": "https://image.flaticon.com/icons/png/128/826/826355.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/20867",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TLC (east)",
+        "id": "ustlceast",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/47703",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TNT East",
+        "id": "ustnteast",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10455",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TRUTV East",
+        "id": "ustrutveast",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10224",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Turner Classic Movies",
+        "id": "caturnerclassicmovies",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/66242",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TV Land",
+        "id": "ustvland",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/46696",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US WE tv",
+        "id": "uswetv",
+        "logo": "https://godish.com/wp-content/uploads/channel-logos/we.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/9237",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US World Fishing Network (F)",
+        "id": "usworldfishingnetworkf",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/10477",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TUDN",
+        "id": "ustudn",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/82241",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Game Show Network",
+        "id": "usgameshownetwork",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/120633",
         "categories": [
             "usa"
         ],

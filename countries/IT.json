@@ -1220,26 +1220,6 @@
         "country": "IT"
     },
     {
-        "name": "Gold TV Sat",
-        "id": "GoldTVSat.it",
-        "logo": "https://i.imgur.com/gQzNIg5.png",
-        "url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Lazio TV",
-        "id": "LazioTV.it",
-        "logo": "https://i.imgur.com/TNLD9yD.png",
-        "url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Onda TV",
         "id": "OndaTV.it",
         "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
@@ -1309,30 +1289,10 @@
         "country": "IT"
     },
     {
-        "name": "Donna TV",
-        "id": "DonnaTV.it",
-        "logo": "https://i.imgur.com/39cSNHs.png",
-        "url": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Odeon 24",
         "id": "Odeon24.it",
         "logo": "https://i.imgur.com/Ho7SdXY.png",
         "url": "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "T9",
-        "id": "T9.it",
-        "logo": "https://i.imgur.com/kQKzpYj.png",
-        "url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1509,6 +1469,16 @@
         "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
         "categories": [
             "kids"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Radio Piter Pan TV",
+        "id": "RadioPiterPanTV.it",
+        "logo": "https://i.imgur.com/hbqVWV4.png",
+        "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "IT"
     }

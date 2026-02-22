@@ -10,30 +10,20 @@
         "country": ""
     },
     {
-        "name": "CO: ESPN COLOMBIA",
-        "id": "coespncolombia",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/86765",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CO: TELECAFE",
-        "id": "cotelecafe",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/78726",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
         "name": "CO: TELEMEDELLIN",
         "id": "cotelemedellin",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/78722",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: NTN24 HD",
+        "id": "contn24hd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/78704",
         "categories": [
             "colombia"
         ],

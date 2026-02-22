@@ -1102,14 +1102,6 @@
         "country": "DE"
     },
     {
-        "name": "labor14",
-        "id": "labor14.de",
-        "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
-        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
         "name": "Saarland Fernsehen 1",
         "id": "SaarlandFernsehen1.de",
         "logo": "https://i.imgur.com/OodehFV.png",
@@ -1132,6 +1124,16 @@
         "url": "https://jmp2.uk/stvp-CHAJ0500413A",
         "categories": [
             "music"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "ems TV Lingen",
+        "id": "emsTVLingen.de",
+        "logo": "https://i.imgur.com/Yo1GMku.png",
+        "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "DE"
     }

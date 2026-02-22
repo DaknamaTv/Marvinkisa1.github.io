@@ -212,16 +212,6 @@
         "country": "PE"
     },
     {
-        "name": "Exitosa TV",
-        "id": "ExitosaTV.pe",
-        "logo": "https://i.imgur.com/pu0BSB7.png",
-        "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Miel TV",
         "id": "MielTV.pe",
         "logo": "https://i.imgur.com/dPSFrCs.png",
@@ -512,6 +502,24 @@
         "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Teleselva",
+        "id": "Teleselva.pe",
+        "logo": "https://i.imgur.com/cu7hTn8.png",
+        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "USMPTV",
+        "id": "USMPTV.pe",
+        "logo": "https://i.imgur.com/9cmIv3q.png",
+        "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
+        "categories": [
+            "culture"
         ],
         "country": "PE"
     }

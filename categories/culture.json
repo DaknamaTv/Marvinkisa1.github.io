@@ -32,17 +32,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "zenith",
         "id": "zenith.fr",
         "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
@@ -125,17 +114,6 @@
         "country": "CA"
     },
     {
-        "name": "Catamarca TV",
-        "id": "CatamarcaTV.ar",
-        "logo": "https://i.imgur.com/CEuPoqG.png",
-        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
-        "categories": [
-            "culture",
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Salto 2",
         "id": "Salto2.nl",
         "logo": "https://i.imgur.com/6H3ycdL.png",
@@ -184,19 +162,6 @@
             "culture"
         ],
         "country": "DO"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
     },
     {
         "name": "Garshom TV",
@@ -469,6 +434,16 @@
         "country": "PE"
     },
     {
+        "name": "USMPTV",
+        "id": "USMPTV.pe",
+        "logo": "https://i.imgur.com/9cmIv3q.png",
+        "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "Ondambiental TV",
         "id": "OndambientalTV.co",
         "logo": "https://i.imgur.com/u5804Au.jpg",
@@ -652,16 +627,6 @@
         "country": "MX"
     },
     {
-        "name": "El Sonorense",
-        "id": "ElSonorense.mx",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Jalisco TV",
         "id": "JaliscoTV.mx",
         "logo": "https://i.imgur.com/N4meE8I.png",
@@ -766,17 +731,6 @@
             "travel"
         ],
         "country": "CR"
-    },
-    {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
-        ],
-        "country": "EE"
     },
     {
         "name": "Trishul Broadcasting Network",
