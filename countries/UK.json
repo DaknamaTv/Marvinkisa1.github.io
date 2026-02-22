@@ -20,16 +20,6 @@
         "country": "UK"
     },
     {
-        "name": "Akaal Channel",
-        "id": "AkaalChannel.uk",
-        "logo": "https://i.imgur.com/K81vNbk.png",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "CNBC UK",
         "id": "CNBCUK.uk",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",

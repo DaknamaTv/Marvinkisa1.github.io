@@ -10,20 +10,30 @@
         "country": ""
     },
     {
-        "name": "IT: RAI 1",
-        "id": "itrai1",
+        "name": "IT: LA 5",
+        "id": "itla5",
         "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/212895",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/212911",
         "categories": [
             "italy"
         ],
         "country": ""
     },
     {
-        "name": "IT: RAI MOVIE",
-        "id": "itraimovie",
+        "name": "IT: SUPER!",
+        "id": "itsuper",
         "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/212902",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/212931",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI SCUOLA",
+        "id": "itraiscuola",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/212934",
         "categories": [
             "italy"
         ],

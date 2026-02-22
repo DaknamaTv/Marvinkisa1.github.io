@@ -1,29 +1,9 @@
 [
     {
-        "name": "DAZN MBL HD",
-        "id": "daznmblhd",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/Dazn.Mlb.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/197306",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
         "name": "DAZN WOMEN´S FOOTBALL FHD",
         "id": "daznwomensfootballfhd",
         "logo": "https://www.tvlogolar.xyz/logo/germany/Dazn.women.png",
         "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/601279",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN UNBEATEN FHD",
-        "id": "daznunbeatenfhd",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/Unbeaten.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625238",
         "categories": [
             "de | dazn event"
         ],
@@ -60,40 +40,10 @@
         "country": ""
     },
     {
-        "name": "DAZN MATCHROOM BOXING FHD",
-        "id": "daznmatchroomboxingfhd",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/Matchroom.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625231",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN EVENT 2 FHD",
-        "id": "daznevent2fhd",
-        "logo": "https://tvlogo.nl/files/ch/GERMANY2/danzevent2.jpg",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/197309",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
         "name": "DAZN EVENT 9 FHD",
         "id": "daznevent9fhd",
         "logo": "https://tvlogo.nl/files/ch/GERMANY2/danzevent9.jpg",
         "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/197316",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN EVENT 10 FHD",
-        "id": "daznevent10fhd",
-        "logo": "https://tvlogo.nl/files/ch/GERMANY2/danzevent10.jpg",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/197317",
         "categories": [
             "de | dazn event"
         ],
@@ -110,40 +60,10 @@
         "country": ""
     },
     {
-        "name": "DAZN EVENT 13 FHD",
-        "id": "daznevent13fhd",
-        "logo": "https://tvlogo.nl/files/ch/GERMANY2/danzevent13.jpg",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/197320",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
         "name": "DAZN EVENT 14 FHD",
         "id": "daznevent14fhd",
         "logo": "https://tvlogo.nl/files/ch/GERMANY2/danzevent14.jpg",
         "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/197321",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN EVENT 18 FHD",
-        "id": "daznevent18fhd",
-        "logo": "https://i.imgur.com/h5bFIZm.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625229",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN EVENT 24 FHD",
-        "id": "daznevent24fhd",
-        "logo": "https://i.imgur.com/h5bFIZm.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625223",
         "categories": [
             "de | dazn event"
         ],
@@ -160,110 +80,10 @@
         "country": ""
     },
     {
-        "name": "DAZN UFC 3",
-        "id": "daznufc3",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/626013",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN UFC 5",
-        "id": "daznufc5",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/626011",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN UFC 9",
-        "id": "daznufc9",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/626007",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN NBA 2",
-        "id": "daznnba2",
-        "logo": "https://i.postimg.cc/5yLq9b5T/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/633445",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN NBA 7",
-        "id": "daznnba7",
-        "logo": "https://i.postimg.cc/5yLq9b5T/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/633440",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN NFL 3 FHD",
-        "id": "daznnfl3fhd",
-        "logo": "https://www.tvlogolar.xyz/logo/Ozel/dazn-nfl.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625213",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
         "name": "DAZN NFL 5 FHD",
         "id": "daznnfl5fhd",
         "logo": "https://www.tvlogolar.xyz/logo/Ozel/dazn-nfl.png",
         "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625211",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN NFL 8 FHD",
-        "id": "daznnfl8fhd",
-        "logo": "https://www.tvlogolar.xyz/logo/Ozel/dazn-nfl.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/625208",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN EVENT 23 FHD",
-        "id": "daznevent23fhd",
-        "logo": "https://i.imgur.com/h5bFIZm.png",
-        "url": "http://focusmag.eu01.live:8080/Matze.Hasselbrink/sQmKUQ55aH/625224",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN NBA 1",
-        "id": "daznnba1",
-        "logo": "https://i.postimg.cc/5yLq9b5T/image.png",
-        "url": "http://focusmag.eu01.live:8080/fuyh3gdjxQ/gu9CAndJrt/633446",
-        "categories": [
-            "de | dazn event"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DAZN UFC 1",
-        "id": "daznufc1",
-        "logo": "https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/626015",
         "categories": [
             "de | dazn event"
         ],

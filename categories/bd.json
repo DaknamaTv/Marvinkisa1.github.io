@@ -2670,16 +2670,6 @@
         "country": ""
     },
     {
-        "name": "hum tv",
-        "id": "humtv",
-        "logo": "http://tvassets.roarzone.info/images/humtv.png",
-        "url": "https://edge2.roarzone.info:8445/roarzone/edge3/hum/index.m3u8?token=c798a482dd39ecc42d895d28454dd45354263cac-263283eeae62398cd5791bf50a7dbdf1-1771185041-1771181441",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "hum masala",
         "id": "hummasala",
         "logo": "http://tvassets.roarzone.info/images/hummasala.png",
@@ -2854,26 +2844,6 @@
         "id": "sharjahsports",
         "logo": "",
         "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NEWS 24 HD",
-        "id": "news24hd",
-        "logo": "",
-        "url": "http://103.96.235.18:9090/sports2/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "T-Sports [3]",
-        "id": "tsports3",
-        "logo": "",
-        "url": "http://103.96.235.18:9090/sports1/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -3274,6 +3244,26 @@
         "id": "animalplanethd",
         "logo": "",
         "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Sports 3",
+        "id": "starsports3",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/69/69_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Me-",
+        "id": "me",
+        "logo": "",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8",
         "categories": [
             "bd"
         ],

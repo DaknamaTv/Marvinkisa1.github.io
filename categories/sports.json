@@ -51,6 +51,16 @@
         "country": "CA"
     },
     {
+        "name": "TSN3",
+        "id": "TSN3.ca",
+        "logo": "https://i.imgur.com/AYza8KO.png",
+        "url": "https://tvpass.org/live/tsn3/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "F1 Channel",
         "id": "F1Channel.ie",
         "logo": "https://i.imgur.com/cjXzWsI.png",
@@ -77,16 +87,6 @@
         "id": "CDNDeportes.do",
         "logo": "https://i.imgur.com/yU5LqTL.png",
         "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Colimdo TV",
-        "id": "ColimdoTV.do",
-        "logo": "https://i.imgur.com/ZeUgLCa.png",
-        "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
         "categories": [
             "sports"
         ],
@@ -144,14 +144,14 @@
         "country": "VN"
     },
     {
-        "name": "Belarus-5",
-        "id": "Belarus5.by",
-        "logo": "https://i.imgur.com/NJsRFud.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
         "categories": [
             "sports"
         ],
-        "country": "BY"
+        "country": "VN"
     },
     {
         "name": "DAZN Combat",
@@ -860,16 +860,6 @@
         "id": "VitalDrive.ru",
         "logo": "https://i.imgur.com/XoR9zLh.png",
         "url": "https://tv.a21network.ru/stream/37909/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "MMA-TV.com",
-        "id": "MMATVcom.ru",
-        "logo": "https://i.imgur.com/QhdxNsB.png",
-        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
         "categories": [
             "sports"
         ],

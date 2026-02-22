@@ -66,28 +66,6 @@
         "country": ""
     },
     {
-        "name": "PROTURK ORJİNAL",
-        "id": "proturkorjnal",
-        "logo": "https://ihob.net/images/2021/08/29/P1.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/159272",
-        "categories": [
-            "tr | redbox",
-            "cinema mix"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR➤ Usk Vizyon Cinema Altyazı",
-        "id": "truskvizyoncinemaaltyaz",
-        "logo": "https://i.hizliresim.com/4z4wmx4.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/543767",
-        "categories": [
-            "tr | redbox",
-            "cinema mix"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR➤ Usk Vizyon Cinema Yerli",
         "id": "truskvizyoncinemayerli",
         "logo": "https://i.hizliresim.com/4z4wmx4.png",
@@ -121,17 +99,6 @@
         "country": ""
     },
     {
-        "name": "TR➤ Nova Cinema 3",
-        "id": "trnovacinema3",
-        "logo": "",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/543775",
-        "categories": [
-            "tr | redbox",
-            "cinema mix"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR➤ Nova Cinema 5",
         "id": "trnovacinema5",
         "logo": "",
@@ -154,17 +121,6 @@
         "country": ""
     },
     {
-        "name": "TR➤ Mega Box Animsyon",
-        "id": "trmegaboxanimsyon",
-        "logo": "",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/543781",
-        "categories": [
-            "tr | redbox",
-            "cinema mix"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR➤ Real Box Action",
         "id": "trrealboxaction",
         "logo": "",
@@ -180,17 +136,6 @@
         "id": "trsmartboxbelgesel",
         "logo": "",
         "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/543791",
-        "categories": [
-            "tr | redbox",
-            "cinema mix"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR ☪ Proturk Yeşilçam",
-        "id": "trproturkyeilam",
-        "logo": "",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/543794",
         "categories": [
             "tr | redbox",
             "cinema mix"
@@ -224,17 +169,6 @@
         "id": "horrorbox2",
         "logo": "https://ihob.net/images/2021/08/29/HORROR.png",
         "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/145104",
-        "categories": [
-            "tr | redbox",
-            "cinema mix"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NEOCINE NETFLIX",
-        "id": "neocinenetflix",
-        "logo": "https://ihob.net/images/2021/08/29/noecine.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/118686",
         "categories": [
             "tr | redbox",
             "cinema mix"

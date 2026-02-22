@@ -130,56 +130,6 @@
         "country": ""
     },
     {
-        "name": "CA Sportsnet 360 HD",
-        "id": "casportsnet360hd",
-        "logo": "https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/2219",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Sportsnet Ontario (FHD)",
-        "id": "casportsnetontariofhd",
-        "logo": "https://juicetv.app/channellogo/sportsnet.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/11649",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FanDuel Sports South",
-        "id": "usfanduelsportssouth",
-        "logo": "https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/20922",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FanDuel Sports Socal",
-        "id": "usfanduelsportssocal",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/221151",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Sportsnet East (D)",
-        "id": "casportsneteastd",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/41836",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA Sportsnet One (E)",
         "id": "casportsnetonee",
         "logo": "https://juicetv.app/channellogo/sportsnet.png",
@@ -190,30 +140,70 @@
         "country": ""
     },
     {
-        "name": "CA Sportsnet West (FHD)",
-        "id": "casportsnetwestfhd",
-        "logo": "https://juicetv.app/channellogo/sportsnet.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/20975",
+        "name": "US FanDuel Sports Wisconsin",
+        "id": "usfanduelsportswisconsin",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/78599",
         "categories": [
             "sports fanatic's"
         ],
         "country": ""
     },
     {
-        "name": "CA TSN 1 (E)",
-        "id": "catsn1e",
-        "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/57292",
+        "name": "US ESPN NEWS",
+        "id": "usespnnews",
+        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17707",
         "categories": [
             "sports fanatic's"
         ],
         "country": ""
     },
     {
-        "name": "CA TSN 5 HD",
-        "id": "catsn5hd",
-        "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/16131",
+        "name": "US Bally Sports North (A)",
+        "id": "usballysportsnortha",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/58827",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC Sports California (A)",
+        "id": "usnbcsportscaliforniaa",
+        "logo": "https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/20940",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MSG (A)",
+        "id": "usmsga",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21090",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TVG2 Network",
+        "id": "ustvg2network",
+        "logo": "https://godish.com/wp-content/uploads/channel-logos/tvg2.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/18940",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FanDuel Sports Sun",
+        "id": "usfanduelsportssun",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/104917",
         "categories": [
             "sports fanatic's"
         ],

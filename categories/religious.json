@@ -371,16 +371,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 13 Jujuy",
-        "id": "Canal13Jujuy.ar",
-        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
-        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Die Neue Zeit TV",
         "id": "DieNeueZeitTV.ch",
         "logo": "https://i.imgur.com/K3lvrog.png",
@@ -595,16 +585,6 @@
         "id": "MiracleTV.uk",
         "logo": "https://i.imgur.com/pTn8Vc3.png",
         "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "Akaal Channel",
-        "id": "AkaalChannel.uk",
-        "logo": "https://i.imgur.com/K81vNbk.png",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
         "categories": [
             "religious"
         ],
@@ -1699,6 +1679,16 @@
         "country": "US"
     },
     {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Channel Divya",
         "id": "ChannelDivya.in",
         "logo": "https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png",
@@ -2622,16 +2612,6 @@
         "country": "UA"
     },
     {
-        "name": "Holy Quran Radio Nablus",
-        "id": "HolyQuranRadioNablus.ps",
-        "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
-        "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PS"
-    },
-    {
         "name": "Homebase TV",
         "id": "HomebaseTV.za",
         "logo": "https://i.imgur.com/MaLNfJG.png",
@@ -3355,6 +3335,16 @@
         "country": "GT"
     },
     {
+        "name": "El-Roi TV",
+        "id": "ElRoiTV.gt",
+        "logo": "https://i.imgur.com/h8S0eA4.png",
+        "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GT"
+    },
+    {
         "name": "Apostol TV",
         "id": "ApostolTV.hu",
         "logo": "https://i.imgur.com/C43Cc9N.png",
@@ -3403,6 +3393,26 @@
             "religious"
         ],
         "country": "BG"
+    },
+    {
+        "name": "IBN TV",
+        "id": "IBNTV.tz",
+        "logo": "https://i.imgur.com/hkV51ij.png",
+        "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "TZ"
+    },
+    {
+        "name": "IBN TV Africa",
+        "id": "IBNTVAfrica.tz",
+        "logo": "https://i.imgur.com/eKy2ocd.png",
+        "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "TZ"
     },
     {
         "name": "VTV Canal 17",
@@ -3499,6 +3509,26 @@
         "id": "Canal26TVIAP.sv",
         "logo": "https://i.imgur.com/JE7FsnN.png",
         "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "JFV TV",
+        "id": "JFVTV.sv",
+        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
+        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "TVCa",
+        "id": "TVCa.sv",
+        "logo": "https://i.imgur.com/uPWWtCA.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3919,6 +3949,16 @@
         "country": "CD"
     },
     {
+        "name": "Compassion TV",
+        "id": "CompassionTV.cd",
+        "logo": "https://i.imgur.com/lfoUsyR.jpeg",
+        "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "RUTC TV",
         "id": "RUTCTV.kr",
         "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
@@ -4164,6 +4204,16 @@
         "id": "ReformaTV.ve",
         "logo": "https://i.imgur.com/iZMDddR.png",
         "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Alcance TV",
+        "id": "AlcanceTV.ve",
+        "logo": "https://i.imgur.com/veeuqS1.png",
+        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
         "categories": [
             "religious"
         ],
@@ -4553,6 +4603,16 @@
             "religious"
         ],
         "country": "HT"
+    },
+    {
+        "name": "CNA",
+        "id": "CNA.dz",
+        "logo": "https://i.imgur.com/Ki3ySUE.png",
+        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DZ"
     },
     {
         "name": "RT JVA",

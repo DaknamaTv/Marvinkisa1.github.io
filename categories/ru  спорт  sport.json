@@ -1,25 +1,5 @@
 [
     {
-        "name": "KHL FHD",
-        "id": "khlfhd",
-        "logo": "http://peaktv.su/img/logos/sport/kxl.png",
-        "url": "http://focusmag.eu01.live:8080/Bobka.de/brnU51BGYf/869579",
-        "categories": [
-            "ru | спорт | sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fast&FunBox",
-        "id": "fastfunbox",
-        "logo": "http://peaktv.su/img/logos/sport/fastfunbox-hd.png",
-        "url": "http://focusmag.eu01.live:8080/Bobka.de/brnU51BGYf/869565",
-        "categories": [
-            "ru | спорт | sport"
-        ],
-        "country": ""
-    },
-    {
         "name": "viju+ Viasat Sport HD",
         "id": "vijuviasatsporthd",
         "logo": "http://peaktv.su/img/logos/sport/viasat-sport.png",
@@ -34,16 +14,6 @@
         "id": "khlprimefhd",
         "logo": "http://peaktv.su/img/logos/sport/kxl-hd.png",
         "url": "http://focusmag.eu01.live:8080/Bobka.de/brnU51BGYf/869581",
-        "categories": [
-            "ru | спорт | sport"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Setanta Qazaqstan HD",
-        "id": "setantaqazaqstanhd",
-        "logo": "http://peaktv.su/img/logos/sport/setanta-kz.png",
-        "url": "http://focusmag.eu01.live:8080/Bobka.de/brnU51BGYf/869552",
         "categories": [
             "ru | спорт | sport"
         ],

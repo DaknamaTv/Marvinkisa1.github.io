@@ -200,40 +200,10 @@
         "country": ""
     },
     {
-        "name": "ACDC 247",
-        "id": "acdc247",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/23004",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Calm Radio Spa",
-        "id": "calmradiospa",
-        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17540",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
         "name": "JamendoLounge",
         "id": "jamendolounge",
         "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
         "url": "http://1tv41.icu:8080/5ZCJFs/416986/14389",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BumpinRadio.com - Hip Hop and R&B",
-        "id": "bumpinradiocomhiphopandrb",
-        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17599",
         "categories": [
             "radio stations"
         ],
@@ -250,26 +220,6 @@
         "country": ""
     },
     {
-        "name": "181. FM Hip HOP",
-        "id": "181fmhiphop",
-        "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/17523",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Be Good Radio",
-        "id": "begoodradio",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/17798",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
         "name": "2000 FM - RNB and Hip Hop",
         "id": "2000fmrnbandhiphop",
         "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
@@ -280,50 +230,110 @@
         "country": ""
     },
     {
-        "name": "Ambient Sleeping Pill",
-        "id": "ambientsleepingpill",
-        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/14657",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Calm Radio Piano",
-        "id": "calmradiopiano",
+        "name": "107.5 Cool FM",
+        "id": "1075coolfm",
         "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/17545",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17548",
         "categories": [
             "radio stations"
         ],
         "country": ""
     },
     {
-        "name": "thegoosh radio",
-        "id": "thegooshradio",
-        "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/17516",
+        "name": "Ace Radio",
+        "id": "aceradio",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/1024px-Beats_Electronics_logo.svg.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17783",
         "categories": [
             "radio stations"
         ],
         "country": ""
     },
     {
-        "name": "America's Greatest 70s Hits",
-        "id": "americasgreatest70shits",
+        "name": "Alex Jones - Infowars.com",
+        "id": "alexjonesinfowarscom",
         "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17575",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17579",
         "categories": [
             "radio stations"
         ],
         "country": ""
     },
     {
-        "name": "Rock 95 CFJB",
-        "id": "rock95cfjb",
-        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17547",
+        "name": "BBC World Service English (UK Schedule)",
+        "id": "bbcworldserviceenglishukschedule",
+        "logo": "https://seekvectorlogo.net/wp-content/uploads/2018/07/bbc-radio-1-vector-logo.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14387",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Got Radio Hip Hop Live",
+        "id": "gotradiohiphoplive",
+        "logo": "https://e7.pngegg.com/pngimages/231/805/png-clipart-beatboxing-disc-jockey-desktop-beatbox-purple-violet-thumbnail.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17526",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "JazzRadio (MRG.fm)",
+        "id": "jazzradiomrgfm",
+        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17837",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Reggae Jam",
+        "id": "reggaejam",
+        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14661",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sportsnet 590 The FAN",
+        "id": "sportsnet590thefan",
+        "logo": "https://ca0-cdn.onlineradiobox.com/img/logo/2/10962.v13.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/14207",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Big 80s Station",
+        "id": "thebig80sstation",
+        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17566",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WSHU Public Radio",
+        "id": "wshupublicradio",
+        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17865",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Alternative Rock",
+        "id": "alternativerock",
+        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/17849",
         "categories": [
             "radio stations"
         ],

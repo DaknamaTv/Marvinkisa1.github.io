@@ -10,16 +10,6 @@
         "country": "RW"
     },
     {
-        "name": "KpopTV Play",
-        "id": "KpopTVPlay.br",
-        "logo": "https://i.imgur.com/Tf0vweF.png",
-        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "98.1 Pearl FM",
         "id": "981PearlFM.sx",
         "logo": "https://i.imgur.com/GY750xh.jpg",
@@ -659,16 +649,6 @@
         "id": "FuegoTV.do",
         "logo": "https://i.imgur.com/T9vWjeB.png",
         "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Maimon TV Canal 3",
-        "id": "MaimonTVCanal3.do",
-        "logo": "https://i.imgur.com/twldaaC.png",
-        "url": "https://tele-stream.telecasa.net:8080/play/maimontv/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2427,16 +2407,6 @@
         "country": "RU"
     },
     {
-        "name": "Shanson TV",
-        "id": "ShansonTV.ru",
-        "logo": "https://i.imgur.com/Fk4sd8t.png",
-        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "M2",
         "id": "M2.ua",
         "logo": "https://i.imgur.com/AfcBWCg.png",
@@ -3298,6 +3268,19 @@
         "country": "GP"
     },
     {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Muzangala TV",
         "id": "MuzangalaTV.ao",
         "logo": "https://i.imgur.com/fBeaJoS.png",
@@ -3399,6 +3382,16 @@
         "country": "SN"
     },
     {
+        "name": "TeleMusik Senegal",
+        "id": "TeleMusikSenegal.sn",
+        "logo": "https://i.imgur.com/dPAPLsd.png",
+        "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "FTV",
         "id": "FTV.uz",
         "logo": "https://i.imgur.com/7lpISyN.jpg",
@@ -3448,6 +3441,26 @@
             "music"
         ],
         "country": "KR"
+    },
+    {
+        "name": "OneFM",
+        "id": "OneFM.lb",
+        "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+        "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "One TV",
+        "id": "OneTV.lb",
+        "logo": "https://i.imgur.com/O4DuR9G.png",
+        "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "LB"
     },
     {
         "name": "Gex TV",
@@ -3515,6 +3528,16 @@
         "id": "Canal3KMKTV.cr",
         "logo": "https://i.imgur.com/sgRDRBK.jpg",
         "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
         ],

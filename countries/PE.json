@@ -262,14 +262,6 @@
         "country": "PE"
     },
     {
-        "name": "Teleselva",
-        "id": "Teleselva.pe",
-        "logo": "https://i.imgur.com/cu7hTn8.png",
-        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "Ovacion TV",
         "id": "OvacionTV.pe",
         "logo": "https://i.imgur.com/7Xndgxk.png",
@@ -460,16 +452,6 @@
         "url": "https://panel.host-live.com:19360/20000/20000.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "USMPTV",
-        "id": "USMPTV.pe",
-        "logo": "https://i.imgur.com/9cmIv3q.png",
-        "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
-        "categories": [
-            "culture"
         ],
         "country": "PE"
     },

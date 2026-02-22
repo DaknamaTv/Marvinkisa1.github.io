@@ -1,15 +1,5 @@
 [
     {
-        "name": "ULKE TV HD",
-        "id": "ulketvhd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/ulketv.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/675916",
-        "categories": [
-            "tr | haber"
-        ],
-        "country": ""
-    },
-    {
         "name": "BLOOMBERG HT HD",
         "id": "bloomberghthd",
         "logo": "https://www.tvlogolar.xyz/europa/turkey/bloomberght.png",
@@ -30,30 +20,10 @@
         "country": ""
     },
     {
-        "name": "TVNET FHD",
-        "id": "tvnetfhd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/tvnet.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/675903",
-        "categories": [
-            "tr | haber"
-        ],
-        "country": ""
-    },
-    {
         "name": "TVNET HD",
         "id": "tvnethd",
         "logo": "https://www.tvlogolar.xyz/europa/turkey/tvnet.png",
         "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/675902",
-        "categories": [
-            "tr | haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TGRT HABER FHD",
-        "id": "tgrthaberfhd",
-        "logo": "https://www.tvlogolar.xyz/europa/turkey/tgrthaber.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/675901",
         "categories": [
             "tr | haber"
         ],
@@ -70,30 +40,10 @@
         "country": ""
     },
     {
-        "name": "MK HABER",
-        "id": "mkhaber",
-        "logo": "https://www.tvlogolar.xyz/logo/Turkiye/MK.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/681420",
-        "categories": [
-            "tr | haber"
-        ],
-        "country": ""
-    },
-    {
         "name": "TIVI 6",
         "id": "tivi6",
         "logo": "https://www.tvlogolar.xyz/logo/Turkiye/tivi-6.png",
         "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/675897",
-        "categories": [
-            "tr | haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ILKE TV",
-        "id": "ilketv",
-        "logo": "https://www.tvlogolar.xyz/logo/Turkiye/ILKE.TV.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/675896",
         "categories": [
             "tr | haber"
         ],

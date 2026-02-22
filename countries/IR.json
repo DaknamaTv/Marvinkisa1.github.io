@@ -175,5 +175,15 @@
             "religious"
         ],
         "country": "IR"
+    },
+    {
+        "name": "247 Box TV",
+        "id": "247BoxTV.ir",
+        "logo": "https://i.imgur.com/t5AUthL.png",
+        "url": "https://hls.247box.live/hls/stream.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IR"
     }
 ]

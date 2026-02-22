@@ -5350,16 +5350,6 @@
         "country": ""
     },
     {
-        "name": "RTVE Somos Cine",
-        "id": "rtvesomoscine",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ES33000058B",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "truTV FHD",
         "id": "trutvfhd",
         "logo": "https://i.imgur.com/D9Ofkf5.png",
@@ -5520,30 +5510,10 @@
         "country": ""
     },
     {
-        "name": "DEFA TV",
-        "id": "defatv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700001ID_20250107T024823SQUARE.png",
-        "url": "https://jmp2.uk/stvp-DEBD2700001ID",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "La 2",
         "id": "la2",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png",
         "url": "https://jmp2.uk/stvp-ESBC4100002AG",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "News18 Jammu Kashmir",
-        "id": "news18jammukashmir",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN1600007AU",
         "categories": [
             "hilaytv"
         ],
@@ -6180,16 +6150,6 @@
         "country": ""
     },
     {
-        "name": "Sangeet Marathi",
-        "id": "sangeetmarathi",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700016S7_20240904T091815SQUARE.png",
-        "url": "https://jmp2.uk/stvp-INBD4700016S7",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "CP24",
         "id": "cp24",
         "logo": "https://broadcasting-history.ca/wp-content/uploads/2021/03/CP24-Logo.jpg",
@@ -6224,36 +6184,6 @@
         "id": "mnet",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20250811T061429SQUARE.png",
         "url": "https://jmp2.uk/stvp-KRBC3200028P2",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ninja Warrior",
-        "id": "ninjawarrior",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900002DT_20250107T031200SQUARE.png",
-        "url": "https://jmp2.uk/stvp-GB3900002DT",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Curse of Oak Island",
-        "id": "thecurseofoakisland",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300002BE_20250805T005837SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US300002BE",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ESPN2 HD",
-        "id": "espn2hd",
-        "logo": "https://pixvid.org/images/2025/01/25/espn-2.png",
-        "url": "https://a1xs.vip/40000012",
         "categories": [
             "hilaytv"
         ],
@@ -6300,46 +6230,6 @@
         "country": ""
     },
     {
-        "name": "Films Romantiques - Rakuten TV",
-        "id": "filmsromantiquesrakutentv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600003OZ_20250121T012912SQUARE.png",
-        "url": "https://jmp2.uk/stvp-FR2600003OZ",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Stingray Stargaze",
-        "id": "stingraystargaze",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8b564fb868f8f1d49a1986123724ef18/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260428060_StingrayStargaze_HUDlogo_centered_260x147.png",
-        "url": "https://jmp2.uk/rok-8b564fb868f8f1d49a1986123724ef18.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ViX Jajaja",
-        "id": "vixjajaja",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c51c18ade0bd5b68b5e9bfa83410e372/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481111596_JAJAJA_HUD_Logo_260x147.png",
-        "url": "https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Atlanta News First",
-        "id": "atlantanewsfirst",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1672824c4fd55e5dbfcb57f147910270/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345590463_WANF_EPGHud_LogoWANF_HUD_logo_260x147.png",
-        "url": "https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Jazz 88.3",
         "id": "jazz883",
         "logo": "https://i0.wp.com/www.gcrcf.org/wp-content/uploads/2023/07/KCCK-IJS-Logo.png?fit=1920%2C1920&ssl=1",
@@ -6364,6 +6254,156 @@
         "id": "elshintatv",
         "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/elshintatv.jpg?raw=true",
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Astro Cricket",
+        "id": "astrocricket",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-cricket-my.png",
+        "url": "https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=18458",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Love Nature 4K",
+        "id": "lovenature4k",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png",
+        "url": "https://jmp2.uk/stvp-USBA3400003IP",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPARK TV",
+        "id": "sparktv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/eb1dbd690001553eacdf32d7b155b933/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659742235158_Whitt_Hansen_-_SparkTVLogo_HUD_2_v2.png",
+        "url": "https://jmp2.uk/rok-eb1dbd690001553eacdf32d7b155b933.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "So Real",
+        "id": "soreal",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b41118f76d1a5abcb701b9cc0a035c5b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752502909488_Info_HUD_Logo_260x147_px.png",
+        "url": "https://jmp2.uk/rok-b41118f76d1a5abcb701b9cc0a035c5b.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "100 Hip Hop and RNB FM",
+        "id": "100hiphopandrnbfm",
+        "logo": "https://images.radio.com/independent/logos/100hiphopandrnbfm.jpg",
+        "url": "https://ice64.securenetsystems.net/LFTM",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "92.7 FM Jam Central",
+        "id": "927fmjamcentral",
+        "logo": "https://static.wixstatic.com/media/a31f71_e71cfe156a6a41e285ec40f7b047d5b9~mv2.png/v1/fill/w_176,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png",
+        "url": "https://ice42.securenetsystems.net/KZJM",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HipHop95",
+        "id": "hiphop95",
+        "logo": "https://hiphop95.com/assets/images/logos/hip-hop-95-logo-white-bg.png",
+        "url": "https://ice64.securenetsystems.net/HHJRR",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hot 412",
+        "id": "hot412",
+        "logo": "https://media.live365.com/download/b96d71a6-5b77-4794-a186-29b0739f26ff.jpg",
+        "url": "https://ice24.securenetsystems.net/HOT412IH",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Loud 101.5",
+        "id": "loud1015",
+        "logo": "https://loudradiopa.com/wp-content/uploads/2022/02/loudradiosquare-600x430.png",
+        "url": "https://ice23.securenetsystems.net/WZWWHD2",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Loud 98.5",
+        "id": "loud985",
+        "logo": "https://loudradiopa.com/wp-content/uploads/2022/02/loug-header-1.png",
+        "url": "https://ice66.securenetsystems.net/WLEVHD4",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Smooth Jazz 88.9",
+        "id": "smoothjazz889",
+        "logo": "https://radiostationusa.fm/assets/image/radio/180/KJLU.png",
+        "url": "https://ice8.securenetsystems.net/KJLU",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Sports Premier League FHD",
+        "id": "skysportspremierleaguefhd",
+        "logo": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
+        "url": "https://a1xs.vip/2000002",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Swarnavahini",
+        "id": "swarnavahini",
+        "logo": "https://tataprime.files.wordpress.com/2024/03/20240330_0108487760157861076613218.png",
+        "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BBC ONE",
+        "id": "bbcone",
+        "logo": "",
+        "url": "https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Persiana Emirates",
+        "id": "persianaemirates",
+        "logo": "",
+        "url": "https://pemirateshls.persiana.live/hls/stream.m3u8",
         "categories": [
             "hilaytv"
         ],

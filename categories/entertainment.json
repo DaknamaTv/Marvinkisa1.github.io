@@ -547,20 +547,20 @@
         "country": "DO"
     },
     {
-        "name": "Yunavision",
-        "id": "Yunavision.do",
-        "logo": "https://i.imgur.com/YjceEv5.png",
-        "url": "https://tele-stream.telecasa.net:8080/play/yunavision-hd/index.m3u8",
+        "name": "Claro Vision TV",
+        "id": "ClaroVisionTV.do",
+        "logo": "https://i.imgur.com/MpTgJMJ.png",
+        "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "DO"
     },
     {
-        "name": "Claro Vision TV",
-        "id": "ClaroVisionTV.do",
-        "logo": "https://i.imgur.com/MpTgJMJ.png",
-        "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
+        "name": "Alegre TV RD",
+        "id": "AlegreTVRD.do",
+        "logo": "https://i.imgur.com/O6USO8r.png",
+        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1980,16 +1980,6 @@
         "country": "IN"
     },
     {
-        "name": "Sun TV",
-        "id": "SunTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158021_ld_h15_aa.png",
-        "url": "http://15.235.144.106:14054",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "SADA TV",
         "id": "SADATV.in",
         "logo": "https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png",
@@ -2256,6 +2246,26 @@
         "id": "BigMagic.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYL56.png",
         "url": "https://mumt05.tangotv.in/BIGMAGIC/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Subin TV",
+        "id": "SubinTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
+        "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sun TV",
+        "id": "SunTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158021_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a06x/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3689,16 +3699,6 @@
         "country": "VE"
     },
     {
-        "name": "Nortena Tv",
-        "id": "NortenaTv.ve",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-        "url": "https://vs20.live.opencaster.com/nortena933fm_00010364/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Aguacate TV",
         "id": "AguacateTV.ve",
         "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
@@ -3718,6 +3718,16 @@
             "music"
         ],
         "country": "PY"
+    },
+    {
+        "name": "247 Box TV",
+        "id": "247BoxTV.ir",
+        "logo": "https://i.imgur.com/t5AUthL.png",
+        "url": "https://hls.247box.live/hls/stream.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IR"
     },
     {
         "name": "Radio Carnaval TV",

@@ -129,5 +129,23 @@
             "news"
         ],
         "country": "PY"
+    },
+    {
+        "name": "Republica TV",
+        "id": "RepublicaTV.py",
+        "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Venus Media",
+        "id": "VenusMedia.py",
+        "logo": "https://i.imgur.com/XwmUbfp.png",
+        "url": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8",
+        "categories": [],
+        "country": "PY"
     }
 ]

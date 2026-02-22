@@ -164,16 +164,6 @@
         "country": "UA"
     },
     {
-        "name": "Orbita TV",
-        "id": "OrbitaTV.ua",
-        "logo": "https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png",
-        "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "Balta TV",
         "id": "BaltaTV.ua",
         "logo": "https://cdn.teleon.tv/logo/balta-tv-ua.png",
