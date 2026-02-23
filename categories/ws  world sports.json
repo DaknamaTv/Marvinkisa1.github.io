@@ -8,5 +8,35 @@
             "ws ➤ world sports"
         ],
         "country": ""
+    },
+    {
+        "name": "FR: EventMent Sport | 4K UHD",
+        "id": "freventmentsport4kuhd",
+        "logo": "https://i.ibb.co/v4NJgpJf/Event-Ment-Sport.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/861328.ts",
+        "categories": [
+            "ws ➤ world sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: Sky Sport Main Event | 4K UHD",
+        "id": "ukskysportmainevent4kuhd",
+        "logo": "https://i.ibb.co/sdpHrJB8/drol7st.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/861332.ts",
+        "categories": [
+            "ws ➤ world sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK: Sky Sport F1 | 4K UHD",
+        "id": "ukskysportf14kuhd",
+        "logo": "https://i.ibb.co/Cs4MgNbb/SmArr55.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/861333.ts",
+        "categories": [
+            "ws ➤ world sports"
+        ],
+        "country": ""
     }
 ]

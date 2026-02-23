@@ -1168,20 +1168,347 @@
         "country": "DE"
     },
     {
-        "name": "labor14",
-        "id": "labor14.de",
-        "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
-        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
         "name": "Sportdigital FUSSBALL",
         "id": "SportdigitalFUSSBALL.de",
         "logo": "https://i.imgur.com/NDbWxqF.png",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Nitro 4K+",
+        "id": "Nitro4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/nitro.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/388",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Prosieben HD+",
+        "id": "ProsiebenHD.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/ProSieben.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/41289",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Tele 5 HD+",
+        "id": "Tele5HD.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/tele5.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/41292",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "ProSieben MAXX HD+",
+        "id": "ProSiebenMAXXHD.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/pro7maxx.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/41294",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "3sat 4K+",
+        "id": "3sat4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/3sat.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/394",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "ONE1 HD",
+        "id": "ONE1HD.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/one1.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/407",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "RTL Plus",
+        "id": "RTLPlus.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/rtlplus.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/411",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "NTV 4K+",
+        "id": "NTV4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/ntv.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/415",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Phoenix 4K+",
+        "id": "Phoenix4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/phoenix.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/416",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Welt der Wunder",
+        "id": "WeltderWunder.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Deutschland/weltderwunder.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/418",
+        "categories": [
+            "de : deutschland"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Nicktoons",
+        "id": "Nicktoons.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/446",
+        "categories": [
+            "de : kinder"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Universal Channel 4K+",
+        "id": "UniversalChannel4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/universal.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/467",
+        "categories": [
+            "de : kino"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "13th Street 4K+",
+        "id": "13thStreet4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/13street.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/493",
+        "categories": [
+            "de : kino"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "RTL Crime 4K+",
+        "id": "RTLCrime4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/rtlcrime.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/494",
+        "categories": [
+            "de : kino"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Kinowelt TV 4K+",
+        "id": "KinoweltTV4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/kinowelt.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/514",
+        "categories": [
+            "de : kino"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "LionBox Kinobox 11",
+        "id": "LionBoxKinobox11.de",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/56479",
+        "categories": [
+            "de : kino",
+            "select"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "LionBox Kinobox 14",
+        "id": "LionBoxKinobox14.de",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/56482",
+        "categories": [
+            "de : kino",
+            "select"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "LionBox Kinobox 15",
+        "id": "LionBoxKinobox15.de",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/56483",
+        "categories": [
+            "de : kino",
+            "select"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sky Select 1 4K+",
+        "id": "SkySelect14K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Select/skyselect1.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/26304",
+        "categories": [
+            "de : kino",
+            "select"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sky Select 7 4K+",
+        "id": "SkySelect74K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Select/skyselect7.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/26313",
+        "categories": [
+            "de : kino",
+            "select"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sport1+ 4K+",
+        "id": "Sport14K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/sport1%2B.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/561",
+        "categories": [
+            "de : sport"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Motorvision 4K+",
+        "id": "Motorvision4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/motorvision.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/567",
+        "categories": [
+            "de : sport"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Magenta Sport 3 4K+",
+        "id": "MagentaSport34K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/telekomsport3.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/27206",
+        "categories": [
+            "de : sport"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Magenta Sport 4 4K+",
+        "id": "MagentaSport44K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/telekomsport4.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/27207",
+        "categories": [
+            "de : sport"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Magenta Sport 5 4K+",
+        "id": "MagentaSport54K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/telekomsport5.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/27208",
+        "categories": [
+            "de : sport"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Dazn Event 13 4K+",
+        "id": "DaznEvent134K.de",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/118828",
+        "categories": [
+            "de : dazn event"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Dazn Event 21 4K+",
+        "id": "DaznEvent214K.de",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/118836",
+        "categories": [
+            "de : dazn event"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Dazn Event 28 4K+",
+        "id": "DaznEvent284K.de",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/118843",
+        "categories": [
+            "de : dazn event"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sky Sport Tennis 4K+",
+        "id": "SkySportTennis4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-SkySport/skysporttennis.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/89772",
+        "categories": [
+            "de : sky sports"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "MTV 4K+",
+        "id": "MTV4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Music/mtv.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/453",
+        "categories": [
+            "de : musik"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sky Crime 4K+",
+        "id": "SkyCrime4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Doku/skycrime.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/84429",
+        "categories": [
+            "de : doku"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sky Showcase 4K+",
+        "id": "SkyShowcase4K.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Doku/Sky_Showcase.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/84433",
+        "categories": [
+            "de : doku"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Crime+Investigation",
+        "id": "CrimeInvestigation.de",
+        "logo": "http://148.251.19.24:89/DE-Logo/DE-Doku/crimeandinvestigation.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/638",
+        "categories": [
+            "de : doku"
         ],
         "country": "DE"
     }

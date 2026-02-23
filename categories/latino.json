@@ -18,5 +18,25 @@
             "latino"
         ],
         "country": ""
+    },
+    {
+        "name": "MX | CNN",
+        "id": "mxcnn",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/57619",
+        "categories": [
+            "latino"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Latin Hola TV (A)",
+        "id": "uslatinholatva",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/139757",
+        "categories": [
+            "latino"
+        ],
+        "country": ""
     }
 ]

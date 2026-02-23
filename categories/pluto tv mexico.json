@@ -350,26 +350,6 @@
         "country": ""
     },
     {
-        "name": "Euronews Español",
-        "id": "euronewsespaol",
-        "logo": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
-        "categories": [
-            "pluto tv mexico"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ADN40",
-        "id": "adn40",
-        "logo": "https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
-        "categories": [
-            "pluto tv mexico"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Deportes",
         "id": "plutotvdeportes",
         "logo": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",
@@ -510,20 +490,60 @@
         "country": ""
     },
     {
-        "name": "TeleFórmula",
-        "id": "telefrmula",
-        "logo": "https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
+        "name": "Bob Esponja Pantalones Cuadrados",
+        "id": "bobesponjapantalonescuadrados",
+        "logo": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
         "categories": [
             "pluto tv mexico"
         ],
         "country": ""
     },
     {
-        "name": "Bob Esponja Pantalones Cuadrados",
-        "id": "bobesponjapantalonescuadrados",
-        "logo": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
+        "name": "Misterios sin Resolver",
+        "id": "misteriossinresolver",
+        "logo": "https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
+        "categories": [
+            "pluto tv mexico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Azteca UNO -1 hora",
+        "id": "aztecauno1hora",
+        "logo": "https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
+        "categories": [
+            "pluto tv mexico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal 6 CdMX",
+        "id": "canal6cdmx",
+        "logo": "https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
+        "categories": [
+            "pluto tv mexico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Conciertos por Stingray",
+        "id": "conciertosporstingray",
+        "logo": "https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
+        "categories": [
+            "pluto tv mexico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Karaoke por Stingray",
+        "id": "karaokeporstingray",
+        "logo": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a",
         "categories": [
             "pluto tv mexico"
         ],

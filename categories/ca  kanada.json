@@ -1,9 +1,19 @@
 [
     {
-        "name": "Qello Concerts",
-        "id": "qelloconcerts",
-        "logo": "",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/469497",
+        "name": "Global News Winnipeg (720p)",
+        "id": "globalnewswinnipeg720p",
+        "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true",
+        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/168296",
+        "categories": [
+            "ca | kanada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ici RDI (720p)",
+        "id": "icirdi720p",
+        "logo": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png",
+        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/168301",
         "categories": [
             "ca | kanada"
         ],

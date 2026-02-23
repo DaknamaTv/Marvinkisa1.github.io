@@ -57,5 +57,25 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8?ads.vf=0PRJnP3xh_q",
         "categories": [],
         "country": "SA"
+    },
+    {
+        "name": "Rotana Clip",
+        "id": "RotanaClip.sa",
+        "logo": "https://i.imgur.com/nhREk0o.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14258",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "SA"
+    },
+    {
+        "name": "ART Aflam 2",
+        "id": "ARTAflam2.sa",
+        "logo": "https://i.imgur.com/icE2WOw.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14465",
+        "categories": [
+            "ar : cinema"
+        ],
+        "country": "SA"
     }
 ]

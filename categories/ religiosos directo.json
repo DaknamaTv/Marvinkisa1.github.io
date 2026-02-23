@@ -18,5 +18,35 @@
             "→ religiosos directo ←"
         ],
         "country": ""
+    },
+    {
+        "name": "Vida Television | US",
+        "id": "vidatelevisionus",
+        "logo": "https://cdn.m3u.cl/logo/843_Vida_Television.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/74349",
+        "categories": [
+            "→ religiosos directo ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Vatican News DASH",
+        "id": "vaticannewsdash",
+        "logo": "https://play-lh.googleusercontent.com/uo7x-iJfe-PaqLaTmA16USLIBVBr_fd0XrTjlFEc0mCHhkLAQ6V1xyP4qK_ZRKBNKI8",
+        "url": "https://ythls.armelin.one/channel/UCnB5vfb9FMMNTnC6-kAT3fQ.m3u8",
+        "categories": [
+            "→ religiosos directo ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fatwa TV",
+        "id": "fatwatv",
+        "logo": "https://i.imgur.com/FcJ6VMT.png",
+        "url": "https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8",
+        "categories": [
+            "→ religiosos directo ←"
+        ],
+        "country": ""
     }
 ]

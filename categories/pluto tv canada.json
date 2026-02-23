@@ -610,16 +610,6 @@
         "country": ""
     },
     {
-        "name": "Global News Saskatoon",
-        "id": "globalnewssaskatoon",
-        "logo": "https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62cc00359cb58900088dc840/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
-        "categories": [
-            "pluto tv canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "Leave it to Bryan",
         "id": "leaveittobryan",
         "logo": "https://images.pluto.tv/channels/62e91b5ca909cb0008114ae4/colorLogoPNG.png",
@@ -744,6 +734,96 @@
         "id": "mtvspankinnew",
         "logo": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/6541010f770cf1000866be98/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "South Park",
+        "id": "southpark",
+        "logo": "https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nashville",
+        "id": "nashville",
+        "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cf8d7428730900087c5907/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Global News National",
+        "id": "globalnewsnational",
+        "logo": "https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Global News Toronto",
+        "id": "globalnewstoronto",
+        "logo": "https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Global News Halifax",
+        "id": "globalnewshalifax",
+        "logo": "https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Global News Regina",
+        "id": "globalnewsregina",
+        "logo": "https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62cbff53ca8f2200080253b5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SpongeBob SquarePants",
+        "id": "spongebobsquarepants",
+        "logo": "https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63f87d057533d80008ab9549/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Bob l'éponge",
+        "id": "boblponge",
+        "logo": "https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/66588931a3865300085ca800/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
+        "categories": [
+            "pluto tv canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Yo! MTV",
+        "id": "yomtv",
+        "logo": "https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4ef3734a-62bc-11ef-8c7c-ead3b695e131",
         "categories": [
             "pluto tv canada"
         ],

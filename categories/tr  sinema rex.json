@@ -330,16 +330,6 @@
         "country": ""
     },
     {
-        "name": "Rex Sinema 6",
-        "id": "rexsinema6",
-        "logo": "https://i.imgur.com/AhY3vta.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/teremovas/KjT3jfrPec/875418.ts",
-        "categories": [
-            "tr ➤ sinema rex"
-        ],
-        "country": ""
-    },
-    {
         "name": "Rex Sinema 5",
         "id": "rexsinema5",
         "logo": "https://i.imgur.com/AhY3vta.png",
@@ -350,20 +340,210 @@
         "country": ""
     },
     {
-        "name": "Angelina Jolie",
-        "id": "angelinajolie",
+        "name": "Hep Yek",
+        "id": "hepyek",
         "logo": "https://i.imgur.com/AhY3vta.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875295.ts",
+        "url": "http://europe.siriusfiber.xyz:80/live/Suheutkan/2rsjDY3a6Y/875282.ts",
         "categories": [
             "tr ➤ sinema rex"
         ],
         "country": ""
     },
     {
-        "name": "Blade",
-        "id": "blade",
+        "name": "Hannibal",
+        "id": "hannibal",
         "logo": "https://i.imgur.com/AhY3vta.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875382.ts",
+        "url": "http://europe.siriusfiber.xyz:80/live/Suheutkan/2rsjDY3a6Y/875386.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hayalet Avcıları",
+        "id": "hayaletavclar",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Suheutkan/2rsjDY3a6Y/875394.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Buz Devri",
+        "id": "buzdevri",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/teremovas/KjT3jfrPec/875398.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sylvester Stallone",
+        "id": "sylvesterstallone",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875296.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Al Pacino",
+        "id": "alpacino",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875297.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Van Damme",
+        "id": "vandamme",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875298.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Western 2",
+        "id": "western2",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875323.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Korku 1",
+        "id": "korku1",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875327.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Biyografi 3",
+        "id": "biyografi3",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875330.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Bilim Kurgu 2",
+        "id": "bilimkurgu2",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875334.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Müzede Bir Gece",
+        "id": "mzedebirgece",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875339.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Yenilmezler",
+        "id": "yenilmezler",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875340.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cehennem Silahı",
+        "id": "cehennemsilah",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875341.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Johnny English",
+        "id": "johnnyenglish",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875345.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Yerli 3",
+        "id": "yerli3",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875354.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Korku Kapanı",
+        "id": "korkukapan",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875356.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mumya",
+        "id": "mumya",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875362.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hellboy",
+        "id": "hellboy",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875365.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sherlock Holmes",
+        "id": "sherlockholmes",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875392.ts",
+        "categories": [
+            "tr ➤ sinema rex"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Recep İvedik",
+        "id": "recepvedik",
+        "logo": "https://i.imgur.com/AhY3vta.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/875408.ts",
         "categories": [
             "tr ➤ sinema rex"
         ],

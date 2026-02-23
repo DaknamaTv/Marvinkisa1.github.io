@@ -93,7 +93,7 @@
     {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
-        "logo": "https://alternatv.ar/alternatv.png",
+        "logo": "https://tv.alterna.ar/alternatv.png",
         "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
         "categories": [
             "music",
@@ -104,16 +104,6 @@
             "general"
         ],
         "country": "AR"
-    },
-    {
-        "name": "Boreal",
-        "id": "Boreal.do",
-        "logo": "https://i.imgur.com/KSquHTG.png",
-        "url": "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "DO"
     },
     {
         "name": "Cinema One",

@@ -318,5 +318,45 @@
             "pluto tv gran bretaña"
         ],
         "country": ""
+    },
+    {
+        "name": "Crime Investigation",
+        "id": "crimeinvestigation",
+        "logo": "https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84",
+        "categories": [
+            "pluto tv gran bretaña"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Car Chase",
+        "id": "carchase",
+        "logo": "https://images.pluto.tv/channels/65b3895660eb8700089e7f53/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/65b3895660eb8700089e7f53/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84",
+        "categories": [
+            "pluto tv gran bretaña"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Classic TV",
+        "id": "plutotvclassictv",
+        "logo": "https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84",
+        "categories": [
+            "pluto tv gran bretaña"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hunter",
+        "id": "hunter",
+        "logo": "https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=626b2305-62bc-11ef-a3c9-3a1e0aa74d84",
+        "categories": [
+            "pluto tv gran bretaña"
+        ],
+        "country": ""
     }
 ]

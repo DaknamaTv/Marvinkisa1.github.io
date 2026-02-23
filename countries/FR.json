@@ -627,5 +627,15 @@
         "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8",
         "categories": [],
         "country": "FR"
+    },
+    {
+        "name": "Le Media TV",
+        "id": "LeMediaTV.fr",
+        "logo": "https://i.imgur.com/OK20oyl.png",
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FR"
     }
 ]

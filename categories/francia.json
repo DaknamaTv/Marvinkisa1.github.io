@@ -48,5 +48,55 @@
             "francia"
         ],
         "country": ""
+    },
+    {
+        "name": "7ALimoges (1080p) [Not 24/7]",
+        "id": "7alimoges1080pnot247",
+        "logo": "https://i.imgur.com/1ccTQ7Z.png",
+        "url": "https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8",
+        "categories": [
+            "francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FilmRise Hot Ones (720p)",
+        "id": "filmrisehotones720p",
+        "logo": "",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264302",
+        "categories": [
+            "francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Le Figaro IDF (1080p)",
+        "id": "lefigaroidf1080p",
+        "logo": "https://i.imgur.com/a8RuRUQ.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264342",
+        "categories": [
+            "francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Qui Veut Gagner Des Millions La Chaîne",
+        "id": "quiveutgagnerdesmillionslachane",
+        "logo": "",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264436",
+        "categories": [
+            "francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Wasabi la chaîne anime",
+        "id": "wasabilachaneanime",
+        "logo": "",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264533",
+        "categories": [
+            "francia"
+        ],
+        "country": ""
     }
 ]

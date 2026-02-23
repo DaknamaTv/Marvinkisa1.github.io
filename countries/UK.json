@@ -796,5 +796,165 @@
             "news"
         ],
         "country": "UK"
+    },
+    {
+        "name": "iTV 4 4K+",
+        "id": "iTV44K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/848",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Channel 4 4K+",
+        "id": "Channel44K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/854",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Pick TV",
+        "id": "PickTV.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/902",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Discovery History",
+        "id": "DiscoveryHistory.uk",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/922",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Discovery Shed HD+",
+        "id": "DiscoveryShedHD.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/932",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "MTV Base HD+",
+        "id": "MTVBaseHD.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/957",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Disney Junior 4K+",
+        "id": "DisneyJunior4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/981",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Cartoon Network 4K+",
+        "id": "CartoonNetwork4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/990",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Baby TV",
+        "id": "BabyTV.uk",
+        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/996",
+        "categories": [
+            "uk : english"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Sky Sports Mix 4K+",
+        "id": "SkySportsMix4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/13898",
+        "categories": [
+            "uk : sport"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "BT Sport 2 4K+",
+        "id": "BTSport24K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/13903",
+        "categories": [
+            "uk : sport"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Sky Atlantic 4K+",
+        "id": "SkyAtlantic4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/1001",
+        "categories": [
+            "uk : cinema"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Sky Cinema Action 4K+",
+        "id": "SkyCinemaAction4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/1006",
+        "categories": [
+            "uk : cinema"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Sky Cinema Select 4K+",
+        "id": "SkyCinemaSelect4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/1019",
+        "categories": [
+            "uk : cinema"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Sky Cinema Sci-Fi & Horror 4K+",
+        "id": "SkyCinemaSciFiHorror4K.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/1024",
+        "categories": [
+            "uk : cinema"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Universal Channel HD+",
+        "id": "UniversalChannelHD.uk",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/13888",
+        "categories": [
+            "uk : cinema"
+        ],
+        "country": "UK"
     }
 ]

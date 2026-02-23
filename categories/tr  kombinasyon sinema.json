@@ -220,16 +220,6 @@
         "country": ""
     },
     {
-        "name": "Premium Bollywood 3",
-        "id": "premiumbollywood3",
-        "logo": "https://i.ibb.co/GLJFKRp/bol.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/863276.ts",
-        "categories": [
-            "tr ➤ kombinasyon sinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "Premium Bollywood 1",
         "id": "premiumbollywood1",
         "logo": "https://i.ibb.co/GLJFKRp/bol.png",
@@ -550,16 +540,6 @@
         "country": ""
     },
     {
-        "name": "Premium Romantik 9",
-        "id": "premiumromantik9",
-        "logo": "https://i.ibb.co/ch2JYgjX/romantik.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/863265.ts",
-        "categories": [
-            "tr ➤ kombinasyon sinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "Premium Romantik 8",
         "id": "premiumromantik8",
         "logo": "https://i.ibb.co/ch2JYgjX/romantik.png",
@@ -610,26 +590,6 @@
         "country": ""
     },
     {
-        "name": "Premium BluTV 1",
-        "id": "premiumblutv1",
-        "logo": "https://i.ibb.co/LdPQq2dd/bluytv.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/863226.ts",
-        "categories": [
-            "tr ➤ kombinasyon sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Premium Romantik 1",
-        "id": "premiumromantik1",
-        "logo": "https://i.ibb.co/ch2JYgjX/romantik.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/863273.ts",
-        "categories": [
-            "tr ➤ kombinasyon sinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "Premium Marvel 2",
         "id": "premiummarvel2",
         "logo": "https://i.ibb.co/pr5h5bsG/marvel.png",
@@ -644,6 +604,46 @@
         "id": "premiumturkcelltv3",
         "logo": "https://i.ibb.co/tTz8jj7b/turkcell.png",
         "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/863174.ts",
+        "categories": [
+            "tr ➤ kombinasyon sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Premium Romantik 3",
+        "id": "premiumromantik3",
+        "logo": "https://i.ibb.co/ch2JYgjX/romantik.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/863271.ts",
+        "categories": [
+            "tr ➤ kombinasyon sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Premium Bollywood 2",
+        "id": "premiumbollywood2",
+        "logo": "https://i.ibb.co/GLJFKRp/bol.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/863277.ts",
+        "categories": [
+            "tr ➤ kombinasyon sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Premium BKM Salon 2",
+        "id": "premiumbkmsalon2",
+        "logo": "https://i.ibb.co/mr5hQhJn/bkm.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/863280.ts",
+        "categories": [
+            "tr ➤ kombinasyon sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR • Kombinasyon Sinema",
+        "id": "trkombinasyonsinema",
+        "logo": "https://i.ibb.co/01nzkTb/png-clipart-film-cinema-illustration-popcorn-and-film-food-baking-thumbnail.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/871152.ts",
         "categories": [
             "tr ➤ kombinasyon sinema"
         ],

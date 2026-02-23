@@ -188,5 +188,25 @@
             "de ➤ filme sender"
         ],
         "country": ""
+    },
+    {
+        "name": "DE: Premium Aktueller 9",
+        "id": "depremiumaktueller9",
+        "logo": "https://i.ibb.co/Z1z0dLjn/vision.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/862538.ts",
+        "categories": [
+            "de ➤ filme sender"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Universal TV FHD",
+        "id": "deuniversaltvfhd",
+        "logo": "https://i.ibb.co/C3pNBYmG/hEXf3LW.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/862882.ts",
+        "categories": [
+            "de ➤ filme sender"
+        ],
+        "country": ""
     }
 ]

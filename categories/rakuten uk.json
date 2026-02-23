@@ -68,5 +68,25 @@
             "rakuten uk"
         ],
         "country": ""
+    },
+    {
+        "name": "Vevo Hip-Hop & R&B",
+        "id": "vevohiphoprb",
+        "logo": "",
+        "url": "https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrnbuk-rakutenuk/playlist.m3u8",
+        "categories": [
+            "rakuten uk"
+        ],
+        "country": ""
+    },
+    {
+        "name": "History Hunters",
+        "id": "historyhunters",
+        "logo": "",
+        "url": "https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8",
+        "categories": [
+            "rakuten uk"
+        ],
+        "country": ""
     }
 ]

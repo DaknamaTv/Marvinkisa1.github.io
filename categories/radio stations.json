@@ -90,26 +90,6 @@
         "country": ""
     },
     {
-        "name": "Net Radio - New Wave",
-        "id": "netradionewwave",
-        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/17842",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio Paradise",
-        "id": "radioparadise",
-        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/14676",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
         "name": "America's Greatest 70s Hits",
         "id": "americasgreatest70shits",
         "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
@@ -134,66 +114,6 @@
         "id": "hotdanceradio",
         "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
         "url": "http://xxip25.top:8080/46028598/62533224/17606",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "2000 FM - RNB and Hip Hop",
-        "id": "2000fmrnbandhiphop",
-        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/17598",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CHUP FM Soft Rock 97.7 Calgary",
-        "id": "chupfmsoftrock977calgary",
-        "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/16253",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "El Bloke Radio",
-        "id": "elblokeradio",
-        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/17827",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eldoradio 105 FM",
-        "id": "eldoradio105fm",
-        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/14695",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM - Blues",
-        "id": "fmblues",
-        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/14720",
-        "categories": [
-            "radio stations"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FunX Latin [Opt-2]",
-        "id": "funxlatinopt2",
-        "logo": "https://pngimg.com/uploads/radio/radio_PNG19293.png",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/14711",
         "categories": [
             "radio stations"
         ],
@@ -464,6 +384,106 @@
         "id": "planethiphop",
         "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
         "url": "http://xxip25.top:8080/c1E50nv/32NYwus8o2/17589",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Calm Radio Spa",
+        "id": "calmradiospa",
+        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/17540",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Chill Out and Relaxation",
+        "id": "chilloutandrelaxation",
+        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/17840",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Jazz Groove",
+        "id": "thejazzgroove",
+        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/17572",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WSHU Public Radio",
+        "id": "wshupublicradio",
+        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/17865",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "011.FM - Retro 70s",
+        "id": "011fmretro70s",
+        "logo": "https://www.vhv.rs/dpng/d/29-290046_retro-music-png-transparent-png.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/17858",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "All Underground Hip Hop",
+        "id": "allundergroundhiphop",
+        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/17588",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Best Hits Radio 80's",
+        "id": "besthitsradio80s",
+        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/17539",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ICI Premiere Montreal Quebec",
+        "id": "icipremieremontrealquebec",
+        "logo": "https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/16251",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "OG's Hip Hop n' R&B",
+        "id": "ogshiphopnrb",
+        "logo": "https://www.pngkey.com/png/detail/14-144659_download-png-image-report-transparent-background-music-png.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/17591",
+        "categories": [
+            "radio stations"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rock 95 CFJB",
+        "id": "rock95cfjb",
+        "logo": "https://image.flaticon.com/icons/png/512/1804/1804801.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/17547",
         "categories": [
             "radio stations"
         ],

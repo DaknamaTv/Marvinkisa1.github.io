@@ -70,16 +70,6 @@
         "country": ""
     },
     {
-        "name": "INA 70",
-        "id": "ina70",
-        "logo": "https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/639b54404cfdf7000729b3c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
-        "categories": [
-            "pluto tv francia"
-        ],
-        "country": ""
-    },
-    {
         "name": "Instant Saga",
         "id": "instantsaga",
         "logo": "https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png",
@@ -280,16 +270,6 @@
         "country": ""
     },
     {
-        "name": "Teen Mom",
-        "id": "teenmom",
-        "logo": "https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62f3f05505e621000783df2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
-        "categories": [
-            "pluto tv francia"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pluto TV Comédie",
         "id": "plutotvcomdie",
         "logo": "https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",
@@ -320,16 +300,6 @@
         "country": ""
     },
     {
-        "name": "Pluto TV Kids Séries",
-        "id": "plutotvkidssries",
-        "logo": "https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG-1608309057566.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
-        "categories": [
-            "pluto tv francia"
-        ],
-        "country": ""
-    },
-    {
         "name": "Digimon Adventure",
         "id": "digimonadventure",
         "logo": "https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png",
@@ -354,6 +324,46 @@
         "id": "wpt",
         "logo": "https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
+        "categories": [
+            "pluto tv francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Polar",
+        "id": "plutotvpolar",
+        "logo": "https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
+        "categories": [
+            "pluto tv francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Ciné",
+        "id": "plutotvcin",
+        "logo": "https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
+        "categories": [
+            "pluto tv francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Y'a que la vérité qui compte",
+        "id": "yaquelavritquicompte",
+        "logo": "https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
+        "categories": [
+            "pluto tv francia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV CLASSICS",
+        "id": "mtvclassics",
+        "logo": "https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53bf93e2-62bc-11ef-ace9-d6fcb20d41fb",
         "categories": [
             "pluto tv francia"
         ],

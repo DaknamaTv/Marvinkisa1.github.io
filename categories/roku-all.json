@@ -1,49 +1,39 @@
 [
     {
-        "name": "Love Nature English",
-        "id": "lovenatureenglish",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/479fe0d11f3f5132a3f36b617547da3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738776545554_LoveNature_logos_HUB_Centered.png",
-        "url": "https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8",
+        "name": "Lifetime Love & Drama",
+        "id": "lifetimelovedrama",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d8befc9060e861eb1bdd5b21c0403b3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748881675113_LMLDHUD_logo_efefef_center_aligned_260x147.png",
+        "url": "https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "Runtime Español",
-        "id": "runtimeespaol",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752267199574_Runtime_USH_HUD_260x147.png",
-        "url": "https://jmp2.uk/rok-eaeb1f4ef8ed510e8bc2a3fd78510c30.m3u8",
+        "name": "Z Nation",
+        "id": "znation",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f99fa811e587e924c1aeebfe3d7f575f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736192889275_ZNation_HUDlogo_centered_260x147.png",
+        "url": "https://jmp2.uk/rok-f99fa811e587e924c1aeebfe3d7f575f.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "FILMEX Comedia",
-        "id": "filmexcomedia",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/8b2c97d22c7fed4d9d302a1796d5e009/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446177723_FMXcom_HUD_WHITE.png",
-        "url": "https://jmp2.uk/rok-8b2c97d22c7fed4d9d302a1796d5e009.m3u8",
+        "name": "C4 en Alerta",
+        "id": "c4enalerta",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5cbb91d07dbd5b92ae3ef3e37be7f2ce/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1695173043846_C4_centeraligned_monocromatico_HUD_260x147.png",
+        "url": "https://jmp2.uk/rok-5cbb91d07dbd5b92ae3ef3e37be7f2ce.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "FreeTV Asia",
-        "id": "freetvasia",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/9b3f0b588b03c9126a053d3eebfc58db/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1736789758464_FreeTV_Asia_HUD_Logo_.png",
-        "url": "https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Atlanta News First",
-        "id": "atlantanewsfirst",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1672824c4fd55e5dbfcb57f147910270/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345590463_WANF_EPGHud_LogoWANF_HUD_logo_260x147.png",
-        "url": "https://jmp2.uk/rok-1672824c4fd55e5dbfcb57f147910270.m3u8",
+        "name": "Vevo Reggaeton & Trap",
+        "id": "vevoreggaetontrap",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png",
+        "url": "https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8",
         "categories": [
             "roku-all"
         ],

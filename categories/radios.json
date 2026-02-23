@@ -108,5 +108,145 @@
             "radios"
         ],
         "country": ""
+    },
+    {
+        "name": "80s - 128 kbit/s",
+        "id": "80s128kbits",
+        "logo": "http://radio.pervii.com/logo/1623137686.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264831",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RMF 70S - 128 kbit/s",
+        "id": "rmf70s128kbits",
+        "logo": "http://radio.pervii.com/im/4/1537528414.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264910",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "70sClassics - 128 kbit/s",
+        "id": "70sclassics128kbits",
+        "logo": "http://radio.pervii.com/im/8/1549550648.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264928",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CURRAMBERA STEREO - 128 kbit/s",
+        "id": "curramberastereo128kbits",
+        "logo": "http://radio.pervii.com/im/2/1563036592.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264950",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "70sRadio (MRG.fm) - 128 kbit/s",
+        "id": "70sradiomrgfm128kbits",
+        "logo": "http://radio.pervii.com/im/0/1560917340.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/264971",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Italo4you - 256 kbit/s",
+        "id": "radioitalo4you256kbits",
+        "logo": "http://radio.pervii.com/logo/91336.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265003",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IP music SLOW - aacPlus@96 Kb/s - 128 kbit/s",
+        "id": "ipmusicslowaacplus96kbs128kbits",
+        "logo": "http://radio.pervii.com/im/4/1550160074.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265008",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio Regenbogen 80er - 128 kbit/s",
+        "id": "radioregenbogen80er128kbits",
+        "logo": "http://radio.pervii.com/im/0/1559957920.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265017",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "80s Hitradio Amsterdam - 192 kbit/s",
+        "id": "80shitradioamsterdam192kbits",
+        "logo": "http://radio.pervii.com/im/3/1550239793.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265050",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IP music SLOW - MP3@320 Kb/s - 320 kbit/s",
+        "id": "ipmusicslowmp3320kbs320kbits",
+        "logo": "http://radio.pervii.com/im/4/1550160074.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265060",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Passazh - Moskva - 56 kbit/s",
+        "id": "passazhmoskva56kbits",
+        "logo": "http://radio.pervii.com/im/5/1537514485.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265089",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SKIF - 256 kbit/s",
+        "id": "skif256kbits",
+        "logo": "http://radio.pervii.com/im/3/1550031043.jpg",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265103",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Best Net Radio - 90s Alternative Rock - 128 kbit/s",
+        "id": "bestnetradio90salternativerock128kbits",
+        "logo": "http://radio.pervii.com/logo/1403862944.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265115",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AceRadio-90s Alternative Rock - 128 kbit/s",
+        "id": "aceradio90salternativerock128kbits",
+        "logo": "http://radio.pervii.com/logo/1403683503.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/265144",
+        "categories": [
+            "radios"
+        ],
+        "country": ""
     }
 ]

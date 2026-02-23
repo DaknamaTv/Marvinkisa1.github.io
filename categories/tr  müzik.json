@@ -80,10 +80,30 @@
         "country": ""
     },
     {
-        "name": "CAN TEMPO TV",
-        "id": "cantempotv",
-        "logo": "https://i.hizliresim.com/s7nhy92.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/873612.ts",
+        "name": "TRT Muzik FHD",
+        "id": "trtmuzikfhd",
+        "logo": "https://i.ibb.co/jvGL7Mt0/TRT-MUZIK.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865629.ts",
+        "categories": [
+            "tr ➤ müzik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Power TV FHD",
+        "id": "powertvfhd",
+        "logo": "https://i.ibb.co/TMxF9fyR/RM9CjYf.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865631.ts",
+        "categories": [
+            "tr ➤ müzik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Mustafa Ceceli",
+        "id": "trmustafaceceli",
+        "logo": "https://i.ibb.co/Wpqwgtqg/Music-logo.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/861447.ts",
         "categories": [
             "tr ➤ müzik"
         ],

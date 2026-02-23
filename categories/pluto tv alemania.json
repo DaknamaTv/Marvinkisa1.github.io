@@ -628,5 +628,25 @@
             "pluto tv alemania"
         ],
         "country": ""
+    },
+    {
+        "name": "Pluto TV Crime",
+        "id": "plutotvcrime",
+        "logo": "https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758",
+        "categories": [
+            "pluto tv alemania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Unentdeckt – Mörder unter uns",
+        "id": "unentdecktmrderunteruns",
+        "logo": "https://images.pluto.tv/channels/650adc3198020f000862eed4/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/650adc3198020f000862eed4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=41ba0809-62bc-11ef-83ed-4ec11ef77758",
+        "categories": [
+            "pluto tv alemania"
+        ],
+        "country": ""
     }
 ]

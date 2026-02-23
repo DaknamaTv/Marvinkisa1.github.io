@@ -424,7 +424,7 @@
     {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
-        "logo": "https://alternatv.ar/alternatv.png",
+        "logo": "https://tv.alterna.ar/alternatv.png",
         "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
         "categories": [
             "music",
@@ -610,16 +610,6 @@
         "country": "DO"
     },
     {
-        "name": "Tele Dominicana TV",
-        "id": "TeleDominicanaTV.do",
-        "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "TV Exitos",
         "id": "TVExitos.do",
         "logo": "https://i.imgur.com/ahz7X7u.png",
@@ -650,16 +640,6 @@
         "country": "DO"
     },
     {
-        "name": "Fuego TV",
-        "id": "FuegoTV.do",
-        "logo": "https://i.imgur.com/T9vWjeB.png",
-        "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Telerumba TV",
         "id": "TelerumbaTV.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3649-294x165-FFFFFF.jpg",
@@ -674,6 +654,16 @@
         "id": "TuMusicaHD.do",
         "logo": "https://i.imgur.com/HnjUjog.png",
         "url": "https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Siembra TV",
+        "id": "SiembraTV.do",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
+        "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
         "categories": [
             "music"
         ],
@@ -728,19 +718,6 @@
             "music"
         ],
         "country": "HN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
     },
     {
         "name": "First Music Channel",
@@ -2120,6 +2097,16 @@
         "country": "CO"
     },
     {
+        "name": "MasMusica FM",
+        "id": "MasMusicaFM.co",
+        "logo": "https://i.imgur.com/tCg7owd.png",
+        "url": "https://video.ejeserver.com/live/masmusica.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CO"
+    },
+    {
         "name": "Antenne Kaernten",
         "id": "AntenneKaernten.at",
         "logo": "https://i.imgur.com/nUKFDsb.jpeg",
@@ -2702,16 +2689,6 @@
         "country": "CZ"
     },
     {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
-    },
-    {
         "name": "MuzzOne",
         "id": "MuzzOne.kz",
         "logo": "https://i.imgur.com/nHVABXh.png",
@@ -2960,16 +2937,6 @@
             "music"
         ],
         "country": "TN"
-    },
-    {
-        "name": "VAM TV",
-        "id": "VAMTV.cw",
-        "logo": "https://i.imgur.com/CD1PffA.png",
-        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CW"
     },
     {
         "name": "Ivoire Channel",
@@ -3539,6 +3506,26 @@
         "country": "CR"
     },
     {
+        "name": "Vintage Music",
+        "id": "VintageMusic.cr",
+        "logo": "https://i.imgur.com/KImqYnN.jpeg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
         "name": "Best of Dance TV",
         "id": "BestofDanceTV.ee",
         "logo": "",
@@ -3869,33 +3856,12 @@
         "country": "PY"
     },
     {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "categories": [
-            "entertainment",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Next HD",
         "id": "NextHD.py",
         "logo": "https://i.imgur.com/c2rF3SS.png",
         "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
         "categories": [
             "movies",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Dismar Radio TV",
-        "id": "DismarRadioTV.py",
-        "logo": "https://i.imgur.com/KOuxdMD.png",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-        "categories": [
             "music"
         ],
         "country": "PY"
@@ -4124,16 +4090,6 @@
             "music"
         ],
         "country": "TM"
-    },
-    {
-        "name": "AMusic Channel",
-        "id": "AMusicChannel.ng",
-        "logo": "https://i.imgur.com/06zuf64.png",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "NG"
     },
     {
         "name": "Music Choice: Country Hits",

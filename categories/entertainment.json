@@ -126,6 +126,16 @@
         "country": "BR"
     },
     {
+        "name": "TV Vicosa",
+        "id": "TVVicosa.br",
+        "logo": "https://i.imgur.com/TZF55f9.png",
+        "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "My TV",
         "id": "MyTV.kh",
         "logo": "https://i.imgur.com/lhxRefQ.png",
@@ -236,6 +246,16 @@
         "country": "CA"
     },
     {
+        "name": "Prime Canada TV",
+        "id": "PrimeCanadaTV.ca",
+        "logo": "https://i.imgur.com/Vji81jB.png",
+        "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "Shamshad TV",
         "id": "ShamshadTV.af",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
@@ -278,7 +298,7 @@
     {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
-        "logo": "https://alternatv.ar/alternatv.png",
+        "logo": "https://tv.alterna.ar/alternatv.png",
         "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
         "categories": [
             "music",
@@ -452,16 +472,6 @@
         "country": "DO"
     },
     {
-        "name": "COCO TV",
-        "id": "COCOTV.do",
-        "logo": "https://i.imgur.com/CnAc7jU.png",
-        "url": "https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Antena 21",
         "id": "Antena21.do",
         "logo": "https://i.imgur.com/QE0XWLh.png",
@@ -482,16 +492,6 @@
         "country": "DO"
     },
     {
-        "name": "Vision NDV",
-        "id": "VisionNDV.do",
-        "logo": "https://i.imgur.com/4gj5NMa.png",
-        "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Claro Vision TV",
         "id": "ClaroVisionTV.do",
         "logo": "https://i.imgur.com/MpTgJMJ.png",
@@ -506,6 +506,16 @@
         "id": "Super7FM.do",
         "logo": "https://i.imgur.com/TJEqwZo.png",
         "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "TVS",
+        "id": "TVS.do",
+        "logo": "https://i.imgur.com/a2YX1oj.jpg",
+        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -613,19 +623,6 @@
         "country": "VN"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "TV Vitoria",
         "id": "TVVitoria.mz",
         "logo": "https://i.imgur.com/HlWzzfj.png",
@@ -634,6 +631,26 @@
             "entertainment"
         ],
         "country": "MZ"
+    },
+    {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
+    },
+    {
+        "name": "OTV",
+        "id": "OTV.gh",
+        "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
+        "url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "GH"
     },
     {
         "name": "Top Gear",
@@ -2967,6 +2984,16 @@
         "country": "UG"
     },
     {
+        "name": "Bukedde TV 2",
+        "id": "BukeddeTV2.ug",
+        "logo": "https://i.imgur.com/ukwPZeY.png",
+        "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UG"
+    },
+    {
         "name": "CG Entertainment",
         "id": "CGEntertainment.it",
         "logo": "https://i.imgur.com/XeWzy7e.png",
@@ -3633,17 +3660,6 @@
             "entertainment"
         ],
         "country": "VE"
-    },
-    {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "categories": [
-            "entertainment",
-            "music"
-        ],
-        "country": "PY"
     },
     {
         "name": "247 Box TV",

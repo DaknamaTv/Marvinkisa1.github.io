@@ -508,5 +508,75 @@
             "pluto tv españa"
         ],
         "country": ""
+    },
+    {
+        "name": "El Comisario",
+        "id": "elcomisario",
+        "logo": "https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Motor",
+        "id": "plutotvmotor",
+        "logo": "https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV Vergüenza ajena",
+        "id": "mtvvergenzaajena",
+        "logo": "https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV Realities",
+        "id": "mtvrealities",
+        "logo": "https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Las Tortugas Ninja",
+        "id": "lastortugasninja",
+        "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Toons Clásico",
+        "id": "plutotvtoonsclsico",
+        "logo": "https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Teen",
+        "id": "plutotvteen",
+        "logo": "https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/63eb944dc111bc0008fe7021/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805",
+        "categories": [
+            "pluto tv españa"
+        ],
+        "country": ""
     }
 ]

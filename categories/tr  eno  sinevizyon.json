@@ -50,10 +50,80 @@
         "country": ""
     },
     {
-        "name": "TR • IMDB CineTV",
-        "id": "trimdbcinetv",
-        "logo": "https://i.ibb.co/LXYc5Tdk/IMDb-TV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/871157.ts",
+        "name": "TR: IMDB CineTV 4",
+        "id": "trimdbcinetv4",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/870852.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 7",
+        "id": "trimdbcinetv7",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/870855.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 9",
+        "id": "trimdbcinetv9",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/870857.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 11",
+        "id": "trimdbcinetv11",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/870859.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 16",
+        "id": "trimdbcinetv16",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/870864.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 10",
+        "id": "trimdbcinetv10",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/870858.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 12",
+        "id": "trimdbcinetv12",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/870860.ts",
+        "categories": [
+            "tr ➤ eno & sinevizyon"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IMDB CineTV 17",
+        "id": "trimdbcinetv17",
+        "logo": "https://i.ibb.co/mrz2PstD/imdb-icon-on-transparent-background-free-png-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/870865.ts",
         "categories": [
             "tr ➤ eno & sinevizyon"
         ],

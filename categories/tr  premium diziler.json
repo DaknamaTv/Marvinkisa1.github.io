@@ -70,16 +70,6 @@
         "country": ""
     },
     {
-        "name": "TR: ESREF SAATI",
-        "id": "tresrefsaati",
-        "logo": "http://135.125.239.110/icon/976186.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/860935.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: ANKARANIN DIKMENI",
         "id": "trankaranindikmeni",
         "logo": "http://135.125.239.110/icon/874285.png",
@@ -264,16 +254,6 @@
         "id": "tralmankuzusu",
         "logo": "http://135.125.239.110/icon/114842.png",
         "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/860940.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: YEDITEPE ISTANBUL",
-        "id": "tryeditepeistanbul",
-        "logo": "http://135.125.239.110/icon/766982.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/860942.ts",
         "categories": [
             "tr ➤ premium diziler"
         ],
@@ -500,16 +480,6 @@
         "country": ""
     },
     {
-        "name": "TR: GENCLIGIM EYVAH",
-        "id": "trgencligimeyvah",
-        "logo": "http://135.125.239.110/icon/887355.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861009.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: BUYUK SURGUN",
         "id": "trbuyuksurgun",
         "logo": "http://135.125.239.110/icon/833845.png",
@@ -570,16 +540,6 @@
         "country": ""
     },
     {
-        "name": "TR: UYANIS BUYUK SELCUKLU",
-        "id": "truyanisbuyukselcuklu",
-        "logo": "http://135.125.239.110/icon/794157.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861041.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: SEN CAL KAPIMI",
         "id": "trsencalkapimi",
         "logo": "http://135.125.239.110/icon/379710.png",
@@ -594,16 +554,6 @@
         "id": "trtovbelerolsun",
         "logo": "http://135.125.239.110/icon/885774.png",
         "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861043.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: CUKUR",
-        "id": "trcukur",
-        "logo": "http://135.125.239.110/icon/371959.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861046.ts",
         "categories": [
             "tr ➤ premium diziler"
         ],
@@ -644,16 +594,6 @@
         "id": "trmariailemustafa",
         "logo": "http://135.125.239.110/icon/693571.png",
         "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861053.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: HEKIMOGLU",
-        "id": "trhekimoglu",
-        "logo": "http://135.125.239.110/icon/953157.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861054.ts",
         "categories": [
             "tr ➤ premium diziler"
         ],
@@ -714,16 +654,6 @@
         "id": "trbenbucihanasigmazsam",
         "logo": "http://135.125.239.110/icon/719182.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/860924.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: ASLAN AILEM",
-        "id": "traslanailem",
-        "logo": "http://135.125.239.110/icon/132691.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/861028.ts",
         "categories": [
             "tr ➤ premium diziler"
         ],
@@ -860,16 +790,6 @@
         "country": ""
     },
     {
-        "name": "TR: GURBET KADINI",
-        "id": "trgurbetkadini",
-        "logo": "http://135.125.239.110/icon/584445.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860929.ts",
-        "categories": [
-            "tr ➤ premium diziler"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: Aşk-I Memnu",
         "id": "trakimemnu",
         "logo": "https://i.ibb.co/20JymKS/A-k-I-Memnu.png",
@@ -944,6 +864,26 @@
         "id": "trgeldeseask",
         "logo": "http://135.125.239.110/icon/112844.png",
         "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/861010.ts",
+        "categories": [
+            "tr ➤ premium diziler"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: MASUMLAR APARTMANI",
+        "id": "trmasumlarapartmani",
+        "logo": "http://135.125.239.110/icon/655743.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/861048.ts",
+        "categories": [
+            "tr ➤ premium diziler"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DOGU DEMIRKOL ILE ALALADE SHOW",
+        "id": "trdogudemirkolilealaladeshow",
+        "logo": "http://135.125.239.110/icon/726213.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/860907.ts",
         "categories": [
             "tr ➤ premium diziler"
         ],

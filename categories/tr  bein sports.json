@@ -1,192 +1,22 @@
 [
     {
-        "name": "beIN Sports 1 4K",
-        "id": "beinsports14k",
-        "logo": "https://i.ibb.co/KSbb72z/10.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/emreakbal35/17082022/833320.ts",
+        "name": "Bein Sports Mac Yayin 4K+",
+        "id": "BeinSportsMacYayin4K.tr",
+        "logo": "http://148.251.19.24:89/TR-Logo/TR-Spor/Spor/BEIN.SPORTS.1.FEED.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/43872",
         "categories": [
-            "tr ➤ bein sports"
+            "tr : bein sports"
         ],
-        "country": ""
+        "country": "TR"
     },
     {
-        "name": "beIN Sports 1 HD [ VIP ]",
-        "id": "beinsports1hdvip",
-        "logo": "https://i.ibb.co/KxGRttW8/14.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/837269.ts",
+        "name": "Bein Sports 1 Mac Yayin HD+",
+        "id": "BeinSports1MacYayinHD.tr",
+        "logo": "http://148.251.19.24:89/TR-Logo/TR-Spor/Spor/BEIN.SPORTS.1.FEED.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/44036",
         "categories": [
-            "tr ➤ bein sports"
+            "tr : bein sports"
         ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 1 SD [ Mobile ]",
-        "id": "beinsports1sdmobile",
-        "logo": "https://i.ibb.co/211GQmLJ/15.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/126566.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports 2 HD",
-        "id": "beinsports2hd",
-        "logo": "https://i.hizliresim.com/pstlj7z.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/19.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports 3 HD",
-        "id": "beinsports3hd",
-        "logo": "https://i.ibb.co/MydcC94G/21.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/20.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 5 FHD",
-        "id": "beinsports5fhd",
-        "logo": "https://i.ibb.co/fGMW3wPn/26.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/181794.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports MAX 2 HD",
-        "id": "beinsportsmax2hd",
-        "logo": "https://i.hizliresim.com/rkv1bal.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/30.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports MAX 2 FHD",
-        "id": "beinsportsmax2fhd",
-        "logo": "https://i.hizliresim.com/rkv1bal.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/181877.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 2 PLUS",
-        "id": "beinsports2plus",
-        "logo": "https://i.hizliresim.com/pstlj7z.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/873525.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports MAX 1 FHD",
-        "id": "beinsportsmax1fhd",
-        "logo": "https://i.ibb.co/dsskHf5m/27.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/181876.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN. Connect 1 HD",
-        "id": "beinconnect1hd",
-        "logo": "https://i.ibb.co/R4t2yxH0/e5o6w0t.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/64942.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 1 FHD",
-        "id": "beinsports1fhd",
-        "logo": "https://i.hizliresim.com/lv7xi5y.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mustafadogramaci/c5FpJuAj8N/11.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 1 [50Fps] +",
-        "id": "beinsports150fps",
-        "logo": "https://i.ibb.co/KxGRttW8/14.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mustafadogramaci/c5FpJuAj8N/855331.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports MAX 1 HD",
-        "id": "beinsportsmax1hd",
-        "logo": "https://i.ibb.co/dsskHf5m/27.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/28.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports 1 [Hevc] +",
-        "id": "beinsports1hevc",
-        "logo": "https://i.ibb.co/KSbb72z/10.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/855332.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 4 FHD",
-        "id": "beinsports4fhd",
-        "logo": "https://i.ibb.co/N6bd8Mh4/23.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/181793.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports HABER HD",
-        "id": "beinsportshaberhd",
-        "logo": "https://i.ibb.co/BHVcMCny/4.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/85258.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports 4 HD",
-        "id": "beinsports4hd",
-        "logo": "https://i.ibb.co/LzY1ZNmh/24.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/25.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
-    },
-    {
-        "name": "beIN Sports 1 [Feed] +",
-        "id": "beinsports1feed",
-        "logo": "https://i.ibb.co/KxGRttW8/14.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/849136.ts",
-        "categories": [
-            "tr ➤ bein sports"
-        ],
-        "country": ""
+        "country": "TR"
     }
 ]

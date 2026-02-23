@@ -878,5 +878,95 @@
             "pluto tv brasil"
         ],
         "country": ""
+    },
+    {
+        "name": "Filmelier TV",
+        "id": "filmeliertv",
+        "logo": "https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Jovem Pan NEWS",
+        "id": "jovempannews",
+        "logo": "https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN Combat",
+        "id": "dazncombat",
+        "logo": "https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Gaming por Ubisoft",
+        "id": "plutotvgamingporubisoft",
+        "logo": "https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/64c815e8a1c6130008fef928/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nick Teen",
+        "id": "nickteen",
+        "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nickelodeon Pluto TV",
+        "id": "nickelodeonplutotv",
+        "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Bob Esponja Calça Quadrada",
+        "id": "bobesponjacalaquadrada",
+        "logo": "https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Shows por Stingray",
+        "id": "plutotvshowsporstingray",
+        "logo": "https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Pluto TV Karaokê por Stingray",
+        "id": "plutotvkaraokporstingray",
+        "logo": "https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",
+        "url": "https://stitcher.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
+        "categories": [
+            "pluto tv brasil"
+        ],
+        "country": ""
     }
 ]

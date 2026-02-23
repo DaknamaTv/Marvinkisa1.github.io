@@ -1470,16 +1470,6 @@
         "country": ""
     },
     {
-        "name": "BhiChannel",
-        "id": "bhichannel",
-        "logo": "",
-        "url": "http://15.235.185.236/hls/bhi.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Hinde Movies",
         "id": "hindemovies",
         "logo": "",
@@ -3080,26 +3070,6 @@
         "country": ""
     },
     {
-        "name": "ASTRO",
-        "id": "astro",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PTV-SPORTS",
-        "id": "ptvsports",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/7604.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "HUB-SPORTS",
         "id": "hubsports",
         "logo": "",
@@ -3134,16 +3104,6 @@
         "id": "sonysports3hd",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/78/78_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BeIN Sports 1",
-        "id": "beinsports1",
-        "logo": "",
-        "url": "http://135.125.109.73:9000/beinsport1_.m3u8",
         "categories": [
             "bd"
         ],
@@ -3230,16 +3190,6 @@
         "country": ""
     },
     {
-        "name": "SKY-SPORTS",
-        "id": "skysports",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "DBC",
         "id": "dbc",
         "logo": "",
@@ -3294,16 +3244,6 @@
         "id": "sholsports",
         "logo": "",
         "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TNS Sports-3",
-        "id": "tnssports3",
-        "logo": "",
-        "url": "https://7pal.short.gy/tntspts3",
         "categories": [
             "bd"
         ],

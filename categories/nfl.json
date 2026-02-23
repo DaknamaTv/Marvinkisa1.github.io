@@ -30,26 +30,6 @@
         "country": ""
     },
     {
-        "name": "USA: NFL REDZONE (2)",
-        "id": "usanflredzone2",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/159119",
-        "categories": [
-            "nfl"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NFL 03:  Super Bowl LX",
-        "id": "nfl03superbowllx",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/252012",
-        "categories": [
-            "nfl"
-        ],
-        "country": ""
-    },
-    {
         "name": "NFL 01:  Super Bowl LX",
         "id": "nfl01superbowllx",
         "logo": "",
@@ -94,6 +74,16 @@
         "id": "usanflredzone3",
         "logo": "",
         "url": "http://xxip25.top:8080/c1E50nv/32NYwus8o2/208830",
+        "categories": [
+            "nfl"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NFL Network",
+        "id": "usnflnetwork",
+        "logo": "https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/83724",
         "categories": [
             "nfl"
         ],

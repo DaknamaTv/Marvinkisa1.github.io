@@ -38,5 +38,75 @@
             "→ usa ←"
         ],
         "country": ""
+    },
+    {
+        "name": "USA | Telemundo San francisco",
+        "id": "usatelemundosanfrancisco",
+        "logo": "https://imgx.fubo.tv/station_logos/telemundo_c.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23423",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: NBC Charlotte",
+        "id": "usnbccharlotte",
+        "logo": "",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23504",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: FOX Boston",
+        "id": "usfoxboston",
+        "logo": "https://i.imgur.com/GHMsLTe.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23538",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: CBS Houston",
+        "id": "uscbshouston",
+        "logo": "https://i.imgur.com/AZCdQKj.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23564",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: MLB Strike One",
+        "id": "usmlbstrikeone",
+        "logo": "https://www.f5.com/content/dam/f5-com/page-assets-en/home-en/customers/case-studies/logo-mlb-network.png",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23629",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: NBC Sports Bay Area",
+        "id": "usnbcsportsbayarea",
+        "logo": "",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23662",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Spectrum Sportsnet LA Dodgers",
+        "id": "usspectrumsportsnetladodgers",
+        "logo": "https://tinyurl.com/y6f6m3vt",
+        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/23746",
+        "categories": [
+            "→ usa ←"
+        ],
+        "country": ""
     }
 ]

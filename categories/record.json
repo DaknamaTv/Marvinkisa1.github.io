@@ -1,35 +1,5 @@
 [
     {
-        "name": "TV PARANAÍBA HD¹",
-        "id": "tvparanabahd",
-        "logo": "https://googleplusimages.com/RECORD.png",
-        "url": "http://p.plexiptv.co:8880/antoniocli688/15937385/112020",
-        "categories": [
-            "record"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NDTV FLORIANÓPOLIS HD²",
-        "id": "ndtvflorianpolishd",
-        "logo": "https://googleplusimages.com/RECORD.png",
-        "url": "http://p.plexiptv.co:8880/antoniocli688/15937385/183981",
-        "categories": [
-            "record"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RECORD MINAS FHD¹",
-        "id": "recordminasfhd",
-        "logo": "https://googleplusimages.com/RECORD.png",
-        "url": "http://p.plexiptv.co:8880/24805116/45531361/180625",
-        "categories": [
-            "record"
-        ],
-        "country": ""
-    },
-    {
         "name": "TV CIDADE SÃO LUÍS HD²",
         "id": "tvcidadesolushd",
         "logo": "https://googleplusimages.com/RECORD.png",
@@ -64,16 +34,6 @@
         "id": "recordbrasliahd",
         "logo": "https://googleplusimages.com/RECORD.png",
         "url": "http://p.plexiptv.co:8880/96692347/39435813/94477",
-        "categories": [
-            "record"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RECORD BAURU HD¹",
-        "id": "recordbauruhd",
-        "logo": "http://googleplusimages.com/RECORD.png",
-        "url": "http://p.plexiptv.co:8880/bruno7803ax/09172326/255347",
         "categories": [
             "record"
         ],
@@ -124,26 +84,6 @@
         "id": "tvatalaiahd",
         "logo": "https://googleplusimages.com/RECORD.png",
         "url": "http://p.plexiptv.co:8880/20877364/07779277/183982",
-        "categories": [
-            "record"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RECORD BAHIA ITABUNA HD²",
-        "id": "recordbahiaitabunahd",
-        "logo": "https://googleplusimages.com/RECORD.png",
-        "url": "http://p.plexiptv.co:8880/67173314/42088927/181015",
-        "categories": [
-            "record"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RICTV MARINGÁ FHD⁺",
-        "id": "rictvmaringfhd",
-        "logo": "https://googleplusimages.com/RECORD.png",
-        "url": "http://p.plexiptv.co:8880/luiz6594/wy3978sb/25295",
         "categories": [
             "record"
         ],

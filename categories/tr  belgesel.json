@@ -268,5 +268,95 @@
             "tr ➤ belgesel"
         ],
         "country": ""
+    },
+    {
+        "name": "beIN iz TV HD",
+        "id": "beiniztvhd",
+        "logo": "https://i.ibb.co/pjXzK5hC/BEIN-IZ.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865059.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DOCU SCREEN HD",
+        "id": "docuscreenhd",
+        "logo": "https://i.ibb.co/nsHKXGSy/Wl9YJc.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865075.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Nat Geo Wild FHD",
+        "id": "trnatgeowildfhd",
+        "logo": "https://i.ibb.co/27HJw3Qm/ScYbqeU.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860625.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Viasat History FHD",
+        "id": "trviasathistoryfhd",
+        "logo": "https://i.ibb.co/fVR8S1zQ/Vl1lWYq.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860628.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Viasat Explore HD",
+        "id": "trviasatexplorehd",
+        "logo": "https://i.ibb.co/1Jhw8Ntj/GsgtjhH.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860629.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: History Channel FHD",
+        "id": "trhistorychannelfhd",
+        "logo": "https://i.ibb.co/fVR8S1zQ/Vl1lWYq.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860631.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Love Nature 4K",
+        "id": "trlovenature4k",
+        "logo": "https://i.ibb.co/3YBbGPcp/JM68shQ.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860632.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Yeniden Keşif",
+        "id": "tryenidenkeif",
+        "logo": "https://i.ibb.co/d0StwDSS/images.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860683.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Bein Gurme HD",
+        "id": "beingurmehd",
+        "logo": "https://i.ibb.co/4gfSNnXD/qqNKQeR.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/865070.ts",
+        "categories": [
+            "tr ➤ belgesel"
+        ],
+        "country": ""
     }
 ]

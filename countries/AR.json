@@ -593,14 +593,6 @@
         "country": "AR"
     },
     {
-        "name": "Sicardi TV",
-        "id": "SicardiTV.ar",
-        "logo": "https://i.imgur.com/W2EUIL2.png",
-        "url": "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Telenord",
         "id": "Telenord.ar",
         "logo": "https://i.imgur.com/yqXORkt.png",
@@ -631,14 +623,6 @@
         "id": "Canal13SanLuis.ar",
         "logo": "https://i.imgur.com/NcfMC29.png",
         "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Chaco TV",
-        "id": "ChacoTV.ar",
-        "logo": "https://i.imgur.com/b6RerDw.png",
-        "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
         "categories": [],
         "country": "AR"
     },
@@ -749,7 +733,7 @@
     {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
-        "logo": "https://alternatv.ar/alternatv.png",
+        "logo": "https://tv.alterna.ar/alternatv.png",
         "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
         "categories": [
             "music",
@@ -798,6 +782,76 @@
         "categories": [
             "animation",
             "kids"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "TV5 Algeria",
+        "id": "TV5Algeria.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14083",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Panorama Film",
+        "id": "PanoramaFilm.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14100",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Mekkah Live",
+        "id": "MekkahLive.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/78535",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Numidia TV",
+        "id": "NumidiaTV.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14104",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "JEEM HD+",
+        "id": "JEEMHD.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14213",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "FATAFEAT HD+",
+        "id": "FATAFEATHD.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14215",
+        "categories": [
+            "ar : arabic"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Bein Movies 2 4K+",
+        "id": "BeinMovies24K.ar",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/14130",
+        "categories": [
+            "ar : cinema"
         ],
         "country": "AR"
     }

@@ -1234,5 +1234,315 @@
         "url": "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8",
         "categories": [],
         "country": "NL"
+    },
+    {
+        "name": "Star Channel 4K+",
+        "id": "StarChannel4K.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/StarChannel.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/269",
+        "categories": [
+            "nl : nederland"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "NPO 1 HD+",
+        "id": "NPO1HD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/npo1.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/270",
+        "categories": [
+            "nl : nederland"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "SBS6 HD+",
+        "id": "SBS6HD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/sbs6.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/275",
+        "categories": [
+            "nl : nederland"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Veronica / Disney XD HD+",
+        "id": "VeronicaDisneyXDHD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/veronica.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/278",
+        "categories": [
+            "nl : nederland"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "NPO Politiek en Nieuws",
+        "id": "NPOPolitiekenNieuws.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/NPO_Politiek_en_Nieuws_logo.svg",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/112826",
+        "categories": [
+            "nl : nederland"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Ziggo Sport 2 4K+",
+        "id": "ZiggoSport24K.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/288",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "ESPN 4 4K+",
+        "id": "ESPN44K.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/espn.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/296",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Eurosport 2 4K+",
+        "id": "Eurosport24K.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/eurosport.jpg",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/300",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Ziggo Sport 2 HD+",
+        "id": "ZiggoSport2HD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/302",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Ziggo Sport 4 HD+",
+        "id": "ZiggoSport4HD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/304",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Ziggo Sport 6 HD+",
+        "id": "ZiggoSport6HD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/120506",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "ESPN 2 HD+",
+        "id": "ESPN2HD.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/espn.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/307",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Viaplay Event 2",
+        "id": "ViaplayEvent2.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/71462",
+        "categories": [
+            "nl : viaplay"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Viaplay Event 6",
+        "id": "ViaplayEvent6.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/71466",
+        "categories": [
+            "nl : viaplay"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Viaplay Event 7",
+        "id": "ViaplayEvent7.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/71467",
+        "categories": [
+            "nl : viaplay"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Viaplay Event 12",
+        "id": "ViaplayEvent12.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/viaplay.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/71930",
+        "categories": [
+            "nl : viaplay"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "NBA TV",
+        "id": "NBATV.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/82005",
+        "categories": [
+            "nl : sport"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "DAZN Event 3",
+        "id": "DAZNEvent3.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/142798",
+        "categories": [
+            "nl : dazn"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "DAZN Event 5",
+        "id": "DAZNEvent5.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/142800",
+        "categories": [
+            "nl : dazn"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "LionBox Marvel 2",
+        "id": "LionBoxMarvel2.nl",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/56279",
+        "categories": [
+            "nl : biosbox"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "LionBox Bios 3",
+        "id": "LionBoxBios3.nl",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/47365",
+        "categories": [
+            "nl : biosbox"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "LionBox Bios 4",
+        "id": "LionBoxBios4.nl",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/47366",
+        "categories": [
+            "nl : biosbox"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "LionBox Bios 8",
+        "id": "LionBoxBios8.nl",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/47370",
+        "categories": [
+            "nl : biosbox"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "LionBox Bios 10",
+        "id": "LionBoxBios10.nl",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/47372",
+        "categories": [
+            "nl : biosbox"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "LionBox Bios 15",
+        "id": "LionBoxBios15.nl",
+        "logo": "http://148.251.19.24:89/lionbox.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/35038",
+        "categories": [
+            "nl : biosbox"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Paramount Network 4K+",
+        "id": "ParamountNetwork4K.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/346",
+        "categories": [
+            "nl : film"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "National Geographic Channel 4K+",
+        "id": "NationalGeographicChannel4K.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/natgeologo.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/338",
+        "categories": [
+            "nl : documentaire & reality"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Cartoon Network 4K+",
+        "id": "CartoonNetwork4K.nl",
+        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/cartoonnetwork.png",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/326",
+        "categories": [
+            "nl : kids"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Slam! TV",
+        "id": "SlamTV.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/318",
+        "categories": [
+            "nl : muziek"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "BET Her",
+        "id": "BETHer.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/92988",
+        "categories": [
+            "nl : muziek"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "BET Jams HD",
+        "id": "BETJamsHD.nl",
+        "logo": "",
+        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/92990",
+        "categories": [
+            "nl : muziek"
+        ],
+        "country": "NL"
     }
 ]

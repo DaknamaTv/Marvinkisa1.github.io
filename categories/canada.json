@@ -110,16 +110,6 @@
         "country": ""
     },
     {
-        "name": "CA Global Calgary",
-        "id": "caglobalcalgary",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/115349",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA HISTORY (E)",
         "id": "cahistorye",
         "logo": "",
@@ -200,50 +190,10 @@
         "country": ""
     },
     {
-        "name": "CA CHCH (E)",
-        "id": "cachche",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57393",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA CP24 News HD (E)",
-        "id": "cacp24newshde",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57401",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: CPAC English",
-        "id": "cacpacenglish",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57352",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA CTV Comedy Channel",
         "id": "cactvcomedychannel",
         "logo": "",
         "url": "http://xxip25.top:8080/G7ykGB/928030/57408",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA CTV Drama Channel (R)",
-        "id": "cactvdramachannelr",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57254",
         "categories": [
             "canada"
         ],
@@ -270,40 +220,10 @@
         "country": ""
     },
     {
-        "name": "CA: FX HD",
-        "id": "cafxhd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57268",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA Global Edmonton News (E)",
         "id": "caglobaledmontonnewse",
         "logo": "",
         "url": "http://xxip25.top:8080/G7ykGB/928030/58724",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: Global Halifax News",
-        "id": "caglobalhalifaxnews",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57434",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: Global Vancouver",
-        "id": "caglobalvancouver",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57436",
         "categories": [
             "canada"
         ],
@@ -330,70 +250,10 @@
         "country": ""
     },
     {
-        "name": "CA: MTV HD",
-        "id": "camtvhd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57368",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: PBS HD",
-        "id": "capbshd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57276",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Slice TV",
-        "id": "caslicetv",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57274",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA W Network East (E)",
-        "id": "cawnetworkeaste",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57284",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA: World Fishing Network",
         "id": "caworldfishingnetwork",
         "logo": "",
         "url": "http://xxip25.top:8080/G7ykGB/928030/57471",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA YES TV",
-        "id": "cayestv",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/57472",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Global News Winnipeg (D)",
-        "id": "caglobalnewswinnipegd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/G7ykGB/928030/100629",
         "categories": [
             "canada"
         ],
@@ -694,6 +554,196 @@
         "id": "cacitynewstorontoon",
         "logo": "",
         "url": "http://xxip25.top:8080/c1E50nv/32NYwus8o2/216100",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Two Atlantic",
+        "id": "cactvtwoatlantic",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/79547",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: DIY NETWORK FHD",
+        "id": "cadiynetworkfhd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/47258",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Food Network",
+        "id": "cafoodnetwork",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/57247",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: HLN",
+        "id": "cahln",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/57441",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA National Geographic Wild",
+        "id": "canationalgeographicwild",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/57280",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Peachtree TV HD (R)",
+        "id": "capeachtreetvhdr",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/47362",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet Pacific HD",
+        "id": "casportsnetpacifichd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/47387",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV SCI-FI",
+        "id": "cactvscifi",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/57464",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TLC",
+        "id": "catlc",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/57290",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: BBC World News",
+        "id": "cabbcworldnews",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/139752",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CRAVE 1 HD",
+        "id": "cacrave1hd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/57309",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA FOX NEWS",
+        "id": "cafoxnews",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/47281",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA FXX",
+        "id": "cafxx",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/57429",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Game Show Network HD",
+        "id": "cagameshownetworkhd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/57430",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: Lifetime Movie Network",
+        "id": "califetimemovienetwork",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/57444",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA OWN",
+        "id": "caown",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/57277",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet One (HD)",
+        "id": "casportsnetonehd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/47379",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA WILD TV",
+        "id": "cawildtv",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/100456",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV WINNIPEG (E)",
+        "id": "cactvwinnipege",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/100630",
         "categories": [
             "canada"
         ],
