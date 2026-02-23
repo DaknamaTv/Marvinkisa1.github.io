@@ -150,36 +150,6 @@
         "country": "AE"
     },
     {
-        "name": "Peace TV Bangla",
-        "id": "PeaceTVBangla.ae",
-        "logo": "https://i.imgur.com/1ztVXUi.png",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AE"
-    },
-    {
-        "name": "Peace TV Chinese",
-        "id": "PeaceTVChinese.ae",
-        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AE"
-    },
-    {
-        "name": "Peace TV Urdu",
-        "id": "PeaceTVUrdu.ae",
-        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AE"
-    },
-    {
         "name": "Nour TV",
         "id": "NourTV.ae",
         "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Nourtv_logo.jpg",
@@ -2310,16 +2280,6 @@
         "country": "RO"
     },
     {
-        "name": "Angelus TV",
-        "id": "AngelusTV.ro",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Angelus_TV.svg/revision/latest/scale-to-width-down/512",
-        "url": "https://video.angelustv.ro/hls/angelustv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "MISA TV",
         "id": "MISATV.ro",
         "logo": "https://i.imgur.com/2RxQNm6.png",
@@ -2454,16 +2414,6 @@
         "id": "TuUniversoTV.co",
         "logo": "https://i.imgur.com/e6esjLZ.jpg",
         "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Frecuencia F TV",
-        "id": "FrecuenciaFTV.co",
-        "logo": "https://i.imgur.com/Cw5k96N.png",
-        "url": "https://tv.frecuenciaf.com/live/envivo.m3u8",
         "categories": [
             "religious"
         ],
@@ -3215,16 +3165,6 @@
         "country": "KE"
     },
     {
-        "name": "Sayare TV",
-        "id": "SayareTV.ke",
-        "logo": "https://i.imgur.com/M2Fnxj7.png",
-        "url": "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "KE"
-    },
-    {
         "name": "LifeStyleTV",
         "id": "LifeStyleTV.se",
         "logo": "https://i.imgur.com/0mreWrM.jpg",
@@ -3259,16 +3199,6 @@
         "id": "BoonniyomTV.th",
         "logo": "https://i.imgur.com/KvdFCD5.png",
         "url": "https://live.x2.co.th/live/bntv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "TH"
-    },
-    {
-        "name": "TV Muslim Thailand",
-        "id": "TVMuslimThailand.th",
-        "logo": "https://i.imgur.com/aCFpuzW.png",
-        "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3445,6 +3375,16 @@
         "country": "VG"
     },
     {
+        "name": "KK TV",
+        "id": "KKTV.ao",
+        "logo": "https://i.imgur.com/jWOB0oU.png",
+        "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AO"
+    },
+    {
         "name": "TV Getsemani",
         "id": "TVGetsemani.sv",
         "logo": "https://i.imgur.com/C9SJCcE.jpg",
@@ -3519,6 +3459,16 @@
         "id": "TVCa.sv",
         "logo": "https://i.imgur.com/uPWWtCA.png",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "JFV TV",
+        "id": "JFVTV.sv",
+        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
+        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -3742,6 +3692,86 @@
         "id": "ManaTserkovOnlayn.pt",
         "logo": "https://i.imgur.com/PruXLqS.png",
         "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "Kuriakos TV",
+        "id": "KuriakosTV.pt",
+        "logo": "https://i.imgur.com/xdAW0D5.png",
+        "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "Mana Igreja Online",
+        "id": "ManaIgrejaOnline.pt",
+        "logo": "https://i.imgur.com/0IUvfcJ.png",
+        "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana 1",
+        "id": "TVMana1.pt",
+        "logo": "https://i.imgur.com/6jNqpTP.png",
+        "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana 2",
+        "id": "TVMana2.pt",
+        "logo": "https://i.imgur.com/VYNjVov.png",
+        "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana Brasil",
+        "id": "TVManaBrasil.pt",
+        "logo": "https://i.imgur.com/AFb712e.png",
+        "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana English",
+        "id": "TVManaEnglish.pt",
+        "logo": "https://i.imgur.com/I66IkCw.png",
+        "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana Espanhol",
+        "id": "TVManaEspanhol.pt",
+        "logo": "https://i.imgur.com/sUlrSwP.png",
+        "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana Russkiy",
+        "id": "TVManaRusskiy.pt",
+        "logo": "https://i.imgur.com/fACHqmY.png",
+        "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4009,16 +4039,6 @@
         "country": "CR"
     },
     {
-        "name": "San Jose TV",
-        "id": "SanJoseTV.cr",
-        "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
-        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Extrema TV",
         "id": "ExtremaTV.cr",
         "logo": "https://i.imgur.com/E9AuhOU.png",
@@ -4087,6 +4107,36 @@
             "religious"
         ],
         "country": "TR"
+    },
+    {
+        "name": "Himlen TV7",
+        "id": "HimlenTV7.fi",
+        "logo": "https://i.imgur.com/k8a7KNn.png",
+        "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Taevas TV7",
+        "id": "TaevasTV7.fi",
+        "logo": "https://i.imgur.com/usXedIj.png",
+        "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Taivas TV7",
+        "id": "TaivasTV7.fi",
+        "logo": "https://i.imgur.com/JyJNiXy.png",
+        "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "FI"
     },
     {
         "name": "TV Famille",
@@ -4272,16 +4322,6 @@
         "country": "PK"
     },
     {
-        "name": "King TV",
-        "id": "KingTV.pk",
-        "logo": "https://i.imgur.com/dujrwRE.png",
-        "url": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "Madani Channel Urdu",
         "id": "MadaniChannelUrdu.pk",
         "logo": "https://i.imgur.com/MitLeCJ.png",
@@ -4296,6 +4336,16 @@
         "id": "GodStandsTV.pk",
         "logo": "https://i.imgur.com/EO6cYUI.png",
         "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Isaac TV",
+        "id": "IsaacTV.pk",
+        "logo": "https://i.imgur.com/RHDbsiO.png",
+        "url": "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4490,16 +4540,6 @@
         "categories": [
             "news",
             "music",
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
             "religious"
         ],
         "country": "ID"

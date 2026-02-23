@@ -1,91 +1,41 @@
 [
     {
-        "name": "FM: BALLERMANN RADIO",
-        "id": "fmballermannradio",
-        "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://focusmag.eu01.live:8080/guwXHdsG8g/kRUHdHHnnw/553621",
+        "name": "DE: FM: Avaz Radio",
+        "id": "defmavazradio",
+        "logo": "https://i.ibb.co/cSHpynMs/l-l.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/sc/MQHJRKBmqK/861501.ts",
         "categories": [
-            "de | radio"
+            "de ➤ radio"
         ],
         "country": ""
     },
     {
-        "name": "RADIO HARMONY SCHLAGER",
-        "id": "radioharmonyschlager",
-        "logo": "https://i.ibb.co/gWbwHPQ/SB-Radio.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/550467",
+        "name": "DE: FM: Radiohbr",
+        "id": "defmradiohbr",
+        "logo": "https://i.ibb.co/cSHpynMs/l-l.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/sc/MQHJRKBmqK/861502.ts",
         "categories": [
-            "de | radio"
+            "de ➤ radio"
         ],
         "country": ""
     },
     {
-        "name": "FM: I LOVE RADIO",
-        "id": "fmiloveradio",
-        "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/553684",
+        "name": "DE: FM: No Name",
+        "id": "defmnoname",
+        "logo": "https://i.ibb.co/cSHpynMs/l-l.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/sc/MQHJRKBmqK/861507.ts",
         "categories": [
-            "de | radio"
+            "de ➤ radio"
         ],
         "country": ""
     },
     {
-        "name": "FM: WUNSCHRADIO.FM",
-        "id": "fmwunschradiofm",
-        "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/553676",
+        "name": "DE: FM: Wunschradio.Fm",
+        "id": "defmwunschradiofm",
+        "logo": "https://i.ibb.co/cSHpynMs/l-l.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/861489.ts",
         "categories": [
-            "de | radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: PSYNDORA PSYTRANCE",
-        "id": "fmpsyndorapsytrance",
-        "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/553664",
-        "categories": [
-            "de | radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: DAS RADIO DER VON NEIL YOUNG GETOTETEN",
-        "id": "fmdasradiodervonneilyounggetoteten",
-        "logo": "http://radio.pervii.com/logo/1403641281.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/553631",
-        "categories": [
-            "de | radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: RPR1.BEST OF 80S",
-        "id": "fmrpr1bestof80s",
-        "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/553610",
-        "categories": [
-            "de | radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: CHILLOUT FM",
-        "id": "fmchilloutfm",
-        "logo": "https://i.ibb.co/PmbFZ0L/image.png",
-        "url": "http://focusmag.eu01.live:8080/Thomasmerdlhbd34h/jH5KUZFJtY/553607",
-        "categories": [
-            "de | radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO NEUE DEUTSCHE WELLE",
-        "id": "radioneuedeutschewelle",
-        "logo": "https://i.ibb.co/gWbwHPQ/SB-Radio.png",
-        "url": "http://focusmag.eu01.live:8080/Matze.Hasselbrink/sQmKUQ55aH/550446",
-        "categories": [
-            "de | radio"
+            "de ➤ radio"
         ],
         "country": ""
     }

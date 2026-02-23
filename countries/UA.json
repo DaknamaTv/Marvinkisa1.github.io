@@ -58,16 +58,6 @@
         "country": "UA"
     },
     {
-        "name": "Telekanal RAI",
-        "id": "TelekanalRAI.ua",
-        "logo": "https://i.imgur.com/Ouv51WB.png",
-        "url": "https://stream.rai.ua/rai/stream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "FREEDOM",
         "id": "FREEDOM.ua",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png",

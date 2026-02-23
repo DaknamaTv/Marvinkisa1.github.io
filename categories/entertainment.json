@@ -166,16 +166,6 @@
         "country": "CM"
     },
     {
-        "name": "TR24 Television",
-        "id": "TR24Television.cm",
-        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
-        "url": "https://stream.it-innov.com/tr24/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "MBC Persia",
         "id": "MBCPersia.ae",
         "logo": "https://i.imgur.com/4FXiyjn.png",
@@ -512,16 +502,6 @@
         "country": "DO"
     },
     {
-        "name": "Super7FM",
-        "id": "Super7FM.do",
-        "logo": "https://i.imgur.com/TJEqwZo.png",
-        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Antena 21",
         "id": "Antena21.do",
         "logo": "https://i.imgur.com/QE0XWLh.png",
@@ -602,16 +582,6 @@
         "country": "HN"
     },
     {
-        "name": "TV Centro 27.2 HD",
-        "id": "TVCentro272HD.hn",
-        "logo": "https://i.imgur.com/Wo2scQf.jpg",
-        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Girasol TV",
         "id": "GirasolTV.hn",
         "logo": "https://i.imgur.com/2t7A2yg.png",
@@ -639,6 +609,39 @@
         "categories": [
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "An Giang TV 2",
+        "id": "AnGiangTV2.vn",
+        "logo": "https://i.imgur.com/efrauLr.png",
+        "url": "https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "An Giang TV 3",
+        "id": "AnGiangTV3.vn",
+        "logo": "https://i.imgur.com/gZUV4z8.png",
+        "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
         ],
         "country": "VN"
     },
@@ -2974,16 +2977,6 @@
         "country": "UG"
     },
     {
-        "name": "ACW UG TV",
-        "id": "ACWUGTV.ug",
-        "logo": "https://i.imgur.com/8pzEmcJ.jpeg",
-        "url": "https://live.acwugtv.com/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
         "name": "DBM TV",
         "id": "BTMTV.ug",
         "logo": "https://i.imgur.com/NUvA2jf.png",
@@ -3552,6 +3545,16 @@
         "country": "CR"
     },
     {
+        "name": "ETV+",
+        "id": "ETVPlus.ee",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+        "url": "https://sb.err.ee/live/etvpluss.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "EE"
+    },
+    {
         "name": "Nos Isla TV",
         "id": "NosIslaTV.aw",
         "logo": "https://i.imgur.com/sH7ZkPx.png",
@@ -3772,16 +3775,6 @@
             "entertainment"
         ],
         "country": "ES"
-    },
-    {
-        "name": "Hispania TV",
-        "id": "HispaniaTV.pa",
-        "logo": "https://i.imgur.com/647WCF8.png",
-        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PA"
     },
     {
         "name": "Indonesiana.TV",

@@ -479,17 +479,6 @@
         "country": "AR"
     },
     {
-        "name": "Disney Channel Latin America",
-        "id": "DisneyChannelLatinAmerica.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-        "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 7 Salta",
         "id": "Canal7Salta.ar",
         "logo": "https://i.imgur.com/CudG6sl.png",
@@ -789,6 +778,25 @@
         "url": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 4 San Juan",
+        "id": "Canal4SanJuan.ar",
+        "logo": "https://i.imgur.com/MsCnwRA.png",
+        "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Catamarca TV",
+        "id": "CatamarcaTV.ar",
+        "logo": "https://i.imgur.com/CEuPoqG.png",
+        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+        "categories": [
+            "culture",
+            "news"
         ],
         "country": "AR"
     }

@@ -1222,16 +1222,6 @@
         "country": "ES"
     },
     {
-        "name": "Onda Algeciras",
-        "id": "OndaAlgeciras.es",
-        "logo": "https://i.imgur.com/kUhFkVF.png",
-        "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "RTV Vida",
         "id": "RTVVida.es",
         "logo": "https://i.imgur.com/EqUfEAh.png",
@@ -1335,6 +1325,27 @@
         "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Onda 15 TV",
+        "id": "Onda15TV.es",
+        "logo": "https://i.imgur.com/mUrZz9O.png",
+        "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+        "categories": [
+            "music",
+            "news"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "TVR",
+        "id": "TVR.es",
+        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
+        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "ES"
     }

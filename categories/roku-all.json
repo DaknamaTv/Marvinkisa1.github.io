@@ -1,69 +1,49 @@
 [
     {
-        "name": "DraftKings",
-        "id": "draftkings",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5976983fa00953dab911a0ebea932943/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694201368177_Roku_DKN_HUD_Logo_Centered.png",
-        "url": "https://jmp2.uk/rok-5976983fa00953dab911a0ebea932943.m3u8",
+        "name": "Bassmaster",
+        "id": "bassmaster",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png",
+        "url": "https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "MGM Presents",
-        "id": "mgmpresents",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",
-        "url": "https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8",
+        "name": "HBCU-GO Sports",
+        "id": "hbcugosports",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/d5ac470e48d355c19371733b18be8925/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1667009297911_ROKU_Info_HUD_Asset_HBCUGO_260x147_Center.png",
+        "url": "https://jmp2.uk/rok-d5ac470e48d355c19371733b18be8925.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "Love Nature Spanish",
-        "id": "lovenaturespanish",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/03a419fc4dff59b39b176d9f76b09e38/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563412501_LoveNature_260x147_HUDenEspanol.png",
-        "url": "https://jmp2.uk/rok-03a419fc4dff59b39b176d9f76b09e38.m3u8",
+        "name": "PHLY Sports",
+        "id": "phlysports",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/9ec48964d9b9502396f19fcb3a527074/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720539914940_Roku_HUD_PHLY.png",
+        "url": "https://jmp2.uk/rok-9ec48964d9b9502396f19fcb3a527074.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "FilmRise Series Gratis",
-        "id": "filmriseseriesgratis",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/4010582bb66b58a69151a4f552de0823/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766158322228_RokuChannel_FilmRiseSeriesGratis_HUD_Logo_260x147.png",
-        "url": "https://jmp2.uk/rok-4010582bb66b58a69151a4f552de0823.m3u8",
+        "name": "Tribeca Channel",
+        "id": "tribecachannel",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/2547ef42e2f45bbaa84752657cffe3c9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669147007249_tribeca_HUDlogo_centered_260x147.png",
+        "url": "https://jmp2.uk/rok-2547ef42e2f45bbaa84752657cffe3c9.m3u8",
         "categories": [
             "roku-all"
         ],
         "country": ""
     },
     {
-        "name": "Cinépolis Channel",
-        "id": "cinpolischannel",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/acf637e8292736265712e3be566c0e5a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1752626860506_HUD-Logo-260x147.png",
-        "url": "https://jmp2.uk/rok-acf637e8292736265712e3be566c0e5a.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Canela.TV Hollywood y Más",
-        "id": "canelatvhollywoodyms",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/02cdd68d6244543b83ff35d990891463/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562662522_ROKU-CanelaTV-InfoHUD-1.png",
-        "url": "https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "COPS en Español",
-        "id": "copsenespaol",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b18fd4082c85d698f6f71702d82be28/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694471259398_COPSenESPANOL_Image_HUD_2_Meela_Hice.png",
-        "url": "https://jmp2.uk/rok-5b18fd4082c85d698f6f71702d82be28.m3u8",
+        "name": "Mysteria",
+        "id": "mysteria",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/79b8b2c24f6a5680b7670bf2d832bc2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673904972773_LOGO_mysteria_260x147_grey.png",
+        "url": "https://jmp2.uk/rok-79b8b2c24f6a5680b7670bf2d832bc2b.m3u8",
         "categories": [
             "roku-all"
         ],

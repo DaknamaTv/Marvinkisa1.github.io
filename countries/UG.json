@@ -50,16 +50,6 @@
         "country": "UG"
     },
     {
-        "name": "ACW UG TV",
-        "id": "ACWUGTV.ug",
-        "logo": "https://i.imgur.com/8pzEmcJ.jpeg",
-        "url": "https://live.acwugtv.com/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
         "name": "DBM TV",
         "id": "BTMTV.ug",
         "logo": "https://i.imgur.com/NUvA2jf.png",

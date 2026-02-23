@@ -30,50 +30,40 @@
         "country": "DE"
     },
     {
-        "name": "DE: ALASKAN BUSH PEOPLE",
-        "id": "dealaskanbushpeople",
-        "logo": "https://i.ibb.co/5gTRXzXq/HpIpzzA.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/862056.ts",
-        "categories": [
-            "de ➤ kino&serien"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: DU WIRST MICH LIEBEN",
-        "id": "deduwirstmichlieben",
-        "logo": "https://i.ibb.co/5gTRXzXq/HpIpzzA.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/MyKebab/Vip34/862064.ts",
-        "categories": [
-            "de ➤ kino&serien"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: How I Met Your Father",
-        "id": "dehowimetyourfather",
-        "logo": "https://i.ibb.co/NnHcdZFd/image.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/862754.ts",
-        "categories": [
-            "de ➤ kino&serien"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: Two and a Half Men",
-        "id": "detwoandahalfmen",
-        "logo": "https://i.ibb.co/NnHcdZFd/image.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/862786.ts",
-        "categories": [
-            "de ➤ kino&serien"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DE: Sky Nature QHD",
-        "id": "deskynatureqhd",
+        "name": "DE: Sky Cinema Emotion QHD",
+        "id": "deskycinemaemotionqhd",
         "logo": "https://i.hizliresim.com/iw8ts1d.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Goerkemp/k5xzsLY9GQ/829201.ts",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/829188.ts",
+        "categories": [
+            "de ➤ kino&serien"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Sky Cinema Highlight QHD",
+        "id": "deskycinemahighlightqhd",
+        "logo": "https://i.hizliresim.com/iw8ts1d.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/829190.ts",
+        "categories": [
+            "de ➤ kino&serien"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: BRIDGERTON",
+        "id": "debridgerton",
+        "logo": "https://i.ibb.co/5gTRXzXq/HpIpzzA.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/862022.ts",
+        "categories": [
+            "de ➤ kino&serien"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Dexter",
+        "id": "dedexter",
+        "logo": "https://i.ibb.co/NnHcdZFd/image.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/862751.ts",
         "categories": [
             "de ➤ kino&serien"
         ],

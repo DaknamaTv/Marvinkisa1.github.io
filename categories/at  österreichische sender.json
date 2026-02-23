@@ -1,0 +1,22 @@
+[
+    {
+        "name": "AT: Orf 3 HEVC",
+        "id": "atorf3hevc",
+        "logo": "http://135.125.239.110/icon/221133.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/863287.ts",
+        "categories": [
+            "at ➤ österreichische sender"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AT: TLC HEVC",
+        "id": "attlchevc",
+        "logo": "http://135.125.239.110/icon/718006.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/863339.ts",
+        "categories": [
+            "at ➤ österreichische sender"
+        ],
+        "country": ""
+    }
+]

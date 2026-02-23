@@ -179,5 +179,15 @@
             "music"
         ],
         "country": "ZA"
+    },
+    {
+        "name": "Cinema Hausa",
+        "id": "CinemaHausa.za",
+        "logo": "https://i.imgur.com/uV5cHDW.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/video.m3u8?ads.vf=v-YPzZubeoG",
+        "categories": [
+            "movies"
+        ],
+        "country": "ZA"
     }
 ]

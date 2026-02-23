@@ -619,5 +619,13 @@
             "music"
         ],
         "country": "FR"
+    },
+    {
+        "name": "Telenantes",
+        "id": "Telenantes.fr",
+        "logo": "https://i.imgur.com/G1SCqNI.png",
+        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8",
+        "categories": [],
+        "country": "FR"
     }
 ]

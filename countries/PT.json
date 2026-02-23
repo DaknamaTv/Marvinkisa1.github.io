@@ -140,5 +140,85 @@
             "religious"
         ],
         "country": "PT"
+    },
+    {
+        "name": "Kuriakos TV",
+        "id": "KuriakosTV.pt",
+        "logo": "https://i.imgur.com/xdAW0D5.png",
+        "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "Mana Igreja Online",
+        "id": "ManaIgrejaOnline.pt",
+        "logo": "https://i.imgur.com/0IUvfcJ.png",
+        "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana 1",
+        "id": "TVMana1.pt",
+        "logo": "https://i.imgur.com/6jNqpTP.png",
+        "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana 2",
+        "id": "TVMana2.pt",
+        "logo": "https://i.imgur.com/VYNjVov.png",
+        "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana Brasil",
+        "id": "TVManaBrasil.pt",
+        "logo": "https://i.imgur.com/AFb712e.png",
+        "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana English",
+        "id": "TVManaEnglish.pt",
+        "logo": "https://i.imgur.com/I66IkCw.png",
+        "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana Espanhol",
+        "id": "TVManaEspanhol.pt",
+        "logo": "https://i.imgur.com/sUlrSwP.png",
+        "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
+    },
+    {
+        "name": "TV Mana Russkiy",
+        "id": "TVManaRusskiy.pt",
+        "logo": "https://i.imgur.com/fACHqmY.png",
+        "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PT"
     }
 ]

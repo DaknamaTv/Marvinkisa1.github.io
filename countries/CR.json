@@ -97,16 +97,6 @@
         "country": "CR"
     },
     {
-        "name": "IQ Channel",
-        "id": "IQChannel.cr",
-        "logo": "https://i.imgur.com/hwuaomt.png",
-        "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "RTV Chirripo",
         "id": "RTVChirripo.cr",
         "logo": "https://i.imgur.com/XWmwwbj.jpg",
@@ -276,16 +266,6 @@
         "country": "CR"
     },
     {
-        "name": "San Jose TV",
-        "id": "SanJoseTV.cr",
-        "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
-        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "NicoyaTV",
         "id": "NicoyaTV.cr",
         "logo": "https://i.imgur.com/Lj2jRn3.png",
@@ -421,12 +401,12 @@
         "country": "CR"
     },
     {
-        "name": "Vintage Music",
-        "id": "VintageMusic.cr",
-        "logo": "https://i.imgur.com/KImqYnN.jpeg",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "name": "Radio Turrialba TV Sports",
+        "id": "RadioTurrialbaTVSports.cr",
+        "logo": "https://i.imgur.com/2ZcUXbE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8",
         "categories": [
-            "music"
+            "sports"
         ],
         "country": "CR"
     }

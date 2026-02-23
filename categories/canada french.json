@@ -1,129 +1,39 @@
 [
     {
-        "name": "CA (FR) LCN (E)",
-        "id": "cafrlcne",
-        "logo": "https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/lcn_sept2020.png",
-        "url": "http://xxip25.top:8080/c1E50nv/32NYwus8o2/57968",
+        "name": "CA-FR | MOI ET CIE",
+        "id": "cafrmoietcie",
+        "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/57487",
         "categories": [
             "canada french"
         ],
         "country": ""
     },
     {
-        "name": "CA (FR) Super Ecran 2 SD (P)",
-        "id": "cafrsuperecran2sdp",
+        "name": "CA (FR) Super Ecran 4 SD (P)",
+        "id": "cafrsuperecran4sdp",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
-        "url": "http://xxip25.top:8080/c1E50nv/32NYwus8o2/66364",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/66366",
         "categories": [
             "canada french"
         ],
         "country": ""
     },
     {
-        "name": "CA (FR) CinePOP SD (P)",
-        "id": "cafrcinepopsdp",
-        "logo": "https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Cin%C3%A9Pop.png",
-        "url": "http://xxip25.top:8080/r31BP4/588433/57480",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA-FR | RDS INFO",
-        "id": "cafrrdsinfo",
-        "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
-        "url": "http://xxip25.top:8080/r31BP4/588433/57491",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA: TFO  (FR)",
-        "id": "catfofr",
+        "name": "CA (FR) Canal Vie HD",
+        "id": "cafrcanalviehd",
         "logo": "",
-        "url": "http://xxip25.top:8080/r31BP4/588433/57291",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/116947",
         "categories": [
             "canada french"
         ],
         "country": ""
     },
     {
-        "name": "CA (FR) RDI (E)",
-        "id": "cafrrdie",
+        "name": "CA (FR) addikTV HD (B)",
+        "id": "cafraddiktvhdb",
         "logo": "",
-        "url": "http://xxip25.top:8080/r31BP4/588433/126723",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) Canal D SD (P)",
-        "id": "cafrcanaldsdp",
-        "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/CanalD2016_RGB.png",
-        "url": "http://xxip25.top:8080/46028598/62533224/57479",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA-FR | TVA SPORTS 1",
-        "id": "cafrtvasports1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",
-        "url": "http://xxip25.top:8080/46028598/62533224/57498",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) TV5",
-        "id": "cafrtv5",
-        "logo": "",
-        "url": "http://xxip25.top:8080/46028598/62533224/57288",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) RDS (R)",
-        "id": "cafrrdsr",
-        "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png",
-        "url": "http://xxip25.top:8080/46028598/62533224/57325",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA:TELE QUEBEC (FR)",
-        "id": "catelequebecfr",
-        "logo": "https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/telequebec.png",
-        "url": "http://xxip25.top:8080/46028598/62533224/57336",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) Historia HD",
-        "id": "cafrhistoriahd",
-        "logo": "https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png",
-        "url": "http://xxip25.top:8080/hVvwU8/670199/57483",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) ICI RDI (D)",
-        "id": "cafricirdid",
-        "logo": "",
-        "url": "http://xxip25.top:8080/hVvwU8/670199/164369",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/168466",
         "categories": [
             "canada french"
         ],

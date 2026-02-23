@@ -1,199 +1,29 @@
 [
     {
-        "name": "TR: NOW HEVC",
-        "id": "trnowhevc",
-        "logo": "https://i.ibb.co/dsMMKCXw/14.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/teremovas/KjT3jfrPec/866534.ts",
+        "name": "TR: A Haber HEVC",
+        "id": "trahaberhevc",
+        "logo": "https://i.ibb.co/M5t3ygHD/32.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/866558.ts",
         "categories": [
             "tr ➤ [ hevc ]"
         ],
         "country": ""
     },
     {
-        "name": "TR: Spor Smart HEVC",
-        "id": "trsporsmarthevc",
-        "logo": "https://i.ibb.co/C5RnpKcT/22.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/teremovas/KjT3jfrPec/866542.ts",
+        "name": "TR: Discovery Channel HEVC",
+        "id": "trdiscoverychannelhevc",
+        "logo": "https://i.ibb.co/5gHnqgpx/ibNKHZg.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/866565.ts",
         "categories": [
             "tr ➤ [ hevc ]"
         ],
         "country": ""
     },
     {
-        "name": "TR: TRT Spor HEVC",
-        "id": "trtrtsporhevc",
-        "logo": "https://i.ibb.co/DDr2n0mT/TRTSPORFHD.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/teremovas/KjT3jfrPec/866546.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Kanal D HEVC",
-        "id": "trkanaldhevc",
-        "logo": "https://i.ibb.co/d4Mf0YpR/10.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866531.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TV 8.5 HEVC",
-        "id": "trtv85hevc",
-        "logo": "https://i.ibb.co/YBtNc959/22.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866536.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Beyaz TV HEVC",
-        "id": "trbeyaztvhevc",
-        "logo": "https://i.ibb.co/jvYHkN2t/16.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866540.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT Spor Yıldız HEVC",
-        "id": "trtrtsporyldzhevc",
-        "logo": "https://i.ibb.co/9mX4CQtF/TRT-SPOR-YILDIZ.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866547.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Sözcü TV HEVC",
-        "id": "trszctvhevc",
-        "logo": "https://i.ibb.co/spDsNM5J/SOZCU.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866549.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Haber Turk  HEVC",
-        "id": "trhaberturkhevc",
-        "logo": "https://i.ibb.co/rR1vqbZh/38.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866559.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: FX HEVC",
-        "id": "trfxhevc",
-        "logo": "https://i.ibb.co/9m2m7fJw/7wiZCnr.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/866569.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR • Hevc",
-        "id": "trhevc",
-        "logo": "https://i.ibb.co/3myN7RWp/png-transparent-turkish-flag-symbol-flag-of-turkey-national-emblem-of-turkey-national-flag-crescent.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/ali564/mmXdTrvUEN/871111.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Halk TV HEVC",
-        "id": "trhalktvhevc",
-        "logo": "https://i.ibb.co/ymZ65tyF/HALK.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/866550.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: National Geographic HEVC",
-        "id": "trnationalgeographichevc",
-        "logo": "https://i.ibb.co/sJDgvdRw/68lU2b7.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/866564.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: DMAX HEVC",
-        "id": "trdmaxhevc",
-        "logo": "https://i.ibb.co/27SL9tG4/a4UcvTF.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/866566.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Viasat History HEVC",
-        "id": "trviasathistoryhevc",
-        "logo": "https://i.ibb.co/vC77HLhh/UaKY4bv.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/866567.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT 4K HEVC",
-        "id": "trtrt4khevc",
-        "logo": "https://i.ibb.co/LdFtXNPw/2.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/866528.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT 1 HEVC",
-        "id": "trtrt1hevc",
-        "logo": "https://i.ibb.co/4wBJHRG1/2.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/866529.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: KRT HEVC",
-        "id": "trkrthevc",
-        "logo": "https://i.ibb.co/tTjDCHxj/KRT.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/866551.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: NTV HEVC",
-        "id": "trntvhevc",
-        "logo": "https://i.ibb.co/YBT3FtJD/30.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/msahmet51/akacmaz0101/866554.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Nat Geo Wild  HEVC",
-        "id": "trnatgeowildhevc",
-        "logo": "https://i.ibb.co/Z5Vq41N/sLVc4UA.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/msahmet51/akacmaz0101/866563.ts",
+        "name": "TR: Cnn Turk HEVC",
+        "id": "trcnnturkhevc",
+        "logo": "https://i.ibb.co/RkgHGRp3/34.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/emreakbal35/17082022/866557.ts",
         "categories": [
             "tr ➤ [ hevc ]"
         ],

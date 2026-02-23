@@ -386,16 +386,6 @@
         "country": "CL"
     },
     {
-        "name": "TVU",
-        "id": "TVU.cl",
-        "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
-        "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "SUR TV",
         "id": "SURTV.cl",
         "logo": "https://i.imgur.com/wDCqoor.png",
@@ -592,6 +582,16 @@
         "url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "categories": [
+            "culture"
         ],
         "country": "CL"
     }

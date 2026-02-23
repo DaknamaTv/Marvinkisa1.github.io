@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "UK MOVIES: SKY CINEMA DRAMA",
-        "id": "ukmoviesskycinemadrama",
-        "logo": "",
-        "url": "http://fortv.cc:8080/54056296/42141914/35251",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
         "name": "US More Max",
         "id": "usmoremax",
         "logo": "https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png",
@@ -294,6 +284,16 @@
         "id": "usshowtimeeast",
         "logo": "",
         "url": "http://xxip25.top:8080/hVvwU8/670199/46214",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK Sky Cinema Scifi & Horror FHD",
+        "id": "ukskycinemascifihorrorfhd",
+        "logo": "",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/35248",
         "categories": [
             "movie networks"
         ],
