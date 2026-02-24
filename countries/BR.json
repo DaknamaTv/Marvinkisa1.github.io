@@ -823,16 +823,6 @@
         "country": "BR"
     },
     {
-        "name": "SBT Interior",
-        "id": "SBTInterior.br",
-        "logo": "https://i.imgur.com/IkZfa4j.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Brusque",
         "id": "TVBrusque.br",
         "logo": "https://i.imgur.com/J2EAZPS.png",
@@ -1000,41 +990,52 @@
         "country": "BR"
     },
     {
-        "name": "Canal do Inter",
-        "id": "CanaldoInter.br",
-        "logo": "https://i.imgur.com/TQFWEIS.png",
-        "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVE Bahia",
-        "id": "TVEBahia.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png",
-        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sandegi",
         "id": "TVSandegi.br",
         "logo": "https://i.imgur.com/vJ6ZQSG.png",
         "url": "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "BDC TV",
+        "id": "BDCTV.br",
+        "logo": "https://i.imgur.com/6ckHV6k.jpeg",
+        "url": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Cultura Para",
+        "id": "CulturaPara.br",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "RBATV",
+        "id": "RBATV.br",
+        "logo": "https://i.imgur.com/ZWFxlU1.png",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Aparecida",
+        "id": "TVAparecida.br",
+        "logo": "https://i.imgur.com/kxrja0X.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "BR"
     }

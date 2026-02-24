@@ -520,6 +520,16 @@
         "country": "AR"
     },
     {
+        "name": "24/7 Canal de Noticias",
+        "id": "247CanaldeNoticias.ar",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "News 24",
         "id": "News24.al",
         "logo": "https://i.imgur.com/eG33jue.png",
@@ -765,41 +775,6 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3719,6 +3694,26 @@
         "country": "IN"
     },
     {
+        "name": "Awaaz India TV",
+        "id": "AwaazIndiaTV.in",
+        "logo": "https://i.imgur.com/eKQs51V.png",
+        "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Chardikla Gurbaani TV",
+        "id": "ChardiklaGurbaaniTV.in",
+        "logo": "https://i.imgur.com/NXD8CPq.png",
+        "url": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Observator News",
         "id": "ObservatorNews.ro",
         "logo": "https://i.imgur.com/f6xEIAr.png",
@@ -3793,16 +3788,6 @@
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Euronews Romania",
-        "id": "EuronewsRomania.ro",
-        "logo": "https://i.imgur.com/jUOVUXt.png",
-        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
         "categories": [
             "news"
         ],
@@ -4705,6 +4690,17 @@
         "country": "MX"
     },
     {
+        "name": "PSN",
+        "id": "PSN.mx",
+        "logo": "https://i.imgur.com/7i7GkSL.png",
+        "url": "https://srspsn.live/live/livestream.m3u8",
+        "categories": [
+            "entertainment",
+            "news"
+        ],
+        "country": "MX"
+    },
+    {
         "name": "Guardian Talk Radio",
         "id": "GuardianTalkRadio.bs",
         "logo": "https://i.imgur.com/o3cWUwL.png",
@@ -5088,18 +5084,6 @@
         "country": "BO"
     },
     {
-        "name": "Unifranz",
-        "id": "Unifranz.bo",
-        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "categories": [
-            "education",
-            "entertainment",
-            "news"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "CEACOM TV",
         "id": "CEACOMTV.bo",
         "logo": "https://i.imgur.com/hutdRfk.png",
@@ -5249,6 +5233,16 @@
         "id": "PalestineAlYawm.lb",
         "logo": "https://i.imgur.com/n8dSgx4.png",
         "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "Al-Manar",
+        "id": "AlManar.lb",
+        "logo": "https://i.imgur.com/sOQLV7L.png",
+        "url": "https://edge.fastpublish.me/live/index.m3u8",
         "categories": [
             "news"
         ],
@@ -5666,18 +5660,6 @@
         "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
         ],
         "country": "ID"
     },

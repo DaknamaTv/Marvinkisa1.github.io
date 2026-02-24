@@ -18,16 +18,6 @@
         "country": "LB"
     },
     {
-        "name": "Al Ittihad TV",
-        "id": "AlIttihadTV.lb",
-        "logo": "https://i.imgur.com/QMUjPXx.png",
-        "url": "https://live.alittihad.tv:444/ittihad/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "ALWifak News TV",
         "id": "ALWifakNewsTV.lb",
         "logo": "https://i.imgur.com/1vqhmNz.png",
@@ -92,6 +82,16 @@
         "id": "PalestineAlYawm.lb",
         "logo": "https://i.imgur.com/n8dSgx4.png",
         "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "Al-Manar",
+        "id": "AlManar.lb",
+        "logo": "https://i.imgur.com/sOQLV7L.png",
+        "url": "https://edge.fastpublish.me/live/index.m3u8",
         "categories": [
             "news"
         ],

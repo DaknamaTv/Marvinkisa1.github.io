@@ -9333,16 +9333,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Tropical Music TV",
         "id": "TropicalMusicTV.us",
         "logo": "https://i.imgur.com/h48pwLn.png",
@@ -9563,16 +9553,6 @@
         "country": "US"
     },
     {
-        "name": "Fox Sport 1 4K+",
-        "id": "FoxSport14K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15922",
-        "categories": [
-            "us : sport"
-        ],
-        "country": "US"
-    },
-    {
         "name": "NBA 4K+",
         "id": "NBA4K.us",
         "logo": "",
@@ -9699,16 +9679,6 @@
         "country": "US"
     },
     {
-        "name": "KTVK-DT1",
-        "id": "KTVKDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Albdreams TV",
         "id": "AlbdreamsTV.us",
         "logo": "https://i.imgur.com/3VWF3sj.png",
@@ -9719,23 +9689,21 @@
         "country": "US"
     },
     {
-        "name": "NFL RedZone",
-        "id": "NFLRedZone.us",
-        "logo": "https://i.imgur.com/5lPqQj5.png",
-        "url": "https://tvpass.org/live/NFLRedZone/sd",
+        "name": "Nick Jr. Latin America",
+        "id": "NickJrLatinAmerica.us",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "url": "http://38.199.6.1:17001/play/a0pb/index.m3u8",
         "categories": [
-            "sports"
+            "kids"
         ],
         "country": "US"
     },
     {
-        "name": "TV Quisqueya",
-        "id": "TVQuisqueya.us",
-        "logo": "https://i.imgur.com/G7X4LQI.png",
-        "url": "https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8",
-        "categories": [
-            "general"
-        ],
+        "name": "Real America's Voice",
+        "id": "RealAmericasVoice.us",
+        "logo": "https://i.imgur.com/l7tmTjX.png",
+        "url": "https://jmp2.uk/stvp-USBB1900002KF",
+        "categories": [],
         "country": "US"
     }
 ]

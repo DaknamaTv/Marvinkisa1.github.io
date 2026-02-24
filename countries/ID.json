@@ -271,18 +271,6 @@
         "country": "ID"
     },
     {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "BeritaSatu English",
         "id": "BeritaSatuEnglish.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/2560px-BeritaSatu_%28Flat%29.svg.png",
@@ -452,14 +440,6 @@
         "categories": [
             "general"
         ],
-        "country": "ID"
-    },
-    {
-        "name": "SMTV",
-        "id": "SMTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png",
-        "url": "https://e.siar.us/live/smtv.m3u8",
-        "categories": [],
         "country": "ID"
     },
     {
@@ -643,14 +623,6 @@
         "country": "ID"
     },
     {
-        "name": "Salam TV",
-        "id": "SalamTV.id",
-        "logo": "https://i.imgur.com/00Ifzgo.png",
-        "url": "https://salamtv.siar.us/live/salamtv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Al-Iman TV",
         "id": "AlImanTV.id",
         "logo": "https://i.imgur.com/Qj1EFf1.png",
@@ -685,40 +657,6 @@
         "id": "TVTabalong.id",
         "logo": "https://i.imgur.com/2YhDH98.png",
         "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Banten TV",
-        "id": "BantenTV.id",
-        "logo": "https://i.imgur.com/tbtF40p.png",
-        "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "BMS TV",
-        "id": "BMSTV.id",
-        "logo": "https://i.imgur.com/snMxng5.png",
-        "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "Jambi TV",
-        "id": "JambiTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png",
-        "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Surabaya TV",
-        "id": "SurabayaTV.id",
-        "logo": "https://i.imgur.com/jlss2ll.png",
-        "url": "https://e.siar.us/live/surabayatv.m3u8",
         "categories": [],
         "country": "ID"
     },
@@ -761,6 +699,14 @@
         "id": "WesalTV.id",
         "logo": "https://i.imgur.com/Uv8RWks.png",
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "TV Mu",
+        "id": "TVMu.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png",
+        "url": "https://e.siar.us/live/tvmu.m3u8",
         "categories": [],
         "country": "ID"
     }

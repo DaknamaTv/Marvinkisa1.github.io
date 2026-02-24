@@ -100,16 +100,6 @@
         "country": ""
     },
     {
-        "name": "CN3 Pinamar (720p) [Not 24/7]",
-        "id": "cn3pinamar720pnot247",
-        "logo": "https://i.imgur.com/IABFaH1.png",
-        "url": "https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8",
-        "categories": [
-            "→ argentina ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Cosmos TV (720p)",
         "id": "cosmostv720p",
         "logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
@@ -120,50 +110,10 @@
         "country": ""
     },
     {
-        "name": "Diputados TV (1080p) [Not 24/7]",
-        "id": "diputadostv1080pnot247",
-        "logo": "https://i.imgur.com/UscKOIc.png",
-        "url": "https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8",
-        "categories": [
-            "→ argentina ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "El Doce (1080p) [Not 24/7]",
-        "id": "eldoce1080pnot247",
-        "logo": "https://i.imgur.com/HfyKPpD.png",
-        "url": "https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8",
-        "categories": [
-            "→ argentina ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "El Once (1080p) [Not 24/7]",
-        "id": "elonce1080pnot247",
-        "logo": "https://i.imgur.com/sm2oUGF.png",
-        "url": "https://ythls.armelin.one/channel/UCWzsoIEZLGLinhYrm66VD4Q.m3u8",
-        "categories": [
-            "→ argentina ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Milennio TV (720p)",
         "id": "milenniotv720p",
         "logo": "https://i.ibb.co/0C5ZpfP/7-LPSf1-Th-400x400.jpg",
         "url": "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8",
-        "categories": [
-            "→ argentina ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Telpin TV (1080p) [Not 24/7]",
-        "id": "telpintv1080pnot247",
-        "logo": "https://i.imgur.com/qcVSZvo.png",
-        "url": "https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8",
         "categories": [
             "→ argentina ←"
         ],

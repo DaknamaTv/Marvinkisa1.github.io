@@ -1,35 +1,5 @@
 [
     {
-        "name": "RTP 1 HD",
-        "id": "rtp1hd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/RTP%201.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1604",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTP 1",
-        "id": "rtp1",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/RTP%201.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1600",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTP 3 HD",
-        "id": "rtp3hd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/RTP%203.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1479",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
         "name": "RTP 3",
         "id": "rtp3",
         "logo": "http://channelart.8b90287dn2.online/images/logos/RTP%203.png",
@@ -40,180 +10,10 @@
         "country": ""
     },
     {
-        "name": "RTP Acores",
-        "id": "rtpacores",
-        "logo": "https://prinplay.com.br/server/RTP%20A%C3%A7ores.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1498",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTP Africa",
-        "id": "rtpafrica",
-        "logo": "https://prinplay.com.br/server/RTP%20%C3%81frica.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1501",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RTP Madeira",
-        "id": "rtpmadeira",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/RTP%20Madeira.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1500",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CNN Portugal",
-        "id": "cnnportugal",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/CNN.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/75838",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVCine Emotion",
-        "id": "tvcineemotion",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/TVCine%20Emotion.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1549",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TVCine Action HD",
-        "id": "tvcineactionhd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/TVCine%20Action.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1550",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AXN White HD",
-        "id": "axnwhitehd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/AXN%20White.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1557",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Comedy HD",
-        "id": "starcomedyhd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Fox%20Comedy.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1563",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Movies HD",
-        "id": "starmovieshd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Fox%20Movies.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1565",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hollywood",
-        "id": "hollywood",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Canal%20Hollywood.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1567",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cartoon Network",
-        "id": "cartoonnetwork",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Cartoon%20Network.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1505",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Disney Channel³",
-        "id": "disneychannel",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Disney%20Channel.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1510",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MCM Pop",
-        "id": "mcmpop",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/MCM%20Pop.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1593",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SIC Caras HD",
-        "id": "siccarashd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Sic%20Caras.png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/51991",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Disney Junior HD",
-        "id": "disneyjuniorhd",
-        "logo": "http://channelart.8b90287dn2.online/images/logos/Disney%20Jr..png",
-        "url": "http://ibo.playmove.org:80/wTmn9BSNtM/juReyzAKDQ/1511",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
         "name": "PT: ELEVEN SPORTS 3 HD",
         "id": "ptelevensports3hd",
         "logo": "",
         "url": "http://xxip25.top:8080/r31BP4/588433/167748",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PT: TV GLOBO HD",
-        "id": "pttvglobohd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/hVvwU8/670199/164824",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PT: SPORT TV 3 HD",
-        "id": "ptsporttv3hd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/hVvwU8/670199/167744",
         "categories": [
             "portugal"
         ],
@@ -240,40 +40,10 @@
         "country": ""
     },
     {
-        "name": "PT: CNN HD",
-        "id": "ptcnnhd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/AHy3c7/745580/164802",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
         "name": "PT: AXN WHITE FHD",
         "id": "ptaxnwhitefhd",
         "logo": "",
         "url": "http://xxip25.top:8080/AHy3c7/745580/164815",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PT: RTP 1 FHD",
-        "id": "ptrtp1fhd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/46028598/62533224/164792",
-        "categories": [
-            "portugal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PT: SPORT TV 4 FHD",
-        "id": "ptsporttv4fhd",
-        "logo": "",
-        "url": "http://xxip25.top:8080/46028598/62533224/167745",
         "categories": [
             "portugal"
         ],

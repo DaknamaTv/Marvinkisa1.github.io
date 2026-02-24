@@ -3520,16 +3520,6 @@
         "country": "IN"
     },
     {
-        "name": "Odisha TV",
-        "id": "OdishaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png",
-        "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Box Cinema",
         "id": "BoxCinema.in",
         "logo": "https://i.imgur.com/LGJlmtp.png",
@@ -4300,16 +4290,6 @@
         "country": "IN"
     },
     {
-        "name": "Hebron TV",
-        "id": "HebronTV.in",
-        "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
-        "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Marutam TV",
         "id": "MarutamTV.in",
         "logo": "https://i.imgur.com/cFNw4Af.png",
@@ -5017,6 +4997,46 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4",
         "categories": [
             "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Awaaz India TV",
+        "id": "AwaazIndiaTV.in",
+        "logo": "https://i.imgur.com/eKQs51V.png",
+        "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Chardikla Gurbaani TV",
+        "id": "ChardiklaGurbaaniTV.in",
+        "logo": "https://i.imgur.com/NXD8CPq.png",
+        "url": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Dhamaka Movies B4U",
+        "id": "DhamakaMoviesB4U.in",
+        "logo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
+        "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "IN"
     }

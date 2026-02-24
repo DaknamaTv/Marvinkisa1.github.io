@@ -120,16 +120,6 @@
         "country": ""
     },
     {
-        "name": "Canal 2 Telpin - Pinamar",
-        "id": "canal2telpinpinamar",
-        "logo": "https://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png",
-        "url": "https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8",
-        "categories": [
-            "argentina"
-        ],
-        "country": ""
-    },
-    {
         "name": "Canal 4 - Esquel",
         "id": "canal4esquel",
         "logo": "http://www.canal4tv.net/assets/images/canal4-233x128.jpg",

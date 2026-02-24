@@ -104,6 +104,16 @@
         "country": "DO"
     },
     {
+        "name": "Chinola TV",
+        "id": "ChinolaTV.do",
+        "logo": "https://i.imgur.com/ybud4dI.png",
+        "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Mr Bean Live Action",
         "id": "MrBeanLiveAction.uk",
         "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
@@ -660,6 +670,16 @@
         "id": "TurmadaMonica.us",
         "logo": "https://i.imgur.com/nrvPPrW.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e79e465c-ce68-4801-a0e2-cead4952a6fd",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nick Jr. Latin America",
+        "id": "NickJrLatinAmerica.us",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "url": "http://38.199.6.1:17001/play/a0pb/index.m3u8",
         "categories": [
             "kids"
         ],

@@ -838,5 +838,145 @@
             "-"
         ],
         "country": ""
+    },
+    {
+        "name": "ESPN3 HD",
+        "id": "espn3hd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0ps/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "39 TV",
+        "id": "39tv",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/axrv/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "A1 TV",
+        "id": "a1tv",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0rz/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Baby TV",
+        "id": "babytv",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0pz/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CR TV",
+        "id": "crtv",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0rt/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Discovery Channel  HD",
+        "id": "discoverychannelhd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Discovery Kids HD",
+        "id": "discoverykidshd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0pv/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ESPN4 HD",
+        "id": "espn4hd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0og/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Eurochannel",
+        "id": "eurochannel",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0rd/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO Family HD",
+        "id": "hbofamilyhd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0nv/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO POP",
+        "id": "hbopop",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0on/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Space HD",
+        "id": "spacehd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0ma/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Star Channel HD",
+        "id": "starchannelhd",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0oh/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TELE LIMA",
+        "id": "telelima",
+        "logo": "",
+        "url": "http://181.224.255.210:8001/play/a0rp/index.m3u8",
+        "categories": [
+            "-"
+        ],
+        "country": ""
     }
 ]

@@ -1230,6 +1230,26 @@
         "country": "IN"
     },
     {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Dhamaka Movies B4U",
+        "id": "DhamakaMoviesB4U.in",
+        "logo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
+        "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Memorias TV Film",
         "id": "MemoriasTVFilm.co",
         "logo": "https://i.imgur.com/vNfjW6Y.png",

@@ -3268,5 +3268,295 @@
             "bd"
         ],
         "country": ""
+    },
+    {
+        "name": "Awaaz India",
+        "id": "awaazindia",
+        "logo": "https://s3.aynaott.com/storage/6f17785db48e7b5fb68b7d441ad3ad10",
+        "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "euro sports",
+        "id": "eurosports",
+        "logo": "https://tvassets.roarzone.info/images/euro_sports_hd.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=fff1fde503f134b84b489a754fe71460f6785330-853f4064bb4cb3879888c99c226da1ee-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ten cricket",
+        "id": "tencricket",
+        "logo": "https://tvassets.roarzone.info/images/ten_cricket.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/index.m3u8?token=e77c3a882bcaef2bf868d09cfbcc35fdad9d8361-38fedd79ed6bc1e01dc90604ce2d9543-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sony tv",
+        "id": "sonytv",
+        "logo": "https://tvassets.roarzone.info/images/38.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=da8e6d6ee85852bdb7cf88fa4944cb33ff0fd19a-2fa3bb160b42afc35c3922cd34e8bf01-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "and tv hd",
+        "id": "andtvhd",
+        "logo": "https://tvassets.roarzone.info/images/74.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/tv-hd/index.m3u8?token=731a20fc396c209a363fcb4b2bdedca5b8571fec-da1e61198229feee28f78b79b03ab707-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "and pictures",
+        "id": "andpictures",
+        "logo": "https://tvassets.roarzone.info/images/100.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/index.m3u8?token=52d508653836a85d5efe0fd4d3b9661f7b65f0fb-c6f167e1eb233eeed22e9bc32be89a2b-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hum tv",
+        "id": "humtv",
+        "logo": "https://tvassets.roarzone.info/images/humtv.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/hum/index.m3u8?token=b7a8d863e5c36c512ccb3a3ba70ed031faa275d2-204908d313d322be6ae01eb02464ad86-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hum masala",
+        "id": "hummasala",
+        "logo": "https://tvassets.roarzone.info/images/hummasala.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/hum-masala/index.m3u8?token=c6d753153292ec96a4c8a173ce79341f4e74c641-64f2945a5e968cfb3d7b13d83c314c19-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hum sitarey",
+        "id": "humsitarey",
+        "logo": "https://tvassets.roarzone.info/images/humsitarey.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/index.m3u8?token=f8f639d4c8699cac0746b8cdceb04257bd12c965-f8a39b868c07b36a83a2e4125eb98a93-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "discovery hd",
+        "id": "discoveryhd",
+        "logo": "https://tvassets.roarzone.info/images/43.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=fb62dce680e8254702a9b5c3636d48b075b65080-737e32c0d5cc03e54d9ffb7fd7a508f8-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "discovery hd investigation",
+        "id": "discoveryhdinvestigation",
+        "logo": "https://tvassets.roarzone.info/images/discoveryhdInvestigation.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=4406f40df549bec06537e751ad0177ae4102d29c-99a047342f7a2f61bd82c45a33480c06-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "zee bangla",
+        "id": "zeebangla",
+        "logo": "https://tvassets.roarzone.info/images/34.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/index.m3u8?token=18507ab64ff0bb83d07b6d4901f7734f49ea301b-ae65a9883146ccc56a9a40c51cbcd331-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "zee bangla cinema",
+        "id": "zeebanglacinema",
+        "logo": "https://tvassets.roarzone.info/images/29.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8?token=5639538ef020a42d38ad892a9dde2d279944bd28-a6b251cb62033908dd8d23e48e0e1005-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "pogo",
+        "id": "pogo",
+        "logo": "https://tvassets.roarzone.info/images/pogo.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/pogo/index.m3u8?token=93e01aa6a2d075ff3a2b1d6a99d97c922fddce93-23cd31653c0ee43c25be7adb1293d03c-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "tlc hd",
+        "id": "tlchd",
+        "logo": "https://tvassets.roarzone.info/images/tlc-hd.webp",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/tlc-hd/index.m3u8?token=6ecb983252d5f2726787561fb435cc6492bf8030-9fef6ac66c745e8b96aa627cc2391e8e-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "zing",
+        "id": "zing",
+        "logo": "https://tvassets.roarzone.info/images/93.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/zing/index.m3u8?token=c1e7e689f3d1a7e55a2d8345675dd56422e9a1fe-f8fe9c3232e80f050cbf75b8794aa00e-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "jamuna tv",
+        "id": "jamunatv",
+        "logo": "https://tvassets.roarzone.info/images/13.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/jamuna-tv/index.m3u8?token=a2b965f5e83a8bf35defaec406b82f61405c3bfc-87ae3b508d224da3d43a2b2ebdd90922-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "channel s",
+        "id": "channels",
+        "logo": "https://tvassets.roarzone.info/images/channel-s.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8?token=bb7ed26c53665af550ec460742a3771038be89f2-b622f36626df6be0da8128751fd984f0-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "somoy tv",
+        "id": "somoytv",
+        "logo": "https://tvassets.roarzone.info/images/17.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/somoy-tv/index.m3u8?token=4454ad0e26f8da141edcadbf53329d141f87a579-c818f4261b37f9d11b8284ad68ea040d-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "asian tv",
+        "id": "asiantv",
+        "logo": "https://tvassets.roarzone.info/images/62.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8?token=1ecffadcf1d59340ff7dc944e7eaa93c7e4904f9-c240b02905504a1cf6695c9a65d02eff-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "global tv",
+        "id": "globaltv",
+        "logo": "https://tvassets.roarzone.info/images/global-tv.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=6c6d5917fa1cb9f3198b58fa16eb0cc4858ed9f2-88248b6e38278c52dbd214f86eddf221-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ananda tv",
+        "id": "anandatv",
+        "logo": "https://tvassets.roarzone.info/images/16.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8?token=168a78dcafcc5206656f52197be8fac571cf4f24-3246ec73ece160cd1c291e65f70e728e-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "bangla tv",
+        "id": "banglatv",
+        "logo": "https://tvassets.roarzone.info/images/19.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8?token=09c107a1fa64254d367a6a5665aa0f4aa8a59efa-5907c263eeb4b6d3611f751710f5a850-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "channel i",
+        "id": "channeli",
+        "logo": "https://tvassets.roarzone.info/images/6.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8?token=76f59071998985dae4e24b1c02a58eb8ca4641fb-ecbaefe0a9a9ea958f37f13b1b59e0e1-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ekattor tv",
+        "id": "ekattortv",
+        "logo": "https://tvassets.roarzone.info/images/11.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=f2bf39ea3e97cdd2fcdb8020bb4462b8b6e0506f-6f3108c318284b0f9a73689320b97aaa-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "independent tv",
+        "id": "independenttv",
+        "logo": "https://tvassets.roarzone.info/images/12.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/independent-tv/index.m3u8?token=db12e1d764bd40d1a0dc6acddb930b219b22dd5e-1019746941345b8ecd3d28f77adc8309-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "movie bangla tv",
+        "id": "moviebanglatv",
+        "logo": "https://tvassets.roarzone.info/images/86.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/index.m3u8?token=e5788f59cff7075e635514c266e16ea976786c53-b10fda5e70343640694e470dd0aae084-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ekhon",
+        "id": "ekhon",
+        "logo": "https://tvassets.roarzone.info/images/ekhon-tv.jpg",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ekhon-tv/index.m3u8?token=1e48e532e1f0ca8707d8673bb2e5bf1916a0018d-a6d656ac3c76dfc969b8a6a5d18f1604-1771958651-1771955051",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "E24",
+        "id": "e24",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
     }
 ]

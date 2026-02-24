@@ -1,12 +1,474 @@
 [
     {
-        "name": "24/7: MR BEAN",
-        "id": "247mrbean",
-        "logo": "https://i.postimg.cc/Dzntck27/24y7.png",
-        "url": "http://fastream.xyz:8080/6892008847/9BX8V7c88gb78/703",
+        "name": "24/7  Variedad",
+        "id": "247variedad",
+        "logo": "https://i.postimg.cc/NGX1xdsf/247.png",
+        "url": "http://matrivagoweb.xyz:8080/2616733/123456/217069",
         "categories": [
-            "→ 24",
-            "7 ←"
+            "canales 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 TOONS CLASICO",
+        "id": "247toonsclasico",
+        "logo": "https://i.postimg.cc/NGX1xdsf/247.png",
+        "url": "http://matrivagoweb.xyz:8080/2616733/123456/217074",
+        "categories": [
+            "canales 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: LOS SIMPSONS",
+        "id": "247lossimpsons",
+        "logo": "https://i.postimg.cc/NGX1xdsf/247.png",
+        "url": "http://matrivagoweb.xyz:8080/115375/123456/83476",
+        "categories": [
+            "canales 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 Dragon Ball Zone",
+        "id": "247dragonballzone",
+        "logo": "https://i.postimg.cc/NGX1xdsf/247.png",
+        "url": "http://matrivagoweb.xyz:8080/115375/123456/83462",
+        "categories": [
+            "canales 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 NETFLIX",
+        "id": "247netflix",
+        "logo": "https://i.postimg.cc/NGX1xdsf/247.png",
+        "url": "http://matrivagoweb.xyz:8080/115375/123456/217065",
+        "categories": [
+            "canales 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Adriano Celentano Channel",
+        "id": "adrianocelentanochannel",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",
+        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/817170.ts",
+        "categories": [
+            "it - tematici film 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Alberto Sordi Channel",
+        "id": "albertosordichannel",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",
+        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/817171.ts",
+        "categories": [
+            "it - tematici film 24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Archer",
+        "id": "247archer",
+        "logo": "http://onlytimewilltell.xyz:2086/images/97c9858dc94bfa2171570f74c20915ed.jpg",
+        "url": "http://bedroombullyonline.com:5050/pupbailey37@gmail.com/3sRcDEHk39/681817",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: 100 Foot Wave",
+        "id": "247100footwave",
+        "logo": "http://onlytimewilltell.xyz:2086/images/2774156c67ad0614dae83c77ddb63525.jpg",
+        "url": "http://bedroombullyonline.com:5050/kimprowell@yahoo.com/pd8bBMX6Ve/681753",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Bridgerton",
+        "id": "247bridgerton",
+        "logo": "http://onlytimewilltell.xyz:2086/images/6a1f5318cf97d6a9067e2589766bd98f.jpg",
+        "url": "http://bedroombullyonline.com:5050/kimprowell@yahoo.com/pd8bBMX6Ve/681879",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: A Million Little Things",
+        "id": "247amillionlittlethings",
+        "logo": "http://onlytimewilltell.xyz:2086/images/d19b81d5c81bb037d8d76d88e50344ed.jpg",
+        "url": "http://bedroombullyonline.com:5050/redco98@gmail.com/Lrj62q3gCj/681781",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Falling Skies",
+        "id": "247fallingskies",
+        "logo": "http://onlytimewilltell.xyz:2086/images/73dc1f78c35a4fc6573f48d563dc090b.jpg",
+        "url": "http://bedroombullyonline.com:5050/redco98@gmail.com/Lrj62q3gCj/681989",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Rise of the Nazis",
+        "id": "247riseofthenazis",
+        "logo": "http://onlytimewilltell.xyz:2086/images/b71cad3ba50c9c7edbc0eb64aacd97f1.jpg",
+        "url": "http://bedroombullyonline.com:5050/rachel_stutz@hotmail.com/E9ixmR8aGZ/682338",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: The Forsyte Saga",
+        "id": "247theforsytesaga",
+        "logo": "http://onlytimewilltell.xyz:2086/images/20ade2861ac6259d639aabd299751763.jpg",
+        "url": "http://bedroombullyonline.com:5050/rachel_stutz@hotmail.com/E9ixmR8aGZ/682512",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Law And Order",
+        "id": "247lawandorder",
+        "logo": "http://onlytimewilltell.xyz:2086/images/484d9ef83684cc56785fa15da857a405.jpg",
+        "url": "http://bedroombullyonline.com:5050/cnmatera067@gmail.com/DQyGA6AREv/682151",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: A Different World",
+        "id": "247adifferentworld",
+        "logo": "http://onlytimewilltell.xyz:2086/images/7b079f45aa8a073fc5f367f251b2ccc2.jpg",
+        "url": "http://bedroombullyonline.com:5050/dghali79@gmail.com/tS7ELVXn6I/681778",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: American Pickers",
+        "id": "247americanpickers",
+        "logo": "http://onlytimewilltell.xyz:2086/images/2bd3475f0f117e2c7907ce78c8595412.jpg",
+        "url": "http://bedroombullyonline.com:5050/dghali79@gmail.com/tS7ELVXn6I/681810",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Band of Brothers",
+        "id": "247bandofbrothers",
+        "logo": "http://onlytimewilltell.xyz:2086/images/4e2d6ad07c71d19479b544f72194e96c.jpg",
+        "url": "http://bedroombullyonline.com:5050/dghali79@gmail.com/tS7ELVXn6I/681834",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Leave It To Beaver",
+        "id": "247leaveittobeaver",
+        "logo": "http://onlytimewilltell.xyz:2086/images/c27349016fcbf31a46f5191aefba9d25.jpg",
+        "url": "http://bedroombullyonline.com:5050/dghali79@gmail.com/tS7ELVXn6I/682155",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: MASH",
+        "id": "247mash",
+        "logo": "http://onlytimewilltell.xyz:2086/images/a405e11f8cfa3157aec536a8efbf1245.jpg",
+        "url": "http://bedroombullyonline.com:5050/dghali79@gmail.com/tS7ELVXn6I/682202",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Two and a Half Men",
+        "id": "247twoandahalfmen",
+        "logo": "http://onlytimewilltell.xyz:2086/images/d6409482601b834c08308fbcd16e90bc.jpg",
+        "url": "http://bedroombullyonline.com:5050/dghali79@gmail.com/tS7ELVXn6I/682674",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: 101 Dalmatians",
+        "id": "247101dalmatians",
+        "logo": "http://onlytimewilltell.xyz:2086/images/7c5c0669dc1001f17b91a3aa47abf906.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681755",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: 30 Rock",
+        "id": "24730rock",
+        "logo": "http://onlytimewilltell.xyz:2086/images/077f3163daee0bf8616148fde1b4ecd1.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681770",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: 9-1-1",
+        "id": "247911",
+        "logo": "http://onlytimewilltell.xyz:2086/images/ae08514b627cf3db27a7501d183f1021.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681774",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Ancient Aliens",
+        "id": "247ancientaliens",
+        "logo": "http://onlytimewilltell.xyz:2086/images/f8656c374bc237dbb456766edf907b35.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681812",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Avengers Movies",
+        "id": "247avengersmovies",
+        "logo": "http://onlytimewilltell.xyz:2086/images/6d95f16fe712db16fa933b56e529bbcb.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681828",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Bates Motel",
+        "id": "247batesmotel",
+        "logo": "http://onlytimewilltell.xyz:2086/images/90b24294713d88af47995db5c53867aa.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681839",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Blackadder",
+        "id": "247blackadder",
+        "logo": "http://onlytimewilltell.xyz:2086/images/1732ec19cf83c61f321576079ac0259d.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681859",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Chicago Fire",
+        "id": "247chicagofire",
+        "logo": "http://onlytimewilltell.xyz:2086/images/0fb4707e27fcb7e6bc9de11611388abe.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681898",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Desperate Housewives",
+        "id": "247desperatehousewives",
+        "logo": "http://onlytimewilltell.xyz:2086/images/34ad1e2fda1756c895b8030b2cd401ce.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681939",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Dream On",
+        "id": "247dreamon",
+        "logo": "http://onlytimewilltell.xyz:2086/images/e0d590e5ae025801593060b2e419acf2.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681966",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Empire",
+        "id": "247empire",
+        "logo": "http://onlytimewilltell.xyz:2086/images/e168c91e65dcf098a7689347085f97d8.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681978",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Everybody Loves Raymond",
+        "id": "247everybodylovesraymond",
+        "logo": "http://onlytimewilltell.xyz:2086/images/b6da8d6b223b4310234c466e7e539b2d.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/681985",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Hawaii Five-0",
+        "id": "247hawaiifive0",
+        "logo": "http://onlytimewilltell.xyz:2086/images/60264a7215d8bac573ed531a184f4a29.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682068",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Hogans Heroes",
+        "id": "247hogansheroes",
+        "logo": "http://onlytimewilltell.xyz:2086/images/040e861bf32107c4840e2a54967a16a5.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682085",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Justice League",
+        "id": "247justiceleague",
+        "logo": "http://onlytimewilltell.xyz:2086/images/7f99348c7a1852a468e1850b6c1e395f.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682130",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Miami Vice",
+        "id": "247miamivice",
+        "logo": "http://onlytimewilltell.xyz:2086/images/441a9c17913b6049958cb5389d90c64a.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682216",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: My Wife and Kids",
+        "id": "247mywifeandkids",
+        "logo": "http://onlytimewilltell.xyz:2086/images/5c8f5c0d32310d74c382ffe1e5ef5a2d.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682244",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Naked And Afraid",
+        "id": "247nakedandafraid",
+        "logo": "http://onlytimewilltell.xyz:2086/images/2448bc97ed7e5b8c389c2d61a29194ba.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682247",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: Shark Tank",
+        "id": "247sharktank",
+        "logo": "http://onlytimewilltell.xyz:2086/images/58e85ca5bb27e1886d52ff60566652cb.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682379",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: The Incredible Hulk",
+        "id": "247theincrediblehulk",
+        "logo": "http://onlytimewilltell.xyz:2086/images/e6951c7e9abf55f709c5a44d97b1be83.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682532",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7: The Jeffersons",
+        "id": "247thejeffersons",
+        "logo": "http://onlytimewilltell.xyz:2086/images/2c06dd5823c3d2678c306fae85c05d5d.jpg",
+        "url": "http://bedroombullyonline.com:5050/jr0336@bellsouth.net/Jvrk5NXihC/682534",
+        "categories": [
+            "24",
+            "7"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PJ Masks Super pigiamini Channel Merged",
+        "id": "pjmaskssuperpigiaminichannelmerged",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/54089973711.png",
+        "url": "http://185.177.126.241:8880//live/ashan24/ashan24/817410.ts",
+        "categories": [
+            "it - tematici bambini 24",
+            "7"
         ],
         "country": ""
     }

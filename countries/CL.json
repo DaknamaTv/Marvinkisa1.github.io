@@ -578,16 +578,6 @@
         "country": "CL"
     },
     {
-        "name": "TVU",
-        "id": "TVU.cl",
-        "logo": "https://i.ibb.co/5vFMTxt/Logo-tvu.png",
-        "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "TV UCT",
         "id": "TVUCT.cl",
         "logo": "https://i.imgur.com/tpI0WQH.png",
@@ -603,6 +593,14 @@
         "categories": [
             "culture"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "U Los Lagos TV",
+        "id": "ULosLagosTV.cl",
+        "logo": "https://i.imgur.com/HxUZseV.png",
+        "url": "http://tv.ulagos.cl/web/live.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]
