@@ -200,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "A Haber HD",
-        "id": "ahaberhd",
-        "logo": "https://i.ibb.co/tPpps02w/zVB7Ton.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/866470.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
         "name": "A Haber FHD",
         "id": "ahaberfhd",
         "logo": "https://i.ibb.co/tPpps02w/zVB7Ton.png",
@@ -364,26 +354,6 @@
         "id": "trulketvfhd",
         "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/ULKE.TV.png",
         "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/849556.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Tv 100 FHD",
-        "id": "trtv100fhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TV.100.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/849552.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Ulusal Kanal HD",
-        "id": "trulusalkanalhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/ULUSAL.KANAL.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/849558.ts",
         "categories": [
             "tr ➤ haber"
         ],
@@ -560,86 +530,6 @@
         "country": ""
     },
     {
-        "name": "TR: SOZCU TV FHD",
-        "id": "trsozcutvfhd",
-        "logo": "https://i.ibb.co/spDsNM5J/SOZCU.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849521.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: SOZCU TV HD",
-        "id": "trsozcutvhd",
-        "logo": "https://i.ibb.co/spDsNM5J/SOZCU.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849522.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Halk TV HD",
-        "id": "trhalktvhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/HALK.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849532.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "A News HD",
-        "id": "anewshd",
-        "logo": "https://i.ibb.co/yBMW0r5K/r90WiFX.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/866472.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Bloomberg HT HD",
-        "id": "trbloomberghthd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/BLOOMBERG.TV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849544.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: EkoTürk HD",
-        "id": "trekotrkhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/EKO.TURK.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849545.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Krt Tv FHD",
-        "id": "trkrttvfhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/YEREL/HABER.61.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849549.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TvNet FHD",
-        "id": "trtvnetfhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/ULUSALL/TV.NET.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849554.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: Haber Global HD",
         "id": "trhaberglobalhd",
         "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/HABER.GLOBAL.png",
@@ -684,6 +574,16 @@
         "id": "trulketvhd",
         "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/ULKE.TV.png",
         "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/849557.ts",
+        "categories": [
+            "tr ➤ haber"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Tele 1 FHD",
+        "id": "trtele1fhd",
+        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TELE.1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/849550.ts",
         "categories": [
             "tr ➤ haber"
         ],

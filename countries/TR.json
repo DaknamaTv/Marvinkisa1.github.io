@@ -566,16 +566,6 @@
         "country": "TR"
     },
     {
-        "name": "TRT Cocuk",
-        "id": "TRTCocuk.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "beIN Sports 1 HD [VIP]",
         "id": "beINSports1HDVIP.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
@@ -590,16 +580,6 @@
         "id": "beINSports2SD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png",
         "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/196216",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports Max 2",
-        "id": "beINSportsMax2.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/6100",
         "categories": [
             "bein spor"
         ],
@@ -626,16 +606,6 @@
         "country": "TR"
     },
     {
-        "name": "A Haber HD",
-        "id": "AHaberHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/20768",
-        "categories": [
-            "haber kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "A Para",
         "id": "APara.tr",
         "logo": "https://i.imgur.com/GjHnq0c.png",
@@ -652,26 +622,6 @@
         "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/535985",
         "categories": [
             "belgesel kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Şirinler TV HD",
-        "id": "irinlerTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxsirinlertv.png",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/6245",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Komedi TV 3 HD",
-        "id": "MaximTVKomediTV3HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/195946",
-        "categories": [
-            "sinema kanallari"
         ],
         "country": "TR"
     },
@@ -726,16 +676,6 @@
         "country": "TR"
     },
     {
-        "name": "Western Sinema TV 3 HD",
-        "id": "WesternSinemaTV3HD.tr",
-        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/35852",
-        "categories": [
-            "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Ekol Spots",
         "id": "EkolSpots.tr",
         "logo": "https://cdn.r10.net/editor/140449/631513837.png",
@@ -752,16 +692,6 @@
         "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
         "categories": [
             "lifestyle"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 1 (TTNET ÖZEL)",
-        "id": "beINSports1TTNETZEL.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
-        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/334642",
-        "categories": [
-            "bein spor"
         ],
         "country": "TR"
     },
@@ -786,30 +716,10 @@
         "country": "TR"
     },
     {
-        "name": "beIN Sports 2 HD",
-        "id": "beINSports2HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png",
-        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/35730",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "beIN Sports 3 HD",
         "id": "beINSports3HD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png",
         "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/6097",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 4 SD",
-        "id": "beINSports4SD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png",
-        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/196218",
         "categories": [
             "bein spor"
         ],
@@ -846,32 +756,12 @@
         "country": "TR"
     },
     {
-        "name": "Number One Türk HD",
-        "id": "NumberOneTrkHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/number1_tr_tv_turk.png",
-        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/101887",
-        "categories": [
-            "muzik kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "MAX Müslüm Gürses Müzik TV",
         "id": "MAXMslmGrsesMzikTV.tr",
         "logo": "https://cdn-profiles.tunein.com/p1466925/images/logog.png",
         "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/191100",
         "categories": [
             "muzik kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Moviesmart Premium",
-        "id": "MoviesmartPremium.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium.png",
-        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/6183",
-        "categories": [
-            "d-smart sinema"
         ],
         "country": "TR"
     },
@@ -890,16 +780,6 @@
         "id": "IbrahimTatlsesTV.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png",
         "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/6318",
-        "categories": [
-            "yesilcam loca"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Ferdi Tayfur TV",
-        "id": "FerdiTayfurTV.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png",
-        "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/24201",
         "categories": [
             "yesilcam loca"
         ],
@@ -1160,16 +1040,6 @@
         "id": "beINSports3UHD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png",
         "url": "http://yrtds0911.xyz:8080/hm6669/hm6669/195812",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 4 HD",
-        "id": "beINSports4HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png",
-        "url": "http://yrtds0911.xyz:8080/hm6669/hm6669/6098",
         "categories": [
             "bein spor"
         ],

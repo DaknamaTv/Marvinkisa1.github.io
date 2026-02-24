@@ -180,16 +180,6 @@
         "country": ""
     },
     {
-        "name": "Star Euro HD",
-        "id": "stareurohd",
-        "logo": "https://i.ibb.co/DHC2tTC9/12.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865035.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
         "name": "Kanal 7 HD",
         "id": "kanal7hd",
         "logo": "https://i.ibb.co/NgfvVRfL/24.png",
@@ -270,16 +260,6 @@
         "country": ""
     },
     {
-        "name": "TR: ATV HD",
-        "id": "tratvhd",
-        "logo": "https://i.ibb.co/0j51Lhgc/45.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/849295.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: Show TV HD",
         "id": "trshowtvhd",
         "logo": "https://i.ibb.co/4nBLQkms/47.png",
@@ -304,16 +284,6 @@
         "id": "trstartvhd",
         "logo": "https://i.ibb.co/zWjWgykz/46.png",
         "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/849301.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Teve2 HD",
-        "id": "trteve2hd",
-        "logo": "https://i.ibb.co/Kzj1pHc2/26.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/merolbekir/a.26082023s/849315.ts",
         "categories": [
             "tr ➤ ulusal"
         ],
@@ -380,16 +350,6 @@
         "country": ""
     },
     {
-        "name": "TR: Now TV RAW",
-        "id": "trnowtvraw",
-        "logo": "https://i.ibb.co/q30WGxwm/49.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849302.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: TV 8 RAW",
         "id": "trtv8raw",
         "logo": "https://i.ibb.co/N6d8Z6c7/YdVkcjF.png",
@@ -404,16 +364,6 @@
         "id": "trtv85hd",
         "logo": "https://i.ibb.co/N6d8Z6c7/YdVkcjF.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849308.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Beyaz TV RAW",
-        "id": "trbeyaztvraw",
-        "logo": "https://i.ibb.co/ym4Ww4RQ/20.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849309.ts",
         "categories": [
             "tr ➤ ulusal"
         ],
@@ -490,16 +440,6 @@
         "country": ""
     },
     {
-        "name": "TR: TV 4 HD",
-        "id": "trtv4hd",
-        "logo": "https://i.ibb.co/7xXB7KdL/54.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849320.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: TRT AVAZ FHD",
         "id": "trtrtavazfhd",
         "logo": "https://i.ibb.co/Dmbh80d/TRT-AVAZ.png",
@@ -530,36 +470,6 @@
         "country": ""
     },
     {
-        "name": "TR: EURO D FHD",
-        "id": "treurodfhd",
-        "logo": "https://i.ibb.co/4Z98zDcb/60.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849328.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT Arabi RAW",
-        "id": "trtrtarabiraw",
-        "logo": "",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849331.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT 2 FHD",
-        "id": "trtrt2fhd",
-        "logo": "https://i.ibb.co/XZ6FM1Rv/6.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849332.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: TRT 2 HD",
         "id": "trtrt2hd",
         "logo": "https://i.ibb.co/XZ6FM1Rv/6.png",
@@ -574,106 +484,6 @@
         "id": "trtrt3sporhd",
         "logo": "https://i.ibb.co/b51WzkRd/37.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/849334.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT 4K",
-        "id": "trtrt4k",
-        "logo": "https://i.ibb.co/4wBJHRG1/2.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/849290.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SHOW TV FHD",
-        "id": "showtvfhd",
-        "logo": "https://i.ibb.co/CpzGjd0K/14.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865022.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "STAR FHD",
-        "id": "starfhd",
-        "logo": "https://i.ibb.co/nNYF303D/12.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865028.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT 1 FHD",
-        "id": "trt1fhd",
-        "logo": "https://i.ibb.co/G4BSQ2yx/4.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865016.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: ATV RAW",
-        "id": "tratvraw",
-        "logo": "https://i.ibb.co/0j51Lhgc/45.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/849294.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TV 8.5 RAW",
-        "id": "trtv85raw",
-        "logo": "https://i.ibb.co/N6d8Z6c7/YdVkcjF.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/849307.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV 8 int HD",
-        "id": "tv8inthd",
-        "logo": "https://i.ibb.co/5XScdBVV/61.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865031.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fashion TV HD",
-        "id": "fashiontvhd",
-        "logo": "https://i.ibb.co/6JDfYpTJ/DEBA3300022-IF-20220323-T071939-SQUARE-png-20220323071942.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865058.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: A2 RAW",
-        "id": "tra2raw",
-        "logo": "https://i.ibb.co/wj2wXdc/30.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/849316.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT Kurdi FHD",
-        "id": "trtrtkurdifhd",
-        "logo": "",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/849323.ts",
         "categories": [
             "tr ➤ ulusal"
         ],

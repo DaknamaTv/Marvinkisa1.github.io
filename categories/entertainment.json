@@ -166,16 +166,6 @@
         "country": "CM"
     },
     {
-        "name": "TR24 Television",
-        "id": "TR24Television.cm",
-        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
-        "url": "https://stream.it-innov.com/tr24/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "MBC Persia",
         "id": "MBCPersia.ae",
         "logo": "https://i.imgur.com/4FXiyjn.png",
@@ -629,6 +619,19 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
         ],
         "country": "VN"
     },
@@ -2204,16 +2207,6 @@
         "country": "IN"
     },
     {
-        "name": "NTC TV",
-        "id": "NTCTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
-        "url": "https://galaxyott.live/hls/ntv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dabangg",
         "id": "Dabangg.in",
         "logo": "https://i.imgur.com/6ChpxLy.png",
@@ -2260,6 +2253,16 @@
         "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
         "categories": [
             "culture",
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "KCL TV",
+        "id": "KCLTV.in",
+        "logo": "https://i.imgur.com/bkp9dIm.png",
+        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+        "categories": [
             "entertainment"
         ],
         "country": "IN"
@@ -3008,6 +3011,26 @@
         "id": "romanza.ug",
         "logo": "",
         "url": "https://livecdn.premiumfree.tv/afxpstr/Romanza/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Bukedde TV 2",
+        "id": "BukeddeTV2.ug",
+        "logo": "https://i.imgur.com/ukwPZeY.png",
+        "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "BTV",
+        "id": "BTV.ug",
+        "logo": "https://i.imgur.com/rcHZ1al.png",
+        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3792,6 +3815,16 @@
             "entertainment"
         ],
         "country": "SG"
+    },
+    {
+        "name": "Chandel TV",
+        "id": "ChandelTV.tg",
+        "logo": "https://i.imgur.com/jQO7dVE.png",
+        "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "TG"
     },
     {
         "name": "Fortune TV",

@@ -214,16 +214,6 @@
         "country": "PE"
     },
     {
-        "name": "Mega TV Jaen",
-        "id": "MegaTVJaen.pe",
-        "logo": "https://i.imgur.com/zK1YcpJ.png",
-        "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Autentica Television",
         "id": "AutenticaTelevision.pe",
         "logo": "https://i.imgur.com/bEJK3RN.png",
@@ -531,6 +521,16 @@
         "logo": "https://i.imgur.com/EeNpfIr.png",
         "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
         "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "PE"
     }
 ]

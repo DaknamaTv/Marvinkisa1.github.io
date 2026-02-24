@@ -1,12 +1,32 @@
 [
     {
-        "name": "MTV 4K+",
-        "id": "MTV4K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Music/mtv.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/453",
+        "name": "DE: CLUB MTV",
+        "id": "declubmtv",
+        "logo": "https://docdog.top/logo/countries/germany/new/CLUB_MTV.png",
+        "url": "http://vipneeene.top:8080/VIP012561741463703365/95fdeb70602e/135192",
         "categories": [
-            "de : musik"
+            "de | musik"
         ],
-        "country": "DE"
+        "country": ""
+    },
+    {
+        "name": "DE: SCHLAGERPARADIES.TV",
+        "id": "deschlagerparadiestv",
+        "logo": "https://docdog.top/logo/countries/germany/new/SCHLAGERPARADIES_TV.png",
+        "url": "http://vipneeene.top:8080/VIP012561741463703365/95fdeb70602e/135214",
+        "categories": [
+            "de | musik"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: DEUTSCHES MUSIK FERNSEHEN",
+        "id": "dedeutschesmusikfernsehen",
+        "logo": "https://docdog.top/logo/countries/germany/new/DEUTSCHES_MUSIK_FERNSEHEN.png",
+        "url": "http://vipneeene.top:8080/VIP0139176242349027/uvfjq5ey7szy/135199",
+        "categories": [
+            "de | musik"
+        ],
+        "country": ""
     }
 ]

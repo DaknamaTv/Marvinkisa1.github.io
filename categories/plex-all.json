@@ -1,139 +1,149 @@
 [
     {
-        "name": "BBC Game Shows",
-        "id": "bbcgameshows",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f6b8b55c-c48b-4f01-b357-5c9d62779cd8/BBC_GAME_SHOWS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-656229e4b7d737841f30a4fb.m3u8",
+        "name": "123GO!",
+        "id": "123go",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "C4 en Alerta",
-        "id": "c4enalerta",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
+        "name": "A Touch of Frost",
+        "id": "atouchoffrost",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/43848ac4-62a9-4cdc-ace0-e15661a2e748/FilmRise_TouchOfFrostA_Logo_WhiteRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b595f04cf4bb9233c914.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Dateline",
-        "id": "dateline",
-        "logo": "https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4edb090c44538616547b7a5eba9a264f.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5fc70600598c41002da3dd19.m3u8",
+        "name": "Alternative",
+        "id": "alternative",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png",
+        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62efbb8652f7d73061eec498.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "FilmRise Creators",
-        "id": "filmrisecreators",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/471e4d64-38c3-4f2a-88be-cbae930f4876/FilmRise_Creators_channel_logo_1500x1000_light.png.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-68db6b54475aa6420c85f230.m3u8",
+        "name": "Ax Men by History",
+        "id": "axmenbyhistory",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7b641c90-6955-4fcd-9c0d-5ca04dfa18d8/Ax_Men_4Color_Logo_RDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c1ec0e0aa23f984207af82.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "FilmRise Kids",
-        "id": "filmrisekids",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c9666b18-5f71-4e20-b8d3-6e28226359ab/FilmRiseKids_Logo_Color.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8",
+        "name": "BlackPix",
+        "id": "blackpix",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c8dd9cc8-2c59-42a2-b9e9-2f0c9b4093a5/blackpix_logo_dark.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "FrightFlix",
-        "id": "frightflix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8",
+        "name": "Kidz Bop TV",
+        "id": "kidzboptv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png",
+        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-656fb124cb7e8e6a9bc3f36a.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "ITV Deportes",
-        "id": "itvdeportes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",
-        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-688d3402a6fe30698ab42007.m3u8",
+        "name": "Metal.Rocks",
+        "id": "metalrocks",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png",
+        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-68e9436dda6bb987138625c7.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Naturaleza Salvaje",
-        "id": "naturalezasalvaje",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccb35278822c7edc4b6e01.m3u8",
+        "name": "MGM Presents: Action",
+        "id": "mgmpresentsaction",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/64164404-10a7-4f7f-af80-69261f9de1db/MPAction_logo_dark_-_Carl_HoffelderWhite_lettersRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Strongman Champions",
-        "id": "strongmanchampions",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-644b13a3a1c0a5b2024c8403.m3u8",
+        "name": "MGM Presents: Westerns",
+        "id": "mgmpresentswesterns",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3e9a3d83-390a-4bb9-93b5-34094f6dc339/MPWesterns_logo_dark_-_Carl_HoffeldeWhite_lettersrRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "The Wiggles",
-        "id": "thewiggles",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",
-        "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-68e0371d8bbd79d66c631ab2.m3u8",
+        "name": "Sports Illustrated TV",
+        "id": "sportsillustratedtv",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png",
+        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Unspeakable",
-        "id": "unspeakable",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/557e2a37-20f0-4e1f-8dc5-b99cbebaa33e/FilmRise_Unspeakable_Color_LogoRDX.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-6674baf1a9c715b93ca6ca90.m3u8",
+        "name": "Surf Cinema",
+        "id": "surfcinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "VR+",
-        "id": "vr",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cd4c6347-92c4-4381-9d09-b8d38d9729de/1500x1000_-_white_logo_VR__Juan_M_Velasquez.png",
-        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65a1d3996475bf522f9256e3.m3u8",
+        "name": "Teen Wolf by MGM",
+        "id": "teenwolfbymgm",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0f4395c4-94b6-48e0-8c24-2a61850211d2/TeenWolf_logo_Attribution_-_Carl_HoffelderRdx.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6874409e46d1d8d8348e6b7e.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Western Bound Español",
-        "id": "westernboundespaol",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f0f82a9b-52a8-48ae-8964-846c15cd22b9/WB_Plex_LogoPackage_1500x1000_Light_LAS_-_Megan_Jones.png",
-        "url": "https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-693ebecae2cae3f1bc73ae45.m3u8",
+        "name": "World Surf League 24/7",
+        "id": "worldsurfleague247",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png",
+        "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-652875586425fdb1f32d2169.m3u8",
         "categories": [
             "plex-all"
         ],
         "country": ""
     },
     {
-        "name": "Zee BollyWorld",
-        "id": "zeebollyworld",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png",
-        "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-678287e75fe5e4eb1e030c65.m3u8",
+        "name": "XITE Celebrates",
+        "id": "xitecelebrates",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ea24a0cf-9535-4f90-a96c-c8f769ffd7b2/xitecelebrates_logo_light_-_Arlette_FiranRDX.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68894a9267ddc0ef2cdbf503.m3u8",
+        "categories": [
+            "plex-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Z Nation",
+        "id": "znation",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png",
+        "url": "https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ce3e009ac0b1441b19ca29.m3u8",
         "categories": [
             "plex-all"
         ],

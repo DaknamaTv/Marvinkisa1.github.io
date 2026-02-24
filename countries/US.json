@@ -4712,16 +4712,6 @@
         "country": "US"
     },
     {
-        "name": "Albdreams TV",
-        "id": "AlbdreamsTV.us",
-        "logo": "https://i.imgur.com/3VWF3sj.png",
-        "url": "http://live.albavision.net:1123/live/albdreams.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WFXT-DT2",
         "id": "WFXTDT2.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png",
@@ -8145,16 +8135,6 @@
         "country": "US"
     },
     {
-        "name": "TV Quisqueya",
-        "id": "TVQuisqueya.us",
-        "logo": "https://i.imgur.com/G7X4LQI.png",
-        "url": "https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WNYW-DT1",
         "id": "WNYWDT1.us",
         "logo": "https://i.imgur.com/zZd9Tkt.png",
@@ -9724,6 +9704,26 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",
         "url": "https://dvrfl04.tulix.tv/teleup-laff/mpegts",
         "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "Fox News Channel",
+        "id": "FoxNewsChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "KTVK-DT1",
+        "id": "KTVKDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "US"
     }
 ]

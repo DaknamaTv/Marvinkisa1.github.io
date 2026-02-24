@@ -1,59 +1,9 @@
 [
     {
-        "name": "ES: CGTN ESPANHOL",
-        "id": "escgtnespanhol",
-        "logo": "http://135.125.239.110/icon/479346.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865319.ts",
-        "categories": [
-            "es ➤ spain channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "ES: DE PELICULA",
         "id": "esdepelicula",
         "logo": "http://135.125.239.110/icon/553800.png",
         "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865320.ts",
-        "categories": [
-            "es ➤ spain channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES: DAZN 2",
-        "id": "esdazn2",
-        "logo": "http://135.125.239.110/icon/477352.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865351.ts",
-        "categories": [
-            "es ➤ spain channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES: M. Deportes 2 HEVC",
-        "id": "esmdeportes2hevc",
-        "logo": "http://135.125.239.110/icon/764716.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865364.ts",
-        "categories": [
-            "es ➤ spain channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES: Movistar Acción HEVC",
-        "id": "esmovistaraccinhevc",
-        "logo": "http://135.125.239.110/icon/983462.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865371.ts",
-        "categories": [
-            "es ➤ spain channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES: TELEDEPORTE HEVC",
-        "id": "esteledeportehevc",
-        "logo": "http://135.125.239.110/icon/547261.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865410.ts",
         "categories": [
             "es ➤ spain channels"
         ],

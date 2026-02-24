@@ -1,45 +1,5 @@
 [
     {
-        "name": "Kibris Ada TV HD",
-        "id": "kibrisadatvhd",
-        "logo": "https://i.ibb.co/twzxcmxp/66.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/865643.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "360 TV HD",
-        "id": "360tvhd",
-        "logo": "https://i.ibb.co/GQ7tf1Gv/53.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/865644.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Diyar TV HD",
-        "id": "diyartvhd",
-        "logo": "https://i.ibb.co/FbxXyBcD/8wrylv6.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/865707.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SERHAT TV HD",
-        "id": "serhattvhd",
-        "logo": "https://i.ibb.co/rKsSP0dj/logo.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/865725.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
         "name": "Kanal V HD",
         "id": "kanalvhd",
         "logo": "https://i.ibb.co/kVvpbmsb/G0WK6D9.png",
@@ -64,26 +24,6 @@
         "id": "tmbtvhd",
         "logo": "https://i.ibb.co/q3p4YVmQ/37.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865649.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal 42 HD",
-        "id": "kanal42hd",
-        "logo": "https://i.ibb.co/CpyxPnjD/zw5LYlH.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865652.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "On 4 TV HD",
-        "id": "on4tvhd",
-        "logo": "https://i.ibb.co/677rgbS0/UW8MCLV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865654.ts",
         "categories": [
             "tr ➤ yerel"
         ],
@@ -130,46 +70,6 @@
         "country": ""
     },
     {
-        "name": "TV 41 HD",
-        "id": "tv41hd",
-        "logo": "https://i.ibb.co/KjNQ13Gs/TV-41.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865675.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal 58 HD",
-        "id": "kanal58hd",
-        "logo": "https://i.ibb.co/YFdkK28C/nt4oshr.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865690.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Zarok TV HD",
-        "id": "zaroktvhd",
-        "logo": "https://i.ibb.co/fdZBX8pf/3qht5xq.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865696.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BRT 2 HD Kibris",
-        "id": "brt2hdkibris",
-        "logo": "https://i.ibb.co/9m75frMg/LrkCape.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865700.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
         "name": "Malatya Vuslat TV Hd",
         "id": "malatyavuslattvhd",
         "logo": "https://i.ibb.co/7t4RkVvk/SuUT7Zf.png",
@@ -194,16 +94,6 @@
         "id": "agrotvhd",
         "logo": "https://i.ibb.co/GvgNP2jh/Agro-TV-logo.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865716.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TEK RUMELI TV HD",
-        "id": "tekrumelitvhd",
-        "logo": "https://i.ibb.co/Xx1kFfYs/MRRz2iF.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/mehmeterg/MUKw6GTa5/865718.ts",
         "categories": [
             "tr ➤ yerel"
         ],
@@ -264,16 +154,6 @@
         "id": "yenikocaelitvhd",
         "logo": "https://i.ibb.co/B23QpdjG/KmB6tdI.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mustafadogramaci/c5FpJuAj8N/865662.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ER TV Hd",
-        "id": "ertvhd",
-        "logo": "https://i.ibb.co/gZVtCKFd/XRP09Uy.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/865665.ts",
         "categories": [
             "tr ➤ yerel"
         ],
@@ -350,26 +230,6 @@
         "country": ""
     },
     {
-        "name": "Kibris TV HD",
-        "id": "kibristvhd",
-        "logo": "https://i.ibb.co/fGPQrwXr/65.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865638.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal 3 HD",
-        "id": "kanal3hd",
-        "logo": "https://i.ibb.co/gL3xqV0B/LzFEG9A.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865673.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
         "name": "Kibris Genc TV HD",
         "id": "kibrisgenctvhd",
         "logo": "https://i.ibb.co/9kj2jmhf/68.png",
@@ -384,16 +244,6 @@
         "id": "ekinturktvhd",
         "logo": "https://i.ibb.co/XfgkDZD3/ekinturk.png",
         "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865689.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BRTV HD",
-        "id": "brtvhd",
-        "logo": "https://i.ibb.co/1tQVWPDF/42XPAla.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/865691.ts",
         "categories": [
             "tr ➤ yerel"
         ],
@@ -440,130 +290,10 @@
         "country": ""
     },
     {
-        "name": "BRT 1 HD Kibris",
-        "id": "brt1hdkibris",
-        "logo": "https://i.ibb.co/6JFRGFwQ/6M25U0u.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865640.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal Urfa HD",
-        "id": "kanalurfahd",
-        "logo": "https://i.ibb.co/53wMJbP/KjrnATs.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865658.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ES TV HD",
-        "id": "estvhd",
-        "logo": "https://i.ibb.co/Nk760vt/ES-TV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865680.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal 33 HD",
-        "id": "kanal33hd",
-        "logo": "https://i.ibb.co/pv375Jtr/goMGHqC.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865686.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TGRT EU HD",
-        "id": "tgrteuhd",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/TGRT.HABER.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865698.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sunr TV HD",
-        "id": "sunrtvhd",
-        "logo": "https://i.ibb.co/9m75frMg/LrkCape.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865699.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TARIM ORMAN EKRANI HD",
-        "id": "tarimormanekranihd",
-        "logo": "https://i.ibb.co/3y36qJ9L/oGo0nu8.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865721.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bir TV HD",
-        "id": "birtvhd",
-        "logo": "https://i.ibb.co/XfFPPRC8/BIR-TV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865730.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Koza TV HD",
-        "id": "kozatvhd",
-        "logo": "https://i.ibb.co/Cswtc5ND/KOZA.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865732.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT Kurdi FHD",
-        "id": "trtkurdifhd",
-        "logo": "https://i.ibb.co/HDc7kYtV/39991148691.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/gokselozel/ak67cLMRXB/865736.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kon TV HD",
-        "id": "kontvhd",
-        "logo": "https://i.ibb.co/k2QGj5zd/D1L3beT.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865636.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
         "name": "Kibris KRT FHD",
         "id": "kibriskrtfhd",
         "logo": "https://i.ibb.co/HDQ6YCg7/hKcUBEc.png",
         "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865645.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV 264 HD",
-        "id": "tv264hd",
-        "logo": "https://i.ibb.co/chtcTs8P/4ceS9wy.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865650.ts",
         "categories": [
             "tr ➤ yerel"
         ],
@@ -600,50 +330,10 @@
         "country": ""
     },
     {
-        "name": "Tivi 6 HD",
-        "id": "tivi6hd",
-        "logo": "https://i.ibb.co/5gDDQNtJ/ndptdfb.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865693.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal B HD",
-        "id": "kanalbhd",
-        "logo": "https://i.ibb.co/1fYkMrrd/5n8w9FF.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865695.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
         "name": "Cay TV HD",
         "id": "caytvhd",
         "logo": "https://i.ibb.co/sJFkfLcV/MxRTyu5.png",
         "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865637.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kanal Avrupa HD",
-        "id": "kanalavrupahd",
-        "logo": "https://i.ibb.co/tpJSPKmR/NSqyYBG.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865661.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV Kayseri HD",
-        "id": "tvkayserihd",
-        "logo": "https://i.ibb.co/93tKzSmN/kaytv-logo-8040-EFBA40-seeklogo-com.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/deniz2020/e6apwZGq89AX/865664.ts",
         "categories": [
             "tr ➤ yerel"
         ],
@@ -694,6 +384,16 @@
         "id": "mercantvhd",
         "logo": "https://i.ibb.co/R4j14dnN/ERKUg0m.png",
         "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/865685.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GZT HD",
+        "id": "gzthd",
+        "logo": "https://i.ibb.co/SXwNgCx0/gzt-1.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/865717.ts",
         "categories": [
             "tr ➤ yerel"
         ],

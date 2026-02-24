@@ -61,6 +61,16 @@
         "country": "CA"
     },
     {
+        "name": "TSN2",
+        "id": "TSN2.ca",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png",
+        "url": "https://tvpass.org/live/tsn2/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "F1 Channel",
         "id": "F1Channel.ie",
         "logo": "https://i.imgur.com/cjXzWsI.png",
@@ -97,6 +107,16 @@
         "id": "ColimdoTV.do",
         "logo": "https://i.imgur.com/ZeUgLCa.png",
         "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "CDN Deportes",
+        "id": "CDNDeportes.do",
+        "logo": "https://i.imgur.com/yU5LqTL.png",
+        "url": "http://200.125.170.122:8000/play/a03j/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -142,6 +162,26 @@
             "entertainment"
         ],
         "country": "VN"
+    },
+    {
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
     },
     {
         "name": "DAZN Combat",
@@ -1306,6 +1346,16 @@
             "sports"
         ],
         "country": "QA"
+    },
+    {
+        "name": "Radio Turrialba TV Sports",
+        "id": "RadioTurrialbaTVSports.cr",
+        "logo": "https://i.imgur.com/2ZcUXbE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CR"
     },
     {
         "name": "TJK TV",

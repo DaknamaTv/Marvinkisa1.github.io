@@ -383,12 +383,12 @@
         "country": "CR"
     },
     {
-        "name": "VM Latino",
-        "id": "VMLatino.cr",
-        "logo": "https://i.imgur.com/Dvo1b82.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "name": "Radio Turrialba TV Sports",
+        "id": "RadioTurrialbaTVSports.cr",
+        "logo": "https://i.imgur.com/2ZcUXbE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8",
         "categories": [
-            "music"
+            "sports"
         ],
         "country": "CR"
     }

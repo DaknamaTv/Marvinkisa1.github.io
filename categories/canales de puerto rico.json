@@ -10,10 +10,30 @@
         "country": ""
     },
     {
-        "name": "Puerto Ric //  MEGACINE PUERTO RICO",
-        "id": "puertoricmegacinepuertorico",
-        "logo": "http://playtv44.com:8080/images/01bca96b6ced4b4d1510250f28fecc99.jpg",
-        "url": "http://matrivagoweb.xyz:8080/2616733/123456/218829",
+        "name": "Puerto Ric //  PUERTO KIDS",
+        "id": "puertoricpuertokids",
+        "logo": "http://playtv44.com:8080/images/81518bebd772033e38107121767aa376.jpg",
+        "url": "http://matrivagoweb.xyz:8080/115375/123456/218830",
+        "categories": [
+            "canales de puerto rico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Puerto Ric // PUNTO 2",
+        "id": "puertoricpunto2",
+        "logo": "http://playtv44.com:8080/images/5569d379da86c9142bcfb4b1252553a5.jpg",
+        "url": "http://matrivagoweb.xyz:8080/115375/123456/218833",
+        "categories": [
+            "canales de puerto rico"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Puerto Ric // EWTN el Canal Católico - Religion",
+        "id": "puertoricewtnelcanalcatlicoreligion",
+        "logo": "http://playtv44.com:8080/images/74b784dae90b966a111dc4e6a01675ae.png",
+        "url": "http://matrivagoweb.xyz:8080/115375/123456/218836",
         "categories": [
             "canales de puerto rico"
         ],

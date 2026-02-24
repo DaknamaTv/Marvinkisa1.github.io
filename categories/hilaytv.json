@@ -1470,40 +1470,10 @@
         "country": ""
     },
     {
-        "name": "SNAP",
-        "id": "snap",
-        "logo": "https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg",
-        "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FITRAH",
-        "id": "fitrah",
-        "logo": "https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg",
-        "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "APETITO",
         "id": "apetito",
         "logo": "https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg",
         "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JR.",
-        "id": "jr",
-        "logo": "https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg",
-        "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
         "categories": [
             "hilaytv"
         ],
@@ -5660,16 +5630,6 @@
         "country": ""
     },
     {
-        "name": "FS2 HD",
-        "id": "fs2hd",
-        "logo": "https://pixvid.org/images/2025/01/25/fs2.png",
-        "url": "https://a1xs.vip/40000022",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "IRE: Premier Sports 1 FHD",
         "id": "irepremiersports1fhd",
         "logo": "https://i.imgur.com/2PGUHlW.png",
@@ -5780,16 +5740,6 @@
         "country": ""
     },
     {
-        "name": "HBO Comedy FHD",
-        "id": "hbocomedyfhd",
-        "logo": "https://i.imgur.com/CvxmOqV.png",
-        "url": "https://a1xs.vip/300005",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "BIZNET LIFESTYLE",
         "id": "biznetlifestyle",
         "logo": "https://file.garden/aN9J-XbDsxz3RbSu/lifestyle/biznetlifestyle.jpg?raw=true",
@@ -5860,16 +5810,6 @@
         "country": ""
     },
     {
-        "name": "Nick Jr. UK FHD",
-        "id": "nickjrukfhd",
-        "logo": "https://pixvid.org/images/2025/02/27/Nick_Jr.png",
-        "url": "https://a1xs.vip/1000052",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Spectrum Sportsnet LA Dodgers",
         "id": "spectrumsportsnetladodgers",
         "logo": "https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png",
@@ -5880,30 +5820,10 @@
         "country": ""
     },
     {
-        "name": "SEC Network HD",
-        "id": "secnetworkhd",
-        "logo": "https://pixvid.org/images/2025/01/25/sec-nw.png",
-        "url": "https://a1xs.vip/40000015",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Discovery US",
         "id": "discoveryus",
         "logo": "https://medianet.mv/media/channel/131x0-icon.png",
         "url": "http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "GOL TV",
-        "id": "goltv",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/gol-tv-us.png",
-        "url": "http://23.237.104.106:8080/USA_GOLTV/index.m3u8",
         "categories": [
             "hilaytv"
         ],
@@ -6530,70 +6450,90 @@
         "country": ""
     },
     {
-        "name": "Great American Adventures",
-        "id": "greatamericanadventures",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/77672e0655c5540095b1c492c91c37d3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1666302214374_greatamericanadventures_HUDlogo_centered_260x147.png",
-        "url": "https://jmp2.uk/rok-77672e0655c5540095b1c492c91c37d3.m3u8",
+        "name": "TruBlu Crime Channel",
+        "id": "trublucrimechannel",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/aee4056540505e84a2196b4d2263b745/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1695170771746_Image_HUD_1_Misael_Caraballo.png",
+        "url": "https://jmp2.uk/rok-aee4056540505e84a2196b4d2263b745.m3u8",
         "categories": [
             "hilaytv"
         ],
         "country": ""
     },
     {
-        "name": "Revolt Mixtape",
-        "id": "revoltmixtape",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/07143b8eb2940144933e5faadb8c19e2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748884189656_REVOLTMIXTAPE_EFEFEF_260x147.png",
-        "url": "https://jmp2.uk/rok-07143b8eb2940144933e5faadb8c19e2.m3u8",
+        "name": "Chaos on Cam by A&E",
+        "id": "chaosoncambyae",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/99e44ea6699928b32c444dce774b9b32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png",
+        "url": "https://jmp2.uk/rok-99e44ea6699928b32c444dce774b9b32.m3u8",
         "categories": [
             "hilaytv"
         ],
         "country": ""
     },
     {
-        "name": "TVOAI Channel",
-        "id": "tvoaichannel",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77b94bceefad7df653d27acc05ae420/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738699180944_hud_logo-2.png",
-        "url": "https://jmp2.uk/rok-a77b94bceefad7df653d27acc05ae420.m3u8",
+        "name": "Jazz 88.3",
+        "id": "jazz883",
+        "logo": "https://i0.wp.com/www.gcrcf.org/wp-content/uploads/2023/07/KCCK-IJS-Logo.png?fit=1920%2C1920&ssl=1",
+        "url": "https://stream.kcck.org/jazz883kcck",
         "categories": [
             "hilaytv"
         ],
         "country": ""
     },
     {
-        "name": "FilmRise Pel√≠culas Gratis",
-        "id": "filmrisepelculasgratis",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5b4b59af18ff5686916ef5eb3574de46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451803936_FR_PeliculasGratis_HUD_CenterAligned.png",
-        "url": "https://jmp2.uk/rok-5b4b59af18ff5686916ef5eb3574de46.m3u8",
+        "name": "Now Sports PL 2 FHD",
+        "id": "nowsportspl2fhd",
+        "logo": "https://pixvid.org/images/2025/01/28/NowPL2.png",
+        "url": "https://a1xs.vip/1100002",
         "categories": [
             "hilaytv"
         ],
         "country": ""
     },
     {
-        "name": "Sky Cinema Premiere FHD",
-        "id": "skycinemapremierefhd",
-        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png",
-        "url": "https://a1xs.vip/210003",
+        "name": "Film4 FHD",
+        "id": "film4fhd",
+        "logo": "https://i.imgur.com/OjiHaqa.png",
+        "url": "https://a1xs.vip/1000035",
         "categories": [
             "hilaytv"
         ],
         "country": ""
     },
     {
-        "name": "Nicktoon UK",
-        "id": "nicktoonuk",
-        "logo": "https://i.imgur.com/X3eFHe6.png",
-        "url": "https://a1xs.vip/100054",
+        "name": "Sky Cinema Hits FHD",
+        "id": "skycinemahitsfhd",
+        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-hits.png",
+        "url": "https://a1xs.vip/210002",
         "categories": [
             "hilaytv"
         ],
         "country": ""
     },
     {
-        "name": "FS1 HD",
-        "id": "fs1hd",
-        "logo": "https://pixvid.org/images/2025/01/25/fs1.png",
-        "url": "https://a1xs.vip/40000021",
+        "name": "Sky Cinema Action FHD",
+        "id": "skycinemaactionfhd",
+        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-action.png",
+        "url": "https://a1xs.vip/210006",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ESPN2 HD",
+        "id": "espn2hd",
+        "logo": "https://pixvid.org/images/2025/01/25/espn-2.png",
+        "url": "https://a1xs.vip/40000012",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ACC Network HD",
+        "id": "accnetworkhd",
+        "logo": "https://pixvid.org/images/2025/01/25/acc-nw.png",
+        "url": "https://a1xs.vip/40000016",
         "categories": [
             "hilaytv"
         ],

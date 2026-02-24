@@ -1,25 +1,5 @@
 [
     {
-        "name": "TR: Türkiye'deki Seri Katiller",
-        "id": "trtrkiyedekiserikatiller",
-        "logo": "https://i.ibb.co/fmwrkKg/images.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/870877.ts",
-        "categories": [
-            "tr ➤ playbox exxen"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Olağan Şüpheliler",
-        "id": "trolaanpheliler",
-        "logo": "https://i.ibb.co/fmwrkKg/images.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/870885.ts",
-        "categories": [
-            "tr ➤ playbox exxen"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: Stand Up Evreni",
         "id": "trstandupevreni",
         "logo": "https://i.ibb.co/fmwrkKg/images.png",
@@ -134,6 +114,26 @@
         "id": "trexxen724",
         "logo": "https://i.ibb.co/vxDC9whV/4bBVD9V.png",
         "url": "http://europe.siriusfiber.xyz:80/live/mehmethudaitan/13062020/871170.ts",
+        "categories": [
+            "tr ➤ playbox exxen"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Ölüm Zamanı",
+        "id": "trlmzaman",
+        "logo": "https://i.ibb.co/fmwrkKg/images.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/870884.ts",
+        "categories": [
+            "tr ➤ playbox exxen"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Öğrenci Evi",
+        "id": "trrencievi",
+        "logo": "https://i.ibb.co/fmwrkKg/images.png",
+        "url": "http://europe.siriusfiber.xyz:80/live/Mustafabozkurt1982/fwaaVFMwbP/870886.ts",
         "categories": [
             "tr ➤ playbox exxen"
         ],

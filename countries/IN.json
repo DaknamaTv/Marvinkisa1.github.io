@@ -2044,16 +2044,6 @@
         "country": "IN"
     },
     {
-        "name": "Pratham Khabar 24x7",
-        "id": "PrathamKhabar24x7.in",
-        "logo": "https://i.imgur.com/HNsg5Px.png",
-        "url": "https://livelegitpro.in/hls2/newstime/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Pulari TV",
         "id": "PulariTV.in",
         "logo": "https://i.imgur.com/v5urG30.png",
@@ -2509,16 +2499,6 @@
         "country": "IN"
     },
     {
-        "name": "Sansad TV 2",
-        "id": "SansadTV2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143761_ld_h15_aa.png",
-        "url": "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Amrita TV",
         "id": "AmritaTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png",
@@ -2635,16 +2615,6 @@
         "url": "https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sansad TV 1",
-        "id": "SansadTV1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143760_ld_h15_aa.png",
-        "url": "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8",
-        "categories": [
-            "legislative"
         ],
         "country": "IN"
     },
@@ -4751,16 +4721,6 @@
         "country": "IN"
     },
     {
-        "name": "NTC TV",
-        "id": "NTCTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
-        "url": "https://galaxyott.live/hls/ntv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dabangg",
         "id": "Dabangg.in",
         "logo": "https://i.imgur.com/6ChpxLy.png",
@@ -5097,6 +5057,36 @@
         "categories": [
             "news",
             "classic"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "22Scope News",
+        "id": "22ScopeNews.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "KCL TV",
+        "id": "KCLTV.in",
+        "logo": "https://i.imgur.com/bkp9dIm.png",
+        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Pratham Khabar 24x7",
+        "id": "PrathamKhabar24x7.in",
+        "logo": "https://i.imgur.com/HNsg5Px.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4",
+        "categories": [
+            "news"
         ],
         "country": "IN"
     }

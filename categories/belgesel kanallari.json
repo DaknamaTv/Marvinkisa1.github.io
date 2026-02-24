@@ -8,5 +8,25 @@
             "belgesel kanallari"
         ],
         "country": "TR"
+    },
+    {
+        "name": "NATIONAL GEOGRAPHIC HD",
+        "id": "nationalgeographichd",
+        "logo": "https://hizliresims.com/nationalgeographichd.jpg",
+        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/5093",
+        "categories": [
+            "belgesel kanallari"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRT BELGESEL FULL HD",
+        "id": "trtbelgeselfullhd",
+        "logo": "https://hizliresims.com/trtbelgeselfullhd.jpg",
+        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/5081",
+        "categories": [
+            "belgesel kanallari"
+        ],
+        "country": ""
     }
 ]

@@ -1,15 +1,5 @@
 [
     {
-        "name": "A Haber HD",
-        "id": "AHaberHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png",
-        "url": "http://yrtds0911.xyz:8080/hsynrklm6285/cn.25012024/20768",
-        "categories": [
-            "haber kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Halk TV",
         "id": "HalkTV.tr",
         "logo": "https://i.imgur.com/xM0HA30.png",
@@ -18,5 +8,45 @@
             "haber kanallari"
         ],
         "country": "TR"
+    },
+    {
+        "name": "SÖZCÜ TV",
+        "id": "szctv",
+        "logo": "https://hizliresims.com/sozcutv.jpg",
+        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/84099",
+        "categories": [
+            "haber kanallari"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KANAL 24 HD",
+        "id": "kanal24hd",
+        "logo": "https://hizliresims.com/kanal24hd.jpg",
+        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/5115",
+        "categories": [
+            "haber kanallari"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KRT TV",
+        "id": "krttv",
+        "logo": "https://hizliresims.com/krttv.jpg",
+        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120252",
+        "categories": [
+            "haber kanallari"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LİDER HABER",
+        "id": "lderhaber",
+        "logo": "https://hizliresims.com/liderhaber.jpg",
+        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120273",
+        "categories": [
+            "haber kanallari"
+        ],
+        "country": ""
     }
 ]

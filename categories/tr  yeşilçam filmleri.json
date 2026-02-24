@@ -1,25 +1,5 @@
 [
     {
-        "name": "TR: FILMBOX SENER SEN ʜᴅ",
-        "id": "trfilmboxsenersen",
-        "logo": "https://i.ibb.co/v99nN14/SENER-SEN.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/almthn75/zJNB825uT7/860439.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Minur Ozkul 1",
-        "id": "trminurozkul1",
-        "logo": "https://i.ibb.co/KxCDxm2s/28xDwhI.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/emreakbal35/17082022/860527.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: FILMBOX ILYAS SALMAN ʜᴅ",
         "id": "trfilmboxilyassalman",
         "logo": "https://i.ibb.co/23CLfPVj/6orNljO.png",
@@ -160,26 +140,6 @@
         "country": ""
     },
     {
-        "name": "TR: Sener Sen 1",
-        "id": "trsenersen1",
-        "logo": "https://i.ibb.co/v99nN14/SENER-SEN.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860492.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Yesilcam 1",
-        "id": "tryesilcam1",
-        "logo": "https://i.ibb.co/Y4hgLxbW/kXk2igV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860497.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: Yesilcam 3",
         "id": "tryesilcam3",
         "logo": "https://i.ibb.co/Y4hgLxbW/kXk2igV.png",
@@ -204,96 +164,6 @@
         "id": "trilyassalman2",
         "logo": "https://i.ibb.co/23CLfPVj/6orNljO.png",
         "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860504.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: FILMBOX ZEKI & METIN ʜᴅ",
-        "id": "trfilmboxzekimetin",
-        "logo": "https://i.ibb.co/Jw9Gh8SR/ZEKI-ILE-METIN.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860438.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: FILMBOX YESILCAM ʜᴅ",
-        "id": "trfilmboxyesilcam",
-        "logo": "https://i.ibb.co/Y4hgLxbW/kXk2igV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860441.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Sener Sen 3",
-        "id": "trsenersen3",
-        "logo": "https://i.ibb.co/v99nN14/SENER-SEN.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860494.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Yesilcam 2",
-        "id": "tryesilcam2",
-        "logo": "https://i.ibb.co/Y4hgLxbW/kXk2igV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860498.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: ilyas Salman 1",
-        "id": "trilyassalman1",
-        "logo": "https://i.ibb.co/23CLfPVj/6orNljO.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860503.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Sadri Alisik 3",
-        "id": "trsadrialisik3",
-        "logo": "https://i.ibb.co/x8JmtQZx/V1ESkIZ.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860535.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Cine Yesilcam 4",
-        "id": "trcineyesilcam4",
-        "logo": "https://i.ibb.co/Y4hgLxbW/kXk2igV.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/whesy1012/mRV639GXuN/860557.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Cuneyt Arkin 2",
-        "id": "trcuneytarkin2",
-        "logo": "https://i.ibb.co/21pPcnYJ/UZLAS36.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/huseyinasu/x68UwNjFio/860508.ts",
-        "categories": [
-            "tr ➤ yeşilçam filmleri"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Cuneyt Arkin 5",
-        "id": "trcuneytarkin5",
-        "logo": "https://i.ibb.co/21pPcnYJ/UZLAS36.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/huseyinasu/x68UwNjFio/860511.ts",
         "categories": [
             "tr ➤ yeşilçam filmleri"
         ],

@@ -1,15 +1,5 @@
 [
     {
-        "name": "UK-Boomerang",
-        "id": "ukboomerang",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/b3Bg9B/358847/53718",
-        "categories": [
-            "uk united kingdom"
-        ],
-        "country": ""
-    },
-    {
         "name": "UK-MUTV",
         "id": "ukmutv",
         "logo": "",
@@ -84,6 +74,16 @@
         "id": "ukcbsjustice",
         "logo": "",
         "url": "http://tv2watch.icu:8080/cn7R0q/489385/134942",
+        "categories": [
+            "uk united kingdom"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK-Blaze",
+        "id": "ukblaze",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/53754",
         "categories": [
             "uk united kingdom"
         ],

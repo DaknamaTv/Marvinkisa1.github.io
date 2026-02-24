@@ -60,10 +60,40 @@
         "country": ""
     },
     {
-        "name": "CA Nickelodeon (R)",
-        "id": "canickelodeonr",
+        "name": "CA Cartoon Network",
+        "id": "cacartoonnetwork",
         "logo": "",
-        "url": "http://xxip25.top:8080/46028598/62533224/47349",
+        "url": "http://xxip25.top:8080/AHy3c7/745580/57380",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Disney Junior",
+        "id": "cadisneyjunior",
+        "logo": "",
+        "url": "http://xxip25.top:8080/AHy3c7/745580/57349",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Discovery Family",
+        "id": "usdiscoveryfamily",
+        "logo": "",
+        "url": "http://xxip25.top:8080/AHy3c7/745580/57347",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Treehouse (R)",
+        "id": "catreehouser",
+        "logo": "",
+        "url": "http://xxip25.top:8080/46028598/62533224/57371",
         "categories": [
             "kids zone"
         ],

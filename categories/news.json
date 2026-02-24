@@ -167,6 +167,16 @@
         "country": "BR"
     },
     {
+        "name": "TV Sim Cachoeiro",
+        "id": "TVSimCachoeiro.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "First Channel News",
         "id": "FirstChannelNews.am",
         "logo": "https://i.imgur.com/RlYJUH4.png",
@@ -540,6 +550,16 @@
         "country": "AL"
     },
     {
+        "name": "Euronews Albania",
+        "id": "EuronewsAlbania.al",
+        "logo": "https://i.imgur.com/Skf6vdi.png",
+        "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AL"
+    },
+    {
         "name": "NH",
         "id": "NH.nl",
         "logo": "https://i.imgur.com/SPkK4md.png",
@@ -661,26 +681,6 @@
         "country": "DO"
     },
     {
-        "name": "Citrico TV",
-        "id": "CitricoTV.do",
-        "logo": "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
-        "url": "https://mlb.essastream.com:8081/citricotv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "TVN24",
-        "id": "TVN24.do",
-        "logo": "https://i.imgur.com/bu6bQMa.png",
-        "url": "https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Abante TV",
         "id": "AbanteTV.ph",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
@@ -745,6 +745,41 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -1690,6 +1725,16 @@
         "country": "US"
     },
     {
+        "name": "Fox News Channel",
+        "id": "FoxNewsChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
         "name": "News 7 Tamil",
         "id": "News7Tamil.in",
         "logo": "https://i.imgur.com/UjlbR4o.png",
@@ -2504,16 +2549,6 @@
         "id": "KannurVision.in",
         "logo": "https://i.imgur.com/FCXqPer.png",
         "url": "https://stream.logichost.in/kannurvision/live/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Pratham Khabar 24x7",
-        "id": "PrathamKhabar24x7.in",
-        "logo": "https://i.imgur.com/HNsg5Px.png",
-        "url": "https://livelegitpro.in/hls2/newstime/index.m3u8",
         "categories": [
             "news"
         ],
@@ -3674,6 +3709,26 @@
         "country": "IN"
     },
     {
+        "name": "22Scope News",
+        "id": "22ScopeNews.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Pratham Khabar 24x7",
+        "id": "PrathamKhabar24x7.in",
+        "logo": "https://i.imgur.com/HNsg5Px.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Observator News",
         "id": "ObservatorNews.ro",
         "logo": "https://i.imgur.com/f6xEIAr.png",
@@ -3868,6 +3923,16 @@
         "id": "ExitosaTV.pe",
         "logo": "https://i.imgur.com/pu0BSB7.png",
         "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4406,6 +4471,36 @@
             "news"
         ],
         "country": "TW"
+    },
+    {
+        "name": "TV West",
+        "id": "TVWest.ug",
+        "logo": "https://i.imgur.com/EiJzkIz.png",
+        "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Bukedde TV 1",
+        "id": "BukeddeTV1.ug",
+        "logo": "https://i.imgur.com/HFq5QlJ.png",
+        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Wan Luo TV",
+        "id": "WanLuoTV.ug",
+        "logo": "https://i.imgur.com/4PUUp3E.png",
+        "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UG"
     },
     {
         "name": "eTv Marche",
@@ -5026,6 +5121,19 @@
         "country": "BO"
     },
     {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Ekushey TV",
         "id": "EkusheyTV.bd",
         "logo": "https://i.imgur.com/lRpkGHj.png",
@@ -5368,6 +5476,16 @@
         "country": "PY"
     },
     {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Press TV French",
         "id": "PressTVFrench.ir",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
@@ -5519,6 +5637,16 @@
         "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
         "categories": [
             "music",
+            "news"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "M95 Television Marbella",
+        "id": "M95TelevisionMarbella.es",
+        "logo": "https://i.imgur.com/RzAkP1V.png",
+        "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+        "categories": [
             "news"
         ],
         "country": "ES"
