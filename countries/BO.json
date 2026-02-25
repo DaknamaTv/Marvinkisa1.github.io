@@ -174,19 +174,6 @@
         "country": "BO"
     },
     {
-        "name": "CEACOM TV",
-        "id": "CEACOMTV.bo",
-        "logo": "https://i.imgur.com/hutdRfk.png",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "categories": [
-            "news",
-            "lifestyle",
-            "music",
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Unifranz",
         "id": "Unifranz.bo",
         "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
@@ -203,6 +190,16 @@
         "id": "UnitelSantaCruz.bo",
         "logo": "https://i.imgur.com/B9wg1zj.png",
         "url": "https://xtream.videx.lol/Yoshiro/admin/338.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Palenque TV",
+        "id": "PalenqueTV.bo",
+        "logo": "https://i.imgur.com/wAIBvaO.png",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "categories": [
             "general"
         ],

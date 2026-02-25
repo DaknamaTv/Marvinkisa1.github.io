@@ -2280,16 +2280,6 @@
         "country": ""
     },
     {
-        "name": "BeIN Sports 3",
-        "id": "beinsports3",
-        "logo": "",
-        "url": "http://135.125.109.73:9000/beinsport3_.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "SHOWBOX",
         "id": "showbox",
         "logo": "",
@@ -2900,16 +2890,6 @@
         "country": ""
     },
     {
-        "name": "Shol Sports",
-        "id": "sholsports",
-        "logo": "",
-        "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "PTV-SPORTS",
         "id": "ptvsports",
         "logo": "",
@@ -2954,16 +2934,6 @@
         "id": "colorsrishtey",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/12/12_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ZB Cinema",
-        "id": "zbcinema",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
         "categories": [
             "bd"
         ],
@@ -3570,10 +3540,20 @@
         "country": ""
     },
     {
-        "name": "TNS Sports-2",
-        "id": "tnssports2",
+        "name": "History TV 18 HD",
+        "id": "historytv18hd",
         "logo": "",
-        "url": "https://7pal.short.gy/tntspts2",
+        "url": "http://103.229.254.25:7001/play/a02z/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-1",
+        "id": "tnssports1",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts1",
         "categories": [
             "bd"
         ],

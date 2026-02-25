@@ -300,16 +300,6 @@
         "country": ""
     },
     {
-        "name": "MTV Jovens e Mães",
-        "id": "mtvjovensemes",
-        "logo": "https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
-        "categories": [
-            "pluto tv brasil"
-        ],
-        "country": ""
-    },
-    {
         "name": "MTV Are you the One?",
         "id": "mtvareyoutheone",
         "logo": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
@@ -884,16 +874,6 @@
         "id": "filmeliertv",
         "logo": "https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
-        "categories": [
-            "pluto tv brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Jovem Pan NEWS",
-        "id": "jovempannews",
-        "logo": "https://images.pluto.tv/channels/6317ba014d4d040007227f72/colorLogoPNG.png",
-        "url": "https://stitcher.pluto.tv/stitch/hls/channel/6317ba014d4d040007227f72/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593",
         "categories": [
             "pluto tv brasil"
         ],

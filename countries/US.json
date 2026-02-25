@@ -8211,16 +8211,6 @@
         "country": "US"
     },
     {
-        "name": "Vision Global TV",
-        "id": "VisionGlobalTV.us",
-        "logo": "https://i.imgur.com/3FaNbYD.png",
-        "url": "https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Fidele TV",
         "id": "FideleTV.us",
         "logo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
@@ -9443,26 +9433,6 @@
         "country": "US"
     },
     {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "AMGA TV",
-        "id": "AMGATV.us",
-        "logo": "https://i.imgur.com/NTlC6e7.png",
-        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "theDove TV",
         "id": "theDoveTV.us",
         "logo": "https://i.imgur.com/ULtuRsj.png",
@@ -9517,16 +9487,6 @@
         "id": "ABC4K.us",
         "logo": "",
         "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15897",
-        "categories": [
-            "us : united states"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "TLC 4K+",
-        "id": "TLC4K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15913",
         "categories": [
             "us : united states"
         ],
@@ -9687,26 +9647,6 @@
         "country": "US"
     },
     {
-        "name": "KTVK-DT1",
-        "id": "KTVKDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "NBC Sports Boston",
-        "id": "NBCSportsBoston.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
-        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TV Quisqueya",
         "id": "TVQuisqueya.us",
         "logo": "https://i.imgur.com/G7X4LQI.png",
@@ -9743,6 +9683,16 @@
         "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
         "categories": [
             "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBC Tapesh TV",
+        "id": "PBCTapeshTV.us",
+        "logo": "https://i.imgur.com/50JzsmH.png",
+        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "US"
     }

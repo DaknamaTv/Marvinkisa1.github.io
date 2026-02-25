@@ -1375,16 +1375,6 @@
         "country": "RU"
     },
     {
-        "name": "City Eden TeleNovella",
-        "id": "CityEdenTeleNovella.ru",
-        "logo": "https://i.imgur.com/mT5liTh.png",
-        "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "RTL Crime",
         "id": "RTLCrime.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL_CRIME_Logo_2021_united_orange_rot_blau.svg/512px-RTL_CRIME_Logo_2021_united_orange_rot_blau.svg.png",
@@ -1421,6 +1411,16 @@
         "url": "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
         "categories": [
             "general",
+            "series"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Donna TV",
+        "id": "DonnaTV.it",
+        "logo": "https://i.imgur.com/39cSNHs.png",
+        "url": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8",
+        "categories": [
             "series"
         ],
         "country": "IT"

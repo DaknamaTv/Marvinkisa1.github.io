@@ -635,5 +635,23 @@
             "news"
         ],
         "country": "RO"
+    },
+    {
+        "name": "Bucovina TV",
+        "id": "BucovinaTV.ro",
+        "logo": "https://i.imgur.com/6klhXxp.png",
+        "url": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+        "categories": [],
+        "country": "RO"
+    },
+    {
+        "name": "IasiTV Life",
+        "id": "IasiTVLife.ro",
+        "logo": "https://i.imgur.com/HY7EL5e.png",
+        "url": "https://tv.streambox.ro/hls/itv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RO"
     }
 ]

@@ -2044,16 +2044,6 @@
         "country": "IN"
     },
     {
-        "name": "Pulari TV",
-        "id": "PulariTV.in",
-        "logo": "https://i.imgur.com/v5urG30.png",
-        "url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Republic TV",
         "id": "RepublicTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png",
@@ -3072,7 +3062,7 @@
     {
         "name": "Aaj Tak",
         "id": "AajTak.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142507_ld_h15_aa.png",
+        "logo": "https://i.imgur.com/JYLmXy4.png",
         "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
         "categories": [
             "news"
@@ -4501,16 +4491,6 @@
         "country": "IN"
     },
     {
-        "name": "Lokshahi News",
-        "id": "LokshahiNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png",
-        "url": "https://see.lokshahi.live/live/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Marutam Music",
         "id": "MarutamMusic.in",
         "logo": "",
@@ -4939,27 +4919,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZillarBarta News",
         "id": "ZillarBartaNews.in",
         "logo": "https://i.imgur.com/6uestzY.jpeg",
@@ -5051,16 +5010,6 @@
         "country": "IN"
     },
     {
-        "name": "Namdhari TV",
-        "id": "NamdhariTV.in",
-        "logo": "https://i.imgur.com/NalsXTo.png",
-        "url": "https://namdhari.tv/live/sbs1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Odisha TV",
         "id": "OdishaTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png",
@@ -5071,10 +5020,100 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports Select 1",
-        "id": "StarSportsSelect1.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png",
-        "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
+        "name": "Bada Khabar",
+        "id": "BadaKhabar.in",
+        "logo": "https://i.imgur.com/XiwygDJ.png",
+        "url": "https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a007/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Entertainment Television",
+        "id": "SonyEntertainmentTelevision.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a02z/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Max",
+        "id": "SonyMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a025/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Max 2",
+        "id": "SonyMax2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a002/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Bharat",
+        "id": "StarBharat.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a01z/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Romance",
+        "id": "StarGoldRomance.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a029/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Movies",
+        "id": "StarMovies.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a02j/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Movies Select",
+        "id": "StarMoviesSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a02i/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Sports Select 2",
+        "id": "StarSportsSelect2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143851_ld_h15_aa.png",
+        "url": "http://103.113.103.202:8001/play/a02q/index.m3u8",
         "categories": [
             "sports"
         ],

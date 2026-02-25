@@ -433,16 +433,6 @@
         "country": "AR"
     },
     {
-        "name": "Quantica TV",
-        "id": "QuanticaTV.ar",
-        "logo": "https://i.imgur.com/6f8EYC2.jpeg",
-        "url": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 7 Salta",
         "id": "Canal7Salta.ar",
         "logo": "https://i.imgur.com/CudG6sl.png",
@@ -502,16 +492,6 @@
         "logo": "https://i.imgur.com/vBsry35.png",
         "url": "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
         "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "El Trece",
-        "id": "ElTrece.ar",
-        "logo": "https://i.imgur.com/TrgBAdA.png",
-        "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "AR"
     },
     {
@@ -759,14 +739,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 4 San Juan",
-        "id": "Canal4SanJuan.ar",
-        "logo": "https://i.imgur.com/MsCnwRA.png",
-        "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "24/7 Canal de Noticias",
         "id": "247CanaldeNoticias.ar",
         "logo": "https://i.imgur.com/4hDCB1M.png",
@@ -799,6 +771,14 @@
         "id": "Canal79MardelPlata.ar",
         "logo": "https://i.imgur.com/I93ypGY.png",
         "url": "https://streamconex.com:19360/mardelplata/mardelplata.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 79 Puan",
+        "id": "Canal79Puan.ar",
+        "logo": "https://i.imgur.com/HYuSqJy.png",
+        "url": "https://streamconex.com:19360/puan/puan.m3u8",
         "categories": [],
         "country": "AR"
     }

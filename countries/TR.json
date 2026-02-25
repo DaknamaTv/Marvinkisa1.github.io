@@ -530,14 +530,6 @@
         "country": "TR"
     },
     {
-        "name": "ETV Manisa",
-        "id": "ETVManisa.tr",
-        "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
-        "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
-        "categories": [],
-        "country": "TR"
-    },
-    {
         "name": "Finans Turk TV",
         "id": "FinansTurkTV.tr",
         "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
@@ -684,16 +676,6 @@
         "url": "http://yrtds0911.xyz:8080/Tolga333/hWWrDE9c99/6097",
         "categories": [
             "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Tivibu Spor 4K+",
-        "id": "TivibuSpor4K.tr",
-        "logo": "http://148.251.19.24:89/TR-Logo/TR-Spor/Spor/TIVIBU.SPOR.1.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/197",
-        "categories": [
-            "tr : spor"
         ],
         "country": "TR"
     },
@@ -1261,6 +1243,14 @@
         "categories": [
             "kids"
         ],
+        "country": "TR"
+    },
+    {
+        "name": "TV 52",
+        "id": "TV52.tr",
+        "logo": "https://i.imgur.com/k4R5CzO.png",
+        "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+        "categories": [],
         "country": "TR"
     }
 ]

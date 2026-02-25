@@ -508,16 +508,6 @@
         "country": "PE"
     },
     {
-        "name": "RCR",
-        "id": "RCR.pe",
-        "logo": "https://i.imgur.com/A8TRPrF.png",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Mega TV Jaen",
         "id": "MegaTVJaen.pe",
         "logo": "https://i.imgur.com/zK1YcpJ.png",
@@ -532,6 +522,14 @@
         "id": "RNTelevision.pe",
         "logo": "https://i.imgur.com/oFGiW7u.png",
         "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Senal Peru TV",
+        "id": "SenalPeruTV.pe",
+        "logo": "https://i.imgur.com/1q0R6R9.png",
+        "url": "https://livestream.perucast.com/hls/stream.m3u8",
         "categories": [],
         "country": "PE"
     }
