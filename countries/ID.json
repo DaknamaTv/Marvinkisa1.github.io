@@ -509,14 +509,6 @@
         "country": "ID"
     },
     {
-        "name": "PKTV",
-        "id": "PKTV.id",
-        "logo": "https://i.imgur.com/mldv8Sf.png",
-        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Selaparang TV",
         "id": "SelaparangTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
@@ -713,16 +705,6 @@
         "country": "ID"
     },
     {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Jambi TV",
         "id": "JambiTV.id",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png",
@@ -830,6 +812,22 @@
         "categories": [
             "education"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "Semarang TV",
+        "id": "SemarangTV.id",
+        "logo": "https://i.imgur.com/KFC2WSB.png",
+        "url": "http://116.254.112.74/hls/cakralive.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "U Channel",
+        "id": "UChannel.id",
+        "logo": "https://i.imgur.com/qxkb0cy.png",
+        "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]

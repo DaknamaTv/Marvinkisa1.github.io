@@ -372,6 +372,16 @@
         "country": "NL"
     },
     {
+        "name": "SBS6 Classics",
+        "id": "SBS6Classics.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
+        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "NL"
+    },
+    {
         "name": "Bonches Latinos TV",
         "id": "BonchesLatinosTV.do",
         "logo": "https://i.imgur.com/Kp8x0NS.png",
@@ -526,16 +536,6 @@
         "id": "PronemsTV.do",
         "logo": "https://i.imgur.com/a9ORO1G.png",
         "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "TVS",
-        "id": "TVS.do",
-        "logo": "https://i.imgur.com/a2YX1oj.jpg",
-        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2295,6 +2295,16 @@
         "country": "IN"
     },
     {
+        "name": "Pulari TV",
+        "id": "PulariTV.in",
+        "logo": "https://i.imgur.com/v5urG30.png",
+        "url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -2417,16 +2427,6 @@
         "id": "TV1.lk",
         "logo": "https://i.imgur.com/QShk1BV.png",
         "url": "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "LK"
-    },
-    {
-        "name": "NDTV LANKA",
-        "id": "NDTVLANKA.lk",
-        "logo": "https://i.imgur.com/5cyTVRJ.png",
-        "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3592,16 +3592,6 @@
         "country": "CR"
     },
     {
-        "name": "ETV+",
-        "id": "ETVPlus.ee",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
-        "url": "https://sb.err.ee/live/etvpluss.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EE"
-    },
-    {
         "name": "Nos Isla TV",
         "id": "NosIslaTV.aw",
         "logo": "https://i.imgur.com/sH7ZkPx.png",
@@ -3742,17 +3732,6 @@
         "country": "VE"
     },
     {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "categories": [
-            "entertainment",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "247 Box TV",
         "id": "247BoxTV.ir",
         "logo": "https://i.imgur.com/t5AUthL.png",
@@ -3824,16 +3803,6 @@
         "country": "ES"
     },
     {
-        "name": "Hispania TV",
-        "id": "HispaniaTV.pa",
-        "logo": "https://i.imgur.com/647WCF8.png",
-        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PA"
-    },
-    {
         "name": "Indonesiana.TV",
         "id": "IndonesianaTV.id",
         "logo": "https://i.imgur.com/192wiS1.png",
@@ -3873,6 +3842,16 @@
             "entertainment"
         ],
         "country": "SG"
+    },
+    {
+        "name": "Chandel TV",
+        "id": "ChandelTV.tg",
+        "logo": "https://i.imgur.com/jQO7dVE.png",
+        "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "TG"
     },
     {
         "name": "Fortune TV",
@@ -3939,16 +3918,6 @@
         "id": "hiyah1080p",
         "logo": "https://i.imgur.com/sOYAnTB.png",
         "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Impact Network (720p)",
-        "id": "impactnetwork720p",
-        "logo": "https://i.imgur.com/57NH9sS.png",
-        "url": "https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8",
         "categories": [
             "entertainment"
         ],

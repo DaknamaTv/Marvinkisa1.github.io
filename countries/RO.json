@@ -555,16 +555,6 @@
         "country": "RO"
     },
     {
-        "name": "Metropola TV",
-        "id": "MetropolaTV.ro",
-        "logo": "https://i.imgur.com/Gzq05v8.png",
-        "url": "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "TVPlus Suceava",
         "id": "TVPlusSuceava.ro",
         "logo": "https://i.imgur.com/f4fzoLe.png",

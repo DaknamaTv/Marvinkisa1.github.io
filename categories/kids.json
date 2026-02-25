@@ -1035,7 +1035,7 @@
         "name": "Rai Yoyo",
         "id": "RaiYoyo.it",
         "logo": "https://i.imgur.com/9gCxiDy.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
+        "url": "http://78.130.250.2:8023/play/a04d/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -1178,17 +1178,6 @@
             "kids"
         ],
         "country": "CR"
-    },
-    {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
-        ],
-        "country": "EE"
     },
     {
         "name": "TRT Cocuk",

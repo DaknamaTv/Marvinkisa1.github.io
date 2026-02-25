@@ -4420,36 +4420,6 @@
         "country": ""
     },
     {
-        "name": "Fox Sports 501 FHD",
-        "id": "foxsports501fhd",
-        "logo": "https://i.imgur.com/59gCbVd.png",
-        "url": "https://a1xs.vip/700001",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fox Sports 502 FHD",
-        "id": "foxsports502fhd",
-        "logo": "https://i.imgur.com/idKGREY.png",
-        "url": "https://a1xs.vip/700002",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fox Sports 507 FHD",
-        "id": "foxsports507fhd",
-        "logo": "https://i.imgur.com/kGm7Ts1.png",
-        "url": "https://a1xs.vip/700007",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Sport DE",
         "id": "skysportde",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png",
@@ -4634,16 +4604,6 @@
         "id": "skysportsgolffhd",
         "logo": "https://i.ibb.co/QvhY4tX/sky-golf.png",
         "url": "https://a1xs.vip/2000009",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fox Sports 504 FHD",
-        "id": "foxsports504fhd",
-        "logo": "https://i.imgur.com/aEoU7gf.png",
-        "url": "https://a1xs.vip/700004",
         "categories": [
             "hilaytv"
         ],
@@ -5250,66 +5210,6 @@
         "country": ""
     },
     {
-        "name": "100 Hip Hop and RNB FM",
-        "id": "100hiphopandrnbfm",
-        "logo": "https://images.radio.com/independent/logos/100hiphopandrnbfm.jpg",
-        "url": "https://ice64.securenetsystems.net/LFTM",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "92.7 FM Jam Central",
-        "id": "927fmjamcentral",
-        "logo": "https://static.wixstatic.com/media/a31f71_e71cfe156a6a41e285ec40f7b047d5b9~mv2.png/v1/fill/w_176,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png",
-        "url": "https://ice42.securenetsystems.net/KZJM",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HipHop95",
-        "id": "hiphop95",
-        "logo": "https://hiphop95.com/assets/images/logos/hip-hop-95-logo-white-bg.png",
-        "url": "https://ice64.securenetsystems.net/HHJRR",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Loud 101.5",
-        "id": "loud1015",
-        "logo": "https://loudradiopa.com/wp-content/uploads/2022/02/loudradiosquare-600x430.png",
-        "url": "https://ice23.securenetsystems.net/WZWWHD2",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Loud 98.5",
-        "id": "loud985",
-        "logo": "https://loudradiopa.com/wp-content/uploads/2022/02/loug-header-1.png",
-        "url": "https://ice66.securenetsystems.net/WLEVHD4",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Smooth Jazz 88.9",
-        "id": "smoothjazz889",
-        "logo": "https://radiostationusa.fm/assets/image/radio/180/KJLU.png",
-        "url": "https://ice8.securenetsystems.net/KJLU",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Sports Premier League FHD",
         "id": "skysportspremierleaguefhd",
         "logo": "https://i.ibb.co/rcSRMh9/sky-sports-pl.png",
@@ -5730,50 +5630,10 @@
         "country": ""
     },
     {
-        "name": "Western Time",
-        "id": "westerntime",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250211T014017SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT3600004TW",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hot 412",
-        "id": "hot412",
-        "logo": "https://media.live365.com/download/b96d71a6-5b77-4794-a186-29b0739f26ff.jpg",
-        "url": "https://ice24.securenetsystems.net/HOT412IH",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Atlantic FHD",
         "id": "skyatlanticfhd",
         "logo": "https://pixvid.org/images/2025/02/10/sky-atlantic.png",
         "url": "https://a1xs.vip/210001",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sky Cinema Hits FHD",
-        "id": "skycinemahitsfhd",
-        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-hits.png",
-        "url": "https://a1xs.vip/210002",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HBO Comedy FHD",
-        "id": "hbocomedyfhd",
-        "logo": "https://i.imgur.com/CvxmOqV.png",
-        "url": "https://a1xs.vip/300005",
         "categories": [
             "hilaytv"
         ],
@@ -5844,16 +5704,6 @@
         "id": "defatv",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2700001ID_20250107T024823SQUARE.png",
         "url": "https://jmp2.uk/stvp-DEBD2700001ID",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Journy",
-        "id": "journy",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000003HL_20240520T221245SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBB1000003HL",
         "categories": [
             "hilaytv"
         ],
@@ -6570,36 +6420,6 @@
         "country": ""
     },
     {
-        "name": "Pocket.watch Game-On",
-        "id": "pocketwatchgameon",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/d8b7e94b7edc53918e6afa251822df14/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1725978776066_pocket.watchGame-On_Info_HUD_260x147.png",
-        "url": "https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Telediario Now",
-        "id": "telediarionow",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ceb64d994c7756c2a8f09ace94c3e43f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1715804997455_Logtipo_TDNOW_260x147_centradoaleje.png",
-        "url": "https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Spectrum Sportsnet FHD",
-        "id": "spectrumsportsnetfhd",
-        "logo": "https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png",
-        "url": "https://a1xs.vip/4000006",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "FS2 HD",
         "id": "fs2hd",
         "logo": "https://pixvid.org/images/2025/01/25/fs2.png",
@@ -6614,6 +6434,156 @@
         "id": "foxsports505fhd",
         "logo": "https://i.imgur.com/angJkah.png",
         "url": "https://a1xs.vip/700005",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN Football (FAST)",
+        "id": "daznfootballfast",
+        "logo": "",
+        "url": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "9X Jalwa",
+        "id": "9xjalwa",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png",
+        "url": "https://jmp2.uk/stvp-INBC2800013L6",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "All Romance",
+        "id": "allromance",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE16000042J_20250520T045009SQUARE.png",
+        "url": "https://jmp2.uk/stvp-DE16000042J",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kino Barrandov (720p)",
+        "id": "kinobarrandov720p",
+        "logo": "",
+        "url": "http://83.167.253.107/hdmi1_ext",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hub Premier 2 FHD",
+        "id": "hubpremier2fhd",
+        "logo": "https://pixvid.org/images/2025/01/28/Hubp2.png",
+        "url": "https://a1xs.vip/1100042",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Sports Action FHD",
+        "id": "skysportsactionfhd",
+        "logo": "https://i.ibb.co/VqtQrDq/sky-action.png",
+        "url": "https://a1xs.vip/2000011",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Channel 4 FHD",
+        "id": "channel4fhd",
+        "logo": "https://i.ibb.co/v3WBCFV/Channel-4.png",
+        "url": "https://a1xs.vip/1000031",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Cinema Premiere FHD",
+        "id": "skycinemapremierefhd",
+        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png",
+        "url": "https://a1xs.vip/210003",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Cinema Action FHD",
+        "id": "skycinemaactionfhd",
+        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-action.png",
+        "url": "https://a1xs.vip/210006",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nick Jr. UK FHD",
+        "id": "nickjrukfhd",
+        "logo": "https://pixvid.org/images/2025/02/27/Nick_Jr.png",
+        "url": "https://a1xs.vip/1000052",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nicktoon UK",
+        "id": "nicktoonuk",
+        "logo": "https://i.imgur.com/X3eFHe6.png",
+        "url": "https://a1xs.vip/100054",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FS1 HD",
+        "id": "fs1hd",
+        "logo": "https://pixvid.org/images/2025/01/25/fs1.png",
+        "url": "https://a1xs.vip/40000021",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Golf Channel USA FHD",
+        "id": "golfchannelusafhd",
+        "logo": "https://pixvid.org/images/2025/02/18/golf-channel.png",
+        "url": "https://a1xs.vip/40000060",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fox Sports 503 FHD",
+        "id": "foxsports503fhd",
+        "logo": "https://i.imgur.com/5PUsSnn.png",
+        "url": "https://a1xs.vip/700003",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVLAND",
+        "id": "tvland",
+        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/tvland-us.png",
+        "url": "https://tvpass.org/live/tv-land-eastern/hd",
         "categories": [
             "hilaytv"
         ],

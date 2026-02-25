@@ -448,6 +448,16 @@
         "country": "CA"
     },
     {
+        "name": "TV Punjab",
+        "id": "TVPunjab.ca",
+        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "Visir",
         "id": "Visir.is",
         "logo": "https://i.imgur.com/07Vlt6i.jpg",
@@ -1694,6 +1704,16 @@
         "id": "W14DKD2.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
         "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Fox News Channel",
+        "id": "FoxNewsChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
         "categories": [
             "news"
         ],
@@ -3694,6 +3714,16 @@
         "country": "IN"
     },
     {
+        "name": "Lokshahi News",
+        "id": "LokshahiNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png",
+        "url": "https://see.lokshahi.live/live/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Observator News",
         "id": "ObservatorNews.ro",
         "logo": "https://i.imgur.com/f6xEIAr.png",
@@ -3888,6 +3918,16 @@
         "id": "ExitosaTV.pe",
         "logo": "https://i.imgur.com/pu0BSB7.png",
         "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4538,6 +4578,16 @@
         "country": "IT"
     },
     {
+        "name": "Lira TV",
+        "id": "LiraTV.it",
+        "logo": "https://i.imgur.com/sC9ELuY.jpg",
+        "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "ETV",
         "id": "ETV.mn",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png",
@@ -4719,16 +4769,6 @@
             "news"
         ],
         "country": "AZ"
-    },
-    {
-        "name": "M-Net Info",
-        "id": "MNetInfo.mk",
-        "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
-        "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "MK"
     },
     {
         "name": "NBC 2",
@@ -5072,6 +5112,19 @@
             "education",
             "entertainment",
             "news"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "CEACOM TV",
+        "id": "CEACOMTV.bo",
+        "logo": "https://i.imgur.com/hutdRfk.png",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "categories": [
+            "news",
+            "lifestyle",
+            "music",
+            "general"
         ],
         "country": "BO"
     },
@@ -5422,6 +5475,16 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Mega TV",
+        "id": "MegaTV.py",
+        "logo": "https://i.imgur.com/CaA7l86.png",
+        "url": "https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
         "categories": [
             "news"
         ],

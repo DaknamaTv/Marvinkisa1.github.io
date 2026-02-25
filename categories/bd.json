@@ -2410,16 +2410,6 @@
         "country": ""
     },
     {
-        "name": "Madani TV",
-        "id": "madanitv",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a05p/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "BijoyTV",
         "id": "bijoytv",
         "logo": "",
@@ -3554,6 +3544,36 @@
         "id": "tnssports1",
         "logo": "",
         "url": "https://7pal.short.gy/tntspts1",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Amazon SAT",
+        "id": "amazonsat",
+        "logo": "",
+        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BeIN Sports 3",
+        "id": "beinsports3",
+        "logo": "",
+        "url": "http://135.125.109.73:9000/beinsport3_.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-3",
+        "id": "tnssports3",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts3",
         "categories": [
             "bd"
         ],

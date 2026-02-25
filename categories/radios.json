@@ -10,16 +10,6 @@
         "country": ""
     },
     {
-        "name": "Radio CNN (Argentina)",
-        "id": "radiocnnargentina",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/CNN_en_Espa%C3%B1ol_Radio_logo.jpg",
-        "url": "http://stm1.xcast.com.br:8188/stream",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
         "name": "Radio CNN (Chile)",
         "id": "radiocnnchile",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/CNN_Chile_Logo.svg/750px-CNN_Chile_Logo.svg.png",

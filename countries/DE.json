@@ -1393,16 +1393,6 @@
         "country": "DE"
     },
     {
-        "name": "Dazn Event 13 4K+",
-        "id": "DaznEvent134K.de",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/118828",
-        "categories": [
-            "de : dazn event"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Dazn Event 21 4K+",
         "id": "DaznEvent214K.de",
         "logo": "",
@@ -1496,6 +1486,16 @@
         "categories": [
             "kids",
             "family"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Deluxe Lounge",
+        "id": "DeluxeLounge.de",
+        "logo": "https://i.imgur.com/pgCA35z.png",
+        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+        "categories": [
+            "music"
         ],
         "country": "DE"
     }

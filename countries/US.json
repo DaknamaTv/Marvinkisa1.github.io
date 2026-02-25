@@ -9695,5 +9695,45 @@
             "general"
         ],
         "country": "US"
+    },
+    {
+        "name": "AMGA TV",
+        "id": "AMGATV.us",
+        "logo": "https://i.imgur.com/NTlC6e7.png",
+        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Fox News Channel",
+        "id": "FoxNewsChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "KTVK-DT1",
+        "id": "KTVKDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NBC Sports Boston",
+        "id": "NBCSportsBoston.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
+        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
     }
 ]

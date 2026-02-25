@@ -642,16 +642,6 @@
         "country": "CA"
     },
     {
-        "name": "NACTV",
-        "id": "NACTV.ca",
-        "logo": "https://i.imgur.com/FzM95rH.png",
-        "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Legislative Assembly TV Nunavut",
         "id": "LegislativeAssemblyTVNunavut.ca",
         "logo": "https://i.imgur.com/wY9WhYS.png",
@@ -764,6 +754,16 @@
         "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TV Punjab",
+        "id": "TVPunjab.ca",
+        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "CA"
     }
