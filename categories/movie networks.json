@@ -90,76 +90,6 @@
         "country": ""
     },
     {
-        "name": "US EPIX (East)",
-        "id": "usepixeast",
-        "logo": "https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/13214",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA: Epix Hits",
-        "id": "usaepixhits",
-        "logo": "https://sc.dish.com/shared/images/station-logos/EPIXH.PNG",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/12744",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US EPIX2 (East)",
-        "id": "usepix2east",
-        "logo": "https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/12730",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US HBO",
-        "id": "ushbo",
-        "logo": "https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/9264",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US HBO Comedy (East)",
-        "id": "ushbocomedyeast",
-        "logo": "https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/17773",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Showtime 2 (East) (H)",
-        "id": "usshowtime2easth",
-        "logo": "https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/13219",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Starz East (S)",
-        "id": "usstarzeasts",
-        "logo": "https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/9299",
-        "categories": [
-            "movie networks"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Cinemax Outermax (X)",
         "id": "uscinemaxoutermaxx",
         "logo": "",
@@ -254,6 +184,76 @@
         "id": "ushbosignatureeast",
         "logo": "https://logodix.com/logo/1111252.png",
         "url": "http://xxip25.top:8080/pf2kGs/310637/9266",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK Sky Cinema Scifi & Horror FHD",
+        "id": "ukskycinemascifihorrorfhd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/35248",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK MOVIES: SKY GREATS",
+        "id": "ukmoviesskygreats",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/35249",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ActionMAX (East)",
+        "id": "usactionmaxeast",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/21013",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US RetroPlex (East)",
+        "id": "usretroplexeast",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/66379",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US STARZ ENCORE Black",
+        "id": "usstarzencoreblack",
+        "logo": "https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/16141",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA:  Showtime NEXT",
+        "id": "usashowtimenext",
+        "logo": "https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9316",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Showtime Women (East)",
+        "id": "usshowtimewomeneast",
+        "logo": "https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/17778",
         "categories": [
             "movie networks"
         ],

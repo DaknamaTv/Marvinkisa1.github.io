@@ -34,5 +34,15 @@
         "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
         "categories": [],
         "country": "SY"
+    },
+    {
+        "name": "Syria TV",
+        "id": "SyriaTV.sy",
+        "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+        "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "SY"
     }
 ]

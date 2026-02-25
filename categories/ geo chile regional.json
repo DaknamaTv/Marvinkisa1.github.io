@@ -110,16 +110,6 @@
         "country": ""
     },
     {
-        "name": "Teleangol Radio | CL",
-        "id": "teleangolradiocl",
-        "logo": "https://cdn.m3u.cl/logo/82_Teleangol_Radio.png",
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "TV 5 Linares | CL",
         "id": "tv5linarescl",
         "logo": "https://cdn.m3u.cl/logo/80_TV_5_Linares.png",
@@ -3200,16 +3190,6 @@
         "country": ""
     },
     {
-        "name": "Acento TV | DO",
-        "id": "acentotvdo",
-        "logo": "https://cdn.m3u.cl/logo/709_Acento_TV.png",
-        "url": "http://acentotv01.streamprolive.com/hls/live.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Elias Piña TV | DO",
         "id": "eliaspiatvdo",
         "logo": "https://cdn.m3u.cl/logo/781_Elias_Pina_TV.png",
@@ -3314,16 +3294,6 @@
         "id": "telearaguave",
         "logo": "https://cdn.m3u.cl/logo/148_Telearagua.png",
         "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT | VE",
-        "id": "trtve",
-        "logo": "https://cdn.m3u.cl/logo/1327_TRT.png",
-        "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],

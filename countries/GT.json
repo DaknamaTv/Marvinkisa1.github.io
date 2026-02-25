@@ -146,16 +146,6 @@
         "country": "GT"
     },
     {
-        "name": "TV Florencia",
-        "id": "TVFlorencia.gt",
-        "logo": "https://i.imgur.com/jsbwnRb.png",
-        "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "Sol TV",
         "id": "SolTV.gt",
         "logo": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",

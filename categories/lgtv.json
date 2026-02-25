@@ -6648,5 +6648,25 @@
             "lgtv"
         ],
         "country": ""
+    },
+    {
+        "name": "238 The Good Wife",
+        "id": "238thegoodwife",
+        "logo": "https://images.pluto.tv/channels/66df70cd61dbf00008fa26ff/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66df70cd61dbf00008fa26ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true",
+        "categories": [
+            "lgtv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "342 CMT Pluto TV",
+        "id": "342cmtplutotv",
+        "logo": "https://images.pluto.tv/channels/5dcc42446750e200093b15e2/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true",
+        "categories": [
+            "lgtv"
+        ],
+        "country": ""
     }
 ]

@@ -258,54 +258,6 @@
         "country": "DE"
     },
     {
-        "name": "Niederbayern TV",
-        "id": "NiederbayernTV.de",
-        "logo": "https://i.imgur.com/9uaMgTk.png",
-        "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Niederbayern TV Landshut",
-        "id": "NiederbayernTVLandshut.de",
-        "logo": "https://i.imgur.com/5sHzZAh.png",
-        "url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Niederbayern TV Deggendorf & Straubing",
-        "id": "NiederbayernTVDeggendorfStraubing.de",
-        "logo": "https://i.imgur.com/mAaIh3C.png",
-        "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Niederbayern TV Passau",
-        "id": "NiederbayernTVPassau.de",
-        "logo": "https://i.imgur.com/0wnFhNi.png",
-        "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Regio TV Stuttgart",
-        "id": "RegioTVStuttgart.de",
-        "logo": "https://i.imgur.com/3koyLef.png",
-        "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
         "name": "OK Kiel",
         "id": "OKKiel.de",
         "logo": "https://i.imgur.com/eToHabX.png",
@@ -323,14 +275,6 @@
         "categories": [
             "general"
         ],
-        "country": "DE"
-    },
-    {
-        "name": "Regio TV Bodensee",
-        "id": "RegioTVBodensee.de",
-        "logo": "https://i.imgur.com/3koyLef.png",
-        "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
-        "categories": [],
         "country": "DE"
     },
     {
@@ -587,14 +531,6 @@
         "categories": [
             "legislative"
         ],
-        "country": "DE"
-    },
-    {
-        "name": "Sachsen Eins",
-        "id": "SachsenEins.de",
-        "logo": "https://i.imgur.com/2EXNdd8.png",
-        "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
-        "categories": [],
         "country": "DE"
     },
     {
@@ -1036,42 +972,6 @@
         "country": "DE"
     },
     {
-        "name": "Allgau TV",
-        "id": "AllgauTV.de",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
-        "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Regio TV Schwaben",
-        "id": "RegioTVSchwaben.de",
-        "logo": "https://i.imgur.com/3koyLef.png",
-        "url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
-        "name": "RFO",
-        "id": "RFO.de",
-        "logo": "https://i.imgur.com/902BHGL.png",
-        "url": "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "TV Ingolstadt",
-        "id": "TVIngolstadt.de",
-        "logo": "https://i.imgur.com/Ymh11VV.png",
-        "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
         "name": "MC TV",
         "id": "MCTV.de",
         "logo": "https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png",
@@ -1105,46 +1005,6 @@
         "logo": "https://i.imgur.com/Yv7j4ia.png",
         "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8",
         "categories": [],
-        "country": "DE"
-    },
-    {
-        "name": "ems TV Lingen",
-        "id": "emsTVLingen.de",
-        "logo": "https://i.imgur.com/Yo1GMku.png",
-        "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "MAX SELECT 2 4K",
-        "id": "MAXSELECT24K.de",
-        "logo": "https://i.hizliresim.com/2z94rmj.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Suheutkan/2rsjDY3a6Y/812747.ts",
-        "categories": [
-            "de ➤ kino&serien"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "MAX SELECT 3 4K",
-        "id": "MAXSELECT34K.de",
-        "logo": "https://i.hizliresim.com/2z94rmj.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Suheutkan/2rsjDY3a6Y/812748.ts",
-        "categories": [
-            "de ➤ kino&serien"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Sportdigital FUSSBALL",
-        "id": "SportdigitalFUSSBALL.de",
-        "logo": "https://i.imgur.com/NDbWxqF.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
         "country": "DE"
     },
     {
@@ -1288,17 +1148,6 @@
         "country": "DE"
     },
     {
-        "name": "LionBox Kinobox 11",
-        "id": "LionBoxKinobox11.de",
-        "logo": "http://148.251.19.24:89/lionbox.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/56479",
-        "categories": [
-            "de : kino",
-            "select"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "LionBox Kinobox 14",
         "id": "LionBoxKinobox14.de",
         "logo": "http://148.251.19.24:89/lionbox.png",
@@ -1339,56 +1188,6 @@
         "categories": [
             "de : kino",
             "select"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Sport1+ 4K+",
-        "id": "Sport14K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/sport1%2B.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/561",
-        "categories": [
-            "de : sport"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Motorvision 4K+",
-        "id": "Motorvision4K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/motorvision.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/567",
-        "categories": [
-            "de : sport"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Magenta Sport 3 4K+",
-        "id": "MagentaSport34K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/telekomsport3.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/27206",
-        "categories": [
-            "de : sport"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Magenta Sport 4 4K+",
-        "id": "MagentaSport44K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/telekomsport4.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/27207",
-        "categories": [
-            "de : sport"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Magenta Sport 5 4K+",
-        "id": "MagentaSport54K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Sport/telekomsport5.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/27208",
-        "categories": [
-            "de : sport"
         ],
         "country": "DE"
     },
@@ -1443,16 +1242,6 @@
         "country": "DE"
     },
     {
-        "name": "Sky Showcase 4K+",
-        "id": "SkyShowcase4K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Doku/Sky_Showcase.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/84433",
-        "categories": [
-            "de : doku"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Crime+Investigation",
         "id": "CrimeInvestigation.de",
         "logo": "http://148.251.19.24:89/DE-Logo/DE-Doku/crimeandinvestigation.png",
@@ -1486,6 +1275,16 @@
         "categories": [
             "kids",
             "family"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Deluxe Lounge",
+        "id": "DeluxeLounge.de",
+        "logo": "https://i.imgur.com/pgCA35z.png",
+        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+        "categories": [
+            "music"
         ],
         "country": "DE"
     }

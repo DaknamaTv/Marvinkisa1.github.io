@@ -1,29 +1,9 @@
 [
     {
-        "name": "USA: BET SOUL",
-        "id": "usabetsoul",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21844",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Poker Go",
         "id": "uspokergo",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/140814",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Pursuit UP",
-        "id": "uspursuitup",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/22888",
         "categories": [
             "usa"
         ],
@@ -184,6 +164,556 @@
         "id": "usnewsmaxtv",
         "logo": "https://image.roku.com/developer_channels/prod/54d11237dc9d300eb0bfcf2b596c820d1f513459a3a4d4b7f69716d69aebe8d0.png",
         "url": "http://xxip25.top:8080/pf2kGs/310637/18939",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: A&E",
+        "id": "usaae",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/59056",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US A&E (A)",
+        "id": "usaea",
+        "logo": "https://juicetv.app/channellogo/ae.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/2201",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Adult Swim (R)",
+        "id": "caadultswimr",
+        "logo": "https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/11644",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Altitude Sports HD",
+        "id": "usaltitudesportshd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/79545",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US AMC",
+        "id": "usamc",
+        "logo": "https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/18925",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US American Heroes Channel",
+        "id": "usamericanheroeschannel",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10456",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Animal Planet",
+        "id": "usanimalplanet",
+        "logo": "https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/17870",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Antenna TV",
+        "id": "usantennatv",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20180",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Aspire (A)",
+        "id": "usaspirea",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/21927",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BET (East)",
+        "id": "usbeteast",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/13702",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bloomberg",
+        "id": "usbloomberg",
+        "logo": "https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/15158",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Comedy Central (East)",
+        "id": "uscomedycentraleast",
+        "logo": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/7466",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Destination America (A)",
+        "id": "usdestinationamericaa",
+        "logo": "https://fontmeme.com/images/destination-america-new-logo.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/14222",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: Discovery Life HD",
+        "id": "usadiscoverylifehd",
+        "logo": "https://logodix.com/logo/997920.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9861",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US E! Entertainment Television East",
+        "id": "useentertainmenttelevisioneast",
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/eentertain.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/11651",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FX East",
+        "id": "usfxeast",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46690",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FXX (East)",
+        "id": "usfxxeast",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46699",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US FYI",
+        "id": "usfyi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9240",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Latin Galavision",
+        "id": "uslatingalavision",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/58770",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Great American Country",
+        "id": "usgreatamericancountry",
+        "logo": "https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/17640",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Grit TV",
+        "id": "usgrittv",
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/grittv.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20861",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Hallmark Channel",
+        "id": "ushallmarkchannel",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46719",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Hallmark family",
+        "id": "ushallmarkfamily",
+        "logo": "https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9307",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Hallmark Movies & Mysteries",
+        "id": "ushallmarkmoviesmysteries",
+        "logo": "https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10289",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ION",
+        "id": "usion",
+        "logo": "https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9297",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MeTV Network East",
+        "id": "usmetvnetworkeast",
+        "logo": "https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/16149",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MSNBC",
+        "id": "usmsnbc",
+        "logo": "https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9296",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Paramount TV",
+        "id": "usparamounttv",
+        "logo": "https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10464",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US PixL (S)",
+        "id": "uspixls",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/21648",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Reelz",
+        "id": "usreelz",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10526",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Revolt",
+        "id": "usrevolt",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/39276",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US RFD-TV",
+        "id": "usrfdtv",
+        "logo": "https://www.logolynx.com/images/logolynx/29/29694e6e70adeb8ed1c66a5f40c42af2.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/17868",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Discovery Science",
+        "id": "usdiscoveryscience",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20866",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Up TV",
+        "id": "usuptv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10525",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US World Fishing Network (F)",
+        "id": "usworldfishingnetworkf",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10477",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Comet",
+        "id": "uscomet",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/125831",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Al Jazeera",
+        "id": "usaljazeera",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/160711",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US AXS TV",
+        "id": "usaxstv",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/48324",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: Bet Gospel",
+        "id": "usabetgospel",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/66080",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bounce XL",
+        "id": "usbouncexl",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/48323",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BUZZR (STV)",
+        "id": "usbuzzrstv",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/21896",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Cartoon Network",
+        "id": "uscartoonnetwork",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/46708",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA: CMT",
+        "id": "usacmt",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/46706",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US CNBC World",
+        "id": "uscnbcworld",
+        "logo": "https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/20860",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Latin Univision",
+        "id": "uslatinunivision",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/108248",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US The Cowboy Channel",
+        "id": "usthecowboychannel",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/122527",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US UniMas",
+        "id": "usunimas",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57969",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Fuse",
+        "id": "usfuse",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/46701",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US GAC Living (S)",
+        "id": "usgaclivings",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/75654",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Syfy (East)",
+        "id": "ussyfyeast",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/46685",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TNT (West)",
+        "id": "ustntwest",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/46688",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Travel Channel East",
+        "id": "ustravelchanneleast",
+        "logo": "https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9315",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: CSPAN FHD",
+        "id": "uscspanfhd",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/136589",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Start TV",
+        "id": "usstarttv",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/137680",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US BET Her",
+        "id": "usbether",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/137790",
         "categories": [
             "usa"
         ],

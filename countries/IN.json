@@ -2960,16 +2960,6 @@
         "country": "IN"
     },
     {
-        "name": "Mastiii",
-        "id": "Mastiii.in",
-        "logo": "https://i.imgur.com/lxgXHx4.png",
-        "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Prime9 News",
         "id": "Prime9News.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png",
@@ -3578,16 +3568,6 @@
         "country": "IN"
     },
     {
-        "name": "Assam Talks",
-        "id": "AssamTalks.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png",
-        "url": "https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Awakening TV",
         "id": "AwakeningTV.in",
         "logo": "https://i.imgur.com/p26iWOi.png",
@@ -4149,16 +4129,6 @@
         "country": "IN"
     },
     {
-        "name": "Colors Bangla",
-        "id": "ColorsBangla.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158145_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Jaya TV",
         "id": "JayaTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143228_ld_h15_aa.png",
@@ -4166,16 +4136,6 @@
         "categories": [
             "culture",
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "KTV",
-        "id": "KTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s145322_ld_h15_aa.png",
-        "url": "http://198.27.83.207:2550/KTV_SD/index.m3u8",
-        "categories": [
-            "movies"
         ],
         "country": "IN"
     },
@@ -4216,16 +4176,6 @@
         "url": "http://103.229.254.25:7001/play/a09s/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 3 Hindi",
-        "id": "SonySportsTen3Hindi.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",
-        "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
-        "categories": [
-            "sports"
         ],
         "country": "IN"
     },
@@ -4456,16 +4406,6 @@
         "url": "http://161.248.38.40:8000/play/a06a/index.m3u8",
         "categories": [
             "classic"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Zee Punjabi",
-        "id": "ZeePunjabi.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png",
-        "url": "http://161.248.38.40:8000/play/a0at/index.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "IN"
     },
@@ -4732,16 +4672,6 @@
         "country": "IN"
     },
     {
-        "name": "Nickelodeon",
-        "id": "Nickelodeon.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143625_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0cq/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Sony Yay!",
         "id": "SonyYay.in",
         "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png",
@@ -4773,62 +4703,12 @@
         "country": "IN"
     },
     {
-        "name": "Sony Sports Ten 5",
-        "id": "SonySportsTen5.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157593_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Star Gold Select",
-        "id": "StarGoldSelect.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "&pictures",
-        "id": "Andpictures.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
-        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "CCV",
         "id": "CCV.in",
         "logo": "https://i.imgur.com/4ss0KfA.png",
         "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -4889,27 +4769,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cartoon",
-        "id": "ZBCartoon.in",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZillarBarta News",
-        "id": "ZillarBartaNews.in",
-        "logo": "https://i.imgur.com/6uestzY.jpeg",
-        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
-        "categories": [
-            "news",
-            "classic"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "22Scope News",
         "id": "22ScopeNews.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
@@ -4920,32 +4779,12 @@
         "country": "IN"
     },
     {
-        "name": "KCL TV",
-        "id": "KCLTV.in",
-        "logo": "https://i.imgur.com/bkp9dIm.png",
-        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Pratham Khabar 24x7",
         "id": "PrathamKhabar24x7.in",
         "logo": "https://i.imgur.com/HNsg5Px.png",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=QgFuUnK8bZ4",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "&prive HD",
-        "id": "AndpriveHD.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
-        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
-        "categories": [
-            "movies"
         ],
         "country": "IN"
     },
@@ -5110,16 +4949,6 @@
         "country": "IN"
     },
     {
-        "name": "Anmol Cinema",
-        "id": "AnmolCinema.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png",
-        "url": "http://103.113.103.202:8001/play/a017/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Namdhari TV",
         "id": "NamdhariTV.in",
         "logo": "https://i.imgur.com/NalsXTo.png",
@@ -5150,36 +4979,6 @@
         "country": "IN"
     },
     {
-        "name": "NTC TV",
-        "id": "NTCTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
-        "url": "https://galaxyott.live/hls/ntv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Pix",
-        "id": "SonyPix.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Sports Ten 2",
-        "id": "SonySportsTen2.in",
-        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZB Cinema",
         "id": "ZBCinema.in",
         "logo": "https://i.imgur.com/kUg6WSk.jpeg",
@@ -5197,6 +4996,16 @@
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Lokshahi News",
+        "id": "LokshahiNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png",
+        "url": "https://see.lokshahi.live/live/index.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "IN"
     }

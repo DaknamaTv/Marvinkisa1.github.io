@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "US TeenNick",
-        "id": "usteennick",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/140004",
-        "categories": [
-            "kids zone"
-        ],
-        "country": ""
-    },
-    {
         "name": "US NickToons",
         "id": "usnicktoons",
         "logo": "https://juicetv.app/channellogo/nickelodeon.png",
@@ -104,6 +94,36 @@
         "id": "cacartoonnetworke",
         "logo": "",
         "url": "http://xxip25.top:8080/pf2kGs/310637/57356",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Nickelodeon (R)",
+        "id": "canickelodeonr",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/47349",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Teletoon East (E)",
+        "id": "cateletooneaste",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57372",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Boomerang",
+        "id": "usboomerang",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/14741",
         "categories": [
             "kids zone"
         ],

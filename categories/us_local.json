@@ -1520,16 +1520,6 @@
         "country": ""
     },
     {
-        "name": "SuperChannel Orlando (WACX-DT1) (720p)",
-        "id": "superchannelorlandowacxdt1720p",
-        "logo": "",
-        "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "WBBJ (Jackson TN) (432p)",
         "id": "wbbjjacksontn432p",
         "logo": "",
@@ -1984,16 +1974,6 @@
         "id": "theohiochannelwvizdt2",
         "logo": "",
         "url": "https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)",
-        "id": "palmbeachcountytvchannel20palmbeachcountyfl720p",
-        "logo": "",
-        "url": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8",
         "categories": [
             "us_local"
         ],

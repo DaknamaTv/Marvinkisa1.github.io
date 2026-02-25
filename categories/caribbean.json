@@ -68,5 +68,45 @@
             "caribbean"
         ],
         "country": ""
+    },
+    {
+        "name": "Star TV Sports",
+        "id": "startvsports",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/53708",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib CVM TV (D)",
+        "id": "caribcvmtvd",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/66371",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib (AMP) AFRCA",
+        "id": "caribampafrca",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/21094",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib ESPN2",
+        "id": "caribespn2",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/99623",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
     }
 ]

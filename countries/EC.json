@@ -138,26 +138,6 @@
         "country": "EC"
     },
     {
-        "name": "FM Mundo",
-        "id": "FMMundo.ec",
-        "logo": "https://i.imgur.com/1nNnYQO.png",
-        "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "MakroDigital Television",
-        "id": "MakroDigitalTelevision.ec",
-        "logo": "https://makrodigitaltelevision.com/logo.jpg",
-        "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "IeanJesus Ecuador",
         "id": "IeanJesusEcuador.ec",
         "logo": "https://i.imgur.com/TyckDSV.png",
@@ -250,16 +230,6 @@
         "id": "OromarTV.ec",
         "logo": "https://i.imgur.com/j5Vvxd5.png",
         "url": "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Zaracay TV",
-        "id": "ZaracayTV.ec",
-        "logo": "https://i.imgur.com/6q0Gp9R.png",
-        "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -547,16 +517,6 @@
         "logo": "https://i.imgur.com/PCN6iZJ.png",
         "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
         "categories": [],
-        "country": "EC"
-    },
-    {
-        "name": "RTU",
-        "id": "RTU.ec",
-        "logo": "https://i.imgur.com/1OWvMP4.png",
-        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
-        "categories": [
-            "news"
-        ],
         "country": "EC"
     },
     {

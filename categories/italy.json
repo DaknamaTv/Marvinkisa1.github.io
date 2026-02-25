@@ -130,10 +130,20 @@
         "country": ""
     },
     {
-        "name": "IT: CANALE 5",
-        "id": "itcanale5",
+        "name": "IT: RAI 3",
+        "id": "itrai3",
         "logo": "",
-        "url": "http://xxip25.top:8080/AHy3c7/745580/212903",
+        "url": "http://xxip25.top:8080/G7ykGB/928030/212897",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI ITALIA",
+        "id": "itraiitalia",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/212900",
         "categories": [
             "italy"
         ],

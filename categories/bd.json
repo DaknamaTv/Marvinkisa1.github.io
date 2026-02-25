@@ -2710,16 +2710,6 @@
         "country": ""
     },
     {
-        "name": "TRT 1",
-        "id": "trt1",
-        "logo": "",
-        "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "US-BD Journal 24 TV",
         "id": "usbdjournal24tv",
         "logo": "",
@@ -2914,16 +2904,6 @@
         "id": "sonymaxsd",
         "logo": "",
         "url": "http://103.99.249.139/sonymax/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ZB Kartun",
-        "id": "zbkartun",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8",
         "categories": [
             "bd"
         ],
@@ -3240,16 +3220,6 @@
         "country": ""
     },
     {
-        "name": "History TV 18 HD",
-        "id": "historytv18hd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a02z/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "TNS Sports-1",
         "id": "tnssports1",
         "logo": "",
@@ -3304,6 +3274,36 @@
         "id": "9xm",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SKY-SPORTS",
+        "id": "skysports",
+        "logo": "",
+        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Green tv",
+        "id": "greentv",
+        "logo": "",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SOMOY TV-[2]",
+        "id": "somoytv2",
+        "logo": "",
+        "url": "http://103.151.61.12/SOMOY_TV/video.m3u8",
         "categories": [
             "bd"
         ],
