@@ -114,21 +114,6 @@
         "country": "CA"
     },
     {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Catamarca TV",
         "id": "CatamarcaTV.ar",
         "logo": "https://i.imgur.com/CEuPoqG.png",
@@ -188,6 +173,19 @@
             "culture"
         ],
         "country": "DO"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "Garshom TV",
@@ -614,6 +612,16 @@
         "country": "IT"
     },
     {
+        "name": "Orler TV",
+        "id": "OrlerTV.it",
+        "logo": "https://i.imgur.com/Ia7iULa.png",
+        "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Malchin TV",
         "id": "MalchinTV.mn",
         "logo": "https://i.imgur.com/vCdEBZo.png",
@@ -749,6 +757,16 @@
         "country": "BO"
     },
     {
+        "name": "2STV",
+        "id": "2STV.sn",
+        "logo": "https://i.imgur.com/WByVBZf.png",
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "JOS TV HD",
         "id": "JOSTVHD.cg",
         "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
@@ -778,6 +796,17 @@
             "travel"
         ],
         "country": "CR"
+    },
+    {
+        "name": "ETV 2",
+        "id": "ETV2.ee",
+        "logo": "https://i.imgur.com/fUjGHDa.png",
+        "url": "https://sb.err.ee/live/etv2.m3u8",
+        "categories": [
+            "kids",
+            "culture"
+        ],
+        "country": "EE"
     },
     {
         "name": "Trishul Broadcasting Network",

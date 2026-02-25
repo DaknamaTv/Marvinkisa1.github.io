@@ -30,16 +30,6 @@
         "country": ""
     },
     {
-        "name": "00 - Adult Swim",
-        "id": "00adultswim",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0q8/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
         "name": "00 - E! Entertainment TV",
         "id": "00eentertainmenttv",
         "logo": "",
@@ -150,16 +140,6 @@
         "country": ""
     },
     {
-        "name": "3.5 RPP",
-        "id": "35rpp",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0r8/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
         "name": "4.1 Latina HD",
         "id": "41latinahd",
         "logo": "",
@@ -184,16 +164,6 @@
         "id": "amcseries",
         "logo": "",
         "url": "http://181.224.255.210:8001/play/a0qn/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 3",
-        "id": "antena3",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0rc/index.m3u8",
         "categories": [
             "-"
         ],
@@ -370,16 +340,6 @@
         "country": ""
     },
     {
-        "name": "Enlace",
-        "id": "enlace",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0q7/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
         "name": "Europa Europa",
         "id": "europaeuropa",
         "logo": "",
@@ -410,40 +370,10 @@
         "country": ""
     },
     {
-        "name": "Global",
-        "id": "global",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0r9/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Golden",
-        "id": "golden",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0qv/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
         "name": "Golden Edge",
         "id": "goldenedge",
         "logo": "",
         "url": "http://181.224.255.210:8001/play/a0qu/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Golden HD",
-        "id": "goldenhd",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0qg/index.m3u8",
         "categories": [
             "-"
         ],
@@ -584,16 +514,6 @@
         "id": "nuestratele",
         "logo": "",
         "url": "http://181.224.255.210:8001/play/a0qi/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OROMAR TV",
-        "id": "oromartv",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0r4/index.m3u8",
         "categories": [
             "-"
         ],
@@ -914,16 +834,6 @@
         "id": "espn4hd",
         "logo": "",
         "url": "http://181.224.255.210:8001/play/a0og/index.m3u8",
-        "categories": [
-            "-"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eurochannel",
-        "id": "eurochannel",
-        "logo": "",
-        "url": "http://181.224.255.210:8001/play/a0rd/index.m3u8",
         "categories": [
             "-"
         ],

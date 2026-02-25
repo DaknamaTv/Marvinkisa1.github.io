@@ -2110,16 +2110,6 @@
         "country": ""
     },
     {
-        "name": "Canal Once Punta del Este | UY",
-        "id": "canaloncepuntadelesteuy",
-        "logo": "https://cdn.m3u.cl/logo/1038_Canal_Once_Punta_del_Este.png",
-        "url": "https://5e50264bd6766.streamlock.net:443/canal11ury/videocanal11ury/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIyIDE6MjM6MDcgQU0maGFzaF92YWx1ZT1CcHlVNnlzaXNXeHBnTXdZa3lIQ0dRPT0mdmFsaWRtaW51dGVzPTUmaWQ9&PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Reforma TV | VE",
         "id": "reformatvve",
         "logo": "https://cdn.m3u.cl/logo/147_Reforma_TV.png",
@@ -2650,16 +2640,6 @@
         "country": ""
     },
     {
-        "name": "Tv Aire Paraguay | PY",
-        "id": "tvaireparaguaypy",
-        "logo": "https://cdn.m3u.cl/logo/1616_Tv_Aire_Paraguay.png",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Frecuencia Musical TV | US",
         "id": "frecuenciamusicaltvus",
         "logo": "https://cdn.m3u.cl/logo/482_Frecuencia_Musical_TV.png",
@@ -3040,16 +3020,6 @@
         "country": ""
     },
     {
-        "name": "Autonoma TV | CL",
-        "id": "autonomatvcl",
-        "logo": "https://cdn.m3u.cl/logo/1120_Autonoma_TV.png",
-        "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "ClickTv | CL",
         "id": "clicktvcl",
         "logo": "https://cdn.m3u.cl/logo/350_ClickTv.png",
@@ -3344,16 +3314,6 @@
         "id": "telearaguave",
         "logo": "https://cdn.m3u.cl/logo/148_Telearagua.png",
         "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Torococo TV | VE",
-        "id": "torococotvve",
-        "logo": "https://cdn.m3u.cl/logo/1400_Torococo_TV.png",
-        "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],

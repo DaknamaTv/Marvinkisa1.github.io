@@ -306,21 +306,6 @@
         "country": "AR"
     },
     {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "BEATTV",
         "id": "BEATTV.nl",
         "logo": "https://i.imgur.com/egK33Dj.png",
@@ -372,16 +357,6 @@
         "country": "NL"
     },
     {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "Bonches Latinos TV",
         "id": "BonchesLatinosTV.do",
         "logo": "https://i.imgur.com/Kp8x0NS.png",
@@ -426,16 +401,6 @@
         "id": "TVCanalSur.do",
         "logo": "https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png",
         "url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Gi Television",
-        "id": "GiTelevision.do",
-        "logo": "https://i.imgur.com/br9TNG8.png",
-        "url": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -532,16 +497,6 @@
         "country": "DO"
     },
     {
-        "name": "Pronems TV",
-        "id": "PronemsTV.do",
-        "logo": "https://i.imgur.com/a9ORO1G.png",
-        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "COCO TV",
         "id": "COCOTV.do",
         "logo": "https://i.imgur.com/CnAc7jU.png",
@@ -556,16 +511,6 @@
         "id": "NitidaTV.do",
         "logo": "https://i.imgur.com/z9JkxcM.png",
         "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Super7FM",
-        "id": "Super7FM.do",
-        "logo": "https://i.imgur.com/TJEqwZo.png",
-        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -632,6 +577,16 @@
         "country": "HN"
     },
     {
+        "name": "Radio Omega TV",
+        "id": "RadioOmegaTV.hn",
+        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
         "name": "Dong Nai TV 2",
         "id": "DongNaiTV2.vn",
         "logo": "https://i.imgur.com/tNKPSkO.png",
@@ -663,6 +618,19 @@
         "country": "VN"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "TV Vitoria",
         "id": "TVVitoria.mz",
         "logo": "https://i.imgur.com/HlWzzfj.png",
@@ -671,16 +639,6 @@
             "entertainment"
         ],
         "country": "MZ"
-    },
-    {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
     },
     {
         "name": "OTV",
@@ -2305,6 +2263,16 @@
         "country": "IN"
     },
     {
+        "name": "NTC TV",
+        "id": "NTCTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
+        "url": "https://galaxyott.live/hls/ntv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Manas TV",
         "id": "ManasTV.kg",
         "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
@@ -2401,16 +2369,6 @@
         "country": "PE"
     },
     {
-        "name": "Panc TV Peru",
-        "id": "PancTVPeru.pe",
-        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
-        "url": "https://panel.host-live.com:19360/20000/20000.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Asia TV",
         "id": "AsiaTV.lk",
         "logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
@@ -2427,6 +2385,16 @@
         "id": "TV1.lk",
         "logo": "https://i.imgur.com/QShk1BV.png",
         "url": "https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "LK"
+    },
+    {
+        "name": "NDTV LANKA",
+        "id": "NDTVLANKA.lk",
+        "logo": "https://i.imgur.com/5cyTVRJ.png",
+        "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3592,6 +3560,16 @@
         "country": "CR"
     },
     {
+        "name": "ETV+",
+        "id": "ETVPlus.ee",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
+        "url": "https://sb.err.ee/live/etvpluss.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "EE"
+    },
+    {
         "name": "Nos Isla TV",
         "id": "NosIslaTV.aw",
         "logo": "https://i.imgur.com/sH7ZkPx.png",
@@ -3732,6 +3710,17 @@
         "country": "VE"
     },
     {
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "247 Box TV",
         "id": "247BoxTV.ir",
         "logo": "https://i.imgur.com/t5AUthL.png",
@@ -3801,6 +3790,16 @@
             "entertainment"
         ],
         "country": "ES"
+    },
+    {
+        "name": "Hispania TV",
+        "id": "HispaniaTV.pa",
+        "logo": "https://i.imgur.com/647WCF8.png",
+        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PA"
     },
     {
         "name": "Indonesiana.TV",

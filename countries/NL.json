@@ -1276,16 +1276,6 @@
         "country": "NL"
     },
     {
-        "name": "Ziggo Sport 2 4K+",
-        "id": "ZiggoSport24K.nl",
-        "logo": "http://148.251.19.24:89/NL-Logo/algemeen/ziggosport.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/288",
-        "categories": [
-            "nl : sport"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "ESPN 4 4K+",
         "id": "ESPN44K.nl",
         "logo": "http://148.251.19.24:89/NL-Logo/algemeen/espn.png",
@@ -1376,16 +1366,6 @@
         "country": "NL"
     },
     {
-        "name": "DAZN Event 3",
-        "id": "DAZNEvent3.nl",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/142798",
-        "categories": [
-            "nl : dazn"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "LionBox Marvel 2",
         "id": "LionBoxMarvel2.nl",
         "logo": "http://148.251.19.24:89/lionbox.png",
@@ -1472,16 +1452,6 @@
         "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/92988",
         "categories": [
             "nl : muziek"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "NL"
     }

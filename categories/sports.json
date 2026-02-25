@@ -61,6 +61,16 @@
         "country": "CA"
     },
     {
+        "name": "TSN1",
+        "id": "TSN1.ca",
+        "logo": "https://i.imgur.com/eRFE0jZ.png",
+        "url": "https://tvpass.org/live/tsn1/sd",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "F1 Channel",
         "id": "F1Channel.ie",
         "logo": "https://i.imgur.com/cjXzWsI.png",
@@ -140,6 +150,16 @@
         "categories": [
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },
@@ -685,16 +705,6 @@
         "country": "US"
     },
     {
-        "name": "NBC Sports Boston",
-        "id": "NBCSportsBoston.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png",
-        "url": "https://tvpass.org/live/nbc-sports-boston/sd",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -769,6 +779,16 @@
         "id": "StarSportsSelect1.in",
         "logo": "https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png",
         "url": "http://103.113.103.202:8001/play/a02e/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1276,16 +1296,6 @@
             "sports"
         ],
         "country": "BO"
-    },
-    {
-        "name": "Tigo Sports",
-        "id": "TigoSports.sv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
-        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SV"
     },
     {
         "name": "Alkass Five",

@@ -310,5 +310,13 @@
         "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
         "categories": [],
         "country": "GR"
+    },
+    {
+        "name": "Samiaki TV",
+        "id": "SamiakiTV.gr",
+        "logo": "https://i.imgur.com/9Pf1we6.png",
+        "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+        "categories": [],
+        "country": "GR"
     }
 ]

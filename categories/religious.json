@@ -210,17 +210,6 @@
         "country": "FR"
     },
     {
-        "name": "My Gospel TV",
-        "id": "MyGospelTV.fr",
-        "logo": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png",
-        "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
-        "categories": [
-            "music",
-            "religious"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "EMCI TV America",
         "id": "EMCITVAmerica.ca",
         "logo": "",
@@ -371,16 +360,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 13 Jujuy",
-        "id": "Canal13Jujuy.ar",
-        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
-        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Die Neue Zeit TV",
         "id": "DieNeueZeitTV.ch",
         "logo": "https://i.imgur.com/K3lvrog.png",
@@ -475,6 +454,16 @@
         "id": "TVLuz.do",
         "logo": "https://i.imgur.com/FZUQ2WP.png",
         "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Televida",
+        "id": "Televida.do",
+        "logo": "https://i.imgur.com/S8Zdn41.png",
+        "url": "https://fox.hostlagarto.com:8081/televida/tracks-v1a1/mono.m3u8",
         "categories": [
             "religious"
         ],
@@ -1673,6 +1662,16 @@
         "id": "theDoveTV.us",
         "logo": "https://i.imgur.com/ULtuRsj.png",
         "url": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
         "categories": [
             "religious"
         ],
@@ -3365,6 +3364,16 @@
         "country": "GT"
     },
     {
+        "name": "Iglesia Del Camino",
+        "id": "IglesiaDelCamino.gt",
+        "logo": "https://i.imgur.com/vHfb3Z4.png",
+        "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GT"
+    },
+    {
         "name": "Apostol TV",
         "id": "ApostolTV.hu",
         "logo": "https://i.imgur.com/C43Cc9N.png",
@@ -3555,6 +3564,16 @@
         "country": "SV"
     },
     {
+        "name": "El Camino TV",
+        "id": "ElCaminoTV.sv",
+        "logo": "https://i.imgur.com/ZSktjGB.png",
+        "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
         "name": "Madani Channel Bangla",
         "id": "MadaniChannelBangla.bd",
         "logo": "https://i.imgur.com/vIJTVia.png",
@@ -3680,6 +3699,16 @@
         "id": "FamiliaVisionHD.pr",
         "logo": "https://i.imgur.com/uqTH7m5.jpg",
         "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PR"
+    },
+    {
+        "name": "WWXY-DT3",
+        "id": "WWXYDT3.pr",
+        "logo": "https://i.imgur.com/lAhIGsI.png",
+        "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
         "categories": [
             "religious"
         ],
@@ -3858,17 +3887,6 @@
         "country": "SN"
     },
     {
-        "name": "Sat 7 Kids",
-        "id": "Sat7Kids.cy",
-        "logo": "https://i.imgur.com/M0ik0i2.png",
-        "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
-        "categories": [
-            "kids",
-            "religious"
-        ],
-        "country": "CY"
-    },
-    {
         "name": "Guadalupe Media",
         "id": "GuadalupeMedia.bz",
         "logo": "https://i.imgur.com/EfaOwRE.png",
@@ -4019,40 +4037,10 @@
         "country": "LB"
     },
     {
-        "name": "Nour Al Sharq",
-        "id": "NourAlSharq.lb",
-        "logo": "https://i.imgur.com/EEy2dUr.png",
-        "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "Nour Mariam",
         "id": "NourMariam.lb",
         "logo": "https://i.imgur.com/Ow5Lqh6.jpg",
         "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "Noursat",
-        "id": "Noursat.lb",
-        "logo": "https://i.imgur.com/6Zs5rx4.png",
-        "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "Noursat English",
-        "id": "NoursatEnglish.lb",
-        "logo": "https://i.imgur.com/RC5Kw82.png",
-        "url": "https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4649,6 +4637,16 @@
         "id": "RadioTele4VEH.ht",
         "logo": "https://i.imgur.com/AnOjqaS.png",
         "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "HT"
+    },
+    {
+        "name": "Radio Tele Full Gospel",
+        "id": "RadioTeleFullGospel.ht",
+        "logo": "https://i.imgur.com/WbwIp9y.jpeg",
+        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
         "categories": [
             "religious"
         ],

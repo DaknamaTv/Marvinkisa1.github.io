@@ -2240,16 +2240,6 @@
         "country": ""
     },
     {
-        "name": "Green TV",
-        "id": "greentv",
-        "logo": "",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "FAST SPORTS",
         "id": "fastsports",
         "logo": "",
@@ -2780,26 +2770,6 @@
         "country": ""
     },
     {
-        "name": "Star Sports Select 1",
-        "id": "starsportsselect1",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/72/72_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sony Sports-3 HD",
-        "id": "sonysports3hd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/78/78_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "NICK JUNIOR",
         "id": "nickjunior",
         "logo": "",
@@ -2814,16 +2784,6 @@
         "id": "animalplanethd",
         "logo": "",
         "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Sports 3",
-        "id": "starsports3",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/69/69_0.m3u8",
         "categories": [
             "bd"
         ],
@@ -2900,26 +2860,6 @@
         "country": ""
     },
     {
-        "name": "SKY-SPORTS",
-        "id": "skysports",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/147059.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ASTRO",
-        "id": "astro",
-        "logo": "",
-        "url": "http://vipfdedgevv.top:8080/live/VIP0110174213587850/51742135878100/146809.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Colors Rishtey",
         "id": "colorsrishtey",
         "logo": "",
@@ -2940,50 +2880,10 @@
         "country": ""
     },
     {
-        "name": "Star Gold Select HD",
-        "id": "stargoldselecthd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/40/40_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Colors Cineplex",
-        "id": "colorscineplex",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/37/37_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Gold Select",
-        "id": "stargoldselect",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/41/41_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Star Ustsab Movies",
         "id": "starustsabmovies",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/42/42_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "And Xplor HD",
-        "id": "andxplorhd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/268/268_0.m3u8",
         "categories": [
             "bd"
         ],
@@ -3000,190 +2900,10 @@
         "country": ""
     },
     {
-        "name": "Star Sports 2 HD Hindi",
-        "id": "starsports2hdhindi",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/83/83_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Sports Select 2",
-        "id": "starsportsselect2",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/73/73_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ustsav Plus HD",
-        "id": "ustsavplushd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/4/4_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sony Sports Ten 2 HD",
-        "id": "sonysportsten2hd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/76/76_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Colors Cineplex Superhit",
         "id": "colorscineplexsuperhit",
         "logo": "",
         "url": "http://103.175.73.12:8080/live/14/14_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sony Max 2 HD",
-        "id": "sonymax2hd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/39/39_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sony Sports Ten 5",
-        "id": "sonysportsten5",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/80/80_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nat Geo",
-        "id": "natgeo",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/325/325_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Zee Zast HD",
-        "id": "zeezasthd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/326/326_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Zee Zast",
-        "id": "zeezast",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/327/327_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nick HD Plus",
-        "id": "nickhdplus",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/322/322_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Super Hungama TV",
-        "id": "superhungamatv",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/128/128_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "And Pictures HD",
-        "id": "andpictureshd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/266/266_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Star Movies",
-        "id": "starmovies",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/56/56_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Zee Cafe HD",
-        "id": "zeecafehd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/261/261_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MTV",
-        "id": "mtv",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/150/150_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nat Geo Wild",
-        "id": "natgeowild",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/133/133_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MTV HD",
-        "id": "mtvhd",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/149/149_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "And Flix",
-        "id": "andflix",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/279/279_0.m3u8",
         "categories": [
             "bd"
         ],
@@ -3520,16 +3240,6 @@
         "country": ""
     },
     {
-        "name": "Disney Channel",
-        "id": "disneychannel",
-        "logo": "",
-        "url": "http://103.175.73.12:8080/live/321/321_0.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "History TV 18 HD",
         "id": "historytv18hd",
         "logo": "",
@@ -3574,6 +3284,26 @@
         "id": "tnssports3",
         "logo": "",
         "url": "https://7pal.short.gy/tntspts3",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Ekushey TV",
+        "id": "ekusheytv",
+        "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
+        "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "9XM",
+        "id": "9xm",
+        "logo": "",
+        "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
         "categories": [
             "bd"
         ],
