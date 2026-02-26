@@ -20,20 +20,40 @@
         "country": ""
     },
     {
-        "name": "FR: AB3 HD",
-        "id": "frab3hd",
+        "name": "FR: CANAL+ DECALE FHD",
+        "id": "frcanaldecalefhd",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/160302",
+        "url": "http://fortv.cc:8080/D76rh4/197436/160306",
         "categories": [
             "france"
         ],
         "country": ""
     },
     {
-        "name": "FR Euronews HD",
-        "id": "freuronewshd",
+        "name": "FR: MCM",
+        "id": "frmcm",
         "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/121055",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/160303",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: FRANCE 2 FHD",
+        "id": "frfrance2fhd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/160297",
+        "categories": [
+            "france"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: FRANCE 4 FHD",
+        "id": "frfrance4fhd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/160299",
         "categories": [
             "france"
         ],

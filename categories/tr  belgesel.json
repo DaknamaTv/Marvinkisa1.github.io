@@ -1,51 +1,31 @@
 [
     {
-        "name": "TRT Belgesel HD",
-        "id": "trtbelgeselhd",
-        "logo": "https://i.ibb.co/HpMwLLs9/PCwXQcB.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865068.ts",
+        "name": "TR: BBC Earth HD",
+        "id": "trbbcearthhd",
+        "logo": "http://http://logo.bosstv.live/Logo/TR/BELGESEL/HD/BBC.EARTH.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/243198",
         "categories": [
-            "tr ➤ belgesel"
+            "tr | belgesel"
         ],
         "country": ""
     },
     {
-        "name": "TR: Restoration",
-        "id": "trrestoration",
-        "logo": "https://i.ibb.co/d0StwDSS/images.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860672.ts",
+        "name": "TR: ViASAT EXPLORER",
+        "id": "trviasatexplorer",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/416422",
         "categories": [
-            "tr ➤ belgesel"
+            "tr | belgesel"
         ],
         "country": ""
     },
     {
-        "name": "TR: Türkiye İller Belgeseli",
-        "id": "trtrkiyellerbelgeseli",
-        "logo": "https://i.ibb.co/d0StwDSS/images.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860676.ts",
+        "name": "TR: TARIH TV HD",
+        "id": "trtarihtvhd",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/421982",
         "categories": [
-            "tr ➤ belgesel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Sokak Yemekleri",
-        "id": "trsokakyemekleri",
-        "logo": "https://i.ibb.co/d0StwDSS/images.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860677.ts",
-        "categories": [
-            "tr ➤ belgesel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Investigation Discovery id FHD",
-        "id": "investigationdiscoveryidfhd",
-        "logo": "https://i.ibb.co/x4kYWXv/BXHsjHJ.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Ergun06066/02.07.2022/865073.ts",
-        "categories": [
-            "tr ➤ belgesel"
+            "tr | belgesel"
         ],
         "country": ""
     }

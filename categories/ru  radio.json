@@ -290,16 +290,6 @@
         "country": ""
     },
     {
-        "name": "RU: Chill (Frisky Radio)",
-        "id": "ruchillfriskyradio",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://chill.friskyradio.com/friskychill_mp3_high",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RU: A_m Ambient",
         "id": "ruamambient",
         "logo": "https://i.imgur.com/PKPva1e.png",
@@ -1614,16 +1604,6 @@
         "id": "ruchilloutfm",
         "logo": "https://i.imgur.com/PKPva1e.png",
         "url": "https://listen2.myradio24.com/8795",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU: Дискотека 80-90",
-        "id": "ru8090",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://myradio24.org/dance80",
         "categories": [
             "ru ⚡️ radio"
         ],

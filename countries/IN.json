@@ -4441,16 +4441,6 @@
         "country": "IN"
     },
     {
-        "name": "Chardikla Time TV North America",
-        "id": "ChardiklaTimeTVNorthAmerica.in",
-        "logo": "https://i.imgur.com/IUeMFey.jpg",
-        "url": "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Life TV",
         "id": "LifeTV.in",
         "logo": "https://i.ibb.co/v1C0bdR/logo-1.png",
@@ -4759,16 +4749,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Bhakti",
-        "id": "ZBBhakti.in",
-        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
-        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "22Scope News",
         "id": "22ScopeNews.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
@@ -4793,16 +4773,6 @@
         "id": "AwaazIndiaTV.in",
         "logo": "https://i.imgur.com/eKQs51V.png",
         "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Chardikla Gurbaani TV",
-        "id": "ChardiklaGurbaaniTV.in",
-        "logo": "https://i.imgur.com/NXD8CPq.png",
-        "url": "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4979,27 +4949,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Lokshahi News",
         "id": "LokshahiNews.in",
         "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png",
@@ -5130,33 +5079,12 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cartoon",
-        "id": "ZBCartoon.in",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Zee Punjabi",
         "id": "ZeePunjabi.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png",
         "url": "http://161.248.38.40:8000/play/a0at/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZillarBarta News",
-        "id": "ZillarBartaNews.in",
-        "logo": "https://i.imgur.com/6uestzY.jpeg",
-        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
-        "categories": [
-            "news",
-            "classic"
         ],
         "country": "IN"
     }

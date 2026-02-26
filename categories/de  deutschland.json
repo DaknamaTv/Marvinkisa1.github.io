@@ -58,5 +58,85 @@
             "de | deutschland"
         ],
         "country": ""
+    },
+    {
+        "name": "DE: NDR HD",
+        "id": "dendrhd",
+        "logo": "https://www.lyngsat-logo.com/logo/tv/nn/ndr_fernsehen_hh.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/96377",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: ServusTv Deutschland HD",
+        "id": "deservustvdeutschlandhd",
+        "logo": "https://imagizer.imageshack.com/img924/1571/LNeFDD.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/96431",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: RBB [HD]",
+        "id": "derbbhd",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/426048",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SWR",
+        "id": "deswr",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/475262",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SAT1 GOLD 1080p",
+        "id": "desat1gold1080p",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/475272",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: RTL 1080p",
+        "id": "dertl1080p",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/475275",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: ZDF INFO HD",
+        "id": "dezdfinfohd",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/475280",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: DAS ERSTE FHD",
+        "id": "dedaserstefhd",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/475281",
+        "categories": [
+            "de | deutschland"
+        ],
+        "country": ""
     }
 ]

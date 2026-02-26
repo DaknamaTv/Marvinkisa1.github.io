@@ -1610,96 +1610,6 @@
         "country": ""
     },
     {
-        "name": "FAST SPORTS",
-        "id": "fastsports",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Colors Cineplex Superhits",
-        "id": "colorscineplexsuperhits",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a04c/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LOTUS MACAU",
-        "id": "lotusmacau",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03u/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SHOWBOX",
-        "id": "showbox",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a045/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARY DIGITAL",
-        "id": "arydigital",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03p/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Q Kahaniyan",
-        "id": "theqkahaniyan",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a04v/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AAN TV",
-        "id": "aantv",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a02c/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dangal 2",
-        "id": "dangal2",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a04b/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BIG MAGIC",
-        "id": "bigmagic",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a04f/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "BeIN Sports 2",
         "id": "beinsports2",
         "logo": "",
@@ -1720,16 +1630,6 @@
         "country": ""
     },
     {
-        "name": "5 NEWS HD",
-        "id": "5newshd",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03m/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Iran Press",
         "id": "iranpress",
         "logo": "https://s3.aynaott.com/storage/201491b7327fffb27d78f800dd9f42d2",
@@ -1744,26 +1644,6 @@
         "id": "deshitv",
         "logo": "",
         "url": "http://208.86.19.13:81/514.stream/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARY Zindagi",
-        "id": "aryzindagi",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03o/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "A plus",
-        "id": "aplus",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03l/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -1814,26 +1694,6 @@
         "id": "stargold2hd",
         "logo": "",
         "url": "http://103.229.254.25:7001/play/a0d0/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PLANET FUN",
-        "id": "planetfun",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03w/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARY MUSIK",
-        "id": "arymusik",
-        "logo": "",
-        "url": "http://163.61.227.29:8000/play/a03r/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -2600,16 +2460,6 @@
         "country": ""
     },
     {
-        "name": "TNS Sports-3",
-        "id": "tnssports3",
-        "logo": "",
-        "url": "https://7pal.short.gy/tntspts3",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ekushey TV",
         "id": "ekusheytv",
         "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
@@ -2684,6 +2534,56 @@
         "id": "disneyinternational",
         "logo": "",
         "url": "http://103.182.170.32:8888/play/a01y",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[BD] Peoples Radio",
+        "id": "bdpeoplesradio",
+        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vS7b-JQBv9knK3AHujZr/posters/67c0640a-f23f-4f0f-b526-2458c03e9de9.webp",
+        "url": "https://stream-153.zeno.fm/rzxr1wakgljuv?zs=YG2NWRauSriGwoicD8wPxQ",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sony yay",
+        "id": "sonyyay",
+        "logo": "https://tvassets.roarzone.info/images/sonyyay.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/index.m3u8?token=84737b566e9aa7b40e9c7e49e44eb550b9d95561-eba30290984ce009de45f076c6ba654a-1772071360-1772067760",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sony pix",
+        "id": "sonypix",
+        "logo": "https://tvassets.roarzone.info/images/41.png",
+        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8?token=079bef1780f0f506fff6ad4a0983af7cac4593bd-cabb23cc2c7a62cf8a26d5edb56d4d41-1772071360-1772067760",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-2",
+        "id": "tnssports2",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts2",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TNS Sports-1",
+        "id": "tnssports1",
+        "logo": "",
+        "url": "https://7pal.short.gy/tntspts1",
         "categories": [
             "bd"
         ],

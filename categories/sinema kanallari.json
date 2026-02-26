@@ -1,141 +1,81 @@
 [
     {
-        "name": "YERLİ 1",
-        "id": "yerl1",
-        "logo": "https://hizliresims.com/img_68d9a700a97750.46542920.png",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/134741",
+        "name": "MaximTV Komedi TV 2 HD",
+        "id": "MaximTVKomediTV2HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/195945",
         "categories": [
-            "si̇nema kanallari"
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Komedi TV 3 HD",
+        "id": "MaximTVKomediTV3HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/195946",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Komedi TV 5 HD",
+        "id": "MaximTVKomediTV5HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/195948",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Komedi TV  6 HD",
+        "id": "MaximTVKomediTV6HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/195949",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV VIP Sinema 9 HD",
+        "id": "MaximTVVIPSinema9HD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/112211",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TR: Sine Max TV 3 HD",
+        "id": "trsinemaxtv3hd",
+        "logo": "http://play",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170443",
+        "categories": [
+            "sinema kanallari"
         ],
         "country": ""
     },
     {
-        "name": "YERLİ 8",
-        "id": "yerl8",
-        "logo": "https://hizliresims.com/yerli8.png",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/138063",
+        "name": "TR: Cine Box TV 16 HD",
+        "id": "trcineboxtv16hd",
+        "logo": "http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170466",
         "categories": [
-            "si̇nema kanallari"
+            "sinema kanallari"
         ],
         "country": ""
     },
     {
-        "name": "NETFİLİKS 1",
-        "id": "netflks1",
-        "logo": "https://hizliresims.com/netflix1.png",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/138066",
+        "name": "TR: Cine Box TV 20 HD",
+        "id": "trcineboxtv20hd",
+        "logo": "http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/170470",
         "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NETFİLİKS 2",
-        "id": "netflks2",
-        "logo": "https://hizliresims.com/netflix2.png",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/138067",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NETFİLİKS 4",
-        "id": "netflks4",
-        "logo": "https://hizliresims.com/netflix4.png",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/138069",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "AMAZON CİNEMA TV",
-        "id": "amazoncnematv",
-        "logo": "https://hizliresims.com/amazon_turkiye.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120282",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EU Cinema Bilim-Kurgu",
-        "id": "eucinemabilimkurgu",
-        "logo": "https://hizliresims.com/eu_ci̇nema_bi̇li̇m_kurgu.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120283",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EU Cinema Yesilcam 2",
-        "id": "eucinemayesilcam2",
-        "logo": "https://hizliresims.com/eu_cinema_yesilcam.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120285",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KingBox Prime 2",
-        "id": "kingboxprime2",
-        "logo": "https://hizliresims.com/ki̇ngbox_pri̇me_2.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120287",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MAX Vizyon 3 HD",
-        "id": "maxvizyon3hd",
-        "logo": "https://hizliresims.com/max_vi̇zyon_3_hd.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120294",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "EU Cinema Korku",
-        "id": "eucinemakorku",
-        "logo": "https://hizliresims.com/eu_ci̇nema_korku.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120300",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MAX Vizyon 4",
-        "id": "maxvizyon4",
-        "logo": "https://hizliresims.com/max_vi̇zyon_4_hd.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120337",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MAX Animasyon 2",
-        "id": "maxanimasyon2",
-        "logo": "https://hizliresims.com/max_animasyon_2.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120359",
-        "categories": [
-            "si̇nema kanallari"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MAX 007",
-        "id": "max007",
-        "logo": "https://hizliresims.com/max_007.jpg",
-        "url": "http://yenti.live:8080/H21VqAkx5e/cQeetbW8QZ/120272",
-        "categories": [
-            "si̇nema kanallari"
+            "sinema kanallari"
         ],
         "country": ""
     }

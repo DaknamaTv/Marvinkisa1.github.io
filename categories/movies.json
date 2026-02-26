@@ -828,17 +828,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "&pictures",
         "id": "Andpictures.in",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
@@ -2206,16 +2195,6 @@
         "id": "revryher",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=10dC9UhBWkq",
-        "categories": [
-            "movies"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Filmazia (576p)",
-        "id": "filmazia576p",
-        "logo": "https://i.imgur.com/hpTCANa.png",
-        "url": "http://163.61.227.29:8000/play/a02l/index.m3u8",
         "categories": [
             "movies"
         ],

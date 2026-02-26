@@ -10,70 +10,50 @@
         "country": ""
     },
     {
-        "name": "USA Real NBA 01: OKC Thunder VS DET Pistons ( ESPN Feed ) @ 7:30 PM",
-        "id": "usarealnba01okcthundervsdetpistonsespnfeed730pm",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262663",
-        "categories": [
-            "nba"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA Real NBA 03: San Antonio Spurs vs Toronto Raptors @ 07:30 PM EST",
-        "id": "usarealnba03sanantoniospursvstorontoraptors0730pmest",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262665",
-        "categories": [
-            "nba"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA Real NBA 04: Golden State Warriors vs Memphis Grizzlies @ 07:30 PM EST",
-        "id": "usarealnba04goldenstatewarriorsvsmemphisgrizzlies0730pmest",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262666",
-        "categories": [
-            "nba"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBA 05: San Antonio Spurs @ Toronto Raptors | Home Stream | 02/25/2026 7:30 PM ET",
-        "id": "nba05sanantoniospurstorontoraptorshomestream02252026730pmet",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262673",
-        "categories": [
-            "nba"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBA 06: San Antonio Spurs @ Toronto Raptors | Away Stream | 02/25/2026 7:30 PM ET",
-        "id": "nba06sanantoniospurstorontoraptorsawaystream02252026730pmet",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262674",
-        "categories": [
-            "nba"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBA 11: Boston Celtics @ Denver Nuggets | Away Stream | 02/25/2026 10:00 PM ET",
-        "id": "nba11bostoncelticsdenvernuggetsawaystream022520261000pmet",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262679",
-        "categories": [
-            "nba"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA-NBA TV",
         "id": "canbatv",
         "logo": "https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/22995",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real NBA 06: Cleveland Cavaliers vs Milwaukee Bucks @ 08:00 PM EST",
+        "id": "usarealnba06clevelandcavaliersvsmilwaukeebucks0800pmest",
+        "logo": "",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262668",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 08: Cleveland Cavaliers @ Milwaukee Bucks | Home Stream | 02/25/2026 8:00 PM ET",
+        "id": "nba08clevelandcavaliersmilwaukeebuckshomestream02252026800pmet",
+        "logo": "",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262676",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 09: Cleveland Cavaliers @ Milwaukee Bucks | Away Stream | 02/25/2026 8:00 PM ET",
+        "id": "nba09clevelandcavaliersmilwaukeebucksawaystream02252026800pmet",
+        "logo": "",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262677",
+        "categories": [
+            "nba"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NBA 12: Boston Celtics @ Denver Nuggets | Home Stream | 02/25/2026 10:00 PM ET",
+        "id": "nba12bostoncelticsdenvernuggetshomestream022520261000pmet",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/262680",
         "categories": [
             "nba"
         ],

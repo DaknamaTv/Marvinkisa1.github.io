@@ -1361,14 +1361,6 @@
         "country": "IT"
     },
     {
-        "name": "TV Yes Italia",
-        "id": "TVYesItalia.it",
-        "logo": "https://i.imgur.com/3CDxatu.png",
-        "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
-        "categories": [],
-        "country": "IT"
-    },
-    {
         "name": "Rai 5",
         "id": "Rai5.it",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png",
@@ -1553,6 +1545,14 @@
         "id": "RadioIbizaTV.it",
         "logo": "https://i.imgur.com/KfFqYQi.png",
         "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 1",
+        "id": "Rai1.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",
+        "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803",
         "categories": [],
         "country": "IT"
     }

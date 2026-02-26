@@ -1,241 +1,51 @@
 [
     {
-        "name": "TR: TRT Spor Hevc",
-        "id": "trtrtsporhevc",
-        "logo": "https://i.ibb.co/MD6LMwrB/39.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850137.ts",
+        "name": "TR| EURO SPORT 1 HD",
+        "id": "treurosport1hd",
+        "logo": "https://imagizer.imageshack.com/img922/5332/yalTeu.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/277903",
         "categories": [
-            "tr ➤ spor"
+            "tr | spor ⚽"
         ],
         "country": ""
     },
     {
-        "name": "TR: Smart Spor 1 FHD",
-        "id": "trsmartspor1fhd",
-        "logo": "https://i.ibb.co/r2RrchDD/22.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850167.ts",
+        "name": "TR: TIVIBUSPOR 1 HD",
+        "id": "trtivibuspor1hd",
+        "logo": "https://www.lyngsat-logo.com/logo/tv/tt/tivibu_tr_spor.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/409365",
         "categories": [
-            "tr ➤ spor"
+            "tr | spor ⚽"
         ],
         "country": ""
     },
     {
-        "name": "TR: Smart Spor 2 FHD",
-        "id": "trsmartspor2fhd",
-        "logo": "https://i.ibb.co/YVPN4HS/24.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850169.ts",
+        "name": "TR: TIVIBUSPOR 4(maczamani)",
+        "id": "trtivibuspor4maczamani",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/409364",
         "categories": [
-            "tr ➤ spor"
+            "tr | spor ⚽"
         ],
         "country": ""
     },
     {
-        "name": "TR: A Spor FHD",
-        "id": "trasporfhd",
-        "logo": "https://i.ibb.co/G3Mm17y7/2.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850170.ts",
+        "name": "TR: TABII SPOR",
+        "id": "trtabiispor",
+        "logo": "",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/466915",
         "categories": [
-            "tr ➤ spor"
+            "tr | spor ⚽"
         ],
         "country": ""
     },
     {
-        "name": "TR: A Spor HD",
-        "id": "trasporhd",
-        "logo": "https://i.ibb.co/992bgfpF/1.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850171.ts",
+        "name": "TR| EURO SPORT 2 HD",
+        "id": "treurosport2hd",
+        "logo": "https://imagizer.imageshack.com/img923/4813/n8AMKQ.png",
+        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/277904",
         "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT Spor FHD",
-        "id": "trtrtsporfhd",
-        "logo": "https://i.ibb.co/jvc6K99X/TRTSPORFHD.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850172.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: HT SPOR",
-        "id": "trhtspor",
-        "logo": "https://i.ibb.co/HcG36FL/11.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/850180.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT Spor HD",
-        "id": "trtsporhd",
-        "logo": "https://i.ibb.co/F497g0yb/TRT-SPOR.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865595.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRT Spor FHD",
-        "id": "trtsporfhd",
-        "logo": "https://i.ibb.co/FkxfDVkD/TRT-SPOR.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865596.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Smart Spor 1 HD",
-        "id": "smartspor1hd",
-        "logo": "https://i.ibb.co/r2RrchDD/22.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865598.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Smart Spor 1 FHD",
-        "id": "smartspor1fhd",
-        "logo": "https://i.ibb.co/r2RrchDD/22.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865599.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Smart Spor 2 HD",
-        "id": "smartspor2hd",
-        "logo": "https://i.ibb.co/23ZH0gf6/24.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865600.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Eurosport 2 HD",
-        "id": "eurosport2hd",
-        "logo": "https://i.ibb.co/4nJHZJNK/5.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865602.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HT Spor Hd",
-        "id": "htsporhd",
-        "logo": "https://i.ibb.co/HcG36FL/11.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865603.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "A Spor HD",
-        "id": "asporhd",
-        "logo": "https://i.ibb.co/G3Mm17y7/2.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865605.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "COSMOSPORTS HD",
-        "id": "cosmosportshd",
-        "logo": "https://i.ibb.co/7J7pW3Zz/COSMOS.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865610.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FB TV FHD",
-        "id": "fbtvfhd",
-        "logo": "https://i.ibb.co/svY45TjG/8.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865611.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SportsTV HD",
-        "id": "sportstvhd",
-        "logo": "https://i.ibb.co/Z6Px48nD/26.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865613.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TRACE SPORT STARS HD",
-        "id": "tracesportstarshd",
-        "logo": "https://i.ibb.co/HfsvxK0M/HLrIsS4.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/865614.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TRT Spor Yıldız fhd",
-        "id": "trtrtsporyldzfhd",
-        "logo": "https://i.ibb.co/39dRz94h/41.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/850174.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: FB TV",
-        "id": "trfbtv",
-        "logo": "https://i.ibb.co/svY45TjG/8.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/850175.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Edge Sport FHD",
-        "id": "tredgesportfhd",
-        "logo": "https://i.ibb.co/rG9Lgrrg/es-logo.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/850181.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: TJK TV",
-        "id": "trtjktv",
-        "logo": "https://i.ibb.co/5Xfr4x0f/turkiye-jokey-kulubu-logo-png-seeklogo-143252.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/exsafran/gvPwrPvxZe/850185.ts",
-        "categories": [
-            "tr ➤ spor"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: WWE Network",
-        "id": "trwwenetwork",
-        "logo": "https://i.ibb.co/jPBLB2S4/1717223745wwe-network-logo.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Ergun06066/02.07.2022/850187.ts",
-        "categories": [
-            "tr ➤ spor"
+            "tr | spor ⚽"
         ],
         "country": ""
     }

@@ -1,29 +1,9 @@
 [
     {
-        "name": "CO: Win Sports + FHD",
-        "id": "cowinsportsfhd",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/78717",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
         "name": "CO: RCN NOVELAS",
         "id": "corcnnovelas",
         "logo": "",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/78716",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CO: NTN24 HD",
-        "id": "contn24hd",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/78704",
         "categories": [
             "colombia"
         ],
@@ -94,6 +74,26 @@
         "id": "coespncolombia",
         "logo": "",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/86765",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: CARCOL HD",
+        "id": "cocarcolhd",
+        "logo": "",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/78700",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: RCN FHD",
+        "id": "corcnfhd",
+        "logo": "",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/78694",
         "categories": [
             "colombia"
         ],

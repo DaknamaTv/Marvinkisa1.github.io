@@ -70,16 +70,6 @@
         "country": ""
     },
     {
-        "name": "Star TV Sports",
-        "id": "startvsports",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/53708",
-        "categories": [
-            "caribbean"
-        ],
-        "country": ""
-    },
-    {
         "name": "Carib CVM TV (D)",
         "id": "caribcvmtvd",
         "logo": "",
@@ -104,6 +94,36 @@
         "id": "caribarubatvd",
         "logo": "",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/99574",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib Justice_Central",
+        "id": "caribjusticecentral",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/108547",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Carib ESPN2",
+        "id": "caribespn2",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/99623",
+        "categories": [
+            "caribbean"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (Carib) FEVA (E)",
+        "id": "cacaribfevae",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/100457",
         "categories": [
             "caribbean"
         ],

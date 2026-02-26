@@ -240,16 +240,6 @@
         "country": ""
     },
     {
-        "name": "US AXS TV",
-        "id": "usaxstv",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/48324",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA: Bet Gospel",
         "id": "usabetgospel",
         "logo": "",
@@ -260,30 +250,10 @@
         "country": ""
     },
     {
-        "name": "US Bounce XL",
-        "id": "usbouncexl",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/48323",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US BUZZR (STV)",
         "id": "usbuzzrstv",
         "logo": "",
         "url": "http://cord-cutter.net:8080/0UcuSy/682882/21896",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA: CMT",
-        "id": "usacmt",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/46706",
         "categories": [
             "usa"
         ],
@@ -304,16 +274,6 @@
         "id": "uslatinunivision",
         "logo": "",
         "url": "http://cord-cutter.net:8080/0UcuSy/682882/108248",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US The Cowboy Channel",
-        "id": "usthecowboychannel",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/122527",
         "categories": [
             "usa"
         ],
@@ -380,26 +340,6 @@
         "country": ""
     },
     {
-        "name": "USA: DISCOVERY FAMILY",
-        "id": "usadiscoveryfamily",
-        "logo": "https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/10538",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Fox News",
-        "id": "usfoxnews",
-        "logo": "https://juicetv.app/channellogo/foxnews.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/1818",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Freeform East",
         "id": "usfreeformeast",
         "logo": "https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png",
@@ -410,180 +350,10 @@
         "country": ""
     },
     {
-        "name": "US GetTV",
-        "id": "usgettv",
-        "logo": "https://logodix.com/logo/1826254.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/18366",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US HISTORY",
-        "id": "ushistory",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/46724",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US History Channel",
-        "id": "ushistorychannel",
-        "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/15017",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US HLN",
-        "id": "ushln",
-        "logo": "https://cdn.strivecloud.io/wp-content/uploads/2020/07/14143602/hln-273x202.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/17748",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US National Geographic",
-        "id": "usnationalgeographic",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/46722",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NESN",
-        "id": "usnesn",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/46726",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US One America News",
-        "id": "usoneamericanews",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/21752",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA: OUTSIDE TV",
-        "id": "usaoutsidetv",
-        "logo": "https://images-na.ssl-images-amazon.com/images/I/71iXofscZDL.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/20865",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Paramount Network",
-        "id": "usparamountnetwork",
-        "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/16201",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US TBN",
-        "id": "ustbn",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/21895",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US TLC (east)",
-        "id": "ustlceast",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/47703",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US TRUTV East",
-        "id": "ustrutveast",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/10224",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US TV One",
-        "id": "ustvone",
-        "logo": "https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/20868",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US VH1",
-        "id": "usvh1",
-        "logo": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/7404",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US VICELAND",
-        "id": "usviceland",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/46697",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Game Show Network",
-        "id": "usgameshownetwork",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/120633",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Cooking Channel",
         "id": "uscookingchannel",
         "logo": "https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/9229",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Cozi",
-        "id": "uscozi",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/11868",
         "categories": [
             "usa"
         ],
@@ -610,80 +380,10 @@
         "country": ""
     },
     {
-        "name": "US ID Investigation Discovery",
-        "id": "usidinvestigationdiscovery",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46810",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US MotorTrend (A)",
-        "id": "usmotortrenda",
-        "logo": "https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10399",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US MTV",
-        "id": "usmtv",
-        "logo": "https://image.flaticon.com/icons/png/128/871/871009.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9818",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Pursuit UP",
-        "id": "uspursuitup",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/22888",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Sportsman Channel (A)",
         "id": "ussportsmanchannela",
         "logo": "",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/79913",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US SUNDANCE",
-        "id": "ussundance",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46712",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US TBS",
-        "id": "ustbs",
-        "logo": "https://image.flaticon.com/icons/png/128/826/826355.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20867",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US TV Land",
-        "id": "ustvland",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46696",
         "categories": [
             "usa"
         ],
@@ -700,230 +400,250 @@
         "country": ""
     },
     {
-        "name": "US  Space City Home Network",
-        "id": "usspacecityhomenetwork",
+        "name": "US FYI",
+        "id": "usfyi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/9240",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MSNBC",
+        "id": "usmsnbc",
+        "logo": "https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/21376",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Paramount TV",
+        "id": "usparamounttv",
+        "logo": "https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/10464",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US True Crime Network (KARE)",
+        "id": "ustruecrimenetworkkare",
         "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/213668",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/121130",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US CHARGE!",
-        "id": "uscharge",
+        "name": "US Hallmark Channel",
+        "id": "ushallmarkchannel",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/79594",
+        "url": "http://fortv.cc:8080/D76rh4/197436/46719",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US  Court TV",
-        "id": "uscourttv",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/21092",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Pop",
-        "id": "uspop",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20976",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Univision (East) (SP)",
-        "id": "usunivisioneastsp",
-        "logo": "https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/15336",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA: Baby First HD",
-        "id": "usababyfirsthd",
+        "name": "US: QVC",
+        "id": "usqvc",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/58765",
+        "url": "http://fortv.cc:8080/D76rh4/197436/117707",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "USA: BET SOUL",
-        "id": "usabetsoul",
+        "name": "US (FD) Military History",
+        "id": "usfdmilitaryhistory",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/21844",
+        "url": "http://fortv.cc:8080/D76rh4/197436/134832",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US Bravo (East)",
-        "id": "usbravoeast",
-        "logo": "https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20859",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CBS News",
-        "id": "uscbsnews",
+        "name": "US BET Her",
+        "id": "usbether",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/21259",
+        "url": "http://fortv.cc:8080/D76rh4/197436/137790",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US CNBC",
-        "id": "uscnbc",
-        "logo": "https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9815",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US CNN",
-        "id": "uscnn",
-        "logo": "https://juicetv.app/channellogo/cnn2.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/1817",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Comet (S)",
-        "id": "uscomets",
+        "name": "USA: A&E",
+        "id": "usaae",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/66244",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/59056",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US Decades",
-        "id": "usdecades",
-        "logo": "https://decades.com/images/logo_tagline.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20189",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Lifetime Movie",
-        "id": "uslifetimemovie",
-        "logo": "https://juicetv.app/channellogo/lmn2.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/2208",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Nat Geo Wild East (A)",
-        "id": "usnatgeowildeasta",
-        "logo": "https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/11664",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US National Geographic (East)",
-        "id": "usnationalgeographiceast",
-        "logo": "https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9277",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Outdoor Channel",
-        "id": "usoutdoorchannel",
-        "logo": "https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2018/06/TVA-19-June-5.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9244",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA: OWN",
-        "id": "usaown",
+        "name": "US Altitude Sports HD",
+        "id": "usaltitudesportshd",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/46698",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/79545",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US TNT East",
-        "id": "ustnteast",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/10455",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Turner Classic Movies",
-        "id": "caturnerclassicmovies",
+        "name": "US BET (East)",
+        "id": "usbeteast",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/66242",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/13702",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "USA: TV Land Classic HD",
-        "id": "usatvlandclassichd",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9271",
+        "name": "US Hallmark Movies & Mysteries",
+        "id": "ushallmarkmoviesmysteries",
+        "logo": "https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/10289",
         "categories": [
             "usa"
         ],
         "country": ""
     },
     {
-        "name": "US USA Network (East)",
-        "id": "ususanetworkeast",
-        "logo": "https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/10252",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US WAPA America",
-        "id": "uswapaamerica",
+        "name": "US HGTV (East)",
+        "id": "ushgtveast",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/76481",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/46717",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MeTV Network East",
+        "id": "usmetvnetworkeast",
+        "logo": "https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/16149",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US The Weather Channel",
+        "id": "ustheweatherchannel",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/18926",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US VH1 (East)",
+        "id": "usvh1east",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/46705",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Start TV",
+        "id": "usstarttv",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/137680",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Lifetime",
+        "id": "uslifetime",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/46714",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MTV2",
+        "id": "usmtv2",
+        "logo": "https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/9308",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Nick Jr",
+        "id": "usnickjr",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/46710",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Oxygen (East)",
+        "id": "usoxygeneast",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/5/5a/Oxygen_2008.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/9245",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Discovery Science",
+        "id": "usdiscoveryscience",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/20866",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Comet",
+        "id": "uscomet",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/125831",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: CSPAN FHD",
+        "id": "uscspanfhd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/136589",
+        "categories": [
+            "usa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Al Jazeera",
+        "id": "usaljazeera",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/cn7R0q/489385/160711",
         "categories": [
             "usa"
         ],
