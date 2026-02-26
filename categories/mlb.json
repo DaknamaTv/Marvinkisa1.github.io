@@ -1,15 +1,5 @@
 [
     {
-        "name": "MLB Network",
-        "id": "mlbnetwork",
-        "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/21360",
-        "categories": [
-            "mlb"
-        ],
-        "country": ""
-    },
-    {
         "name": "MLB Strike Zone",
         "id": "mlbstrikezone",
         "logo": "https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg",
@@ -20,10 +10,30 @@
         "country": ""
     },
     {
-        "name": "USA Real MLB 02: Red Sox VS Twins (Red Sox Feed ) @ 13:05",
-        "id": "usarealmlb02redsoxvstwinsredsoxfeed1305",
+        "name": "USA Real MLB 06: Angels VS Padres (MLBN Feed ) @ 15:10",
+        "id": "usarealmlb06angelsvspadresmlbnfeed1510",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/262700",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/262704",
+        "categories": [
+            "mlb"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real MLB 05: Dodgers VS D-backs (Dodgers Feed ) @ 15:10",
+        "id": "usarealmlb05dodgersvsdbacksdodgersfeed1510",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/262703",
+        "categories": [
+            "mlb"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real MLB 07: Nationals VS Yankees (Yankees Feed ) @ 18:35",
+        "id": "usarealmlb07nationalsvsyankeesyankeesfeed1835",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/262705",
         "categories": [
             "mlb"
         ],

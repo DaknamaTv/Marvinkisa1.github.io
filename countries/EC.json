@@ -322,16 +322,6 @@
         "country": "EC"
     },
     {
-        "name": "La Nueva Radio TV 97.7",
-        "id": "LaNuevaRadioTV977.ec",
-        "logo": "https://i.imgur.com/19FN4Lp.png",
-        "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Ciracu TV",
         "id": "CiracuTV.ec",
         "logo": "https://i.imgur.com/mkf2TJ6.png",
@@ -524,6 +514,56 @@
         "id": "HechosEcuador.ec",
         "logo": "https://i.imgur.com/koMQZNX.png",
         "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "FM Mundo",
+        "id": "FMMundo.ec",
+        "logo": "https://i.imgur.com/1nNnYQO.png",
+        "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "MakroDigital Television",
+        "id": "MakroDigitalTelevision.ec",
+        "logo": "https://makrodigitaltelevision.com/logo.jpg",
+        "url": "https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "RTU",
+        "id": "RTU.ec",
+        "logo": "https://i.imgur.com/1OWvMP4.png",
+        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+        "categories": [
+            "news"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "TV Cisne",
+        "id": "TVCisne.ec",
+        "logo": "https://i.imgur.com/xIuFSnx.png",
+        "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "Zaracay TV",
+        "id": "ZaracayTV.ec",
+        "logo": "https://i.imgur.com/6q0Gp9R.png",
+        "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
         "categories": [
             "general"
         ],

@@ -77,10 +77,54 @@
         "country": ""
     },
     {
-        "name": "SERIE 24/7 MR. ROBOT",
-        "id": "serie247mrrobot",
-        "logo": "https://i.imgur.com/d4MLLxS.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/96986",
+        "name": "SERIE 24/7 SCRUBS",
+        "id": "serie247scrubs",
+        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/96491",
+        "categories": [
+            "full de 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SERIE 24/7 YOUNG SHELDON",
+        "id": "serie247youngsheldon",
+        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/97028",
+        "categories": [
+            "full de 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SERIE 24/7 BEYBLADE REVOLUTION",
+        "id": "serie247beybladerevolution",
+        "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103677",
+        "categories": [
+            "full de 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SERIE 24/7 DIE CAMPER",
+        "id": "serie247diecamper",
+        "logo": "https://i.ibb.co/rdPPcnG/HpIpzzA.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/103667",
+        "categories": [
+            "full de 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FM: RADIOSUPEROLDIE HIGH",
+        "id": "fmradiosuperoldiehigh",
+        "logo": "http://radio.pervii.com/logo/1403636185.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101393",
         "categories": [
             "full de 24",
             "7 special"

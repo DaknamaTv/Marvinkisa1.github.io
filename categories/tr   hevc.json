@@ -70,16 +70,6 @@
         "country": ""
     },
     {
-        "name": "TR: Show TV HEVC",
-        "id": "trshowtvhevc",
-        "logo": "https://i.ibb.co/nNvrYxG7/8.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/866532.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: NOW HEVC",
         "id": "trnowhevc",
         "logo": "https://i.ibb.co/dsMMKCXw/14.png",
@@ -94,16 +84,6 @@
         "id": "trtv85hevc",
         "logo": "https://i.ibb.co/YBtNc959/22.png",
         "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/866536.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Kanal 7 HEVC",
-        "id": "trkanal7hevc",
-        "logo": "https://i.ibb.co/Jj3Sm71r/18.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/866537.ts",
         "categories": [
             "tr ➤ [ hevc ]"
         ],
@@ -164,16 +144,6 @@
         "id": "trtrthaberhevc",
         "logo": "https://i.ibb.co/whTSkr4C/26.png",
         "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/866552.ts",
-        "categories": [
-            "tr ➤ [ hevc ]"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Viasat History HEVC",
-        "id": "trviasathistoryhevc",
-        "logo": "https://i.ibb.co/vC77HLhh/UaKY4bv.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/866567.ts",
         "categories": [
             "tr ➤ [ hevc ]"
         ],

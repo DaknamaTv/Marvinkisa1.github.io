@@ -1,19 +1,29 @@
 [
     {
-        "name": "Global News Montreal (720p)",
-        "id": "globalnewsmontreal720p",
-        "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/168291",
+        "name": "Azstar TV [Not 24/7]",
+        "id": "azstartvnot247",
+        "logo": "https://i.imgur.com/iqraNYV.jpg",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/168277",
         "categories": [
             "ca | kanada"
         ],
         "country": ""
     },
     {
-        "name": "Prime Canada TV (720p)",
-        "id": "primecanadatv720p",
-        "logo": "",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/168311",
+        "name": "Global News (720p)",
+        "id": "globalnews720p",
+        "logo": "https://i.imgur.com/mhhVQE6.png",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/168287",
+        "categories": [
+            "ca | kanada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Global News Regina (720p)",
+        "id": "globalnewsregina720p",
+        "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/168294",
         "categories": [
             "ca | kanada"
         ],

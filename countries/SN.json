@@ -58,16 +58,6 @@
         "country": "SN"
     },
     {
-        "name": "SenJeunes TV",
-        "id": "SenJeunesTV.sn",
-        "logo": "https://i.imgur.com/MeCSPsI.jpg",
-        "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "TeleMusik Senegal",
         "id": "TeleMusikSenegal.sn",
         "logo": "https://i.imgur.com/dPAPLsd.png",
@@ -92,6 +82,16 @@
         "id": "TFM.sn",
         "logo": "https://i.imgur.com/TQWBlXn.png",
         "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tfm.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SN"
+    },
+    {
+        "name": "Sen TV",
+        "id": "SenTV.sn",
+        "logo": "https://i.imgur.com/beVCugh.png",
+        "url": "http://69.64.57.208/sentv/playlist.m3u8",
         "categories": [
             "general"
         ],

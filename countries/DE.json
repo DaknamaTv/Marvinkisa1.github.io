@@ -1118,36 +1118,6 @@
         "country": "DE"
     },
     {
-        "name": "13th Street 4K+",
-        "id": "13thStreet4K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/13street.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/493",
-        "categories": [
-            "de : kino"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "RTL Crime 4K+",
-        "id": "RTLCrime4K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/rtlcrime.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/494",
-        "categories": [
-            "de : kino"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Kinowelt TV 4K+",
-        "id": "KinoweltTV4K.de",
-        "logo": "http://148.251.19.24:89/DE-Logo/DE-Kino/kinowelt.png",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/514",
-        "categories": [
-            "de : kino"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "LionBox Kinobox 14",
         "id": "LionBoxKinobox14.de",
         "logo": "http://148.251.19.24:89/lionbox.png",
@@ -1196,16 +1166,6 @@
         "id": "DaznEvent214K.de",
         "logo": "",
         "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/118836",
-        "categories": [
-            "de : dazn event"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Dazn Event 28 4K+",
-        "id": "DaznEvent284K.de",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/118843",
         "categories": [
             "de : dazn event"
         ],
@@ -1286,6 +1246,126 @@
         "categories": [
             "music"
         ],
+        "country": "DE"
+    },
+    {
+        "name": "Allgau TV",
+        "id": "AllgauTV.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
+        "url": "https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "ems TV Lingen",
+        "id": "emsTVLingen.de",
+        "logo": "https://i.imgur.com/Yo1GMku.png",
+        "url": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Niederbayern TV",
+        "id": "NiederbayernTV.de",
+        "logo": "https://i.imgur.com/9uaMgTk.png",
+        "url": "https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Niederbayern TV Deggendorf & Straubing",
+        "id": "NiederbayernTVDeggendorfStraubing.de",
+        "logo": "https://i.imgur.com/mAaIh3C.png",
+        "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Niederbayern TV Landshut",
+        "id": "NiederbayernTVLandshut.de",
+        "logo": "https://i.imgur.com/5sHzZAh.png",
+        "url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Niederbayern TV Passau",
+        "id": "NiederbayernTVPassau.de",
+        "logo": "https://i.imgur.com/0wnFhNi.png",
+        "url": "https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Regio TV Bodensee",
+        "id": "RegioTVBodensee.de",
+        "logo": "https://i.imgur.com/3koyLef.png",
+        "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "Regio TV Schwaben",
+        "id": "RegioTVSchwaben.de",
+        "logo": "https://i.imgur.com/3koyLef.png",
+        "url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "Regio TV Stuttgart",
+        "id": "RegioTVStuttgart.de",
+        "logo": "https://i.imgur.com/3koyLef.png",
+        "url": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "RFO",
+        "id": "RFO.de",
+        "logo": "https://i.imgur.com/902BHGL.png",
+        "url": "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Sachsen Eins",
+        "id": "SachsenEins.de",
+        "logo": "https://i.imgur.com/2EXNdd8.png",
+        "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "Sportdigital FUSSBALL",
+        "id": "SportdigitalFUSSBALL.de",
+        "logo": "https://i.imgur.com/NDbWxqF.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "TV Ingolstadt",
+        "id": "TVIngolstadt.de",
+        "logo": "https://i.imgur.com/Ymh11VV.png",
+        "url": "https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8",
+        "categories": [],
         "country": "DE"
     }
 ]

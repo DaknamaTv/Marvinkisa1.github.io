@@ -215,16 +215,6 @@
         "country": "CR"
     },
     {
-        "name": "NicoyaTV",
-        "id": "NicoyaTV.cr",
-        "logo": "https://i.imgur.com/Lj2jRn3.png",
-        "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Extrema Kids TV",
         "id": "ExtremaKidsTV.cr",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
@@ -260,26 +250,6 @@
         "id": "Canal1.cr",
         "logo": "https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png",
         "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Canal 4",
-        "id": "Canal4.cr",
-        "logo": "https://i.imgur.com/5arZEgO.png",
-        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Canal 6",
-        "id": "Canal6.cr",
-        "logo": "https://i.imgur.com/nfKJftW.png",
-        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
         ],
@@ -386,6 +356,27 @@
         "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Gex TV",
+        "id": "GexTV.cr",
+        "logo": "https://gextv.com/LOGO-WHITE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "categories": [
+            "music",
+            "entertainment"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "San Jose TV",
+        "id": "SanJoseTV.cr",
+        "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "CR"
     }

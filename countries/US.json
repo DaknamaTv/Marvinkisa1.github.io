@@ -9450,16 +9450,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "W14DK-D2",
         "id": "W14DKD2.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png",
@@ -9542,6 +9532,187 @@
         "id": "WTTWDT2.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
         "url": "http://68.251.105.81:5004/auto/v11.2",
+        "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "30A Darcizzle Offshore",
+        "id": "30ADarcizzleOffshore.us",
+        "logo": "https://i.imgur.com/Q4l2uao.png",
+        "url": "https://30a-tv.com/darcizzle.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Georgia Hollywood Review",
+        "id": "30AGeorgiaHollywoodReview.us",
+        "logo": "https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg",
+        "url": "https://30a-tv.com/gh.m3u8",
+        "categories": [
+            "entertainment",
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Golf Kingdom",
+        "id": "30AGolfKingdom.us",
+        "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+        "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Investment Pitch",
+        "id": "30AInvestmentPitch.us",
+        "logo": "https://i.imgur.com/CKCtZo7.png",
+        "url": "https://www.30a-tv.com/InvPit.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Lionel Nation",
+        "id": "30ALionelNation.us",
+        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+        "url": "https://30a-tv.com/ln.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Loomered TV",
+        "id": "30ALoomeredTV.us",
+        "logo": "https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801",
+        "url": "https://30a-tv.com/loomer.m3u8",
+        "categories": [
+            "news",
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Luxe Life Discovered",
+        "id": "30ALuxeLifeDiscovered.us",
+        "logo": "https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg",
+        "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Music",
+        "id": "30AMusic.us",
+        "logo": "https://i.imgur.com/gNWg9tl.png",
+        "url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Ridiculous TV",
+        "id": "30ARidiculousTV.us",
+        "logo": "https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+        "url": "https://30a-tv.com/feeds/720p/63.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Sidewalks",
+        "id": "30ASidewalks.us",
+        "logo": "https://i.imgur.com/HSdwqZN.png",
+        "url": "https://30a-tv.com/sidewalks.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A Television Channel",
+        "id": "30ATelevisionChannel.us",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
+        "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A The Beach Show",
+        "id": "30ATheBeachShow.us",
+        "logo": "https://i.imgur.com/0j5Aget.png",
+        "url": "https://30a-tv.com/beachy.m3u8",
+        "categories": [
+            "shop"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A TV Classic Movies",
+        "id": "30ATVClassicMovies.us",
+        "logo": "https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg",
+        "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "30A We Love Cars",
+        "id": "30AWeLoveCars.us",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU",
+        "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8",
+        "categories": [
+            "auto"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Lone Star",
+        "id": "LoneStar.us",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988e3bac4421ebc533621/images/logo_20231219_215208_70.png",
+        "url": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?ads.vf=-SPJecyFm2K",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "RetroCrush",
+        "id": "RetroCrush.us",
+        "logo": "https://i.imgur.com/M40b4YI.png",
+        "url": "https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8",
+        "categories": [
+            "classic",
+            "animation"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "RJTV",
+        "id": "RJTV.us",
+        "logo": "https://i.imgur.com/a1zuW2C.png",
+        "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WTTW-DT3",
+        "id": "WTTWDT3.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png",
+        "url": "http://68.251.105.81:5004/auto/v11.3",
         "categories": [],
         "country": "US"
     }

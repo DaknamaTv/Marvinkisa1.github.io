@@ -10,26 +10,6 @@
         "country": ""
     },
     {
-        "name": "IT: LA 5",
-        "id": "itla5",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/212911",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: RAI SCUOLA",
-        "id": "itraiscuola",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/212934",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: RAI MOVIE",
         "id": "itraimovie",
         "logo": "",
@@ -54,16 +34,6 @@
         "id": "itfrisbee",
         "logo": "",
         "url": "http://xxip25.top:8080/c1E50nv/32NYwus8o2/212929",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: RAI 2",
-        "id": "itrai2",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/212896",
         "categories": [
             "italy"
         ],
@@ -110,16 +80,6 @@
         "country": ""
     },
     {
-        "name": "IT: SUPER!",
-        "id": "itsuper",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/212931",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: RETE 4",
         "id": "itrete4",
         "logo": "",
@@ -140,10 +100,20 @@
         "country": ""
     },
     {
-        "name": "IT: RAI ITALIA",
-        "id": "itraiitalia",
+        "name": "IT: CANALE 5",
+        "id": "itcanale5",
         "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/212900",
+        "url": "http://xxip25.top:8080/AHy3c7/745580/212903",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI 1",
+        "id": "itrai1",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/212895",
         "categories": [
             "italy"
         ],

@@ -1,45 +1,5 @@
 [
     {
-        "name": "DIZI 7/24 | CATI KATI ASK",
-        "id": "dizi724catikatiask",
-        "logo": "https://i.ibb.co/cCxv7WF/zyro-image.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/99988",
-        "categories": [
-            "all special box render"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DIZI 7/24 | ERKENCI KUS",
-        "id": "dizi724erkencikus",
-        "logo": "https://i.ibb.co/cCxv7WF/zyro-image.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/99992",
-        "categories": [
-            "all special box render"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR BLUTV 7/24 | MAGARSUS",
-        "id": "trblutv724magarsus",
-        "logo": "https://r.resimlink.com/HU-wpJaT.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/104051",
-        "categories": [
-            "all special box render"
-        ],
-        "country": ""
-    },
-    {
-        "name": "COCUK 7/24 | BOOBA",
-        "id": "cocuk724booba",
-        "logo": "https://i.ibb.co/rHKPc78/Booba.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103081",
-        "categories": [
-            "all special box render"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR COCUK ANİMASYON 7/24 | FORKY",
         "id": "trcocukanmasyon724forky",
         "logo": "https://r.resimlink.com/hKRjUJWz4n.png",
@@ -50,10 +10,60 @@
         "country": ""
     },
     {
-        "name": "KINDER 24/7 GHOST FORCE",
-        "id": "kinder247ghostforce",
-        "logo": "https://r.resimlink.com/Bt9xjR.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103720",
+        "name": "COCUK 7/24 | ANGRY BIRDS TOONS",
+        "id": "cocuk724angrybirdstoons",
+        "logo": "https://i.ibb.co/LP6Gjyg/Angry-Birds.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103080",
+        "categories": [
+            "all special box render"
+        ],
+        "country": ""
+    },
+    {
+        "name": "COCUK 7/24 | JURRASICWORLD",
+        "id": "cocuk724jurrasicworld",
+        "logo": "https://i.ibb.co/RBm7wGc/Jurassic-World.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103084",
+        "categories": [
+            "all special box render"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR COCUK ANİMASYON 7/24 | ADALET BIRLIGI",
+        "id": "trcocukanmasyon724adaletbirligi",
+        "logo": "https://r.resimlink.com/hKRjUJWz4n.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103134",
+        "categories": [
+            "all special box render"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR COCUK ANİMASYON 7/24 | BATMAN",
+        "id": "trcocukanmasyon724batman",
+        "logo": "https://r.resimlink.com/hKRjUJWz4n.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103140",
+        "categories": [
+            "all special box render"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR COCUK ANİMASYON 7/24 | CESUR",
+        "id": "trcocukanmasyon724cesur",
+        "logo": "https://r.resimlink.com/hKRjUJWz4n.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103142",
+        "categories": [
+            "all special box render"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR COCUK ANİMASYON 7/24 | MORTAL KOMBAT",
+        "id": "trcocukanmasyon724mortalkombat",
+        "logo": "https://r.resimlink.com/hKRjUJWz4n.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/103162",
         "categories": [
             "all special box render"
         ],

@@ -1,29 +1,9 @@
 [
     {
-        "name": "EPIC DRAMA HD",
-        "id": "epicdramahd",
-        "logo": "https://tvlogo.nl/files/ch/TR/Epic_Drama.png",
-        "url": "http://focusmag.eu01.live:8080/guwXHdsG8g/kRUHdHHnnw/571905",
-        "categories": [
-            "tr | d-smart&bein sinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "DIZI SMART MAX FHD",
         "id": "dizismartmaxfhd",
         "logo": "https://tvlogo.nl/files/ch/TR/dizismart_max.png",
         "url": "http://focusmag.eu01.live:8080/guwXHdsG8g/kRUHdHHnnw/571904",
-        "categories": [
-            "tr | d-smart&bein sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DIZI SMART PREMIUM HD",
-        "id": "dizismartpremiumhd",
-        "logo": "https://tvlogo.nl/files/ch/TR/dizismart_premium.png",
-        "url": "http://focusmag.eu01.live:8080/guwXHdsG8g/kRUHdHHnnw/571901",
         "categories": [
             "tr | d-smart&bein sinema"
         ],
@@ -190,40 +170,10 @@
         "country": ""
     },
     {
-        "name": "SINEMA TV YERLI 2 FHD",
-        "id": "sinematvyerli2fhd",
-        "logo": "https://tvlogo.nl/files/ch/TR/sinemaYerli2.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/571890",
-        "categories": [
-            "tr | d-smart&bein sinema"
-        ],
-        "country": ""
-    },
-    {
         "name": "SINEMA TV AILE 2 FHD",
         "id": "sinematvaile2fhd",
         "logo": "https://r.resimlink.com/6_AVjRTM.png",
         "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/571886",
-        "categories": [
-            "tr | d-smart&bein sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SINEMA TV AILE 2 HD",
-        "id": "sinematvaile2hd",
-        "logo": "https://r.resimlink.com/6_AVjRTM.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/571885",
-        "categories": [
-            "tr | d-smart&bein sinema"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SINEMA TV 1001 FHD",
-        "id": "sinematv1001fhd",
-        "logo": "https://tvlogo.nl/files/ch/TR/sinema_1001.png",
-        "url": "http://focusmag.eu01.live:8080/GuelgunAy34/KasiFay33/571876",
         "categories": [
             "tr | d-smart&bein sinema"
         ],

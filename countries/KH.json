@@ -156,5 +156,35 @@
         "url": "http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8",
         "categories": [],
         "country": "KH"
+    },
+    {
+        "name": "CITV Channel",
+        "id": "CITVChannel.kh",
+        "logo": "https://i.imgur.com/BxVXPag.png",
+        "url": "http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "KH"
+    },
+    {
+        "name": "D Music",
+        "id": "DMusic.kh",
+        "logo": "https://www.lyngsat.com/logo/tv/dd/d-music-kh.png",
+        "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "KH"
+    },
+    {
+        "name": "EAC News TV",
+        "id": "EACNewsTV.kh",
+        "logo": "https://i.imgur.com/EuYhS9Z.png",
+        "url": "http://43.252.18.195:5080/LiveApp/streams/eacnews.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "KH"
     }
 ]

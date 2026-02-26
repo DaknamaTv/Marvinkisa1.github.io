@@ -2310,16 +2310,6 @@
         "country": ""
     },
     {
-        "name": "Bolivision | BO",
-        "id": "bolivisionbo",
-        "logo": "https://cdn.m3u.cl/logo/1194_Bolivision.png",
-        "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "ArarunaTV | BR",
         "id": "ararunatvbr",
         "logo": "https://cdn.m3u.cl/logo/1028_ArarunaTV.png",
@@ -2424,16 +2414,6 @@
         "id": "cotobrustvcr",
         "logo": "https://cdn.m3u.cl/logo/1388_Coto_Brus_TV.png",
         "url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nicoya TV | CR",
-        "id": "nicoyatvcr",
-        "logo": "https://cdn.m3u.cl/logo/1047_Nicoya_TV.png",
-        "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3054,16 +3034,6 @@
         "id": "lamelinkanatvcl",
         "logo": "https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png",
         "url": "https://v1.tustreaming.cl/melinkana/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Longino TV | CL",
-        "id": "longinotvcl",
-        "logo": "https://cdn.m3u.cl/logo/1499_Longino_TV.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],

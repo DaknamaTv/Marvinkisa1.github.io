@@ -260,50 +260,10 @@
         "country": ""
     },
     {
-        "name": "CA Sportsnet East (D)",
-        "id": "casportsneteastd",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/41836",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Sportsnet One (E)",
-        "id": "casportsnetonee",
-        "logo": "https://juicetv.app/channellogo/sportsnet.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/10247",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Willow Cricket (S)",
         "id": "uswillowcrickets",
         "logo": "",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/58847",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC Sports Bay Area (A)",
-        "id": "usnbcsportsbayareaa",
-        "logo": "https://www.iphonefaq.org/images/archives/nbc_sports_yay.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/9900",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NBC Sports Washington (F)",
-        "id": "usnbcsportswashingtonf",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20944",
         "categories": [
             "sports fanatic's"
         ],
@@ -320,30 +280,10 @@
         "country": ""
     },
     {
-        "name": "US Bally Sports Florida (A)",
-        "id": "usballysportsfloridaa",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/46794",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
         "name": "US: WWE NETWORK",
         "id": "uswwenetwork",
         "logo": "https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/11645",
-        "categories": [
-            "sports fanatic's"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FanDuel Sports Oklahoma",
-        "id": "usfanduelsportsoklahoma",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20934",
         "categories": [
             "sports fanatic's"
         ],
@@ -410,50 +350,260 @@
         "country": ""
     },
     {
-        "name": "US YES Network",
-        "id": "usyesnetwork",
+        "name": "CA TSN 3 HD",
+        "id": "catsn3hd",
+        "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/10389",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Willow Cricket (X)",
+        "id": "uswillowcricketx",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57972",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/41979",
         "categories": [
             "sports fanatic's"
         ],
         "country": ""
     },
     {
-        "name": "US Golf Channel",
-        "id": "usgolfchannel",
-        "logo": "https://sc.dish.com/shared/images/station-logos/GOLF.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9806",
+        "name": "US Fox Sports 1",
+        "id": "usfoxsports1",
+        "logo": "https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/1846",
         "categories": [
             "sports fanatic's"
         ],
         "country": ""
     },
     {
-        "name": "US Sportsnet New York (SNY) (A)",
-        "id": "ussportsnetnewyorksnya",
-        "logo": "https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20938",
+        "name": "US Bally Sports South",
+        "id": "usballysportssouth",
+        "logo": "https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/20931",
         "categories": [
             "sports fanatic's"
         ],
         "country": ""
     },
     {
-        "name": "CA One Soccer",
-        "id": "caonesoccer",
+        "name": "US FanDuel Sports Sun",
+        "id": "usfanduelsportssun",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/135810",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/104917",
         "categories": [
             "sports fanatic's"
         ],
         "country": ""
     },
     {
-        "name": "UK: SKY SPORTS MAIN EVENT HD",
-        "id": "ukskysportsmaineventhd",
+        "name": "US AT&T SportsNet Southwest (F)",
+        "id": "usattsportsnetsouthwestf",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/137720",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/136909",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TSN 1 (E)",
+        "id": "catsn1e",
+        "logo": "https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/57292",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK Sky Sports Golf FHD",
+        "id": "ukskysportsgolffhd",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/35240",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK-Sky Sports News",
+        "id": "ukskysportsnews",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/35241",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bally Sports Midwest (A)",
+        "id": "usballysportsmidwesta",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/66795",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Tennis Channel",
+        "id": "ustennischannel",
+        "logo": "https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20184",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ESPN 2",
+        "id": "usespn2",
+        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/2210",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Fox Sports 2 (A)",
+        "id": "usfoxsports2a",
+        "logo": "https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/1847",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bally Sports Carolinas (A)",
+        "id": "usballysportscarolinasa",
+        "logo": "https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/20929",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Marquee Sports Network (HD) (A)",
+        "id": "usmarqueesportsnetworkhda",
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/13379",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Latin TUDN",
+        "id": "uslatintudn",
+        "logo": "https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/11885",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UK Sky Sports F1 FHD",
+        "id": "ukskysportsf1fhd",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/35244",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bally Sports Detroit (A)",
+        "id": "usballysportsdetroita",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20930",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ESPN NEWS",
+        "id": "usespnnews",
+        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/17707",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Bally Sports Detroit",
+        "id": "usballysportsdetroit",
+        "logo": "https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20936",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC Sports California (A)",
+        "id": "usnbcsportscaliforniaa",
+        "logo": "https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20940",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US NBC Sports Philly (F)",
+        "id": "usnbcsportsphillyf",
+        "logo": "https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/20943",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US ESPNU College Sports",
+        "id": "usespnucollegesports",
+        "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/10255",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MSG Plus",
+        "id": "usmsgplus",
+        "logo": "https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/9276",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US MSG (A)",
+        "id": "usmsga",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/21090",
+        "categories": [
+            "sports fanatic's"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US TVG2 Network",
+        "id": "ustvg2network",
+        "logo": "https://godish.com/wp-content/uploads/channel-logos/tvg2.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/18940",
         "categories": [
             "sports fanatic's"
         ],

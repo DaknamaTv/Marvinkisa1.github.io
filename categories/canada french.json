@@ -1,45 +1,5 @@
 [
     {
-        "name": "CA (FR) Super Ecran 4 SD (P)",
-        "id": "cafrsuperecran4sdp",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/66366",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) TFO HD (R)",
-        "id": "cafrtfohdr",
-        "logo": "https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/57495",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) TVA Montreal FHD (B)",
-        "id": "cafrtvamontrealfhdb",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/57497",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) NOOVO (D)",
-        "id": "cafrnoovod",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ztele_%28channel%29_.png/120px-Ztele_%28channel%29_.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/57501",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA-FR | MOI ET CIE",
         "id": "cafrmoietcie",
         "logo": "https://www.cooptel.ca/wp-content/uploads/2016/06/Moi-et-Cie.png",
@@ -70,30 +30,100 @@
         "country": ""
     },
     {
-        "name": "CA (FR) Canal Vie HD",
-        "id": "cafrcanalviehd",
+        "name": "CA (FR) TV5",
+        "id": "cafrtv5",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/116947",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/57288",
         "categories": [
             "canada french"
         ],
         "country": ""
     },
     {
-        "name": "CA (FR) CASA SD (P)",
-        "id": "cafrcasasdp",
+        "name": "CA (FR) addikTV HD (B)",
+        "id": "cafraddiktvhdb",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/116948",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/168466",
         "categories": [
             "canada french"
         ],
         "country": ""
     },
     {
-        "name": "CA (FR) RDI (E)",
-        "id": "cafrrdie",
+        "name": "CA (FR) Historia HD",
+        "id": "cafrhistoriahd",
+        "logo": "https://assets.corusent.com/wp-content/uploads/2016/06/logo_historia_2016may30-500x250.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57483",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) Prise  (P)",
+        "id": "cafrprisep",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Prise_2_logo_%282018%29.svg/220px-Prise_2_logo_%282018%29.svg.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57488",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA-FR | RDS INFO",
+        "id": "cafrrdsinfo",
+        "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/RDS_Logo_Colour.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57491",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) Super Ecran 1 (E)",
+        "id": "cafrsuperecran1e",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/66363",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA (FR) Super Ecran 3 SD (P)",
+        "id": "cafrsuperecran3sdp",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Super_%C3%89cran_logo.png/220px-Super_%C3%89cran_logo.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/66365",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA-FR | TVA SPORTS 1",
+        "id": "cafrtvasports1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57498",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: TFO  (FR)",
+        "id": "catfofr",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/126723",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57291",
+        "categories": [
+            "canada french"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA:TELE QUEBEC (FR)",
+        "id": "catelequebecfr",
+        "logo": "https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/telequebec.png",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/57336",
         "categories": [
             "canada french"
         ],

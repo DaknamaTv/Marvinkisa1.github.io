@@ -1,35 +1,5 @@
 [
     {
-        "name": "CO: CARCOL HD",
-        "id": "cocarcolhd",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/78700",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CO: RCN FHD",
-        "id": "corcnfhd",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/78694",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
-        "name": "COL: WIN SPORTS PLUS HD (EXCLUSIVO)",
-        "id": "colwinsportsplushdexclusivo",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/78697",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
         "name": "CO: Win Sports + FHD",
         "id": "cowinsportsfhd",
         "logo": "",
@@ -50,10 +20,80 @@
         "country": ""
     },
     {
-        "name": "CO: TELECAFE",
-        "id": "cotelecafe",
+        "name": "CO: NTN24 HD",
+        "id": "contn24hd",
         "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/78726",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/78704",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO Telepacifico  (P)",
+        "id": "cotelepacificop",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/78729",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: TELEMEDELLIN",
+        "id": "cotelemedellin",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/78722",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: CANAL UNO",
+        "id": "cocanaluno",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/78698",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: CARACOL INTERNACIONAL HD",
+        "id": "cocaracolinternacionalhd",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/78701",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: SENAL COLOMBIA",
+        "id": "cosenalcolombia",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/78711",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: TELEANTIOQUIA HD",
+        "id": "coteleantioquiahd",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/78706",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: ESPN COLOMBIA",
+        "id": "coespncolombia",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/86765",
         "categories": [
             "colombia"
         ],

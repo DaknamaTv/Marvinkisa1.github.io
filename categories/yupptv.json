@@ -2468,5 +2468,445 @@
             "yupptv"
         ],
         "country": ""
+    },
+    {
+        "name": "CVR English News",
+        "id": "cvrenglishnews",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st%3D1772060636~exp%3D1772082236~acl%3D%21%2A%2F181224%2Fsmil%3Acvrnewseng.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_150_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_150_-1~hmac%3D0313789d3dfc54507031a2a29640522fb4490d8f38c8ca1c6c9153b19ee17fd2",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "News Time",
+        "id": "newstime",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?hdnts=st%3D1772060663~exp%3D1772082263~acl%3D%21%2A%2F181224%2Fsmil%3Anewstime.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_115_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_115_-1~hmac%3Da1111c97b30c2355a084863d0954b2c8f11475f101adae8302e782803f71dc1f",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "10TV",
+        "id": "10tv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/10tv.png",
+        "url": "https://yuppirecloriginvt.akamaized.net/181224/smil:10tv.smil/playlist.m3u8?hdnts=st%3D1772060666~exp%3D1772082266~acl%3D%21%2A%2F181224%2Fsmil%3A10tv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_147_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_147_-1~hmac%3Db5f66486aba17f38df273aa21107f2cbf102f5e015a1f786cd6e76fc2973f51c",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mahaa TV",
+        "id": "mahaatv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-tv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?hdnts=st%3D1772060666~exp%3D1772082266~acl%3D%21%2A%2F181224%2Fsmil%3Amahatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_106_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_106_-1~hmac%3D0cbc8ef38501f6be3eb5b02a42424d552abc8a98d041a7d53a9149f62317d637",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BIG TV",
+        "id": "bigtv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png",
+        "url": "https://livegeoroueu.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st%3D1772060667~exp%3D1772082267~acl%3D%21%2A%2F120723%2Fsmil%3Abigtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_133_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_133_-1~hmac%3D5d260071862addc44055b830ca135729cf79a0862d292121de2d2bfc63f790e8",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HMTV",
+        "id": "hmtv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hmtv.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st%3D1772060668~exp%3D1772082268~acl%3D%21%2A%2F28072023%2Fsmil%3Ahmtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_102_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_102_-1~hmac%3D2a402a3ceba5b094e30ba9b443ad17b18fe4a1ee55bd6b36c04f1d87c6afd4f8",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CVR News",
+        "id": "cvrnews",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vncsik.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:cvrtelugu.smil/playlist.m3u8?hdnts=st%3D1772060669~exp%3D1772082269~acl%3D%21%2A%2F181224%2Fsmil%3Acvrtelugu.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_139_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_139_-1~hmac%3D699651f15bab1ee47f1a1a7b73ffa1ddae461d3c6a78e8cc840409c516c83390",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "6TV",
+        "id": "6tv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/loonbb.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st%3D1772060669~exp%3D1772082269~acl%3D%21%2A%2F181224%2Fsmil%3A6tv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_148_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_148_-1~hmac%3Dd1c24a4ec14d619063adafa8996e36b9606e961a3547e5de0007d81cc98fc448",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Seithigal TV",
+        "id": "seithigaltv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png",
+        "url": "https://livegeoroueu.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?hdnts=st%3D1772060678~exp%3D1772082278~acl%3D%21%2A%2F120723%2Fsmil%3Aseithagal.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_119_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_119_-1~hmac%3Da59c628e316868ca0ba0d817916e87e4fc36b46d6e260069a00103f1261102c5",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TANA Prapancha Sahitya Vedika",
+        "id": "tanaprapanchasahityavedika",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tana-prapancha-sahitya-vedika.png",
+        "url": "https://livegeorouus.akamaized.net/090823/smil:tana.smil/playlist.m3u8?hdnts=st%3D1772060698~exp%3D1772082298~acl%3D%21%2A%2F090823%2Fsmil%3Atana.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_198_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_198_-1~hmac%3D7db950911855726fc100974edcdaa931a64febd8ae0d99db82d0c471bd1ba7bb",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Parvasi TV HD",
+        "id": "parvasitvhd",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:pravasi.smil/playlist.m3u8?hdnts=st%3D1772060703~exp%3D1772082303~acl%3D%21%2A%2F181224%2Fsmil%3Apravasi.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_200_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_200_-1~hmac%3D67f6d51a7ac730f82737ca5f8b3f68bd67d72a573700e48299ce4410e9bb877e",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Athavan TV HD",
+        "id": "athavantvhd",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png",
+        "url": "https://livegeoroueu.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1772060704~exp%3D1772082304~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_205_-1~hmac%3D9cf9ddb37bbf26b3c32d29834ebb9540665fc471080afb3e1f7265e3e4e0a5ff",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Jaihind TV",
+        "id": "jaihindtv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",
+        "url": "https://livegeoroueu.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st%3D1772060706~exp%3D1772082306~acl%3D%21%2A%2F260723%2Fsmil%3Ajaihind1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_117_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_117_-1~hmac%3Df047d71f72715834553a57ebeea007b34c9e4583078ad7508d2049c4532e6b4e",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kerala Vision",
+        "id": "keralavision",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:keralavision.smil/playlist.m3u8?hdnts=st%3D1772060706~exp%3D1772082306~acl%3D%21%2A%2F181224%2Fsmil%3Akeralavision.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_168_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_168_-1~hmac%3D4de68605dddb887d4e6cc47896cfde3dea0a0d8dd2d3d9c614ad3b8e908f76d0",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Haryanvi Hits",
+        "id": "haryanvihits",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?hdnts=st%3D1772060709~exp%3D1772082309~acl%3D%21%2A%2F28072023%2Fsmil%3Aharyanvihits.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_192_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_192_-1~hmac%3D5fc337b2a7ec803694e60789447459e43185c9aa5d9e273caaa2d9f681e7dde3",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Songdew",
+        "id": "songdew",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st%3D1772060710~exp%3D1772082310~acl%3D%21%2A%2F181224%2Fsmil%3Asongdewtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_214_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_214_-1~hmac%3Ddb6fa895ab44d1b716732ec9c7c0cf5f5a73cd9f1cdab80ce24b7742db72a850",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Boogle Bollywood",
+        "id": "booglebollywood",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st%3D1772060711~exp%3D1772082311~acl%3D%21%2A%2F181224%2Fsmil%3Abogglebollywood.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_199_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_199_-1~hmac%3D6afce78f12bbb85ad7693a4bb9c40b3f8ec1a795f7396c5cc663e6adbd43ad90",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Wah Punjabi",
+        "id": "wahpunjabi",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st%3D1772060712~exp%3D1772082312~acl%3D%21%2A%2F181224%2Fsmil%3Awahpunjabi.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_190_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_190_-1~hmac%3Db5be401deebbc3a6d229c27852c0202ef015c5d292a667067479b61eb0ec4523",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hare Krishna TV",
+        "id": "harekrishnatv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st%3D1772060717~exp%3D1772082317~acl%3D%21%2A%2F181224%2Fsmil%3Aharekrishna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_197_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_197_-1~hmac%3Db208f8d9a74c99e0c236aca52a81df295ea82aaf804628efab06757e772c865d",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Krishna Vani",
+        "id": "krishnavani",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png",
+        "url": "https://livegeoroueu.akamaized.net/120723/smil:krishnavani.smil/playlist.m3u8?hdnts=st%3D1772060718~exp%3D1772082318~acl%3D%21%2A%2F120723%2Fsmil%3Akrishnavani.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_217_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_217_-1~hmac%3De65f3b88abf503c40c6bf9eb3c854210dd1ae4f2a12531cc65c844421c382603",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Brahma Kumaris",
+        "id": "brahmakumaris",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brahma-kumaris.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:bhramakumari.smil/playlist.m3u8?hdnts=st%3D1772060720~exp%3D1772082320~acl%3D%21%2A%2F28072023%2Fsmil%3Abhramakumari.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_189_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_189_-1~hmac%3D10df9046f1b7c49e6cacf85ee8c9c91112ec85e7e12a1b39534d0ab5d16ddc30",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mangalmay TV",
+        "id": "mangalmaytv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png",
+        "url": "https://livegeorouus.akamaized.net/100823/smil:mangalmay.smil/playlist.m3u8?hdnts=st%3D1772060720~exp%3D1772082320~acl%3D%21%2A%2F100823%2Fsmil%3Amangalmay.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_180_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_180_-1~hmac%3D1a2c8555d1cef63d960e09670f0b2746ff5810056f504328cf42392ed4c9eacd",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Astroscience",
+        "id": "astroscience",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png",
+        "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st%3D1772060721~exp%3D1772082321~acl%3D%21%2A%2F181224%2Fsmil%3Aastrotech.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_203_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_203_-1~hmac%3D8d58de9864e03fbad04a97d9cbbd6e46a6601a61344e0140a324d49bb664788d",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Peace of Mind",
+        "id": "peaceofmind",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st%3D1772060722~exp%3D1772082322~acl%3D%21%2A%2F181224%2Fsmil%3Apeaceofmind.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_206_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_206_-1~hmac%3Dce0ee094183e0a67bd733f71a73bd7064183c5d052127a0d705cb95313c0105c",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "YUPPTV VEDA",
+        "id": "yupptvveda",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st%3D1772060726~exp%3D1772082326~acl%3D%21%2A%2F28072023%2Fsmil%3Ayupptvveda1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_207_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_207_-1~hmac%3Db5ab105243da8d696b9343cb436488e7af2d11ab7b2706f4872b54804e0b5699",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hindu Dharmam",
+        "id": "hindudharmam",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindu-dharmam.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st%3D1772060726~exp%3D1772082326~acl%3D%21%2A%2F181224%2Fsmil%3Ahindudharmam.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_191_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_191_-1~hmac%3Db50d3997da238505b0d3ec9399df08f4349c5e3cfc71491268a1500e5ec56055",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Aradana TV",
+        "id": "aradanatv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aradana-tv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st%3D1772060727~exp%3D1772082327~acl%3D%21%2A%2F181224%2Fsmil%3Aaradanatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_122_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_122_-1~hmac%3D8727bcaf4cb444cbff7fe9498b248a7aa1f6c086cb47640cd19a0b26538ef944",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "OM CVR",
+        "id": "omcvr",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/om-cvr.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st%3D1772060727~exp%3D1772082327~acl%3D%21%2A%2F181224%2Fsmil%3Acvrom1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_149_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_149_-1~hmac%3D755502abb853a06eaee062479f05cee1334daad70d4c4db3b3b492e77f358509",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PMC",
+        "id": "pmc",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png",
+        "url": "https://livegeoroueu.akamaized.net/120723/smil:studiooneplus.smil/playlist.m3u8?hdnts=st%3D1772060728~exp%3D1772082328~acl%3D%21%2A%2F120723%2Fsmil%3Astudiooneplus.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_201_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_201_-1~hmac%3De82bba2081b382f2c0d0533a32983ba3c31cd83e4cec1c563d827483fbc6b740",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sri Sankara Kannada",
+        "id": "srisankarakannada",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-kannada.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:srisankarakan.smil/playlist.m3u8?hdnts=st%3D1772060729~exp%3D1772082329~acl%3D%21%2A%2F181224%2Fsmil%3Asrisankarakan.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_145_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_145_-1~hmac%3D4d61457c7867e2be4a67ba4d98391cba133b1143414366bbbea94ff3069e5c8e",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LakshyaTV",
+        "id": "lakshyatv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:lakshyatv.smil/playlist.m3u8?hdnts=st%3D1772060729~exp%3D1772082329~acl%3D%21%2A%2F181224%2Fsmil%3Alakshyatv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_195_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_195_-1~hmac%3Df4656385eaf6b896eb864e14061da4c1ad8235eca06c9d36681c65b364a70c02",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Madha TV",
+        "id": "madhatv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/madha-tv.png",
+        "url": "https://livegeoroueu.akamaized.net/120723/smil:madhatv1.smil/playlist.m3u8?hdnts=st%3D1772060731~exp%3D1772082331~acl%3D%21%2A%2F120723%2Fsmil%3Amadhatv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_215_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_215_-1~hmac%3D88b9e0cb8bd33b0b6de24f8f9554333d9e8ee9094e765c25763369e77c1b7a0c",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Angel TV",
+        "id": "angeltv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/angel-tv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?hdnts=st%3D1772060732~exp%3D1772082332~acl%3D%21%2A%2F181224%2Fsmil%3Aangeltv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_177_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_177_-1~hmac%3De719ba5d09960ebb9dc414c574d2de0a5f456d9cfe2d876756767420682b03a3",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Swasthik TV",
+        "id": "swasthiktv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/swasthik-tv.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:swasthiktv.smil/playlist.m3u8?hdnts=st%3D1772060733~exp%3D1772082333~acl%3D%21%2A%2F28072023%2Fsmil%3Aswasthiktv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_202_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_202_-1~hmac%3D1c9ba2f584df76ef3462c88bf7bc2dcf3289988b33a84ce3bfad0490cfbc7d81",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hosanna",
+        "id": "hosanna",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st%3D1772060734~exp%3D1772082334~acl%3D%21%2A%2F28072023%2Fsmil%3Ahosanna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_212_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_212_-1~hmac%3Dc9b96e9c2f3592f8ab82b9fc1fa3bf8b67232809b6449842a0d2430f036abf2c",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HOLY GOD TV",
+        "id": "holygodtv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/holy-god-tv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:holygod.smil/playlist.m3u8?hdnts=st%3D1772060735~exp%3D1772082335~acl%3D%21%2A%2F181224%2Fsmil%3Aholygod.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_209_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_209_-1~hmac%3D63999b5dc8f1a8712d4e191135bc974da0d72bd332b9e58149960e926a5220ae",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Goodness TV",
+        "id": "goodnesstv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/goodness-tv.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:goodness.smil/playlist.m3u8?hdnts=st%3D1772060738~exp%3D1772082338~acl%3D%21%2A%2F181224%2Fsmil%3Agoodness.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_173_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_173_-1~hmac%3De9cd313c22392dc03c862063ebd9633d7c807cfce16fcee0b2336114365cf5c7",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MarianTV",
+        "id": "mariantv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mariantv.png",
+        "url": "https://livegeoroueu.akamaized.net/28072023/smil:mariantv.smil/playlist.m3u8?hdnts=st%3D1772060738~exp%3D1772082338~acl%3D%21%2A%2F28072023%2Fsmil%3Amariantv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_204_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_204_-1~hmac%3Ddcd661320a70c6eb3064c7e816e50d96e3e849df5df10219839de2be66be53ea",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Vanitha TV",
+        "id": "vanithatv",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vanitha-tv.png",
+        "url": "https://livegeoroueu.akamaized.net/260723/smil:vanitha1.smil/playlist.m3u8?hdnts=st%3D1772060751~exp%3D1772082351~acl%3D%21%2A%2F260723%2Fsmil%3Avanitha1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_114_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_114_-1~hmac%3Db51863ecf36c1922dd1b10f5802d12e78d3f30889aa69a4a7d04e19fd405bcc5",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CVR Health",
+        "id": "cvrhealth",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:cvrhealth.smil/playlist.m3u8?hdnts=st%3D1772060751~exp%3D1772082351~acl%3D%21%2A%2F181224%2Fsmil%3Acvrhealth.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_286_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_286_-1~hmac%3D4c47926c4d3c5ca4a997e47b69f207f3df2eb911013f369079fb83d90cc4ceb9",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Turito IIT JEE",
+        "id": "turitoiitjee",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thiit.smil/playlist.m3u8?hdnts=st%3D1772060766~exp%3D1772082366~acl%3D%21%2A%2F181224%2Fsmil%3Aymcc12thiit.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_251_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_251_-1~hmac%3D5f15f07accd026b19e14df77bed7c28606b31b2696bed1515771ed92704e7219",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Turito NEET",
+        "id": "turitoneet",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:ymcc12thneet.smil/playlist.m3u8?hdnts=st%3D1772060766~exp%3D1772082366~acl%3D%21%2A%2F181224%2Fsmil%3Aymcc12thneet.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_252_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_252_-1~hmac%3Dd8bfe3b9f8aba77db578a5eb6ed63cb4ca971c325acd591bff0bbac64d2a9884",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "T-SAT Nipuna",
+        "id": "tsatnipuna",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png",
+        "url": "https://yuppirecloriginvt.akamaized.net/110923/smil:tsatnipuna.smil/playlist.m3u8?hdnts=st%3D1772060767~exp%3D1772082367~acl%3D%21%2A%2F110923%2Fsmil%3Atsatnipuna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_178_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_178_-1~hmac%3D543815e123f5529dfefc7fb7abb19761839e9b656df90b05d424e14a4a1fc9cb",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "T-SAT Vidya",
+        "id": "tsatvidya",
+        "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png",
+        "url": "https://yuppirecloriginvt.akamaized.net/110923/smil:tsatvidya1.smil/playlist.m3u8?hdnts=st%3D1772060767~exp%3D1772082367~acl%3D%21%2A%2F110923%2Fsmil%3Atsatvidya1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_193_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_135.232.177.123_yuppfast_2_channel_193_-1~hmac%3D3d1473d579899c64044d77893e7303cd810b955834f6879918300ec43d200b91",
+        "categories": [
+            "yupptv"
+        ],
+        "country": ""
     }
 ]

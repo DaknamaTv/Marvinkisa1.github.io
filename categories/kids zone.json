@@ -20,26 +20,6 @@
         "country": ""
     },
     {
-        "name": "US NickToons",
-        "id": "usnicktoons",
-        "logo": "https://juicetv.app/channellogo/nickelodeon.png",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/36",
-        "categories": [
-            "kids zone"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Nickelodeon East (A)",
-        "id": "usnickelodeoneasta",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/38",
-        "categories": [
-            "kids zone"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA Cartoon Network",
         "id": "cacartoonnetwork",
         "logo": "",
@@ -60,16 +40,6 @@
         "country": ""
     },
     {
-        "name": "US Discovery Family",
-        "id": "usdiscoveryfamily",
-        "logo": "",
-        "url": "http://xxip25.top:8080/AHy3c7/745580/57347",
-        "categories": [
-            "kids zone"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA Treehouse (R)",
         "id": "catreehouser",
         "logo": "",
@@ -80,30 +50,10 @@
         "country": ""
     },
     {
-        "name": "USA-Disney Jr",
-        "id": "usadisneyjr",
-        "logo": "",
-        "url": "http://xxip25.top:8080/hVvwU8/670199/41960",
-        "categories": [
-            "kids zone"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA Cartoon Network (E)",
         "id": "cacartoonnetworke",
         "logo": "",
         "url": "http://xxip25.top:8080/pf2kGs/310637/57356",
-        "categories": [
-            "kids zone"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA Nickelodeon (R)",
-        "id": "canickelodeonr",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/47349",
         "categories": [
             "kids zone"
         ],
@@ -124,6 +74,26 @@
         "id": "usboomerang",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/14741",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Disney XD (R)",
+        "id": "cadisneyxdr",
+        "logo": "",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/57420",
+        "categories": [
+            "kids zone"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US: Disney XD",
+        "id": "usdisneyxd",
+        "logo": "",
+        "url": "http://mytvstream.net:8080/RKu2Hy/559290/75621",
         "categories": [
             "kids zone"
         ],

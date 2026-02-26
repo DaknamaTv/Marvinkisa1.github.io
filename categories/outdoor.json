@@ -285,6 +285,16 @@
         "country": "US"
     },
     {
+        "name": "30A Darcizzle Offshore",
+        "id": "30ADarcizzleOffshore.us",
+        "logo": "https://i.imgur.com/Q4l2uao.png",
+        "url": "https://30a-tv.com/darcizzle.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
         "name": "InTrouble",
         "id": "InTrouble.nl",
         "logo": "https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png",

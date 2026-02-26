@@ -1547,5 +1547,13 @@
         "url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8",
         "categories": [],
         "country": "IT"
+    },
+    {
+        "name": "Radio Ibiza TV",
+        "id": "RadioIbizaTV.it",
+        "logo": "https://i.imgur.com/KfFqYQi.png",
+        "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+        "categories": [],
+        "country": "IT"
     }
 ]

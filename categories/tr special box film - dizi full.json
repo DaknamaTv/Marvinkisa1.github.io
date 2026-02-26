@@ -90,30 +90,60 @@
         "country": ""
     },
     {
-        "name": "DIZI 7/24 | BAHT OYUNU",
-        "id": "dizi724bahtoyunu",
+        "name": "DIZI 7/24 | FATMA",
+        "id": "dizi724fatma",
         "logo": "https://i.ibb.co/cCxv7WF/zyro-image.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/100186",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/100181",
         "categories": [
             "tr special box film - dizi [full]"
         ],
         "country": ""
     },
     {
-        "name": "DIZI 7/24 | BODRUM MASALI",
-        "id": "dizi724bodrummasali",
+        "name": "DIZI 7/24 | BABIL",
+        "id": "dizi724babil",
         "logo": "https://i.ibb.co/cCxv7WF/zyro-image.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/100861",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/100214",
         "categories": [
             "tr special box film - dizi [full]"
         ],
         "country": ""
     },
     {
-        "name": "FILM 7/24 | YERLİ AKSIYON SALON 2",
-        "id": "film724yerlaksiyonsalon2",
+        "name": "FILM 7/24 | YESİLCAM CUNEYT ARKIN 1",
+        "id": "film724yeslcamcuneytarkin1",
+        "logo": "https://i.ibb.co/gSDpNM4/Yesilcam.png",
+        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/102745",
+        "categories": [
+            "tr special box film - dizi [full]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILM 7/24 | YERLİ AKSIYON SALON 3",
+        "id": "film724yerlaksiyonsalon3",
         "logo": "https://i.ibb.co/qB0yMtJ/aksiyon.png",
-        "url": "http://boxserver.live:8080/0101FoCuS_CasPeR0101XxX01/be3UdPQhaUSp/102730",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102731",
+        "categories": [
+            "tr special box film - dizi [full]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILM 7/24 | YERLİ KOMEDI SALON 5",
+        "id": "film724yerlkomedisalon5",
+        "logo": "https://i.ibb.co/z6ryDpz/aksiyon.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102736",
+        "categories": [
+            "tr special box film - dizi [full]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILM 7/24 | YESİLCAM TURKAN SORAY",
+        "id": "film724yeslcamturkansoray",
+        "logo": "https://i.ibb.co/gSDpNM4/Yesilcam.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/102724",
         "categories": [
             "tr special box film - dizi [full]"
         ],

@@ -240,6 +240,17 @@
         "country": "CR"
     },
     {
+        "name": "Gex TV",
+        "id": "GexTV.cr",
+        "logo": "https://gextv.com/LOGO-WHITE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "categories": [
+            "music",
+            "entertainment"
+        ],
+        "country": "CR"
+    },
+    {
         "name": "MuzzOne",
         "id": "MuzzOne.kz",
         "logo": "https://i.imgur.com/nHVABXh.png",
@@ -356,6 +367,16 @@
         "id": "ElRadio9090FM.eg",
         "logo": "https://www.9090.fm/images/logo.png",
         "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NogoumFMTV",
+        "id": "NogoumFMTV.eg",
+        "logo": "https://i.imgur.com/krp3kgv.png",
+        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
         "categories": [
             "music"
         ],
@@ -1045,6 +1066,16 @@
         "country": "IN"
     },
     {
+        "name": "Mastiii",
+        "id": "Mastiii.in",
+        "logo": "https://i.imgur.com/lxgXHx4.png",
+        "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Stingray Everything '80s",
         "id": "StingrayEverything80s.ca",
         "logo": "https://i.imgur.com/6E3wYrb.png",
@@ -1376,16 +1407,6 @@
         "country": "HN"
     },
     {
-        "name": "La Top 107.7",
-        "id": "LaTop1077.hn",
-        "logo": "https://i.imgur.com/vgHhh1W.jpg",
-        "url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "EnerGeek Radio",
         "id": "EnerGeekRadio.cl",
         "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
@@ -1572,16 +1593,6 @@
         "id": "TopicalMoonRD.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg",
         "url": "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "La Voz del Tropico",
-        "id": "LaVozdelTropico.do",
-        "logo": "https://i.imgur.com/DKDFpHt.png",
-        "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1979,6 +1990,16 @@
         "country": "EC"
     },
     {
+        "name": "FM Mundo",
+        "id": "FMMundo.ec",
+        "logo": "https://i.imgur.com/1nNnYQO.png",
+        "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EC"
+    },
+    {
         "name": "FTV",
         "id": "FTV.uz",
         "logo": "https://i.imgur.com/7lpISyN.jpg",
@@ -2342,6 +2363,16 @@
             "music"
         ],
         "country": "PE"
+    },
+    {
+        "name": "D Music",
+        "id": "DMusic.kh",
+        "logo": "https://www.lyngsat.com/logo/tv/dd/d-music-kh.png",
+        "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "KH"
     },
     {
         "name": "Farra Play",
@@ -3523,6 +3554,26 @@
         "country": "US"
     },
     {
+        "name": "30A Music",
+        "id": "30AMusic.us",
+        "logo": "https://i.imgur.com/gNWg9tl.png",
+        "url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "RJTV",
+        "id": "RJTV.us",
+        "logo": "https://i.imgur.com/a1zuW2C.png",
+        "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Radio Realpolitik",
         "id": "RadioRealpolitik.ar",
         "logo": "https://i.imgur.com/L9KCdTX.png",
@@ -3589,6 +3640,21 @@
         "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
@@ -4060,6 +4126,16 @@
         "id": "RockTV.ro",
         "logo": "https://i.imgur.com/VB88A5V.png",
         "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Super TV",
+        "id": "SuperTV.ro",
+        "logo": "https://i.imgur.com/pzxUE0O.png",
+        "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
         "categories": [
             "music"
         ],

@@ -380,16 +380,6 @@
         "country": "DO"
     },
     {
-        "name": "Edu+ TV",
-        "id": "EduPlusTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3610-294x165-FFFFFF.jpg",
-        "url": "https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Vallevision",
         "id": "Vallevision.do",
         "logo": "https://i.imgur.com/lNpgFAU.png",
@@ -681,16 +671,6 @@
         "country": "DO"
     },
     {
-        "name": "Carivision",
-        "id": "Carivision.do",
-        "logo": "https://i.imgur.com/XjGb2UM.png",
-        "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Ecos Canal 57",
         "id": "EcosCanal57.do",
         "logo": "https://imgur.com/ccFwraQ.png",
@@ -761,16 +741,6 @@
         "country": "DO"
     },
     {
-        "name": "La Voz del Tropico",
-        "id": "LaVozdelTropico.do",
-        "logo": "https://i.imgur.com/DKDFpHt.png",
-        "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Boca Chica TV",
         "id": "BocaChicaTV.do",
         "logo": "https://i.imgur.com/npiRBPC.png",
@@ -795,26 +765,6 @@
         "id": "TV10SanJuan.do",
         "logo": "https://i.imgur.com/e2BXUdH.png",
         "url": "https://59d39900ebfb8.streamlock.net:443/tv10sanjuan/tv10sanjuan/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Antena 21",
-        "id": "Antena21.do",
-        "logo": "https://i.imgur.com/QE0XWLh.png",
-        "url": "https://d1p8txxph783az.cloudfront.net/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Antena 7",
-        "id": "Antena7.do",
-        "logo": "https://i.imgur.com/zKWFgeQ.png",
-        "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
         ],
@@ -1065,16 +1015,6 @@
         "id": "NuevaVision14.do",
         "logo": "https://imgur.com/0fWQS53.png",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Punto TV",
-        "id": "PuntoTV.do",
-        "logo": "https://imgur.com/vfvN6ox.png",
-        "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
         "categories": [
             "general"
         ],
@@ -1401,16 +1341,6 @@
         "country": "DO"
     },
     {
-        "name": "Del Pueblo TV",
-        "id": "DelPuebloTV.do",
-        "logo": "https://imgur.com/Pw7ZUT1.jpg",
-        "url": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Naranja TV",
         "id": "NaranjaTV.do",
         "logo": "https://i.imgur.com/g7iFN3s.png",
@@ -1551,16 +1481,6 @@
         "country": "DO"
     },
     {
-        "name": "Enntivision",
-        "id": "Enntivision.do",
-        "logo": "https://i.imgur.com/nePOFZW.png",
-        "url": "https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "entelevision",
         "id": "entelevision.do",
         "logo": "https://i.imgur.com/gVtLpMD.png",
@@ -1631,16 +1551,6 @@
         "country": "DO"
     },
     {
-        "name": "TVN24",
-        "id": "TVN24.do",
-        "logo": "https://i.imgur.com/bu6bQMa.png",
-        "url": "https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Hilando Fino TV",
         "id": "HilandoFinoTV.do",
         "logo": "https://i.imgur.com/E7ta6g8.png",
@@ -1675,16 +1585,6 @@
         "id": "PeraviaVision.do",
         "logo": "https://i.imgur.com/k1Wj5ka.png",
         "url": "https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Sur TV",
-        "id": "SurTV.do",
-        "logo": "https://i.imgur.com/oAyvK0N.jpeg",
-        "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1882,16 +1782,6 @@
         "country": "DO"
     },
     {
-        "name": "Anime Zone TV",
-        "id": "AnimeZoneTV.do",
-        "logo": "https://i.imgur.com/AHaXlCh.png",
-        "url": "http://animezonetv.net/hls/stream.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Cinevision Canal 19",
         "id": "CinevisionCanal19.do",
         "logo": "https://i.imgur.com/mJN2XNm.png",
@@ -1988,6 +1878,66 @@
         "url": "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Atabal TV",
+        "id": "AtabalTV.do",
+        "logo": "https://imgur.com/QWR9SOH.png",
+        "url": "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Colome TV",
+        "id": "ColomeTV.do",
+        "logo": "https://colometv.com/assets/images/logo.png",
+        "url": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "El Puerto TV",
+        "id": "ElPuertoTV.do",
+        "logo": "https://i.imgur.com/FnshExB.jpg",
+        "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "FRATA TV",
+        "id": "FRATATV.do",
+        "logo": "https://i.imgur.com/VxeTREd.png",
+        "url": "https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telever",
+        "id": "Telever.do",
+        "logo": "https://imgur.com/ejKctXc.png",
+        "url": "https://soportedvb.click:3413/live/televerlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Television del Este",
+        "id": "TelevisiondelEste.do",
+        "logo": "https://i.imgur.com/mmjbcGr.png",
+        "url": "https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "DO"
     }

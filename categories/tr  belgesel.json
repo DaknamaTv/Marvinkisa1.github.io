@@ -1,25 +1,5 @@
 [
     {
-        "name": "TR: BBC Earth FHD",
-        "id": "trbbcearthfhd",
-        "logo": "https://i.ibb.co/tPhS20G4/4uJesg4.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/makra4x1axa/mkar4a5x1a/860640.ts",
-        "categories": [
-            "tr ➤ belgesel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: History Channel FHD",
-        "id": "trhistorychannelfhd",
-        "logo": "https://i.ibb.co/fVR8S1zQ/Vl1lWYq.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/Necati1008/Z6GRbbZ35a/860631.ts",
-        "categories": [
-            "tr ➤ belgesel"
-        ],
-        "country": ""
-    },
-    {
         "name": "TRT Belgesel HD",
         "id": "trtbelgeselhd",
         "logo": "https://i.ibb.co/HpMwLLs9/PCwXQcB.png",
@@ -34,16 +14,6 @@
         "id": "trrestoration",
         "logo": "https://i.ibb.co/d0StwDSS/images.png",
         "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860672.ts",
-        "categories": [
-            "tr ➤ belgesel"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Nasıl Yapılır 2 ?",
-        "id": "trnaslyaplr2",
-        "logo": "https://i.ibb.co/d0StwDSS/images.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/860674.ts",
         "categories": [
             "tr ➤ belgesel"
         ],

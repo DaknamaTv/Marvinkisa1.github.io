@@ -10,16 +10,6 @@
         "country": "TR"
     },
     {
-        "name": "Atv HD",
-        "id": "AtvHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/atv.png",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/6266",
-        "categories": [
-            "ulusal tv [hd]"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Beyaz TV HD",
         "id": "BeyazTVHD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beyaz.png",
@@ -30,33 +20,33 @@
         "country": "TR"
     },
     {
-        "name": "Flash TV",
-        "id": "FlashTV.tr",
-        "logo": "https://i.imgur.com/L0NHKBM.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/20812",
+        "name": "Tv 8.5 HD",
+        "id": "Tv85HD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tv_8-5.png",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/6281",
         "categories": [
             "ulusal tv [hd]"
         ],
         "country": "TR"
     },
     {
-        "name": "360 TV",
-        "id": "360TV.tr",
-        "logo": "https://i.ibb.co/FVnG3Zr/360tv.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/102066",
+        "name": "Trt Eba TV Ortaokul HD",
+        "id": "TrtEbaTVOrtaokulHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eba-tv-orta.png",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/6091",
         "categories": [
             "ulusal tv [hd]"
         ],
         "country": "TR"
     },
     {
-        "name": "TV 5 HD",
-        "id": "TV5HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tv_5.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/551344",
+        "name": "TRT 2",
+        "id": "trt2",
+        "logo": "",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/186242",
         "categories": [
             "ulusal tv [hd]"
         ],
-        "country": "TR"
+        "country": ""
     }
 ]

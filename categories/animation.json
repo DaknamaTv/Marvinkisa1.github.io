@@ -101,16 +101,6 @@
         "country": "DO"
     },
     {
-        "name": "Anime Zone TV",
-        "id": "AnimeZoneTV.do",
-        "logo": "https://i.imgur.com/AHaXlCh.png",
-        "url": "http://animezonetv.net/hls/stream.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Gong",
         "id": "Gong.fr",
         "logo": "https://i.imgur.com/lA9UFMG.png",
@@ -332,6 +322,17 @@
         "logo": "https://i.imgur.com/tWpjXtl.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
         "categories": [
+            "animation"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "RetroCrush",
+        "id": "RetroCrush.us",
+        "logo": "https://i.imgur.com/M40b4YI.png",
+        "url": "https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8",
+        "categories": [
+            "classic",
             "animation"
         ],
         "country": "US"

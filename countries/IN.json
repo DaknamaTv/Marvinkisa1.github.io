@@ -5008,5 +5008,156 @@
             "news"
         ],
         "country": "IN"
+    },
+    {
+        "name": "&pictures",
+        "id": "Andpictures.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",
+        "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&prive HD",
+        "id": "AndpriveHD.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png",
+        "url": "http://103.229.254.25:7001/play/a03f/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Anmol Cinema",
+        "id": "AnmolCinema.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png",
+        "url": "http://103.113.103.202:8001/play/a017/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Assam Talks",
+        "id": "AssamTalks.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png",
+        "url": "https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "KTV",
+        "id": "KTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s145322_ld_h15_aa.png",
+        "url": "http://198.27.83.207:2550/KTV_SD/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Mastiii",
+        "id": "Mastiii.in",
+        "logo": "https://i.imgur.com/lxgXHx4.png",
+        "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Nickelodeon",
+        "id": "Nickelodeon.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143625_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0cq/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "NTC TV",
+        "id": "NTCTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
+        "url": "https://galaxyott.live/hls/ntv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Pix",
+        "id": "SonyPix.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 2",
+        "id": "SonySportsTen2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a02t/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Sports Ten 3 Hindi",
+        "id": "SonySportsTen3Hindi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png",
+        "url": "http://103.229.254.25:7001/play/a09q/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Select",
+        "id": "StarGoldSelect.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Cartoon",
+        "id": "ZBCartoon.in",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Punjabi",
+        "id": "ZeePunjabi.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png",
+        "url": "http://161.248.38.40:8000/play/a0at/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZillarBarta News",
+        "id": "ZillarBartaNews.in",
+        "logo": "https://i.imgur.com/6uestzY.jpeg",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+        "categories": [
+            "news",
+            "classic"
+        ],
+        "country": "IN"
     }
 ]

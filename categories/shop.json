@@ -643,6 +643,16 @@
         "country": "US"
     },
     {
+        "name": "30A The Beach Show",
+        "id": "30ATheBeachShow.us",
+        "logo": "https://i.imgur.com/0j5Aget.png",
+        "url": "https://30a-tv.com/beachy.m3u8",
+        "categories": [
+            "shop"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Shop Channel",
         "id": "ShopChannel.jp",
         "logo": "https://www.shopch.jp/com/images/common/logo_2021.png",

@@ -56,6 +56,17 @@
         "country": "IN"
     },
     {
+        "name": "ZillarBarta News",
+        "id": "ZillarBartaNews.in",
+        "logo": "https://i.imgur.com/6uestzY.jpeg",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+        "categories": [
+            "news",
+            "classic"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "TVN3",
         "id": "TVN3.cl",
         "logo": "https://i.imgur.com/9LEiQPJ.png",
@@ -365,6 +376,17 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d102a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ed67fd-7088-4b5b-bf24-daa30ff6efdc",
         "categories": [
             "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "RetroCrush",
+        "id": "RetroCrush.us",
+        "logo": "https://i.imgur.com/M40b4YI.png",
+        "url": "https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8",
+        "categories": [
+            "classic",
+            "animation"
         ],
         "country": "US"
     },

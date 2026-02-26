@@ -300,5 +300,25 @@
         "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
         "categories": [],
         "country": "GR"
+    },
+    {
+        "name": "Blue Sky TV",
+        "id": "BlueSkyTV.gr",
+        "logo": "https://i.imgur.com/C9CormG.png",
+        "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "Lychnos TV",
+        "id": "LychnosTV.gr",
+        "logo": "https://i.ibb.co/pJbKsVm/Lychnos-Tv-live-vipotv-greece.png",
+        "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GR"
     }
 ]
