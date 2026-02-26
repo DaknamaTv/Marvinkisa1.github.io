@@ -20,16 +20,6 @@
         "country": "EC"
     },
     {
-        "name": "Majestad Television",
-        "id": "MajestadTelevision.ec",
-        "logo": "https://i.imgur.com/d1GWRnm.png",
-        "url": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Colorados Vision TV",
         "id": "ColoradosVisionTV.ec",
         "logo": "https://i.imgur.com/vfCTmZv.png",

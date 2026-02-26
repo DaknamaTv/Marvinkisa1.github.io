@@ -777,5 +777,33 @@
         "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
         "categories": [],
         "country": "AR"
+    },
+    {
+        "name": "Canal 5 Santa Fe",
+        "id": "Canal5SantaFe.ar",
+        "logo": "https://i.imgur.com/WX0esjQ.png",
+        "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "El Trece",
+        "id": "ElTrece.ar",
+        "logo": "https://i.imgur.com/TrgBAdA.png",
+        "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "NG Federal",
+        "id": "NGFederal.ar",
+        "logo": "https://i.imgur.com/lJCIqYn.png",
+        "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
     }
 ]

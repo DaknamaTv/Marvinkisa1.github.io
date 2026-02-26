@@ -759,131 +759,10 @@
         "country": ""
     },
     {
-        "name": "24/7 TEEN TITANS GO!",
-        "id": "247teentitansgo",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/125637",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Action",
-        "id": "m4action",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215269",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 FRIENDS",
         "id": "247friends",
         "logo": "",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/66407",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 RIDICULOUSNESS",
-        "id": "247ridiculousness",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/66397",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Knight Rider*",
-        "id": "knightrider",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/83700",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CINEBOX: CLASSIC",
-        "id": "cineboxclassic",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/119422",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CINEBOX: MYSTERY",
-        "id": "cineboxmystery",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/119431",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Biography",
-        "id": "m4biography",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215275",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Blade Runner",
-        "id": "m4bladerunner",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215277",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Horror",
-        "id": "m4horror",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215293",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Helen Mirren",
-        "id": "m4helenmirren",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215390",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Leonardo DiCaprio",
-        "id": "m4leonardodicaprio",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215397",
         "categories": [
             "24",
             "7 channels"
@@ -1001,10 +880,10 @@
         "country": ""
     },
     {
-        "name": "24/7 SEINFELD",
-        "id": "247seinfeld",
+        "name": "24/7 DRAGON BALL Z",
+        "id": "247dragonballz",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/66303",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/79572",
         "categories": [
             "24",
             "7 channels"
@@ -1012,10 +891,10 @@
         "country": ""
     },
     {
-        "name": "CINEBOX: BLOCKBUSTERS",
-        "id": "cineboxblockbusters",
+        "name": "24/7 FULL HOUSE",
+        "id": "247fullhouse",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/119421",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/66269",
         "categories": [
             "24",
             "7 channels"
@@ -1023,10 +902,10 @@
         "country": ""
     },
     {
-        "name": "DOCUBOX: ALL DOCUMENTERY",
-        "id": "docuboxalldocumentery",
+        "name": "CINEBOX: HITS",
+        "id": "cineboxhits",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/119439",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/119436",
         "categories": [
             "24",
             "7 channels"
@@ -1034,10 +913,10 @@
         "country": ""
     },
     {
-        "name": "M4: Alien",
-        "id": "m4alien",
+        "name": "24/7 SEX IN THE CITY",
+        "id": "247sexinthecity",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215271",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/125972",
         "categories": [
             "24",
             "7 channels"
@@ -1045,10 +924,10 @@
         "country": ""
     },
     {
-        "name": "M4: Avengers",
-        "id": "m4avengers",
+        "name": "M4: Morgan Freeman",
+        "id": "m4morganfreeman",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215273",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/215366",
         "categories": [
             "24",
             "7 channels"
@@ -1056,10 +935,10 @@
         "country": ""
     },
     {
-        "name": "M4: Comedy",
-        "id": "m4comedy",
+        "name": "DOCUBOX: REAL WILD",
+        "id": "docuboxrealwild",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215278",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/119451",
         "categories": [
             "24",
             "7 channels"
@@ -1067,10 +946,10 @@
         "country": ""
     },
     {
-        "name": "M4: Epic",
-        "id": "m4epic",
+        "name": "24/7 THE GOLDEN GIRLS",
+        "id": "247thegoldengirls",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215284",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/120948",
         "categories": [
             "24",
             "7 channels"
@@ -1078,10 +957,10 @@
         "country": ""
     },
     {
-        "name": "M4: Indiana Jones",
-        "id": "m4indianajones",
+        "name": "24/7 THE FLINTSTONES",
+        "id": "247theflintstones",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215295",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/120949",
         "categories": [
             "24",
             "7 channels"
@@ -1089,10 +968,10 @@
         "country": ""
     },
     {
-        "name": "M4: Post-Apocalyptic",
-        "id": "m4postapocalyptic",
+        "name": "24/7 LOONEY TUNES",
+        "id": "247looneytunes",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215311",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/125638",
         "categories": [
             "24",
             "7 channels"
@@ -1100,10 +979,10 @@
         "country": ""
     },
     {
-        "name": "M4: Spiderman",
-        "id": "m4spiderman",
+        "name": "M4: Denzel Washington",
+        "id": "m4denzelwashington",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215321",
+        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/215393",
         "categories": [
             "24",
             "7 channels"
@@ -1111,10 +990,10 @@
         "country": ""
     },
     {
-        "name": "M4: Thriller",
-        "id": "m4thriller",
+        "name": "24/7 FAMILY GUY",
+        "id": "247familyguy",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215340",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/66317",
         "categories": [
             "24",
             "7 channels"
@@ -1122,10 +1001,10 @@
         "country": ""
     },
     {
-        "name": "M4: Jamie Foxx",
-        "id": "m4jamiefoxx",
+        "name": "24/7 Horror Movies",
+        "id": "247horrormovies",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215357",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/119429",
         "categories": [
             "24",
             "7 channels"
@@ -1133,10 +1012,32 @@
         "country": ""
     },
     {
-        "name": "M4: Keanu Reeves",
-        "id": "m4keanureeves",
+        "name": "DOCUBOX: 7NEWS SPOTLIGHT",
+        "id": "docubox7newsspotlight",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215361",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/119438",
+        "categories": [
+            "24",
+            "7 channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 COMEDY MOVIES",
+        "id": "247comedymovies",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/121096",
+        "categories": [
+            "24",
+            "7 channels"
+        ],
+        "country": ""
+    },
+    {
+        "name": "M4: X-Men",
+        "id": "m4xmen",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/215347",
         "categories": [
             "24",
             "7 channels"

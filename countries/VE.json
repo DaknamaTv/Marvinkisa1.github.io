@@ -70,16 +70,6 @@
         "country": "VE"
     },
     {
-        "name": "Canal 21 Tachira",
-        "id": "Canal21Tachira.ve",
-        "logo": "https://i.imgur.com/7Tb7CF4.jpg",
-        "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "TVM para ti",
         "id": "TVMparati.ve",
         "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
@@ -220,16 +210,6 @@
         "country": "VE"
     },
     {
-        "name": "Siembra TV",
-        "id": "SiembraTV.ve",
-        "logo": "https://i.imgur.com/zRX91Xr.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Somos TV",
         "id": "SomosTV.ve",
         "logo": "https://i.imgur.com/jOroeJZ.png",
@@ -246,26 +226,6 @@
         "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "TAM TV",
-        "id": "TAMTV.ve",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
-        "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "LGD Television",
-        "id": "LGDTelevision.ve",
-        "logo": "https://i.imgur.com/a9E0DTY.jpeg",
-        "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "VE"
     },
@@ -330,16 +290,6 @@
         "country": "VE"
     },
     {
-        "name": "Alcance TV",
-        "id": "AlcanceTV.ve",
-        "logo": "https://i.imgur.com/veeuqS1.png",
-        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Catatumbo TV",
         "id": "CatatumboTV.ve",
         "logo": "https://i.imgur.com/LBI2la0.png",
@@ -380,16 +330,6 @@
         "country": "VE"
     },
     {
-        "name": "Fortuna TV",
-        "id": "FortunaTV.ve",
-        "logo": "https://i.imgur.com/RPiTPnK.png",
-        "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Isla TV",
         "id": "IslaTV.ve",
         "logo": "https://i.imgur.com/l11Ixhi.jpeg",
@@ -404,6 +344,26 @@
         "id": "TVOasisMonay.ve",
         "logo": "https://i.imgur.com/hwd7osJ.jpeg",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "BTA TV",
+        "id": "BTATV.ve",
+        "logo": "https://i.imgur.com/vygOosC.png",
+        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "GlobalTV",
+        "id": "GlobalTV.ve",
+        "logo": "https://imgur.com/hzM9D9L.jpg",
+        "url": "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
         "categories": [
             "general"
         ],

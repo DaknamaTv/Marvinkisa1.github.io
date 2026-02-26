@@ -8740,16 +8740,6 @@
         "country": "US"
     },
     {
-        "name": "Teve Vida Network",
-        "id": "TeveVidaNetwork.us",
-        "logo": "https://i.imgur.com/lCpf5P1.png",
-        "url": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Shalom America",
         "id": "ShalomAmerica.us",
         "logo": "https://i.imgur.com/qUjsV79.png",
@@ -8866,16 +8856,6 @@
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=14fdd29d-18c0-47bc-8c04-3bb67dd6e25c",
         "categories": [
             "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Talkin Live Classics TV",
-        "id": "TalkinLiveClassicsTV.us",
-        "logo": "https://play-lh.googleusercontent.com/qt4POaxei89y6DP7sRJlRNv-yo4jlG3HuVO2Jb54Rf6T7aJ-j7RLG2z4aY9YrU5d0Q=w240-h480-rw",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "US"
     },
@@ -9120,16 +9100,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Women Sports",
-        "id": "TVSWomenSports.us",
-        "logo": "https://i.imgur.com/8hC4PfF.png",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Duck Hunting TV",
         "id": "DuckHuntingTV.us",
         "logo": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
@@ -9212,56 +9182,6 @@
         "url": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Bloomberg 4K+",
-        "id": "Bloomberg4K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15808",
-        "categories": [
-            "us : united states"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CNBC 4K+",
-        "id": "CNBC4K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15816",
-        "categories": [
-            "us : united states"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Showtime 4K+",
-        "id": "Showtime4K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15845",
-        "categories": [
-            "us : united states"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ABC 4K+",
-        "id": "ABC4K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15897",
-        "categories": [
-            "us : united states"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Showtime 2 4K+",
-        "id": "Showtime24K.us",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/15916",
-        "categories": [
-            "us : united states"
         ],
         "country": "US"
     },
@@ -9372,16 +9292,6 @@
         "country": "US"
     },
     {
-        "name": "Nick Jr. Latin America",
-        "id": "NickJrLatinAmerica.us",
-        "logo": "https://i.imgur.com/KT4tdQs.png",
-        "url": "http://38.199.6.1:17001/play/a0pb/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TV Quisqueya",
         "id": "TVQuisqueya.us",
         "logo": "https://i.imgur.com/G7X4LQI.png",
@@ -9402,30 +9312,10 @@
         "country": "US"
     },
     {
-        "name": "W14DK-D5",
-        "id": "W14DKD5.us",
-        "logo": "https://i.imgur.com/D4mZ8ll.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "PBC Tapesh TV",
         "id": "PBCTapeshTV.us",
         "logo": "https://i.imgur.com/50JzsmH.png",
         "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "AMGA TV",
-        "id": "AMGATV.us",
-        "logo": "https://i.imgur.com/NTlC6e7.png",
-        "url": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -9669,16 +9559,6 @@
         "country": "US"
     },
     {
-        "name": "Lego Channel",
-        "id": "LegoChannel.us",
-        "logo": "https://i.imgur.com/xePwW13.png",
-        "url": "https://jmp2.uk/stvp-GBBC4300005AL",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Little Guyana TV",
         "id": "LittleGuyanaTV.us",
         "logo": "https://i.imgur.com/b475xOT.jpg",
@@ -9694,6 +9574,16 @@
         "logo": "https://i.imgur.com/l7tmTjX.png",
         "url": "https://jmp2.uk/stvp-USBB1900002KF",
         "categories": [],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "US"
     }
 ]

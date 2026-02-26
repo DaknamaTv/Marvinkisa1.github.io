@@ -361,16 +361,6 @@
         "country": "ID"
     },
     {
-        "name": "Al-Iman TV",
-        "id": "AlImanTV.id",
-        "logo": "https://i.imgur.com/Qj1EFf1.png",
-        "url": "https://tv.aliman.id/aliman/live.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "I Am Channel",
         "id": "IAmChannel.id",
         "logo": "https://i.imgur.com/Gg6OcGT.png",
@@ -474,16 +464,6 @@
         "country": "EG"
     },
     {
-        "name": "Madani Channel Bangla",
-        "id": "MadaniChannelBangla.bd",
-        "logo": "https://i.imgur.com/vIJTVia.png",
-        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BD"
-    },
-    {
         "name": "Sat 7 Kids",
         "id": "Sat7Kids.cy",
         "logo": "https://i.imgur.com/M0ik0i2.png",
@@ -505,30 +485,10 @@
         "country": "VE"
     },
     {
-        "name": "LGD Television",
-        "id": "LGDTelevision.ve",
-        "logo": "https://i.imgur.com/a9E0DTY.jpeg",
-        "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Reforma TV",
         "id": "ReformaTV.ve",
         "logo": "https://i.imgur.com/iZMDddR.png",
         "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Alcance TV",
-        "id": "AlcanceTV.ve",
-        "logo": "https://i.imgur.com/veeuqS1.png",
-        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
         "categories": [
             "religious"
         ],
@@ -1339,6 +1299,26 @@
         "country": "IN"
     },
     {
+        "name": "Dheeran TV",
+        "id": "DheeranTV.in",
+        "logo": "https://i.imgur.com/jSedjXf.png",
+        "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Hebron TV",
+        "id": "HebronTV.in",
+        "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
+        "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "EMCI TV America",
         "id": "EMCITVAmerica.ca",
         "logo": "",
@@ -1669,16 +1649,6 @@
         "country": "SI"
     },
     {
-        "name": "CNA",
-        "id": "CNA.dz",
-        "logo": "https://i.imgur.com/Ki3ySUE.png",
-        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DZ"
-    },
-    {
         "name": "Light Channel",
         "id": "LightChannel.bg",
         "logo": "https://i.imgur.com/S3Fbf8T.png",
@@ -1769,10 +1739,10 @@
         "country": "GT"
     },
     {
-        "name": "Espiritu Santo Y Fuego TV",
-        "id": "EspirituSantoYFuegoTV.gt",
-        "logo": "https://i.imgur.com/8mdSWO4.jpg",
-        "url": "https://inliveserver.com:1936/8392/8392/playlist.m3u8",
+        "name": "El-Roi TV",
+        "id": "ElRoiTV.gt",
+        "logo": "https://i.imgur.com/h8S0eA4.png",
+        "url": "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8",
         "categories": [
             "religious"
         ],
@@ -2084,6 +2054,16 @@
         "id": "EcclesiaTV.ci",
         "logo": "https://i.imgur.com/mgabVFd.png",
         "url": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CI"
+    },
+    {
+        "name": "TV Al Bayane",
+        "id": "TVAlBayane.ci",
+        "logo": "https://i.imgur.com/Xs9oEG8.png",
+        "url": "http://69.64.57.208/albayanetv/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -2531,6 +2511,16 @@
         "country": "CO"
     },
     {
+        "name": "Tu Universo TV",
+        "id": "TuUniversoTV.co",
+        "logo": "https://i.imgur.com/e6esjLZ.jpg",
+        "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CO"
+    },
+    {
         "name": "Eslah TV",
         "id": "EslahTV.af",
         "logo": "https://i.imgur.com/To7VnsA.png",
@@ -2585,6 +2575,16 @@
         "id": "JN19.pe",
         "logo": "https://i.imgur.com/dudxyqk.png",
         "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Unife TV",
+        "id": "UnifeTV.pe",
+        "logo": "https://i.imgur.com/lVpDLVU.png",
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -3078,6 +3078,16 @@
         "id": "TVCa.sv",
         "logo": "https://i.imgur.com/uPWWtCA.png",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "Elim TV",
+        "id": "ElimTV.sv",
+        "logo": "https://i.imgur.com/payIg0N.png",
+        "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8",
         "categories": [
             "religious"
         ],
@@ -4383,16 +4393,6 @@
         "country": "US"
     },
     {
-        "name": "Teve Vida Network",
-        "id": "TeveVidaNetwork.us",
-        "logo": "https://i.imgur.com/lCpf5P1.png",
-        "url": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Shalom America",
         "id": "ShalomAmerica.us",
         "logo": "https://i.imgur.com/qUjsV79.png",
@@ -4407,6 +4407,16 @@
         "id": "theDoveTV.us",
         "logo": "https://i.imgur.com/ULtuRsj.png",
         "url": "https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "JBS",
+        "id": "JBS.us",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
+        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
         "categories": [
             "religious"
         ],
@@ -4437,16 +4447,6 @@
         "id": "ArkTV.ug",
         "logo": "https://i.imgur.com/yCHNZXD.png",
         "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Doxa TV",
-        "id": "DoxaTV.ug",
-        "logo": "https://i.imgur.com/Lo3PJPA.png",
-        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream_src.m3u8",
         "categories": [
             "religious"
         ],
@@ -4729,16 +4729,6 @@
         "id": "MonteMaria.mx",
         "logo": "https://i.imgur.com/0rMHbbM.png",
         "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Alcance TV",
-        "id": "AlcanceTV.mx",
-        "logo": "https://i.imgur.com/5nYjRlb.png",
-        "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
         "categories": [
             "religious"
         ],

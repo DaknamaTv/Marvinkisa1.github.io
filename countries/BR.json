@@ -886,16 +886,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Camara 2",
-        "id": "TVCamara2.br",
-        "logo": "https://i.imgur.com/dHrUG1R.png",
-        "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sandegi",
         "id": "TVSandegi.br",
         "logo": "https://i.imgur.com/vJ6ZQSG.png",
@@ -1040,6 +1030,22 @@
         "categories": [
             "education"
         ],
+        "country": "BR"
+    },
+    {
+        "name": "Boas Novas",
+        "id": "BoasNovas.br",
+        "logo": "https://i.imgur.com/ZqhizdP.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "Canal 25 Jundiai",
+        "id": "Canal25Jundiai.br",
+        "logo": "https://i.imgur.com/7igGMwH.png",
+        "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+        "categories": [],
         "country": "BR"
     }
 ]

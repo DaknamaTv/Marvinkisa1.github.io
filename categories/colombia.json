@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "COL: TELECARIBE HD",
-        "id": "coltelecaribehd",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/173301",
-        "categories": [
-            "colombia"
-        ],
-        "country": ""
-    },
-    {
         "name": "CO: NTN24 HD",
         "id": "contn24hd",
         "logo": "",
@@ -64,6 +54,26 @@
         "id": "cowinsportsfhd",
         "logo": "",
         "url": "http://fortv.cc:8080/D76rh4/197436/78717",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: CARCOL HD",
+        "id": "cocarcolhd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/78700",
+        "categories": [
+            "colombia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CO: RCN FHD",
+        "id": "corcnfhd",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/78694",
         "categories": [
             "colombia"
         ],

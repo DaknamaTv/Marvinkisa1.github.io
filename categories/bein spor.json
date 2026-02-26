@@ -70,50 +70,10 @@
         "country": "TR"
     },
     {
-        "name": "beIN Sports 2 HD",
-        "id": "beINSports2HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/35730",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 3 UHD",
-        "id": "beINSports3UHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/195812",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 1 (TTNET ÖZEL)",
-        "id": "beINSports1TTNETZEL.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/334642",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "beIN Sports 1 4K [Feed]",
         "id": "beINSports14KFeed.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
         "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/35650",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 3 SD",
-        "id": "beINSports3SD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/196217",
         "categories": [
             "bein spor"
         ],
@@ -130,16 +90,6 @@
         "country": "TR"
     },
     {
-        "name": "beIN Connect 3 |Mac Saati|",
-        "id": "beINConnect3MacSaati.tr",
-        "logo": "https://resimyukle.io/uploadyeri/D3GN7pCi_download.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/137712",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "beIN Sports 4 HD",
         "id": "beINSports4HD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png",
@@ -150,10 +100,70 @@
         "country": "TR"
     },
     {
-        "name": "beIN Sports 5 HD",
-        "id": "beINSports5HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/125936",
+        "name": "beIN Sports 1 720p",
+        "id": "beINSports1720p.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/351541",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 1 8K [Feed]",
+        "id": "beINSports18KFeed.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/191152",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 2 UHD",
+        "id": "beINSports2UHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/195811",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 4 UHD",
+        "id": "beINSports4UHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/195813",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Connect 2 |Mac Saati|",
+        "id": "beINConnect2MacSaati.tr",
+        "logo": "https://resimyukle.io/uploadyeri/D3GN7pCi_download.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/137711",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "İdman TV HD",
+        "id": "dmanTVHD.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",
+        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/536148",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 1 HD (Kutu Yayin)",
+        "id": "beINSports1HDKutuYayin.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/456568",
         "categories": [
             "bein spor"
         ],

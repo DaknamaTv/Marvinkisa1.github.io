@@ -10,10 +10,20 @@
         "country": ""
     },
     {
-        "name": "MLB Network",
-        "id": "mlbnetwork",
-        "logo": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/21360",
+        "name": "USA Real MLB 01: Rays VS Orioles (Orioles Feed ) @ 13:05",
+        "id": "usarealmlb01raysvsoriolesoriolesfeed1305",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/262699",
+        "categories": [
+            "mlb"
+        ],
+        "country": ""
+    },
+    {
+        "name": "USA Real MLB 06: Angels VS Padres (MLBN Feed ) @ 15:10",
+        "id": "usarealmlb06angelsvspadresmlbnfeed1510",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/262704",
         "categories": [
             "mlb"
         ],

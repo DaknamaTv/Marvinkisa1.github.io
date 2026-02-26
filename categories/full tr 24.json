@@ -1,71 +1,5 @@
 [
     {
-        "name": "FILIM 7/24 TOM CRUISE",
-        "id": "filim724tomcruise",
-        "logo": "https://i.imgur.com/8Pmy34u.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96374",
-        "categories": [
-            "full tr 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DIZI 7/24 CALIKUSU",
-        "id": "dizi724calikusu",
-        "logo": "https://i.imgur.com/RfPwJ61.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96662",
-        "categories": [
-            "full tr 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "COCUK 24/7 COCUKBOX 2",
-        "id": "cocuk247cocukbox2",
-        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96928",
-        "categories": [
-            "full tr 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MUZIK 24/7 TURKISH POP",
-        "id": "muzik247turkishpop",
-        "logo": "https://i.imgur.com/gtkIL0Y.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96668",
-        "categories": [
-            "full tr 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: JOY JAZZ",
-        "id": "fmjoyjazz",
-        "logo": "http://1.bp.blogspot.com/-gDZv9yyb16c/WaO5K2TVyyI/AAAAAAAAUIg/CHF26ijZOZ4DfmSbQ5x2O3uvo6gwdmC4gCLcBGAs/s1600/04.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101150",
-        "categories": [
-            "full tr 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FM: PAL NOSTALJI SeCenek 2",
-        "id": "fmpalnostaljisecenek2",
-        "logo": "http://1.bp.blogspot.com/-LiUVLoqDHqo/WarcmkaYxSI/AAAAAAAAUtk/dFki0aTimQkvWfiC_C5LFMKjtflrLWjxwCLcBGAs/s1600/07.png",
-        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101197",
-        "categories": [
-            "full tr 24",
-            "7 special"
-        ],
-        "country": ""
-    },
-    {
         "name": "FILM 7/24 EFSANE 2",
         "id": "film724efsane2",
         "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
@@ -110,10 +44,10 @@
         "country": ""
     },
     {
-        "name": "FILM 7/24 EFSANE 3",
-        "id": "film724efsane3",
+        "name": "FILM 7/24 EFSANE 4",
+        "id": "film724efsane4",
         "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96574",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96575",
         "categories": [
             "full tr 24",
             "7 special"
@@ -121,10 +55,10 @@
         "country": ""
     },
     {
-        "name": "FILIM 24/7 KEMAL SUNAL 3",
-        "id": "filim247kemalsunal3",
+        "name": "FILIM 24/7 KEMAL SUNAL 4",
+        "id": "filim247kemalsunal4",
         "logo": "https://i.imgur.com/ov44L1y.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96604",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96605",
         "categories": [
             "full tr 24",
             "7 special"
@@ -132,10 +66,21 @@
         "country": ""
     },
     {
-        "name": "FILIM 7/24 CUNEYT ARKIN 1",
-        "id": "filim724cuneytarkin1",
+        "name": "FILIM 7/24 JAMES BOND",
+        "id": "filim724jamesbond",
+        "logo": "https://i.imgur.com/D9mEWRV.png",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96373",
+        "categories": [
+            "full tr 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILIM 7/24 CUNEYT ARKIN 3",
+        "id": "filim724cuneytarkin3",
         "logo": "https://i.imgur.com/IZno3YV.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96392",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96394",
         "categories": [
             "full tr 24",
             "7 special"
@@ -143,10 +88,10 @@
         "country": ""
     },
     {
-        "name": "★✦★ SPECIAL BOX DIZILER 24/7 ★✦★",
-        "id": "specialboxdiziler247",
+        "name": "DIZI 24/7 KONUSANLAR",
+        "id": "dizi247konusanlar",
         "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96418",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96666",
         "categories": [
             "full tr 24",
             "7 special"
@@ -154,10 +99,10 @@
         "country": ""
     },
     {
-        "name": "DIZI 24/7 TOLGSHOW FILTRESIZ [EXXEN]",
-        "id": "dizi247tolgshowfiltresizexxen",
-        "logo": "https://i.imgur.com/JXbpHu3.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96423",
+        "name": "DIZI 24/7 COCUKLAR DUYMASIN",
+        "id": "dizi247cocuklarduymasin",
+        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96432",
         "categories": [
             "full tr 24",
             "7 special"
@@ -165,10 +110,10 @@
         "country": ""
     },
     {
-        "name": "COCUK 24/7 JETGILER",
-        "id": "cocuk247jetgiler",
-        "logo": "https://i.imgur.com/3uoR4eD.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96417",
+        "name": "DIZI 24/7 CUKUR",
+        "id": "dizi247cukur",
+        "logo": "https://i.imgur.com/HkKCMR4.png",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96434",
         "categories": [
             "full tr 24",
             "7 special"
@@ -176,10 +121,10 @@
         "country": ""
     },
     {
-        "name": "FM: DIYANET KURAN RADYO",
-        "id": "fmdiyanetkuranradyo",
-        "logo": "http://4.bp.blogspot.com/-rgc_WXzsNPg/WZvqhGvPQjI/AAAAAAAATts/k47sk1kviyICjNfmAOxw-csvvnZ_niqfgCLcBGAs/s1600/01.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/101120",
+        "name": "DIZI 24/7 DIRILIS ERTUGRUL 3. SEZON",
+        "id": "dizi247dirilisertugrul3sezon",
+        "logo": "https://i.imgur.com/U3ZNDkZ.png",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/96437",
         "categories": [
             "full tr 24",
             "7 special"
@@ -187,10 +132,10 @@
         "country": ""
     },
     {
-        "name": "FM: RADYO SES EskiSehir",
-        "id": "fmradyoseseskisehir",
-        "logo": "http://4.bp.blogspot.com/-VP7Uke20eOc/Wa6F69JOnoI/AAAAAAAAVA4/mZzrHxhFofEemkyrUB-PcfVFrundBoowACLcBGAs/s1600/rs.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/101304",
+        "name": "FM: VIRGIN RADIO TURKIYE",
+        "id": "fmvirginradioturkiye",
+        "logo": "http://3.bp.blogspot.com/-jqS6bcsS6GY/WaO-g3tM18I/AAAAAAAAUJk/8dnhuRiHJ8YASaP3xypG22wE_hY2BUc_gCLcBGAs/s1600/19.png",
+        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/101358",
         "categories": [
             "full tr 24",
             "7 special"
@@ -198,10 +143,65 @@
         "country": ""
     },
     {
-        "name": "FM: RADYO VATAN KIBRIS",
-        "id": "fmradyovatankibris",
-        "logo": "http://2.bp.blogspot.com/-s6G793kznKc/Wa6Skz8DjGI/AAAAAAAAVCo/oUmJQjXw0fMHCLdcL_6CDUf-xw9KJmy_QCLcBGAs/s1600/01.png",
-        "url": "http://boxserver.live:8080/@Tv4Krestream/P5PDqBW9ySze/101313",
+        "name": "★✦★ SPECIAL BOX FILIMLER 24/7 ★✦★",
+        "id": "specialboxfilimler247",
+        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96371",
+        "categories": [
+            "full tr 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILIM 24/7 KEMAL SUNAL 1",
+        "id": "filim247kemalsunal1",
+        "logo": "https://i.imgur.com/ov44L1y.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96602",
+        "categories": [
+            "full tr 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILIM 7/24 ORUMCEK ADAM",
+        "id": "filim724orumcekadam",
+        "logo": "https://i.ibb.co/RH4H08S/1-SPECIALBOX.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96384",
+        "categories": [
+            "full tr 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DIZI 24/7 GAME OF THRONES",
+        "id": "dizi247gameofthrones",
+        "logo": "https://i.imgur.com/KJg7uMq.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/96420",
+        "categories": [
+            "full tr 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FM: TEZENE",
+        "id": "fmtezene",
+        "logo": "http://2.bp.blogspot.com/-EpUusao8ufs/Wa_awj5DEdI/AAAAAAAAVIQ/zNVgFJJLE9AVRYICNxBhZDqWxYJRs_y2gCLcBGAs/s1600/t.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101341",
+        "categories": [
+            "full tr 24",
+            "7 special"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FM: TOURISM FM",
+        "id": "fmtourismfm",
+        "logo": "http://4.bp.blogspot.com/-dsAVpXGvfus/XILIWfN_Y4I/AAAAAAAAXLM/k7IznEXZ83YaoNRmJdPiNwUbNnsIYK4PACLcBGAs/s1600/tfm.png",
+        "url": "http://boxserver.live:8080/@01Zero01Adana/jYD6uYebDJsM/101342",
         "categories": [
             "full tr 24",
             "7 special"

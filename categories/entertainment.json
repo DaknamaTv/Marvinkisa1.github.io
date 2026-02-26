@@ -1271,6 +1271,16 @@
         "country": "IN"
     },
     {
+        "name": "Marutam TV",
+        "id": "MarutamTV.in",
+        "logo": "https://i.imgur.com/cFNw4Af.png",
+        "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "MHZ",
         "id": "MHZ.ca",
         "logo": "https://i.imgur.com/a5fw83n.jpg",
@@ -1436,6 +1446,26 @@
         "id": "TVCentro272HD.hn",
         "logo": "https://i.imgur.com/Wo2scQf.jpg",
         "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
+        "name": "EDN TV",
+        "id": "EDNTV.hn",
+        "logo": "https://i.imgur.com/5fPsYTz.png",
+        "url": "https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "HN"
+    },
+    {
+        "name": "Radio Omega TV",
+        "id": "RadioOmegaTV.hn",
+        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1716,20 +1746,20 @@
         "country": "DO"
     },
     {
-        "name": "Super7FM",
-        "id": "Super7FM.do",
-        "logo": "https://i.imgur.com/TJEqwZo.png",
-        "url": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8",
+        "name": "Antena 21",
+        "id": "Antena21.do",
+        "logo": "https://i.imgur.com/QE0XWLh.png",
+        "url": "https://d1p8txxph783az.cloudfront.net/index.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "DO"
     },
     {
-        "name": "Antena 21",
-        "id": "Antena21.do",
-        "logo": "https://i.imgur.com/QE0XWLh.png",
-        "url": "https://d1p8txxph783az.cloudfront.net/index.m3u8",
+        "name": "TVS",
+        "id": "TVS.do",
+        "logo": "https://i.imgur.com/a2YX1oj.jpg",
+        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1773,19 +1803,6 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -2130,16 +2147,6 @@
         "id": "ImpactoTelevision.pe",
         "logo": "https://i.imgur.com/bkpCGP6.png",
         "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Antares Television",
-        "id": "AntaresTelevision.pe",
-        "logo": "https://i.imgur.com/05gwtk2.png",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -3439,16 +3446,6 @@
         "country": "US"
     },
     {
-        "name": "Talkin Live Classics TV",
-        "id": "TalkinLiveClassicsTV.us",
-        "logo": "https://play-lh.googleusercontent.com/qt4POaxei89y6DP7sRJlRNv-yo4jlG3HuVO2Jb54Rf6T7aJ-j7RLG2z4aY9YrU5d0Q=w240-h480-rw",
-        "url": "https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TeleMIX",
         "id": "TeleMIX.us",
         "logo": "https://i.ibb.co/HpX99Ks/unnamed.jpg",
@@ -3614,16 +3611,6 @@
         "id": "BukeddeTV2.ug",
         "logo": "https://i.imgur.com/ukwPZeY.png",
         "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "BTV",
-        "id": "BTV.ug",
-        "logo": "https://i.imgur.com/rcHZ1al.png",
-        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
         "categories": [
             "entertainment"
         ],

@@ -60,10 +60,20 @@
         "country": ""
     },
     {
-        "name": "PT: AXN MOVIES  HD",
-        "id": "ptaxnmovieshd",
+        "name": "PT: ELEVEN SPORTS 5 HD",
+        "id": "ptelevensports5hd",
         "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/164818",
+        "url": "http://tv2watch.icu:8080/7vGX9F/030546/167750",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PT: TVI",
+        "id": "pttvi",
+        "logo": "",
+        "url": "http://cord-cutter.net:8080/0UcuSy/682882/78526",
         "categories": [
             "portugal"
         ],

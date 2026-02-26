@@ -5980,16 +5980,6 @@
         "country": ""
     },
     {
-        "name": "TVLAND",
-        "id": "tvland",
-        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/tvland-us.png",
-        "url": "https://tvpass.org/live/tv-land-eastern/hd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Canal Sur Andaluc√≠a",
         "id": "canalsurandaluca",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20241022T050505SQUARE.png",
@@ -6120,16 +6110,6 @@
         "country": ""
     },
     {
-        "name": "Lifetime Movies",
-        "id": "lifetimemovies",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB37000067A_20250107T031145SQUARE.png",
-        "url": "https://jmp2.uk/stvp-GB37000067A",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Sports Action FHD",
         "id": "skysportsactionfhd",
         "logo": "https://i.ibb.co/VqtQrDq/sky-action.png",
@@ -6194,16 +6174,6 @@
         "id": "skycinemahitsfhd",
         "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-hits.png",
         "url": "https://a1xs.vip/210002",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Golf Channel USA FHD",
-        "id": "golfchannelusafhd",
-        "logo": "https://pixvid.org/images/2025/02/18/golf-channel.png",
-        "url": "https://a1xs.vip/40000060",
         "categories": [
             "hilaytv"
         ],
@@ -6430,50 +6400,10 @@
         "country": ""
     },
     {
-        "name": "UK: TNT Sports Ultimate UHD",
-        "id": "uktntsportsultimateuhd",
-        "logo": "https://i.ibb.co/QqGdJnM/TNTSprts-U.png",
-        "url": "https://a1xs.vip/2000031",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sky Cinema Select FHD",
-        "id": "skycinemaselectfhd",
-        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-select.png",
-        "url": "https://a1xs.vip/210004",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Disney Channel",
-        "id": "disneychannel",
-        "logo": "https://i.imgur.com/21lvh66.png",
-        "url": "https://a1xs.vip/300037",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Lotus Macau",
         "id": "lotusmacau",
         "logo": "https://i.imgur.com/5G72qjx.png",
         "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BBC Lifestyle",
-        "id": "bbclifestyle",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/bbc-lifestyle-hk.png",
-        "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd",
         "categories": [
             "hilaytv"
         ],
@@ -6500,16 +6430,6 @@
         "country": ""
     },
     {
-        "name": "BEIN SPORT 2",
-        "id": "beinsport2",
-        "logo": "",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/vipmixflix/chunks.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "60 Days In by A&E",
         "id": "60daysinbyae",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png",
@@ -6530,36 +6450,6 @@
         "country": ""
     },
     {
-        "name": "9X Jhakaas",
-        "id": "9xjhakaas",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png",
-        "url": "https://jmp2.uk/stvp-INBC28000144H",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "9X Tashan",
-        "id": "9xtashan",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20240131T032430SQUARE.png_20240131032431.png",
-        "url": "https://jmp2.uk/stvp-INBC2800011JL",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Alta Tensione",
-        "id": "altatensione",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20241106T142428SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBC1100001G5",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Andromeda",
         "id": "andromeda",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200003HL_20241022T051531SQUARE.png",
@@ -6570,30 +6460,10 @@
         "country": ""
     },
     {
-        "name": "Bon Voyage",
-        "id": "bonvoyage",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20250811T033437SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN2400004WL",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Brindiamo!",
         "id": "brindiamo",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400003Y7_20241022T043955SQUARE.png",
         "url": "https://jmp2.uk/stvp-ITBC400003Y7",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "British Screen Classics",
-        "id": "britishscreenclassics",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB32000024G_20250107T031100SQUARE.png",
-        "url": "https://jmp2.uk/stvp-GB32000024G",
         "categories": [
             "hilaytv"
         ],
@@ -6614,16 +6484,6 @@
         "id": "ch",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20250514T082333SQUARE.png",
         "url": "https://jmp2.uk/stvp-KRBC32000126M",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Crime Scene TV",
-        "id": "crimescenetv",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20250811T033443SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN24000030L",
         "categories": [
             "hilaytv"
         ],
@@ -6684,16 +6544,6 @@
         "id": "evalunalaseriecompleta",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20250805T005554SQUARE.png",
         "url": "https://jmp2.uk/stvp-IT4600001JQ",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Flipping Nation by A&E",
-        "id": "flippingnationbyae",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20250805T005733SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBD4200008RS",
         "categories": [
             "hilaytv"
         ],
@@ -6820,16 +6670,6 @@
         "country": ""
     },
     {
-        "name": "Music India",
-        "id": "musicindia",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20240731T012453SQUARE.png",
-        "url": "https://jmp2.uk/stvp-INBD4700015M0",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Mutant X",
         "id": "mutantx",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png",
@@ -6850,60 +6690,10 @@
         "country": ""
     },
     {
-        "name": "News State BR JH",
-        "id": "newsstatebrjh",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900007Y7_20241211T020349SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3900007Y7",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "News State MP CG",
         "id": "newsstatempcg",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900006S6_20241211T020352SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN3900006S6",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "News State PUN HAR HIM",
-        "id": "newsstatepunharhim",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900008R9_20241211T020355SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3900008R9",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "News18 Gujarati",
-        "id": "news18gujarati",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500009DK_20240131T032506SQUARE.png_20240131032507.png",
-        "url": "https://jmp2.uk/stvp-INBD2500009DK",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "News18 Kannada",
-        "id": "news18kannada",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500012V1_20240131T032509SQUARE.png_20240131032510.png",
-        "url": "https://jmp2.uk/stvp-INBD2500012V1",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "News18 Keralam",
-        "id": "news18keralam",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000225G_20240508T020844SQUARE.png",
-        "url": "https://jmp2.uk/stvp-INBD25000225G",
         "categories": [
             "hilaytv"
         ],
@@ -6930,30 +6720,10 @@
         "country": ""
     },
     {
-        "name": "NH BollyFlix",
-        "id": "nhbollyflix",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN46000140Q",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "NH BollyRaga",
         "id": "nhbollyraga",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN460001373",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "OGN Ïä§ÌÉÄÎ¶¨Í∑∏",
-        "id": "ogn",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20250521T005538SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBC3200005SH",
         "categories": [
             "hilaytv"
         ],
@@ -7000,46 +6770,6 @@
         "country": ""
     },
     {
-        "name": "Powerkids Kartoon Channel",
-        "id": "powerkidskartoonchannel",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN2500003JW",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Qwest TV",
-        "id": "qwesttv",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900001DL_20240710T022236SQUARE.png",
-        "url": "https://jmp2.uk/stvp-INBA4900001DL",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "R Bangla",
-        "id": "rbangla",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20240131T032519SQUARE.png_20240131032520.png",
-        "url": "https://jmp2.uk/stvp-INBD2500016OR",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RBN",
-        "id": "rbn",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD2300001MT",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Relic Hunter",
         "id": "relichunter",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250527T014845SQUARE.png",
@@ -7054,36 +6784,6 @@
         "id": "romancemoviesrakutentv",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png",
         "url": "https://jmp2.uk/stvp-GB2600014LQ",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Romantica",
-        "id": "romantica",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500004JK_20250107T022417SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT500004JK",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Salto Ostacoli",
-        "id": "saltoostacoli",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20250415T022319SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBC3000007XK",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SBS TV ÎèôÎ¨ºÎÜçÏû•",
-        "id": "sbstv",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20250402T010419SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBB420000769",
         "categories": [
             "hilaytv"
         ],
@@ -7180,16 +6880,6 @@
         "country": ""
     },
     {
-        "name": "Super! iCarly",
-        "id": "supericarly",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800002PN_20241022T043618SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITAJ3800002PN",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Super! Pop",
         "id": "superpop",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800010RX_20241022T043856SQUARE.png",
@@ -7204,16 +6894,6 @@
         "id": "sweetrevenge",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20250307T152404SQUARE.png",
         "url": "https://jmp2.uk/stvp-IT3600007QQ",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Movie Club",
-        "id": "themovieclub",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN38000072R",
         "categories": [
             "hilaytv"
         ],
@@ -7290,16 +6970,6 @@
         "country": ""
     },
     {
-        "name": "Velvet",
-        "id": "velvet",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20250304T015545SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBC11000047F",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Viaggi & Sapori",
         "id": "viaggisapori",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png",
@@ -7324,16 +6994,6 @@
         "id": "westerntime",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250211T014017SQUARE.png",
         "url": "https://jmp2.uk/stvp-IT3600004TW",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wheel World",
-        "id": "wheelworld",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000250_20250416T020410SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN460000250",
         "categories": [
             "hilaytv"
         ],
@@ -7960,16 +7620,6 @@
         "country": ""
     },
     {
-        "name": "Chaos on Cam by A&E",
-        "id": "chaosoncambyae",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/99e44ea6699928b32c444dce774b9b32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png",
-        "url": "https://jmp2.uk/rok-99e44ea6699928b32c444dce774b9b32.m3u8",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Hell's Kitchen | Kitchen Nightmares",
         "id": "hellskitchenkitchennightmares",
         "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8c4f2efe56a512890042011e5cc0884/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453935313_FilmRise-Cooking_260x147_copy.png",
@@ -8510,16 +8160,6 @@
         "country": ""
     },
     {
-        "name": "Hub Premier 2 FHD",
-        "id": "hubpremier2fhd",
-        "logo": "https://pixvid.org/images/2025/01/28/Hubp2.png",
-        "url": "https://a1xs.vip/1100042",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Sports Racing FHD",
         "id": "skysportsracingfhd",
         "logo": "https://i.ibb.co/Hnp1hBz/sky-racing.png",
@@ -8550,16 +8190,6 @@
         "country": ""
     },
     {
-        "name": "Film4 FHD",
-        "id": "film4fhd",
-        "logo": "https://i.imgur.com/OjiHaqa.png",
-        "url": "https://a1xs.vip/1000035",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Cinema Premiere FHD",
         "id": "skycinemapremierefhd",
         "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png",
@@ -8584,16 +8214,6 @@
         "id": "espnhd",
         "logo": "https://pixvid.org/images/2025/01/25/espn-logo-1024.png",
         "url": "https://a1xs.vip/40000011",
-        "categories": [
-            "hilaytv"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ESPN2 HD",
-        "id": "espn2hd",
-        "logo": "https://pixvid.org/images/2025/01/25/espn-2.png",
-        "url": "https://a1xs.vip/40000012",
         "categories": [
             "hilaytv"
         ],
@@ -8654,6 +8274,286 @@
         "id": "topchefvault",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US180001143_20240826T235603SQUARE.png",
         "url": "https://jmp2.uk/stvp-US180001143",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MAX Sport 1",
+        "id": "maxsport1",
+        "logo": "https://epg.pw/media/images/epg/2025/01/15/20250115024048925149_82.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/balkanstreammax/chunks.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Chefclub TV [FR]",
+        "id": "chefclubtvfr",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB3900006JN_20250107T031447SQUARE.png",
+        "url": "https://jmp2.uk/stvp-CHBB3900006JN",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CineMadame",
+        "id": "cinemadame",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20250307T152334SQUARE.png",
+        "url": "https://jmp2.uk/stvp-ITBD1400003D0",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CNBC Bajar",
+        "id": "cnbcbajar",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20250604T011419SQUARE.png",
+        "url": "https://jmp2.uk/stvp-INBD2500015H5",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CNBC TV18",
+        "id": "cnbctv18",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300008ZY_20250604T011416SQUARE.png",
+        "url": "https://jmp2.uk/stvp-INBD1300008ZY",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CNN News18",
+        "id": "cnnnews18",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300009QZ_20240131T032448SQUARE.png_20240131032449.png",
+        "url": "https://jmp2.uk/stvp-INBD1300009QZ",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Corner Gas Channel by CTV",
+        "id": "cornergaschannelbyctv",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400007U9_20250729T185117SQUARE.png",
+        "url": "https://jmp2.uk/stvp-CA1400007U9",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Divya",
+        "id": "divya",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000053R_20241024T054024SQUARE.png",
+        "url": "https://jmp2.uk/stvp-INBD13000053R",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Echapp√©es belles & co [FR]",
+        "id": "echappesbellescofr",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20250107T031454SQUARE.png",
+        "url": "https://jmp2.uk/stvp-CHBC40000027S",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ETV Comedy",
+        "id": "etvcomedy",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20250811T033449SQUARE.png",
+        "url": "https://jmp2.uk/stvp-IN4900003U3",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Film Al Femminile - Wedo Movies",
+        "id": "filmalfemminilewedomovies",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700004EQ_20241022T051611SQUARE.png",
+        "url": "https://jmp2.uk/stvp-ITBC4700004EQ",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Giallo",
+        "id": "giallo",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000081B_20250408T021446SQUARE.png",
+        "url": "https://jmp2.uk/stvp-IT9000081B",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Grandi Nomi",
+        "id": "grandinomi",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20250527T014831SQUARE.png",
+        "url": "https://jmp2.uk/stvp-ITBC1100003KC",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HISTORY TV18 - Hindi",
+        "id": "historytv18hindi",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png",
+        "url": "https://jmp2.uk/stvp-IN1600009NL",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hollywood Desi",
+        "id": "hollywooddesi",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20250122T004825SQUARE.png",
+        "url": "https://jmp2.uk/stvp-IN3800010SH",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Les Lapins Cr√©tins: Invasion",
+        "id": "leslapinscrtinsinvasion",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20241106T142548SQUARE.png",
+        "url": "https://jmp2.uk/stvp-FRBD2300002CM",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MGM Presents",
+        "id": "mgmpresents",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",
+        "url": "https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fashion TV UHD",
+        "id": "fashiontvuhd",
+        "logo": "https://i.ibb.co/LNvfKrJ/FTVUHD.png",
+        "url": "https://a1xs.vip/ftv4kuhd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Atlantic FHD",
+        "id": "skyatlanticfhd",
+        "logo": "https://pixvid.org/images/2025/02/10/sky-atlantic.png",
+        "url": "https://a1xs.vip/210001",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Cinema Action FHD",
+        "id": "skycinemaactionfhd",
+        "logo": "https://pixvid.org/images/2025/02/10/sky-cinema-action.png",
+        "url": "https://a1xs.vip/210006",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Spectrum Sportsnet FHD",
+        "id": "spectrumsportsnetfhd",
+        "logo": "https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png",
+        "url": "https://a1xs.vip/4000006",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GoSport 1",
+        "id": "gosport1",
+        "logo": "",
+        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GoSport 2",
+        "id": "gosport2",
+        "logo": "",
+        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GoSport 3",
+        "id": "gosport3",
+        "logo": "",
+        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MN Tv",
+        "id": "mntv",
+        "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_0847495427909620575984784.png",
+        "url": "http://mntv.livebox.co.in/mntvhls/live.m3u8",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SINDONEWS",
+        "id": "sindonews",
+        "logo": "https://file.garden/aN9J-XbDsxz3RbSu/nasional/sindonews.jpg?raw=true",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BBC ONE",
+        "id": "bbcone",
+        "logo": "",
+        "url": "https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd",
+        "categories": [
+            "hilaytv"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IMTV",
+        "id": "imtv",
+        "logo": "https://www.opp.no/applefavicon.png",
+        "url": "https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8",
         "categories": [
             "hilaytv"
         ],

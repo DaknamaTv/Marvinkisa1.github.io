@@ -810,16 +810,6 @@
         "country": ""
     },
     {
-        "name": "WLNG Radio (410p) [Not 24/7]",
-        "id": "wlngradio410pnot247",
-        "logo": "",
-        "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
         "name": "World Harvest TV (360p)",
         "id": "worldharvesttv360p",
         "logo": "",
@@ -1994,16 +1984,6 @@
         "id": "superchannelorlandowacxdt1720p",
         "logo": "",
         "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8",
-        "categories": [
-            "us_local"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]",
-        "id": "nbc8limaohwliodt1720pnot247",
-        "logo": "",
-        "url": "https://live.field59.com/wlio/wlio1/playlist.m3u8",
         "categories": [
             "us_local"
         ],

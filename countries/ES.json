@@ -1058,16 +1058,6 @@
         "country": "ES"
     },
     {
-        "name": "TV Almassora",
-        "id": "TVAlmassora.es",
-        "logo": "https://i.imgur.com/syeJXGh.png",
-        "url": "https://tvalmassora.com/hls/tvalmassora.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Canal Taronja Comarques Centrals",
         "id": "CanalTaronjaComarquesCentrals.es",
         "logo": "https://i.imgur.com/RP8VcqZ.png",
@@ -1223,16 +1213,6 @@
         "country": "ES"
     },
     {
-        "name": "DAZN 4",
-        "id": "DAZN4.es",
-        "logo": "",
-        "url": "http://b1iptv.de:80/H9hzj6e3LP/6za7dKA7sN/88487",
-        "categories": [
-            "es : sport"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Antena 3 Internacional",
         "id": "Antena3Internacional.es",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
@@ -1341,26 +1321,6 @@
         "country": "ES"
     },
     {
-        "name": "Fibwi",
-        "id": "Fibwi.es",
-        "logo": "https://i.imgur.com/4vcGzcC.png",
-        "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Parlamento de Navarra",
-        "id": "ParlamentodeNavarra.es",
-        "logo": "https://i.imgur.com/JnhWxKv.png",
-        "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "TVO Jesus",
         "id": "TVOJesus.es",
         "logo": "https://tvomix.com/Logos/Tvojesus.png",
@@ -1376,6 +1336,24 @@
         "categories": [
             "series"
         ],
+        "country": "ES"
+    },
+    {
+        "name": "BCN Gospel TV",
+        "id": "BCNGospelTV.es",
+        "logo": "https://i.imgur.com/ZKAnehs.png",
+        "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Telemotril",
+        "id": "Telemotril.es",
+        "logo": "https://i.imgur.com/4nspLHb.png",
+        "url": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8",
+        "categories": [],
         "country": "ES"
     }
 ]

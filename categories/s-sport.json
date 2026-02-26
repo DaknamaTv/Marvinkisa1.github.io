@@ -1,9 +1,19 @@
 [
     {
-        "name": "S Sport 2 HD",
-        "id": "SSport2HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_spor_2.png",
-        "url": "http://ext2707.xyz:8080/Ferimahzari100/Scm2hxkJae/6105",
+        "name": "S Sport 1 HD",
+        "id": "SSport1HD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/s_sport.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/115598",
+        "categories": [
+            "s-sport"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "S Sport+4 Mac Saati",
+        "id": "SSport4MacSaati.tr",
+        "logo": "http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png",
+        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/137716",
         "categories": [
             "s-sport"
         ],

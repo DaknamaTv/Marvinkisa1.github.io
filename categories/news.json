@@ -180,6 +180,26 @@
         "country": "AZ"
     },
     {
+        "name": "ARB 24",
+        "id": "ARB24.az",
+        "logo": "https://i.imgur.com/mtvIFyq.png",
+        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AZ"
+    },
+    {
+        "name": "Baku.TV",
+        "id": "BakuTV.az",
+        "logo": "https://i.imgur.com/r4FzxSg.png",
+        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AZ"
+    },
+    {
         "name": "Press TV French",
         "id": "PressTVFrench.ir",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png",
@@ -2547,16 +2567,6 @@
         "country": "IN"
     },
     {
-        "name": "Prudent Media",
-        "id": "PrudentMedia.in",
-        "logo": "https://i.imgur.com/DG0x4UD.png",
-        "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Goa365",
         "id": "Goa365.in",
         "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
@@ -2758,6 +2768,16 @@
         "country": "CA"
     },
     {
+        "name": "TV Punjab",
+        "id": "TVPunjab.ca",
+        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
+        "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "CNBC UK",
         "id": "CNBCUK.uk",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
@@ -2887,16 +2907,6 @@
             "news"
         ],
         "country": "BS"
-    },
-    {
-        "name": "Contivision",
-        "id": "Contivision.cl",
-        "logo": "https://i.imgur.com/Lz2OlKf.png",
-        "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
     },
     {
         "name": "Puranoticia TV",
@@ -3033,41 +3043,6 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -4032,6 +4007,16 @@
         "id": "EgnatiaTV.gr",
         "logo": "https://i.imgur.com/zuyYIca.png",
         "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "Corfu Channel",
+        "id": "CorfuChannel.gr",
+        "logo": "https://i.imgur.com/EFL1Tjg.png",
+        "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
         "categories": [
             "news"
         ],
