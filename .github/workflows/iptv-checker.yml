@@ -33,12 +33,9 @@ jobs:
 
       - name: Run IPTV checker script
         env:
-          CHANNELS_URL: ${{ secrets.CHANNELS_URL }}
-          STREAMS_URL: ${{ secrets.STREAMS_URL }}
-          LOGOS_URL: https://iptv-org.github.io/api/logos.json
           MAX_CONCURRENT: 200
         run: python iptv_checker.py
-        continue-on-error: true   # ← so artifacts are still uploaded even if script fails
+        continue-on-error: true
 
       - name: Upload results as artifact
         if: always()
