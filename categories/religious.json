@@ -30,6 +30,16 @@
         "country": "KE"
     },
     {
+        "name": "YOUNIB Media TV",
+        "id": "YOUNIBMediaTV.ke",
+        "logo": "https://i.imgur.com/LtiPOYG.jpg",
+        "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "KE"
+    },
+    {
         "name": "A2i Religion",
         "id": "A2iReligion.sn",
         "logo": "https://i.imgur.com/54WrwyN.jpg",
@@ -732,6 +742,16 @@
         "id": "WWXYDT3.pr",
         "logo": "https://i.imgur.com/lAhIGsI.png",
         "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PR"
+    },
+    {
+        "name": "Familia Vision HD",
+        "id": "FamiliaVisionHD.pr",
+        "logo": "https://i.imgur.com/uqTH7m5.jpg",
+        "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2080,16 +2100,6 @@
         "country": "CI"
     },
     {
-        "name": "TV Al Bayane",
-        "id": "TVAlBayane.ci",
-        "logo": "https://i.imgur.com/Xs9oEG8.png",
-        "url": "http://69.64.57.208/albayanetv/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CI"
-    },
-    {
         "name": "Apostol TV",
         "id": "ApostolTV.hu",
         "logo": "https://i.imgur.com/C43Cc9N.png",
@@ -3074,6 +3084,16 @@
         "country": "SV"
     },
     {
+        "name": "JFV TV",
+        "id": "JFVTV.sv",
+        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
+        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "SV"
+    },
+    {
         "name": "Homebase TV",
         "id": "HomebaseTV.za",
         "logo": "https://i.imgur.com/MaLNfJG.png",
@@ -3870,16 +3890,6 @@
         "country": "US"
     },
     {
-        "name": "Global Buddhist Network",
-        "id": "GlobalBuddhistNetwork.us",
-        "logo": "https://i.imgur.com/fU0ZhKD.png",
-        "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "NRBTV",
         "id": "NRBTV.us",
         "logo": "https://i.imgur.com/2PL1Au7.png",
@@ -4373,16 +4383,6 @@
         "country": "US"
     },
     {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Teve Vida Network",
         "id": "TeveVidaNetwork.us",
         "logo": "https://i.imgur.com/lCpf5P1.png",
@@ -4433,6 +4433,16 @@
         "country": "UG"
     },
     {
+        "name": "Ark TV",
+        "id": "ArkTV.ug",
+        "logo": "https://i.imgur.com/yCHNZXD.png",
+        "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "UG"
+    },
+    {
         "name": "Unife TV",
         "id": "UnifeTV.ar",
         "logo": "https://i.imgur.com/TLM592m.png",
@@ -4477,6 +4487,16 @@
         "id": "TVManaArgentina.ar",
         "logo": "https://i.imgur.com/jars0mP.png",
         "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
         "categories": [
             "religious"
         ],

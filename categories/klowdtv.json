@@ -130,16 +130,6 @@
         "country": ""
     },
     {
-        "name": "Nautical Channel (720p)",
-        "id": "nauticalchannel720p",
-        "logo": "",
-        "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
-        "categories": [
-            "klowdtv"
-        ],
-        "country": ""
-    },
-    {
         "name": "QVC Live (720p) [Not 24/7]",
         "id": "qvclive720pnot247",
         "logo": "",

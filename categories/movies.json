@@ -749,16 +749,6 @@
         "country": "IN"
     },
     {
-        "name": "Roja Movies",
-        "id": "RojaMovies.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Discover Film",
         "id": "DiscoverFilm.uk",
         "logo": "https://i.imgur.com/oMnpsQ5.png",
@@ -953,16 +943,6 @@
         "country": "PY"
     },
     {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-        "categories": [
-            "movies"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Grjngo Western Movies",
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
@@ -1078,16 +1058,6 @@
         "id": "RakutenTVNordicFilms.es",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
         "url": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Atrescine",
-        "id": "Atrescine.es",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/512px-Atrescine_logo.svg.png",
-        "url": "http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8",
         "categories": [
             "movies"
         ],

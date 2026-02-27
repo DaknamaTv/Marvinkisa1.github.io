@@ -1,15 +1,5 @@
 [
     {
-        "name": "2STV",
-        "id": "2STV.sn",
-        "logo": "https://i.imgur.com/WByVBZf.png",
-        "url": "http://69.64.57.208/2stv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "Natural TV",
         "id": "NaturalTV.tr",
         "logo": "https://i.imgur.com/rfcJ674.png",
@@ -335,16 +325,6 @@
         "country": "CL"
     },
     {
-        "name": "Holvoet TV",
-        "id": "HolvoetTV.cl",
-        "logo": "https://i.imgur.com/9JKRO3R.png",
-        "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "GTV",
         "id": "GTV.si",
         "logo": "https://i.imgur.com/LHChpid.png",
@@ -420,16 +400,6 @@
         "id": "AfrocultureTV.ci",
         "logo": "https://i.imgur.com/bjaZ3kO.png",
         "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CI"
-    },
-    {
-        "name": "A+ Ivoire",
-        "id": "APlusIvoire.ci",
-        "logo": "https://i.imgur.com/yOW0vyP.png",
-        "url": "http://69.64.57.208/atv/playlist.m3u8",
         "categories": [
             "culture"
         ],
@@ -671,6 +641,17 @@
         "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
         "categories": [
             "culture"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
         ],
         "country": "BR"
     },

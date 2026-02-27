@@ -574,16 +574,6 @@
         "country": "UA"
     },
     {
-        "name": "Ekushey TV",
-        "id": "EkusheyTV.bd",
-        "logo": "https://i.imgur.com/lRpkGHj.png",
-        "url": "https://ekusheyserver.com/etvlivesn.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BD"
-    },
-    {
         "name": "Telesur",
         "id": "Telesur.ve",
         "logo": "https://i.imgur.com/P50VjRX.png",
@@ -2959,16 +2949,6 @@
         "country": "HN"
     },
     {
-        "name": "TSi",
-        "id": "TSi.hn",
-        "logo": "https://i.imgur.com/GEyxDnf.png",
-        "url": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Guardian Talk Radio",
         "id": "GuardianTalkRadio.bs",
         "logo": "https://i.imgur.com/o3cWUwL.png",
@@ -3003,6 +2983,16 @@
         "id": "AtacamaNoticias.cl",
         "logo": "https://i.imgur.com/Avx4Ecf.png",
         "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Contivision",
+        "id": "Contivision.cl",
+        "logo": "https://i.imgur.com/Lz2OlKf.png",
+        "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3123,6 +3113,17 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3339,16 +3340,6 @@
             "news"
         ],
         "country": "EC"
-    },
-    {
-        "name": "Burkina Info TV",
-        "id": "BurkinaInfoTV.bf",
-        "logo": "https://i.imgur.com/a9v5CbU.png",
-        "url": "http://69.64.57.208/burkinainfo/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BF"
     },
     {
         "name": "O'zbekiston 24",
@@ -3707,6 +3698,16 @@
         "country": "PE"
     },
     {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "Fresh News",
         "id": "FreshNews.kh",
         "logo": "https://i.imgur.com/bV6sawt.png",
@@ -3751,6 +3752,26 @@
         "id": "C9N.py",
         "logo": "https://i.imgur.com/Cp4zJ7O.png",
         "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Suceso TV",
+        "id": "SucesoTV.py",
+        "logo": "https://i.imgur.com/BwRNes1.png",
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4144,6 +4165,16 @@
         "id": "SABCNews.za",
         "logo": "https://i.imgur.com/liLta8j.png",
         "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "ZA"
+    },
+    {
+        "name": "LN24SA",
+        "id": "LN24SA.za",
+        "logo": "https://i.imgur.com/Hg5YTwu.png",
+        "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5449,6 +5480,36 @@
         "country": "MM"
     },
     {
+        "name": "TV West",
+        "id": "TVWest.ug",
+        "logo": "https://i.imgur.com/EiJzkIz.png",
+        "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Bukedde TV 1",
+        "id": "BukeddeTV1.ug",
+        "logo": "https://i.imgur.com/HFq5QlJ.png",
+        "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Wan Luo TV",
+        "id": "WanLuoTV.ug",
+        "logo": "https://i.imgur.com/4PUUp3E.png",
+        "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UG"
+    },
+    {
         "name": "Canal E",
         "id": "CanalE.ar",
         "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
@@ -5689,16 +5750,6 @@
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Euronews Romania",
-        "id": "EuronewsRomania.ro",
-        "logo": "https://i.imgur.com/jUOVUXt.png",
-        "url": "https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8",
         "categories": [
             "news"
         ],

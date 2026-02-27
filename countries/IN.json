@@ -1817,16 +1817,6 @@
         "country": "IN"
     },
     {
-        "name": "NDTV Good Times",
-        "id": "NDTVGoodTimes.in",
-        "logo": "https://i.imgur.com/7cruYvo.png",
-        "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "INH 24x7",
         "id": "INH24x7.in",
         "logo": "https://i.imgur.com/Es3QiVx.png",
@@ -4791,16 +4781,6 @@
         "country": "IN"
     },
     {
-        "name": "Roja Movies",
-        "id": "RojaMovies.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Dheeran TV",
         "id": "DheeranTV.in",
         "logo": "https://i.imgur.com/jSedjXf.png",
@@ -4897,6 +4877,26 @@
         "url": "https://live.gulistannews.in/hls/jk.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "CCV",
+        "id": "CCV.in",
+        "logo": "https://i.imgur.com/4ss0KfA.png",
+        "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Subin TV",
+        "id": "SubinTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
+        "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "IN"
     }

@@ -60,16 +60,6 @@
         "country": ""
     },
     {
-        "name": "Sinema TV 2 HD",
-        "id": "sinematv2hd",
-        "logo": "https://i.ibb.co/7Jdz6svc/SINEMA-TV-2.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/msahmet51/akacmaz0101/865290.ts",
-        "categories": [
-            "tr ➤ sinema platform"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sinema Yerli HD",
         "id": "sinemayerlihd",
         "logo": "https://i.ibb.co/39QZkjSq/SINEMA-TV-YERLI.png",
@@ -124,26 +114,6 @@
         "id": "trbeinboxoffice3",
         "logo": "https://i.ibb.co/75qF5mq/BEIN-BOX-OFFICE-3.png",
         "url": "http://europe.siriusfiber.xyz:80/live/srf1616/5eXeZw4tak/860736.ts",
-        "categories": [
-            "tr ➤ sinema platform"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bein Movies Premiere FHD",
-        "id": "beinmoviespremierefhd",
-        "logo": "https://i.ibb.co/hF19dgyC/Bein-Movies-Premiere-Eno.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865283.ts",
-        "categories": [
-            "tr ➤ sinema platform"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sinema 1002 HD",
-        "id": "sinema1002hd",
-        "logo": "https://i.ibb.co/6JpKQm02/SINEMA-TV-1002.png",
-        "url": "http://europe.siriusfiber.xyz:80/live/bess2609/667351bes/865296.ts",
         "categories": [
             "tr ➤ sinema platform"
         ],

@@ -1251,6 +1251,16 @@
         "country": "IN"
     },
     {
+        "name": "Subin TV",
+        "id": "SubinTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
+        "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "MHZ",
         "id": "MHZ.ca",
         "logo": "https://i.imgur.com/a5fw83n.jpg",
@@ -1696,16 +1706,6 @@
         "country": "DO"
     },
     {
-        "name": "Cibaena TV",
-        "id": "CibaenaTV.do",
-        "logo": "https://i.imgur.com/iHjdckl.png",
-        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Pronems TV",
         "id": "PronemsTV.do",
         "logo": "https://i.imgur.com/a9ORO1G.png",
@@ -1714,16 +1714,6 @@
             "entertainment"
         ],
         "country": "DO"
-    },
-    {
-        "name": "Hispania TV",
-        "id": "HispaniaTV.pa",
-        "logo": "https://i.imgur.com/647WCF8.png",
-        "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PA"
     },
     {
         "name": "Dong Nai TV 2",
@@ -2043,16 +2033,6 @@
         "country": "CO"
     },
     {
-        "name": "Canal Nets",
-        "id": "CanalNets.co",
-        "logo": "https://i.imgur.com/edaAexc.png",
-        "url": "https://video.ejeserver.com/live/nets.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Shamshad TV",
         "id": "ShamshadTV.af",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
@@ -2107,6 +2087,16 @@
         "id": "AntaresTelevision.pe",
         "logo": "https://i.imgur.com/05gwtk2.png",
         "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Panc TV Peru",
+        "id": "PancTVPeru.pe",
+        "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
+        "url": "https://panel.host-live.com:19360/20000/20000.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2276,16 +2266,6 @@
         "country": "IT"
     },
     {
-        "name": "Chandel TV",
-        "id": "ChandelTV.tg",
-        "logo": "https://i.imgur.com/jQO7dVE.png",
-        "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "TG"
-    },
-    {
         "name": "kabel eins",
         "id": "kabeleins.de",
         "logo": "https://i.imgur.com/6pulSHZ.png",
@@ -2364,16 +2344,6 @@
             "entertainment"
         ],
         "country": "GR"
-    },
-    {
-        "name": "EVI TV",
-        "id": "EVITV.cd",
-        "logo": "https://i.imgur.com/fBc9JSM.png",
-        "url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CD"
     },
     {
         "name": "NuView TV",
@@ -2677,16 +2647,6 @@
             "entertainment"
         ],
         "country": "NA"
-    },
-    {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
     },
     {
         "name": "Impact Network",
@@ -3571,6 +3531,16 @@
         "id": "romanza.ug",
         "logo": "",
         "url": "https://livecdn.premiumfree.tv/afxpstr/Romanza/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UG"
+    },
+    {
+        "name": "Bukedde TV 2",
+        "id": "BukeddeTV2.ug",
+        "logo": "https://i.imgur.com/ukwPZeY.png",
+        "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
         "categories": [
             "entertainment"
         ],

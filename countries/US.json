@@ -2310,16 +2310,6 @@
         "country": "US"
     },
     {
-        "name": "Global Buddhist Network",
-        "id": "GlobalBuddhistNetwork.us",
-        "logo": "https://i.imgur.com/fU0ZhKD.png",
-        "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "NRBTV",
         "id": "NRBTV.us",
         "logo": "https://i.imgur.com/2PL1Au7.png",
@@ -9216,24 +9206,6 @@
         "country": "US"
     },
     {
-        "name": "Telemundo Internacional",
-        "id": "TelemundoInternacional.us",
-        "logo": "https://i.imgur.com/j2O4ndp.png",
-        "url": "http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "WSCV-DT1",
-        "id": "WSCVDT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
-        "url": "http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8",
-        "categories": [],
-        "country": "US"
-    },
-    {
         "name": "WXXA-DT3",
         "id": "WXXADT3.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",
@@ -9497,16 +9469,6 @@
         "country": "US"
     },
     {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "AMGA TV",
         "id": "AMGATV.us",
         "logo": "https://i.imgur.com/NTlC6e7.png",
@@ -9581,6 +9543,26 @@
         "id": "TVSTelevisionNetwork.us",
         "logo": "",
         "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "KTVK-DT1",
+        "id": "KTVKDT1.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/512px-KTVK_logo.svg.png",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBC Tapesh TV",
+        "id": "PBCTapeshTV.us",
+        "logo": "https://i.imgur.com/50JzsmH.png",
+        "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
         "categories": [
             "general"
         ],

@@ -30,16 +30,6 @@
         "country": ""
     },
     {
-        "name": "Radio Soberania",
-        "id": "radiosoberania",
-        "logo": "https://www.soberaniaradio.cl/img/logo.png",
-        "url": "https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8",
-        "categories": [
-            "musica"
-        ],
-        "country": ""
-    },
-    {
         "name": "Retro TV",
         "id": "retrotv",
         "logo": "http://www.gustavorivas.com.ar/wp-content/uploads/2009/03/logo-canal-retro1.jpg",

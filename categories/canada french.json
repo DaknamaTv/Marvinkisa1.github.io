@@ -10,30 +10,10 @@
         "country": ""
     },
     {
-        "name": "CA (FR) TV5",
-        "id": "cafrtv5",
-        "logo": "",
-        "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/57288",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
         "name": "CA (FR) RDS (R)",
         "id": "cafrrdsr",
         "logo": "https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png",
         "url": "http://sky.tv13s.xyz:8080/gary.amyot@gmail.com/rfWoOEK88c/57325",
-        "categories": [
-            "canada french"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CA (FR) TVA Montreal FHD (B)",
-        "id": "cafrtvamontrealfhdb",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/57497",
         "categories": [
             "canada french"
         ],
