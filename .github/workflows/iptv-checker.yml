@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "0 */5 * * *"     # Every 5 hours: 00:00, 05:00, 10:00, 15:00, 20:00 UTC
+    - cron: "0 */12 * * *"     # Every 5 hours: 00:00, 05:00, 10:00, 15:00, 20:00 UTC
 
 jobs:
   check-iptv-channels:
