@@ -250,7 +250,7 @@
     {
         "name": "Persiana Medical",
         "id": "PersianaMedical.fr",
-        "logo": "https://i.postimg.cc/9FPhHF94/persiana-medical.jpg",
+        "logo": "https://www.lyngsat.com/logo/tv/pp/persiana-medical-fr.png",
         "url": "https://tfnhls.wns.live/hls/stream.m3u8",
         "categories": [
             "education"
@@ -646,33 +646,11 @@
         "country": "BR"
     },
     {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV UFG",
         "id": "TVUFG.br",
         "logo": "https://i.imgur.com/Yp3dbJo.png",
         "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
         "categories": [
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
             "education"
         ],
         "country": "BR"
@@ -1031,16 +1009,6 @@
         "id": "XHMNLTDT.mx",
         "logo": "https://i.imgur.com/9qL4LJF.png",
         "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Tele UV",
-        "id": "TeleUV.mx",
-        "logo": "https://i.imgur.com/8MdUH69.jpeg",
-        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
         "categories": [
             "education"
         ],

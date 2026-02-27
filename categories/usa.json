@@ -200,26 +200,6 @@
         "country": ""
     },
     {
-        "name": "US World Poker Tour",
-        "id": "usworldpokertour",
-        "logo": "",
-        "url": "http://fortv.cc:8080/D76rh4/197436/140815",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US NewsNation",
-        "id": "usnewsnation",
-        "logo": "",
-        "url": "http://fortv.cc:8080/D76rh4/197436/161450",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Black News Channel (A)",
         "id": "usblacknewschannela",
         "logo": "",
@@ -300,26 +280,6 @@
         "country": ""
     },
     {
-        "name": "US Reelz",
-        "id": "usreelz",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/10526",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US SUNDANCE",
-        "id": "ussundance",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/cn7R0q/489385/46712",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US National Geographic",
         "id": "usnationalgeographic",
         "logo": "",
@@ -330,40 +290,10 @@
         "country": ""
     },
     {
-        "name": "US Smithsonian Channel (East)",
-        "id": "ussmithsonianchanneleast",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/31150",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Fuse",
         "id": "usfuse",
         "logo": "",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/46701",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US FOX Sports 1",
-        "id": "usfoxsports1",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/46792",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US  Court TV",
-        "id": "uscourttv",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/21092",
         "categories": [
             "usa"
         ],
@@ -390,40 +320,10 @@
         "country": ""
     },
     {
-        "name": "US Pursuit UP",
-        "id": "uspursuitup",
-        "logo": "",
-        "url": "http://cord-cutter.net:8080/0UcuSy/682882/22888",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US AMC",
-        "id": "usamc",
-        "logo": "https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/18925",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US History Channel",
         "id": "ushistorychannel",
         "logo": "https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png",
         "url": "http://mytvstream.net:8080/RKu2Hy/559290/15017",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Altitude Sports HD",
-        "id": "usaltitudesportshd",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/79545",
         "categories": [
             "usa"
         ],
@@ -440,16 +340,6 @@
         "country": ""
     },
     {
-        "name": "US E! Entertainment Television East",
-        "id": "useentertainmenttelevisioneast",
-        "logo": "https://cdn.tvpassport.com/image/station/240x135/eentertain.png",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/11651",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US Nick Jr",
         "id": "usnickjr",
         "logo": "",
@@ -460,50 +350,10 @@
         "country": ""
     },
     {
-        "name": "US TV Land",
-        "id": "ustvland",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/46696",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US Game Show Network",
-        "id": "usgameshownetwork",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/120633",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
         "name": "US (FD) Military History",
         "id": "usfdmilitaryhistory",
         "logo": "",
         "url": "http://tv2watch.icu:8080/7vGX9F/030546/134832",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US: CSPAN FHD",
-        "id": "uscspanfhd",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/136589",
-        "categories": [
-            "usa"
-        ],
-        "country": ""
-    },
-    {
-        "name": "US BET Her",
-        "id": "usbether",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/137790",
         "categories": [
             "usa"
         ],

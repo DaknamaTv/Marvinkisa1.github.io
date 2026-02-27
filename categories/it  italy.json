@@ -1,49 +1,9 @@
 [
     {
-        "name": "IT: RAI 1 HD",
-        "id": "itrai1hd",
-        "logo": "https://static.epg.best/it/RaiUno.it.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519963",
-        "categories": [
-            "it | italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: RAI 4 HD+",
-        "id": "itrai4hd",
-        "logo": "https://static.epg.best/it/Rai4.it.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519970",
-        "categories": [
-            "it | italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "IT: RAI GULP HD+",
         "id": "itraigulphd",
         "logo": "https://static.epg.best/it/RaiGulp.it.png",
         "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519974",
-        "categories": [
-            "it | italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: RAI SPORT HD",
-        "id": "itraisporthd",
-        "logo": "https://static.epg.best/it/RaiSport.it.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519980",
-        "categories": [
-            "it | italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: RAI YO YO HD",
-        "id": "itraiyoyohd",
-        "logo": "https://static.epg.best/it/RaiYoyo.it.png",
-        "url": "http://iptvmeister.de:8080/Erolkirval/zNjKCGEHGPcjA7S41/519984",
         "categories": [
             "it | italy"
         ],

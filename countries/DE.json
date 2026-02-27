@@ -1035,16 +1035,6 @@
         "country": "DE"
     },
     {
-        "name": "Deluxe Lounge",
-        "id": "DeluxeLounge.de",
-        "logo": "https://i.imgur.com/pgCA35z.png",
-        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
-        "categories": [
-            "music"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Allgau TV",
         "id": "AllgauTV.de",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",
@@ -1109,14 +1099,6 @@
         "id": "RegioTVBodensee.de",
         "logo": "https://i.imgur.com/3koyLef.png",
         "url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
-        "name": "Regio TV Schwaben",
-        "id": "RegioTVSchwaben.de",
-        "logo": "https://i.imgur.com/3koyLef.png",
-        "url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
         "categories": [],
         "country": "DE"
     },

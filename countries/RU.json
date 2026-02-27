@@ -1709,16 +1709,6 @@
         "country": "RU"
     },
     {
-        "name": "Matur TV",
-        "id": "MaturTV.ru",
-        "logo": "https://i.imgur.com/Pg7K7eV.png",
-        "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Channel 12",
         "id": "Channel12.ru",
         "logo": "https://i.imgur.com/OA9hm6e.png",
@@ -2351,6 +2341,16 @@
         "url": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "MMA-TV.com",
+        "id": "MMATVcom.ru",
+        "logo": "https://i.imgur.com/QhdxNsB.png",
+        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "RU"
     }

@@ -150,6 +150,16 @@
         "country": "RU"
     },
     {
+        "name": "MMA-TV.com",
+        "id": "MMATVcom.ru",
+        "logo": "https://i.imgur.com/QhdxNsB.png",
+        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -573,6 +583,16 @@
         "country": "DE"
     },
     {
+        "name": "Tigo Sports",
+        "id": "TigoSports.sv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/512px-Tigo_Sports_2025.png",
+        "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SV"
+    },
+    {
         "name": "Sports Connect",
         "id": "SportsConnect.za",
         "logo": "https://i.imgur.com/0sNWg54.png",
@@ -641,16 +661,6 @@
             "sports"
         ],
         "country": "PH"
-    },
-    {
-        "name": "Canal do Inter",
-        "id": "CanaldoInter.br",
-        "logo": "https://i.imgur.com/TQFWEIS.png",
-        "url": "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "BR"
     },
     {
         "name": "Premier Sports 5",
@@ -1236,7 +1246,7 @@
     {
         "name": "DraftKings Network",
         "id": "DraftKingsNetwork.us",
-        "logo": "",
+        "logo": "https://i.imgur.com/SFYhgrt.png",
         "url": "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
         "categories": [
             "sports"
@@ -1272,16 +1282,6 @@
             "sports"
         ],
         "country": "US"
-    },
-    {
-        "name": "FUFA TV",
-        "id": "FUFATV.ug",
-        "logo": "https://i.imgur.com/iIq5MqR.png",
-        "url": "https://stream.hydeinnovations.com/fufatv/index.fmp4.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UG"
     },
     {
         "name": "M-Net Sport",
