@@ -1,0 +1,52 @@
+[
+    {
+        "name": "BBC 1 HD",
+        "id": "bbc1hd",
+        "logo": "http://img-cdn.curl.pk:8880/chimg/1574146363.jpg",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/119b409a-0ea8-4d6e-91a1-f4db39c56544.ts",
+        "categories": [
+            "|uk| inglaterra"
+        ],
+        "country": ""
+    },
+    {
+        "name": "REAL Lives HD",
+        "id": "realliveshd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/26932866541.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/ee2c8933-f13b-4191-8531-5211c7e3ad8f.ts",
+        "categories": [
+            "|uk| inglaterra"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Discovery Science HD",
+        "id": "discoverysciencehd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/35900913991.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/14361f72-145f-4171-89e2-0c0cf366bce2.ts",
+        "categories": [
+            "|uk| inglaterra"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Horse & Country HD",
+        "id": "horsecountryhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/24040648341.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/cba8ede3-a31e-4cdf-be78-f278be1303c7.ts",
+        "categories": [
+            "|uk| inglaterra"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV Music HD",
+        "id": "mtvmusichd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/18265787681.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/5feb1ed8-c800-43cb-a379-95cf10c419a3.ts",
+        "categories": [
+            "|uk| inglaterra"
+        ],
+        "country": ""
+    }
+]

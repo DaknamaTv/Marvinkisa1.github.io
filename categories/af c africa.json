@@ -1,0 +1,32 @@
+[
+    {
+        "name": "C+AF: CANAL+ SPORT 1",
+        "id": "cafcanalsport1",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CANAL+SPORT.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553345",
+        "categories": [
+            "af c+ africa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "C+AF: TFM",
+        "id": "caftfm",
+        "logo": "http://sltv-icon.cms-s.com/logo/a-z/--T--/tfmsenegal.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553421",
+        "categories": [
+            "af c+ africa"
+        ],
+        "country": ""
+    },
+    {
+        "name": "C+AF: RTS 1",
+        "id": "cafrts1",
+        "logo": "http://sltv-icon.cms-s.com/logo/a-z/--R--/rts-1-sn.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/553371",
+        "categories": [
+            "af c+ africa"
+        ],
+        "country": ""
+    }
+]

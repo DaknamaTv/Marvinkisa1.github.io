@@ -120,36 +120,6 @@
         "country": "DO"
     },
     {
-        "name": "Elias Pina TV",
-        "id": "EliasPinaTV.do",
-        "logo": "https://i.imgur.com/VqxSsZD.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "La Reina TV",
-        "id": "LaReinaTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg",
-        "url": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Jimani TV",
-        "id": "JimaniTV.do",
-        "logo": "https://imgur.com/EPYHUSc.jpeg",
-        "url": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Ready TV Canal 6",
         "id": "ReadyTVCanal6.do",
         "logo": "https://i.imgur.com/ZONPQhR.png",
@@ -1041,30 +1011,10 @@
         "country": "DO"
     },
     {
-        "name": "Informe TV",
-        "id": "InformeTV.do",
-        "logo": "https://imgur.com/TmJaXrO.jpg",
-        "url": "https://mlb.essastream.com:8081/informetv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Reportero TV",
         "id": "ReporteroTV.do",
         "logo": "https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png",
         "url": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Ruta 66 TV",
-        "id": "Ruta66TV.do",
-        "logo": "https://i.imgur.com/oY4Xfvq.png",
-        "url": "https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -1265,16 +1215,6 @@
         "id": "Telecanal28.do",
         "logo": "https://i.imgur.com/hEJ6lZ9.png",
         "url": "https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "TeleCibaoHD",
-        "id": "TeleCibaoHD.do",
-        "logo": "https://i.imgur.com/IpInp05.png",
-        "url": "https://mlb.essastream.com:8081/telecibaotv/tracks-v1a1/mono.m3u8",
         "categories": [
             "general"
         ],
@@ -1712,16 +1652,6 @@
         "country": "DO"
     },
     {
-        "name": "Noticias 16",
-        "id": "Noticias16.do",
-        "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
-        "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Simavision Canal 18",
         "id": "SimavisionCanal18.do",
         "logo": "https://i.imgur.com/io9o30K.jpg",
@@ -1786,16 +1716,6 @@
         "id": "PuntoTV.do",
         "logo": "https://imgur.com/vfvN6ox.png",
         "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Bebeto TV",
-        "id": "BebetoTV.do",
-        "logo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
-        "url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
         "categories": [
             "general"
         ],
@@ -1872,16 +1792,6 @@
         "country": "DO"
     },
     {
-        "name": "Sur TV",
-        "id": "SurTV.do",
-        "logo": "https://i.imgur.com/oAyvK0N.jpeg",
-        "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Teletur",
         "id": "Teletur.do",
         "logo": "https://i.imgur.com/Ig4gR93.png",
@@ -1918,16 +1828,6 @@
         "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Cibaena TV",
-        "id": "CibaenaTV.do",
-        "logo": "https://i.imgur.com/iHjdckl.png",
-        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "DO"
     },
@@ -1988,6 +1888,36 @@
         "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Alegre TV RD",
+        "id": "AlegreTVRD.do",
+        "logo": "https://i.imgur.com/O6USO8r.png",
+        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Anime Zone TV",
+        "id": "AnimeZoneTV.do",
+        "logo": "https://i.imgur.com/AHaXlCh.png",
+        "url": "http://animezonetv.net/hls/stream.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Notisur TV",
+        "id": "NotisurTV.do",
+        "logo": "https://rdomint.com/images/station/300.jpg",
+        "url": "https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "DO"
     }

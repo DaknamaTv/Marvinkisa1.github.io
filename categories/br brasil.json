@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ESPN Brasil HD",
+        "id": "espnbrasilhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/95537313091.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/dda76b42-5d48-48f2-8ec2-2eb8a3d4f6c9.ts",
+        "categories": [
+            "|br| brasil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CAnal SONY HD",
+        "id": "canalsonyhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/17729052711.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/6c836464-60ee-40d9-b223-f961d9e40fa8.ts",
+        "categories": [
+            "|br| brasil"
+        ],
+        "country": ""
+    }
+]

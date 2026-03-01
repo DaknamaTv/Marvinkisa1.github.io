@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DE: 1-2-3 TV",
+        "id": "de123tv",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/1-2-3Tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/497453",
+        "categories": [
+            "de news - information"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: ARD ALPHA",
+        "id": "deardalpha",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/ard-alpha.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/195545",
+        "categories": [
+            "de news - information"
+        ],
+        "country": ""
+    }
+]

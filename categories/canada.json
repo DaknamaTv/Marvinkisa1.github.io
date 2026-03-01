@@ -130,16 +130,6 @@
         "country": "CA"
     },
     {
-        "name": "CBS WEST",
-        "id": "CBSWEST.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94099",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CHCH",
         "id": "chch.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/CHCH_HD_CA.png",
@@ -154,16 +144,6 @@
         "id": "cinepop.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/CINEPOP-HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94101",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CITY MONTREAL",
-        "id": "citytvmontreal.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CITY-MONTREAL-HD.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94102",
         "categories": [
             "canada"
         ],
@@ -320,16 +300,6 @@
         "country": "CA"
     },
     {
-        "name": "HOPE TV",
-        "id": "HOPETV.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94139",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "ICI VANCOUVER",
         "id": "ICIVANCOUVER.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/ICI-VANCOUVER-HD.png",
@@ -354,16 +324,6 @@
         "id": "KTLA.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/",
         "url": "http://sansat.co:88/02021375753918/8946623682/94144",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "NICK",
-        "id": "NICK.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/Nick_hd.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94159",
         "categories": [
             "canada"
         ],
@@ -410,30 +370,10 @@
         "country": "CA"
     },
     {
-        "name": "TELE QUEBEC",
-        "id": "TELEQUEBEC.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/TELE-QUEBEC-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94190",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "THE WEATHER NETWORK",
         "id": "theweathernetwork.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/TheWeatherNetwork.ca.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94193",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TMN 1",
-        "id": "tmn.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/tmn.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94195",
         "categories": [
             "canada"
         ],
@@ -490,16 +430,6 @@
         "country": "CA"
     },
     {
-        "name": "VISION",
-        "id": "vision.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/Vision_TV_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94211",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WILD TV",
         "id": "wild.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/Wild.ca.png",
@@ -540,40 +470,10 @@
         "country": "CA"
     },
     {
-        "name": "TELE TOON FRENCH",
-        "id": "teletoonfrench.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/TeletoonFrench.ca.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94231",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TREEHOUSE",
-        "id": "treehouse.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/Treehouse_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94232",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "TRAVEL ESCAPE",
         "id": "travelescape.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/",
         "url": "http://sansat.co:88/02021375753918/8946623682/94235",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CNN",
-        "id": "cnn.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/CNN_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94239",
         "categories": [
             "canada"
         ],
@@ -670,16 +570,6 @@
         "country": "CA"
     },
     {
-        "name": "CBC WINNIPEG HD",
-        "id": "CBCWINNIPEGHD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/235144",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CBC REGINA HD",
         "id": "CBCREGINAHD.ca",
         "logo": "",
@@ -770,26 +660,6 @@
         "country": "CA"
     },
     {
-        "name": "DAZN 1 HD",
-        "id": "dazn.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268545",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "DAZN 2 HD",
-        "id": "DAZN2HD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268546",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "DAZN 4 HD",
         "id": "DAZN4HD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
@@ -820,16 +690,6 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 433 HD",
-        "id": "SUPERSPORTSCH433HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268563",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "SUPER SPORTS CH 434 HD",
         "id": "SUPERSPORTSCH434HD.ca",
         "logo": "",
@@ -850,30 +710,10 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 441 HD",
-        "id": "SUPERSPORTSCH441HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268571",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "SUPER SPORTS CH 443 HD",
         "id": "SUPERSPORTSCH443HD.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268573",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 444 HD",
-        "id": "SUPERSPORTSCH444HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268574",
         "categories": [
             "canada"
         ],
@@ -894,26 +734,6 @@
         "id": "SUPERSPORTSCH452HD.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268576",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 453 HD",
-        "id": "SUPERSPORTSCH453HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268577",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 457/480 HD",
-        "id": "SUPERSPORTSCH457480HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268581",
         "categories": [
             "canada"
         ],
@@ -950,40 +770,10 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 461 HD",
-        "id": "SUPERSPORTSCH461HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268585",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 462 HD",
-        "id": "SUPERSPORTSCH462HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268586",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "OHL 03",
         "id": "OHL03.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/ohl.jpg",
         "url": "http://sansat.co:88/02021375753918/8946623682/268602",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "OHL 05",
-        "id": "OHL05.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/ohl.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268604",
         "categories": [
             "canada"
         ],
@@ -1020,16 +810,6 @@
         "country": "CA"
     },
     {
-        "name": "WHL 02",
-        "id": "WHL02.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268616",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WHL 04",
         "id": "WHL04.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
@@ -1060,36 +840,6 @@
         "country": "CA"
     },
     {
-        "name": "WHL 12",
-        "id": "WHL12.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268626",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "WHL 13",
-        "id": "WHL13.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268627",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "WHL 15",
-        "id": "WHL15.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268629",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WHL 18",
         "id": "WHL18.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
@@ -1104,26 +854,6 @@
         "id": "QMIJHL01.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268634",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "QMIJHL 02",
-        "id": "QMIJHL02.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268635",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "QMIJHL 05",
-        "id": "QMIJHL05.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268638",
         "categories": [
             "canada"
         ],
@@ -1170,60 +900,10 @@
         "country": "CA"
     },
     {
-        "name": "CTV 2 OTTAWA HD",
-        "id": "CTV2OTTAWAHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268651",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "GLOBAL CALGARY SD",
-        "id": "GLOBALCALGARYSD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268652",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CTV EDMONTON HD",
-        "id": "CTVEDMONTONHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268654",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CTV CALGARY HD",
         "id": "CTVCALGARYHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268655",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CBC TORONTO HD",
-        "id": "CBCTORONTOHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CBC-TORONTO-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268665",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CITY TORONTO HD",
-        "id": "CITYTORONTOHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CITY-TV-TORONTO-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268667",
         "categories": [
             "canada"
         ],
@@ -1280,16 +960,6 @@
         "country": "CA"
     },
     {
-        "name": "CRIME & INVESTIGATION HD",
-        "id": "CRIMEINVESTIGATIONHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CRIME&INVESTIGATION-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268673",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "DEJAVIEW HD",
         "id": "DEJAVIEWHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/DEJAVIEW--NP.png",
@@ -1304,16 +974,6 @@
         "id": "DTOURHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/DTOUR-NP.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268702",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "E! HD",
-        "id": "EHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/E!-NP.jpeg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268703",
         "categories": [
             "canada"
         ],
@@ -1374,16 +1034,6 @@
         "id": "HGTVHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/HGTV-HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268712",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "MIRACLE HD",
-        "id": "MIRACLEHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/miraclechannel.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268717",
         "categories": [
             "canada"
         ],
@@ -1770,16 +1420,6 @@
         "country": "CA"
     },
     {
-        "name": "NAT GEO",
-        "id": "natgeo.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/NatGeo_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94267",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CTV 2 VANCOUVER",
         "id": "ctv2vancouver.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/CTV__Two_Atlantic_CA.png",
@@ -2160,26 +1800,6 @@
         "country": ""
     },
     {
-        "name": "ON CABLE 20 HD",
-        "id": "oncable20hd",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/235168",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ON CABLE 53 HD",
-        "id": "oncable53hd",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/235170",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "NB CABLE 10 FRANCAIS HD",
         "id": "nbcable10francaishd",
         "logo": "",
@@ -2214,6 +1834,986 @@
         "id": "canadafrench",
         "logo": "http://vodkom.com:25461/Logo/FLAGS/canada.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94277",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet West HD",
+        "id": "casportsnetwesthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057073",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsnet Oilers HD",
+        "id": "casportsnetoilershd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057066",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TSN 4K West",
+        "id": "catsn4kwest",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057062",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA FOX Sports Racing HD",
+        "id": "cafoxsportsracinghd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057056",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Sportsman Channel HD",
+        "id": "casportsmanchannelhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057054",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA One Soccer HD",
+        "id": "caonesoccerhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057053",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CPAC Francais HD",
+        "id": "cacpacfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057046",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA ICI Vancouver Francais HD",
+        "id": "caicivancouverfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057042",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TV5 East Francais HD",
+        "id": "catv5eastfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057041",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TV5 West Francais HD",
+        "id": "catv5westfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057040",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA ELLE FICTIONS Francais HD",
+        "id": "caellefictionsfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057036",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA MAX Francais HD",
+        "id": "camaxfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057030",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Meteo Vancouver Francais HD",
+        "id": "cameteovancouverfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057029",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CA Teletoon Francais HD",
+        "id": "cacateletoonfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057028",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Baby TV Francais SD",
+        "id": "cababytvfrancaissd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057026",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA QUB Francais HD",
+        "id": "caqubfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057024",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Evasion Francais HD",
+        "id": "caevasionfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057023",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TFO Francais HD",
+        "id": "catfofrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057021",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Canal Vie Francais HD",
+        "id": "cacanalviefrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057020",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Series Plus Francais HD",
+        "id": "caseriesplusfrancaishd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057019",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Travel XP 4K",
+        "id": "catravelxp4k",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057010",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Stingray Now 4K",
+        "id": "castingraynow4k",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057007",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Winnipeg HD",
+        "id": "cactvwinnipeghd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056996",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Edmonton HD",
+        "id": "cactvedmontonhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056995",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV Toronto HD",
+        "id": "cactvtorontohd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056989",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CTV2 AB HD",
+        "id": "cactv2abhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056987",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CBC Toronto HD",
+        "id": "cacbctorontohd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056983",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Citytv Calgary HD",
+        "id": "cacitytvcalgaryhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056978",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Edmonton HD",
+        "id": "caglobaledmontonhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056974",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global BC1 HD",
+        "id": "caglobalbc1hd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056970",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA BBC Earth HD",
+        "id": "cabbcearthhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056966",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA BC Leg HD",
+        "id": "cabcleghd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056965",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Crime+ Investigation HD",
+        "id": "cacrimeinvestigationhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056963",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CHEK HD",
+        "id": "cachekhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056961",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CNBC HD",
+        "id": "cacnbchd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056959",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA CPAC English HD",
+        "id": "cacpacenglishhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056956",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Disney East HD",
+        "id": "cadisneyeasthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056953",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Documentary HD",
+        "id": "cadocumentaryhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056951",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA E! Canada HD",
+        "id": "caecanadahd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056949",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Game Plus HD",
+        "id": "cagameplushd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056948",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA GameTV HD",
+        "id": "cagametvhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056943",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA HBO 2 East HD",
+        "id": "cahbo2easthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056940",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA BBC First HD",
+        "id": "cabbcfirsthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056937",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Hollywood Suite 70s HD",
+        "id": "cahollywoodsuite70shd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056934",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Knowledge Network HD",
+        "id": "caknowledgenetworkhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056930",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Lifetime HD",
+        "id": "califetimehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056929",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA MSNBC HD",
+        "id": "camsnbchd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056926",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA OMNI HD",
+        "id": "caomnihd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056922",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA OUT tv HD",
+        "id": "caouttvhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056921",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Super Channel Fuse HD",
+        "id": "casuperchannelfusehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056917",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Crave 1 East HD",
+        "id": "cacrave1easthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056911",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA STARZ 1 West HD",
+        "id": "castarz1westhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056907",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA STARZ 2 West HD",
+        "id": "castarz2westhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056906",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Treehouse HD",
+        "id": "catreehousehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056904",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA W Network East HD",
+        "id": "cawnetworkeasthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056901",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Wild TV HD",
+        "id": "cawildtvhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056900",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Adult Swim HD",
+        "id": "caadultswimhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056897",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA FX West HD",
+        "id": "cafxwesthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056896",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Boomerang Network Canada HD",
+        "id": "caboomerangnetworkcanadahd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056893",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Miracle Channel HD",
+        "id": "camiraclechannelhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056890",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA EWTN SD",
+        "id": "caewtnsd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056885",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Baby TV SD",
+        "id": "cababytvsd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056882",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA REV TV HD",
+        "id": "carevtvhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056877",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Willow TV HD",
+        "id": "cawillowtvhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056876",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TWN Kamloops HD",
+        "id": "catwnkamloopshd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056875",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Makeful HD",
+        "id": "camakefulhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056874",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Stingray Vibe HD",
+        "id": "castingrayvibehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056873",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Rewind HD",
+        "id": "carewindhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056872",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Cowbow Channel HD",
+        "id": "cacowbowchannelhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056869",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Water TV HD",
+        "id": "cawatertvhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056868",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Peachtree HD",
+        "id": "capeachtreehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056867",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA APTNL HD",
+        "id": "caaptnlhd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056864",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA BBC World News HD",
+        "id": "cabbcworldnewshd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056863",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA OMNI Prairies HD",
+        "id": "caomniprairieshd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056860",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Super Channel Heart & Home HD",
+        "id": "casuperchannelhearthomehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056856",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA YTV West HD",
+        "id": "caytvwesthd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056853",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Grave 1",
+        "id": "cagrave1",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056852",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Grave 3",
+        "id": "cagrave3",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056850",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Super Ecran 1",
+        "id": "casuperecran1",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056848",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Food Network",
+        "id": "cafoodnetwork",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056841",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global TV Calgary",
+        "id": "caglobaltvcalgary",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056839",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global TV Edmonton",
+        "id": "caglobaltvedmonton",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056838",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA HGTV",
+        "id": "cahgtv",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056836",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Nat Geo",
+        "id": "canatgeo",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056835",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA TSN 5",
+        "id": "catsn5",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056827",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global News Regina",
+        "id": "caglobalnewsregina",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056820",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global News Lethbridge",
+        "id": "caglobalnewslethbridge",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056816",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA City News National",
+        "id": "cacitynewsnational",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056815",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA City News Calgary",
+        "id": "cacitynewscalgary",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1056813",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA:Sportsnet ONE HD",
+        "id": "casportsnetonehd",
+        "logo": "https://cdn.freebiesupply.com/logos/large/2x/canada-flag-logo-png-transparent.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/925927",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] : CITY TV TORONTO",
+        "id": "cacitytvtoronto",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/13924",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] : COTTAGE LIFE",
+        "id": "cacottagelife",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/13931",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] : CTV MONTREAL",
+        "id": "cactvmontreal",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/13935",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] : WEATHER NETWORK",
+        "id": "caweathernetwork",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/13991",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA-FR] SUPER ECRAN 1",
+        "id": "cafrsuperecran1",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/14013",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] AMC | HD",
+        "id": "caamchd",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/14025",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] CARTOON NETWORK | HD",
+        "id": "cacartoonnetworkhd",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/14029",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[CA] YES TV | SD",
+        "id": "cayestvsd",
+        "logo": "",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/14097",
         "categories": [
             "canada"
         ],

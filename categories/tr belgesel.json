@@ -1,0 +1,32 @@
+[
+    {
+        "name": "TR: NATIONAL GEO FHD",
+        "id": "trnationalgeofhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/national_geo.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/301271",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: NATIONAL GEO WILD FHD",
+        "id": "trnationalgeowildfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/national_geo_wild.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/240520",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: ID XTRA",
+        "id": "tridxtra",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/idxtrahd.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/289003",
+        "categories": [
+            "tr belgesel"
+        ],
+        "country": ""
+    }
+]

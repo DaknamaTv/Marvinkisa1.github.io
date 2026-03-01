@@ -158,16 +158,6 @@
         "country": "CM"
     },
     {
-        "name": "CAM 10 TV",
-        "id": "CAM10TV.cm",
-        "logo": "https://i.imgur.com/xspb9uY.png",
-        "url": "https://stream.it-innov.com/cam10tv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "Canal 2 International",
         "id": "Canal2International.cm",
         "logo": "https://i.imgur.com/BzA2z7m.png",
@@ -194,6 +184,16 @@
         "url": "http://69.64.57.208/equinoxtv/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CM"
+    },
+    {
+        "name": "TR24 Television",
+        "id": "TR24Television.cm",
+        "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
+        "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "CM"
     },
@@ -244,6 +244,16 @@
         "url": "https://tv.btnrwanda.com:3086/live/btnlive.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "RW"
+    },
+    {
+        "name": "B+ TV",
+        "id": "BPlusTV.rw",
+        "logo": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg",
+        "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "RW"
     },
@@ -1548,16 +1558,6 @@
         "country": "SN"
     },
     {
-        "name": "TFM",
-        "id": "TFM.sn",
-        "logo": "https://i.imgur.com/TQWBlXn.png",
-        "url": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tfm.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "SenJeunes TV",
         "id": "SenJeunesTV.sn",
         "logo": "https://i.imgur.com/MeCSPsI.jpg",
@@ -1704,6 +1704,16 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/76625",
         "categories": [
             "af senegal"
+        ],
+        "country": "SN"
+    },
+    {
+        "name": "Sen TV",
+        "id": "SenTV.sn",
+        "logo": "https://i.imgur.com/beVCugh.png",
+        "url": "http://69.64.57.208/sentv/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "SN"
     },
@@ -2360,16 +2370,6 @@
         "country": "TR"
     },
     {
-        "name": "TRT Cocuk",
-        "id": "TRTCocuk.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
-        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "TRT 1 HD",
         "id": "TRT1HD.tr",
         "logo": "http://www.vodkom.com:25461/Logo/TURKISH/TRT1_HD.png",
@@ -2770,16 +2770,6 @@
         "country": "TR"
     },
     {
-        "name": "SEMERKAND TV UHD",
-        "id": "SEMERKANDTVUHD.tr",
-        "logo": "http://www.vodkom.com:25461/Logo/TURKISH/SEMERKAND_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/99109",
-        "categories": [
-            "eu turkish"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "AVA TV UHD",
         "id": "AVATVUHD.tr",
         "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
@@ -3100,16 +3090,6 @@
         "country": "TR"
     },
     {
-        "name": "CINETIME SCI- FI 2",
-        "id": "CINETIMESCIFI2.tr",
-        "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/193178",
-        "categories": [
-            "eu turkish"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "CINETIME PREMIER",
         "id": "CINETIMEPREMIER.tr",
         "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
@@ -3374,16 +3354,6 @@
         "id": "ELITSINEMAYERLI2HD.tr",
         "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
         "url": "http://sansat.co:88/02021375753918/8946623682/99163",
-        "categories": [
-            "eu turkish"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "ELIT SINEMA KOMEDI HD",
-        "id": "ELITSINEMAKOMEDIHD.tr",
-        "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/99166",
         "categories": [
             "eu turkish"
         ],
@@ -3750,16 +3720,6 @@
         "country": "TR"
     },
     {
-        "name": "BEIN SPORTS 1 UHD",
-        "id": "BEINSPORTS1UHD.tr",
-        "logo": "http://www.vodkom.com:25461/Logo/TURKISH/BEIN_SPORTS_1_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/99226",
-        "categories": [
-            "eu turkish"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "BEIN SPORTS 2 UHD",
         "id": "BEINSPORTS2UHD.tr",
         "logo": "http://www.vodkom.com:25461/Logo/TURKISH/BEIN_SPORTS_2_HD.png",
@@ -3974,16 +3934,6 @@
         "id": "SSPORT6FHD.tr",
         "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
         "url": "http://sansat.co:88/02021375753918/8946623682/376060",
-        "categories": [
-            "eu turkish"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "S SPORT+ 7 FHD",
-        "id": "SSPORT7FHD.tr",
-        "logo": "http://www.vodkom.com:25461/Logo/TURKISH/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/376061",
         "categories": [
             "eu turkish"
         ],
@@ -4208,16 +4158,6 @@
         "country": "TR"
     },
     {
-        "name": "S Sport+4 Mac Saati",
-        "id": "SSport4MacSaati.tr",
-        "logo": "http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/137716",
-        "categories": [
-            "s-sport"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Tivibu Spor 1 FHD",
         "id": "TivibuSpor1FHD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tivibu_spor_2.png",
@@ -4278,102 +4218,12 @@
         "country": "TR"
     },
     {
-        "name": "Caillou TV HD",
-        "id": "CaillouTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxcailloutv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/28933",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Kids Max TV HD",
-        "id": "KidsMaxTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/kidsturk.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6249",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Şirinler TV HD",
-        "id": "irinlerTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxsirinlertv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6245",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Pembe Panter TV HD",
         "id": "PembePanterTVHD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpembepanter.png",
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6235",
         "categories": [
             "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Tom & Jerry TV HD",
-        "id": "TomJerryTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxtomjerry.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6240",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MAX Müzik Tv 4 HD",
-        "id": "MAXMzikTv4HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/189587",
-        "categories": [
-            "muzik kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MAX Müzik Tv 7 HD",
-        "id": "MAXMzikTv7HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/189590",
-        "categories": [
-            "muzik kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MAX Müzik Tv 8 HD",
-        "id": "MAXMzikTv8HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/189591",
-        "categories": [
-            "muzik kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Yerli Sinema TV 3 HD",
-        "id": "MaximTVYerliSinemaTV3HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/195051",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Yerli Sinema TV 4 HD",
-        "id": "MaximTVYerliSinemaTV4HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/195052",
-        "categories": [
-            "sinema kanallari"
         ],
         "country": "TR"
     },
@@ -4388,110 +4238,10 @@
         "country": "TR"
     },
     {
-        "name": "MaximTV Komedi TV 4 HD",
-        "id": "MaximTVKomediTV4HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/195947",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Komedi TV 5 HD",
-        "id": "MaximTVKomediTV5HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/195948",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Komedi TV 9 HD",
-        "id": "MaximTVKomediTV9HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/195952",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Komedi TV 10 HD",
-        "id": "MaximTVKomediTV10HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/195953",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 4",
-        "id": "MaximTVFilmTVHD4.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188110",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 6",
-        "id": "MaximTVFilmTVHD6.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188112",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 8",
-        "id": "MaximTVFilmTVHD8.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188114",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 9",
-        "id": "MaximTVFilmTVHD9.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188115",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "MaximTV Film TV HD 12",
         "id": "MaximTVFilmTVHD12.tr",
         "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188118",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 19",
-        "id": "MaximTVFilmTVHD19.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188125",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 20",
-        "id": "MaximTVFilmTVHD20.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188126",
         "categories": [
             "sinema kanallari"
         ],
@@ -4518,120 +4268,10 @@
         "country": "TR"
     },
     {
-        "name": "MaximTV Sinema TV 3 HD",
-        "id": "MaximTVSinemaTV3HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188042",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema TV 4 HD",
-        "id": "MaximTVSinemaTV4HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188043",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema TV 14 HD",
-        "id": "MaximTVSinemaTV14HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188053",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 1 HD",
-        "id": "MaximTVSinemaPlay1HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188791",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 10 HD",
-        "id": "MaximTVSinemaPlay10HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188800",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 11 HD",
-        "id": "MaximTVSinemaPlay11HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188801",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "MaximTV Sinema Play 13 HD",
         "id": "MaximTVSinemaPlay13HD.tr",
         "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188803",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 15 HD",
-        "id": "MaximTVSinemaPlay15HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188805",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 16 HD",
-        "id": "MaximTVSinemaPlay16HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188806",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 17 HD",
-        "id": "MaximTVSinemaPlay17HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188807",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 18 HD",
-        "id": "MaximTVSinemaPlay18HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188808",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Office 2",
-        "id": "MaximTVBoxOffice2.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/20344",
         "categories": [
             "sinema kanallari"
         ],
@@ -4648,90 +4288,10 @@
         "country": "TR"
     },
     {
-        "name": "MaximTV Box Office 7",
-        "id": "MaximTVBoxOffice7.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/20349",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Office 11",
-        "id": "MaximTVBoxOffice11.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/187951",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Office 12",
-        "id": "MaximTVBoxOffice12.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/187952",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Sinema 1 HD",
-        "id": "MaximTVBoxSinema1HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/445231",
-        "categories": [
-            "maximtv box sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Sinema 4 HD",
-        "id": "MaximTVBoxSinema4HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/445234",
-        "categories": [
-            "maximtv box sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Sinema 8 HD",
-        "id": "MaximTVBoxSinema8HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/445238",
-        "categories": [
-            "maximtv box sinema"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "beIN Box Office 2 FHD",
         "id": "beINBoxOffice2FHD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_2.png",
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6196",
-        "categories": [
-            "bein sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Movies Action 1 FHD",
-        "id": "beINMoviesAction1FHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6198",
-        "categories": [
-            "bein sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Movies Family FHD",
-        "id": "beINMoviesFamilyFHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_family.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6204",
         "categories": [
             "bein sinema"
         ],
@@ -4808,92 +4368,12 @@
         "country": "TR"
     },
     {
-        "name": "Animasyon Sinema TV 1",
-        "id": "AnimasyonSinemaTV1.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6364",
-        "categories": [
-            "animasyon sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Animasyon Sinema TV 10",
-        "id": "AnimasyonSinemaTV10.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6373",
-        "categories": [
-            "animasyon sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Western Sinema TV 1 HD",
-        "id": "WesternSinemaTV1HD.tr",
-        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/35849",
-        "categories": [
-            "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Western Sinema TV 3 HD",
-        "id": "WesternSinemaTV3HD.tr",
-        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/35852",
-        "categories": [
-            "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Western Sinema TV 6 HD",
-        "id": "WesternSinemaTV6HD.tr",
-        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/35855",
-        "categories": [
-            "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Western Sinema TV 7 HD",
-        "id": "WesternSinemaTV7HD.tr",
-        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/35856",
-        "categories": [
-            "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Western Sinema TV 8 HD",
-        "id": "WesternSinemaTV8HD.tr",
-        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/35857",
-        "categories": [
-            "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Western Sinema TV 9 HD",
         "id": "WesternSinemaTV9HD.tr",
         "logo": "https://clipart-library.com/images/BigrqGR6T.png",
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/35858",
         "categories": [
             "western sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Loca Sinema 1 HD",
-        "id": "LocaSinema1HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/locatvmax.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6164",
-        "categories": [
-            "loca sinema"
         ],
         "country": "TR"
     },
@@ -4908,280 +4388,10 @@
         "country": "TR"
     },
     {
-        "name": "Loca Sinema 6 HD",
-        "id": "LocaSinema6HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/locatvmax.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6169",
-        "categories": [
-            "loca sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Salon Sinema 5 HD",
-        "id": "SalonSinema5HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/salonmax.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6158",
-        "categories": [
-            "salon sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "3D Sinema Tv 1 HD",
-        "id": "3DSinemaTv1HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/max3dsinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/203338",
-        "categories": [
-            "3d sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "3D Sinema Tv 5 HD",
-        "id": "3DSinemaTv5HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/max3dsinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/203342",
-        "categories": [
-            "3d sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "4K Sinema TV 5 HD",
-        "id": "4KSinemaTV5HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/102237",
-        "categories": [
-            "4k sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "4K Sinema TV 7 HD",
-        "id": "4KSinemaTV7HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/4kcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/102239",
-        "categories": [
-            "4k sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": ARABESK FM",
-        "id": "ARABESKFM.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194692",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": RADYO 37",
-        "id": "RADYO37.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194702",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": RADYO 38",
-        "id": "RADYO38.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194707",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": AFYON ARMONI FM",
-        "id": "AFYONARMONIFM.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194722",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": ANTAKYA RADYO RENK",
-        "id": "ANTAKYARADYORENK.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194723",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": BILECIK FM",
-        "id": "BILECIKFM.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194725",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": ELBISTAN RADYO UMUT",
-        "id": "ELBISTANRADYOUMUT.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194735",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": IZMIR CAN RADYO",
-        "id": "IZMIRCANRADYO.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194749",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": KARAMURSEL FM",
-        "id": "KARAMURSELFM.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194750",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": KAY RADYO KAYSERI",
-        "id": "KAYRADYOKAYSERI.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194751",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": NIGDE FM",
-        "id": "NIGDEFM.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194763",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": RADYO 08",
-        "id": "RADYO08.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194766",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": RADYO 13",
-        "id": "RADYO13.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194767",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": RADYO FLASH AYDIN",
-        "id": "RADYOFLASHAYDIN.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194773",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": TRABZON KUZEY RADYO",
-        "id": "TRABZONKUZEYRADYO.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194783",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": ": ULKU FM",
-        "id": "ULKUFM.tr",
-        "logo": "",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/194788",
-        "categories": [
-            "radyo kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Maxim Film Modu 8 HD",
-        "id": "MaximFilmModu8HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/350788",
-        "categories": [
-            "maximtv film modu"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Maxim Film Modu 10 HD",
-        "id": "MaximFilmModu10HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/350790",
-        "categories": [
-            "maximtv film modu"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "MaximTV Sinema 2 HD",
         "id": "MaximTVSinema2HD.tr",
         "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png",
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/452846",
-        "categories": [
-            "maximtv sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema 6 HD",
-        "id": "MaximTVSinema6HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/452850",
-        "categories": [
-            "maximtv sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema 8 HD",
-        "id": "MaximTVSinema8HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/452852",
-        "categories": [
-            "maximtv sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema 9 HD",
-        "id": "MaximTVSinema9HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/452853",
         "categories": [
             "maximtv sinema"
         ],
@@ -5194,256 +4404,6 @@
         "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/536148",
         "categories": [
             "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Balık Tv HD",
-        "id": "BalkTvHD.tr",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/zgrr8174/dff46c2f8b36e509/189003",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema TV 6 HD",
-        "id": "MaximTVSinemaTV6HD.tr",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/zgrr8174/dff46c2f8b36e509/188045",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 7 HD",
-        "id": "MaximTVSinemaPlay7HD.tr",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/zgrr8174/dff46c2f8b36e509/188797",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Sinema 2 HD",
-        "id": "MaximTVBoxSinema2HD.tr",
-        "logo": "",
-        "url": "http://favoritest25.shop:8080/zgrr8174/dff46c2f8b36e509/445232",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "beIN Sports 5 HD",
-        "id": "beINSports5HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/125936",
-        "categories": [
-            "bein spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "A Spor HD",
-        "id": "ASporHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_spor.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/6113",
-        "categories": [
-            "yerel spor"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Yerli Sinema TV 9 HD",
-        "id": "MaximTVYerliSinemaTV9HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/195057",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 2",
-        "id": "MaximTVFilmTVHD2.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/188108",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema TV 19 HD",
-        "id": "MaximTVSinemaTV19HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/188058",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 4 HD",
-        "id": "MaximTVSinemaPlay4HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/188794",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema Play 9 HD",
-        "id": "MaximTVSinemaPlay9HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/188799",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Office 3",
-        "id": "MaximTVBoxOffice3.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/20345",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Office 10",
-        "id": "MaximTVBoxOffice10.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/20352",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "3D Sinema Tv 9 HD",
-        "id": "3DSinemaTv9HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/max3dsinema.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/203346",
-        "categories": [
-            "3d sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Nick JR HD",
-        "id": "MaximTVNickJRHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnickjr.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/113705",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Maxim Film Modu 6 HD",
-        "id": "MaximFilmModu6HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/350786",
-        "categories": [
-            "maximtv film modu"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema 1 HD",
-        "id": "MaximTVSinema1HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png",
-        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/452845",
-        "categories": [
-            "maximtv sinema"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Minika Çocuk HD",
-        "id": "MinikaocukHD.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6247",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Disney Channel HD",
-        "id": "DisneyChannelHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/disnepchannel.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/20416",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Film TV HD 11",
-        "id": "MaximTVFilmTVHD11.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188117",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV VIP Sinema 9 HD",
-        "id": "MaximTVVIPSinema9HD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/112211",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema TV 10 HD",
-        "id": "MaximTVSinemaTV10HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188049",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Sinema TV 12 HD",
-        "id": "MaximTVSinemaTV12HD.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/188051",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Box Office 6",
-        "id": "MaximTVBoxOffice6.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/20348",
-        "categories": [
-            "sinema kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Animasyon Sinema TV 7",
-        "id": "AnimasyonSinemaTV7.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxanimasyontv.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6370",
-        "categories": [
-            "animasyon sinema"
         ],
         "country": "TR"
     },
@@ -5622,6 +4582,366 @@
         "logo": "https://i.imgur.com/f0Soeob.png",
         "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
         "categories": [],
+        "country": "TR"
+    },
+    {
+        "name": "Duyurular",
+        "id": "Duyurular.tr",
+        "logo": "https://apkx.xyz/abc.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/183792",
+        "categories": [
+            "maximtv duyurular"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 1 SD [480p]",
+        "id": "beINSports1SD480p.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/35762",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 1 720p",
+        "id": "beINSports1720p.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/351541",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 1 HD (Kutu Yayin)",
+        "id": "beINSports1HDKutuYayin.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/456568",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 1 HD (BoX)",
+        "id": "beINSports1HDBoX.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/456567",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 3 HD",
+        "id": "beINSports3HD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6097",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 3 UHD",
+        "id": "beINSports3UHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/195812",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports 4 SD",
+        "id": "beINSports4SD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/196218",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Sports Max 1",
+        "id": "beINSportsMax1.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6099",
+        "categories": [
+            "bein spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Spor Smart 1 HD",
+        "id": "SporSmart1HD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/121246",
+        "categories": [
+            "smart spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "S Sport+1 Mac Saati",
+        "id": "SSport1MacSaati.tr",
+        "logo": "http://www.broadcasterinfo.net/systems/images/ckImages/902687a2-ac5a-4174-baad-d887e93d252a.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/137713",
+        "categories": [
+            "s-sport"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TJK TV HD",
+        "id": "TJKTVHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tjk_tv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6116",
+        "categories": [
+            "yerel spor"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Tv 8 HD",
+        "id": "Tv8HD.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/20742",
+        "categories": [
+            "ulusal tv [hd]"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Haber",
+        "id": "TRTHaber.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6208",
+        "categories": [
+            "haber kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Haber Türk",
+        "id": "HaberTrk.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6212",
+        "categories": [
+            "haber kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "National Geographic Wild HD",
+        "id": "NationalGeographicWildHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6287",
+        "categories": [
+            "belgesel kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Hazine TV HD",
+        "id": "HazineTVHD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxhazinetv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/451019",
+        "categories": [
+            "belgesel kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Docubox HD",
+        "id": "DocuboxHD.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/35998",
+        "categories": [
+            "belgesel kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Pepe TV HD",
+        "id": "PepeTVHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpepetv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6241",
+        "categories": [
+            "cocuk kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Komedi TV 2 HD",
+        "id": "MaximTVKomediTV2HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/195945",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Komedi TV  6 HD",
+        "id": "MaximTVKomediTV6HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/195949",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Komedi TV 8 HD",
+        "id": "MaximTVKomediTV8HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/195951",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Film TV HD 1",
+        "id": "MaximTVFilmTVHD1.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/188107",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Film TV HD 7",
+        "id": "MaximTVFilmTVHD7.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/188113",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Sinema TV 11 HD",
+        "id": "MaximTVSinemaTV11HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/188050",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "MaximTV Box Office 8",
+        "id": "MaximTVBoxOffice8.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/20350",
+        "categories": [
+            "sinema kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Movies Premier 2 FHD",
+        "id": "beINMoviesPremier2FHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premire_2.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6201",
+        "categories": [
+            "bein sinema"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "beIN Series Vice FHD",
+        "id": "beINSeriesViceFHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/125800",
+        "categories": [
+            "bein sinema"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Western Sinema TV 10 HD",
+        "id": "WesternSinemaTV10HD.tr",
+        "logo": "https://clipart-library.com/images/BigrqGR6T.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/35859",
+        "categories": [
+            "western sinema"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Loca Sinema 8 HD",
+        "id": "LocaSinema8HD.tr",
+        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/locatvmax.png",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/6171",
+        "categories": [
+            "loca sinema"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": ": GEBZE FM",
+        "id": "GEBZEFM.tr",
+        "logo": "",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/194684",
+        "categories": [
+            "radyo kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": ": ASK FM ANKARA",
+        "id": "ASKFMANKARA.tr",
+        "logo": "",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/194696",
+        "categories": [
+            "radyo kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": ": ERZINCAN RADYO TEK",
+        "id": "ERZINCANRADYOTEK.tr",
+        "logo": "",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/194739",
+        "categories": [
+            "radyo kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": ": GEBZE GUL FM",
+        "id": "GEBZEGULFM.tr",
+        "logo": "",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/194741",
+        "categories": [
+            "radyo kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": ": TUNCELI RADYO MUNZUR",
+        "id": "TUNCELIRADYOMUNZUR.tr",
+        "logo": "",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/194785",
+        "categories": [
+            "radyo kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": ": UMUT FM",
+        "id": "UMUTFM.tr",
+        "logo": "",
+        "url": "http://favoritest25.shop:8080/lvnt0536/byc36/194787",
+        "categories": [
+            "radyo kanallari"
+        ],
         "country": "TR"
     },
     {
@@ -5969,16 +5289,6 @@
         "country": "IR"
     },
     {
-        "name": "GEM SERIES PLUS HD",
-        "id": "GEMSERIESPLUSHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100848",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "GEM FILM HD",
         "id": "GEMFILMHD.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
@@ -6233,16 +5543,6 @@
         "id": "ABADANTV.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
         "url": "http://sansat.co:88/02021375753918/8946623682/100909",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "AFTAB TV |MARKAZI|",
-        "id": "AFTABTVMARKAZI.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100910",
         "categories": [
             "as iran"
         ],
@@ -6859,16 +6159,6 @@
         "country": "IR"
     },
     {
-        "name": "MIFA MUSIC TV",
-        "id": "MIFAMUSICTV.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192760",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "IRIB ESFAHAN",
         "id": "IRIBESFAHAN.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
@@ -6949,36 +6239,6 @@
         "country": "IR"
     },
     {
-        "name": "GEM DRAMA PLUS HD",
-        "id": "GEMDRAMAPLUSHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192775",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "GEM RUBIX PLUS HD",
-        "id": "GEMRUBIXPLUSHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192776",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "GEM ONYX HD",
-        "id": "GEMONYXHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192777",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "GEM PLUS HD",
         "id": "GEMPLUSHD.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
@@ -7005,6 +6265,26 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/192784",
         "categories": [
             "as iran"
+        ],
+        "country": "IR"
+    },
+    {
+        "name": "RasoulallahTv",
+        "id": "RasoulallahTv.ir",
+        "logo": "https://i.imgur.com/Jh5ADee.png",
+        "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IR"
+    },
+    {
+        "name": "WiseHumanTv",
+        "id": "WiseHumanTv.ir",
+        "logo": "https://i.imgur.com/BT7EtfB.png",
+        "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "IR"
     },
@@ -7842,6 +7122,36 @@
         "country": "KR"
     },
     {
+        "name": "HLCG-DTV",
+        "id": "HLCGDTV.kr",
+        "logo": "https://i.imgur.com/ABdmZMc.png",
+        "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLDQ-DTV",
+        "id": "HLDQDTV.kr",
+        "logo": "https://i.imgur.com/byss0Ld.png",
+        "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "Jobplus TV",
+        "id": "JobplusTV.kr",
+        "logo": "https://i.imgur.com/Y5Zg5SR.png",
+        "url": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "KR"
+    },
+    {
         "name": "Super Cable",
         "id": "SuperCable.cr",
         "logo": "https://i.imgur.com/KYtJp8F.png",
@@ -8154,16 +7464,6 @@
         "country": "CR"
     },
     {
-        "name": "Canal 10",
-        "id": "Canal10.cr",
-        "logo": "https://i.imgur.com/TO6WQbW.png",
-        "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Gex TV",
         "id": "GexTV.cr",
         "logo": "https://gextv.com/LOGO-WHITE.png",
@@ -8281,6 +7581,16 @@
         "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Retrox TV",
+        "id": "RetroxTV.cr",
+        "logo": "https://i.imgur.com/viJBL6f.png",
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8",
+        "categories": [
+            "classic"
         ],
         "country": "CR"
     },
@@ -9235,14 +8545,6 @@
         "country": "MY"
     },
     {
-        "name": "TV2",
-        "id": "TV2.my",
-        "logo": "https://i.imgur.com/LGEdeyJ.png",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
-        "categories": [],
-        "country": "MY"
-    },
-    {
         "name": "Okey",
         "id": "Okey.my",
         "logo": "https://i.imgur.com/V2jREQ5.png",
@@ -9250,6 +8552,14 @@
         "categories": [
             "general"
         ],
+        "country": "MY"
+    },
+    {
+        "name": "TV1",
+        "id": "TV1.my",
+        "logo": "https://i.imgur.com/wSyPmiY.png",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+        "categories": [],
         "country": "MY"
     },
     {
@@ -10110,11 +9420,23 @@
         "country": "ID"
     },
     {
-        "name": "Sultra TV",
-        "id": "SultraTV.id",
-        "logo": "https://i.imgur.com/cmpbNJz.png",
-        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
+        "name": "Al-Iman TV",
+        "id": "AlImanTV.id",
+        "logo": "https://i.imgur.com/Qj1EFf1.png",
+        "url": "https://tv.aliman.id/aliman/live.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Padang TV",
+        "id": "PadangTV.id",
+        "logo": "https://i.imgur.com/EL2BfxY.png",
+        "url": "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "ID"
     },
     {
@@ -11135,16 +10457,6 @@
         "country": "EG"
     },
     {
-        "name": "NogoumFMTV",
-        "id": "NogoumFMTV.eg",
-        "logo": "https://i.imgur.com/krp3kgv.png",
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EG"
-    },
-    {
         "name": "Huda TV",
         "id": "HudaTV.eg",
         "logo": "https://i.imgur.com/1UUjU26.png",
@@ -11338,6 +10650,14 @@
         "country": "GH"
     },
     {
+        "name": "Resurrection TV",
+        "id": "ResurrectionTV.gh",
+        "logo": "https://i.imgur.com/IncyJW8.png",
+        "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
+        "categories": [],
+        "country": "GH"
+    },
+    {
         "name": "Vepaco TV",
         "id": "VepacoTV.ve",
         "logo": "https://i.imgur.com/0bqJksL.png",
@@ -11468,16 +10788,6 @@
         "country": "VE"
     },
     {
-        "name": "Aguacate TV",
-        "id": "AguacateTV.ve",
-        "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
-        "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "UN24",
         "id": "UN24.ve",
         "logo": "https://i.imgur.com/nGJlulj.png",
@@ -11588,16 +10898,6 @@
         "country": "VE"
     },
     {
-        "name": "TAM TV",
-        "id": "TAMTV.ve",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
-        "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "TVM para ti",
         "id": "TVMparati.ve",
         "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
@@ -11632,16 +10932,6 @@
         "id": "CanalOnce.ve",
         "logo": "https://i.imgur.com/puM9ASa.png",
         "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Siembra TV",
-        "id": "SiembraTV.ve",
-        "logo": "https://i.imgur.com/zRX91Xr.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -11734,6 +11024,16 @@
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "Alcance TV",
+        "id": "AlcanceTV.ve",
+        "logo": "https://i.imgur.com/veeuqS1.png",
+        "url": "https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "VE"
     },
@@ -14939,12 +14239,40 @@
         "country": "RU"
     },
     {
-        "name": "Shanson TV",
-        "id": "ShansonTV.ru",
-        "logo": "https://i.imgur.com/Fk4sd8t.png",
-        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "name": "City Eden TeleNovella",
+        "id": "CityEdenTeleNovella.ru",
+        "logo": "https://i.imgur.com/mT5liTh.png",
+        "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
         "categories": [
-            "music"
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Duma TV",
+        "id": "DumaTV.ru",
+        "logo": "https://i.imgur.com/JvlO3PU.png",
+        "url": "https://dumatv.iptv2022.com/playlist.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Mir Belogorya",
+        "id": "MirBelogorya.ru",
+        "logo": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
+        "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
+        "categories": [],
+        "country": "RU"
+    },
+    {
+        "name": "TV BRICS Russian",
+        "id": "TVBRICSRussian.ru",
+        "logo": "https://i.imgur.com/vLpm8tN.png",
+        "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "RU"
     },
@@ -15200,16 +14528,6 @@
         "logo": "https://i.imgur.com/Crt3P4N.png",
         "url": "https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8",
         "categories": [],
-        "country": "PR"
-    },
-    {
-        "name": "DNJ TV",
-        "id": "DNJTV.pr",
-        "logo": "https://i.imgur.com/YqTcGJZ.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
         "country": "PR"
     },
     {
@@ -19555,16 +18873,6 @@
         "country": "IN"
     },
     {
-        "name": "Namdhari TV",
-        "id": "NamdhariTV.in",
-        "logo": "https://i.imgur.com/NalsXTo.png",
-        "url": "https://namdhari.tv/live/sbs1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Pulari TV",
         "id": "PulariTV.in",
         "logo": "https://i.imgur.com/v5urG30.png",
@@ -19621,16 +18929,6 @@
         "url": "https://galaxyott.live/hls/ntv.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Pix",
-        "id": "SonyPix.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
-        "categories": [
-            "movies"
         ],
         "country": "IN"
     },
@@ -19733,16 +19031,6 @@
         "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Prudent Media",
-        "id": "PrudentMedia.in",
-        "logo": "https://i.imgur.com/DG0x4UD.png",
-        "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -20150,6 +19438,46 @@
         "id": "ZBMusic.in",
         "logo": "https://i.imgur.com/k1nb8u1.jpeg",
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "KCL TV",
+        "id": "KCLTV.in",
+        "logo": "https://i.imgur.com/bkp9dIm.png",
+        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Mastiii",
+        "id": "Mastiii.in",
+        "logo": "https://i.imgur.com/lxgXHx4.png",
+        "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Roja Movies",
+        "id": "RojaMovies.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Vaanavil TV",
+        "id": "VaanavilTV.in",
+        "logo": "https://i.imgur.com/etr1k08.png",
+        "url": "http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8",
         "categories": [
             "music"
         ],
@@ -20876,16 +20204,6 @@
         "country": "CA"
     },
     {
-        "name": "Sooriyan TV",
-        "id": "SooriyanTV.ca",
-        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Sardari TV",
         "id": "SardariTV.ca",
         "logo": "",
@@ -21054,16 +20372,6 @@
         "country": "CA"
     },
     {
-        "name": "CBS WEST",
-        "id": "CBSWEST.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94099",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CHCH",
         "id": "chch.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/CHCH_HD_CA.png",
@@ -21078,16 +20386,6 @@
         "id": "cinepop.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/CINEPOP-HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94101",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CITY MONTREAL",
-        "id": "citytvmontreal.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CITY-MONTREAL-HD.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94102",
         "categories": [
             "canada"
         ],
@@ -21244,16 +20542,6 @@
         "country": "CA"
     },
     {
-        "name": "HOPE TV",
-        "id": "HOPETV.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94139",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "ICI VANCOUVER",
         "id": "ICIVANCOUVER.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/ICI-VANCOUVER-HD.png",
@@ -21278,16 +20566,6 @@
         "id": "KTLA.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/",
         "url": "http://sansat.co:88/02021375753918/8946623682/94144",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "NICK",
-        "id": "NICK.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/Nick_hd.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94159",
         "categories": [
             "canada"
         ],
@@ -21334,30 +20612,10 @@
         "country": "CA"
     },
     {
-        "name": "TELE QUEBEC",
-        "id": "TELEQUEBEC.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/TELE-QUEBEC-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94190",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "THE WEATHER NETWORK",
         "id": "theweathernetwork.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/TheWeatherNetwork.ca.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94193",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TMN 1",
-        "id": "tmn.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/tmn.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94195",
         "categories": [
             "canada"
         ],
@@ -21414,16 +20672,6 @@
         "country": "CA"
     },
     {
-        "name": "VISION",
-        "id": "vision.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/Vision_TV_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94211",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WILD TV",
         "id": "wild.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/Wild.ca.png",
@@ -21464,40 +20712,10 @@
         "country": "CA"
     },
     {
-        "name": "TELE TOON FRENCH",
-        "id": "teletoonfrench.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/TeletoonFrench.ca.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94231",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TREEHOUSE",
-        "id": "treehouse.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/Treehouse_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94232",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "TRAVEL ESCAPE",
         "id": "travelescape.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/",
         "url": "http://sansat.co:88/02021375753918/8946623682/94235",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CNN",
-        "id": "cnn.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/CNN_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94239",
         "categories": [
             "canada"
         ],
@@ -21594,16 +20812,6 @@
         "country": "CA"
     },
     {
-        "name": "CBC WINNIPEG HD",
-        "id": "CBCWINNIPEGHD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/235144",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CBC REGINA HD",
         "id": "CBCREGINAHD.ca",
         "logo": "",
@@ -21694,26 +20902,6 @@
         "country": "CA"
     },
     {
-        "name": "DAZN 1 HD",
-        "id": "dazn.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268545",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "DAZN 2 HD",
-        "id": "DAZN2HD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268546",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "DAZN 4 HD",
         "id": "DAZN4HD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
@@ -21744,16 +20932,6 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 433 HD",
-        "id": "SUPERSPORTSCH433HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268563",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "SUPER SPORTS CH 434 HD",
         "id": "SUPERSPORTSCH434HD.ca",
         "logo": "",
@@ -21774,30 +20952,10 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 441 HD",
-        "id": "SUPERSPORTSCH441HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268571",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "SUPER SPORTS CH 443 HD",
         "id": "SUPERSPORTSCH443HD.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268573",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 444 HD",
-        "id": "SUPERSPORTSCH444HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268574",
         "categories": [
             "canada"
         ],
@@ -21818,26 +20976,6 @@
         "id": "SUPERSPORTSCH452HD.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268576",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 453 HD",
-        "id": "SUPERSPORTSCH453HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268577",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 457/480 HD",
-        "id": "SUPERSPORTSCH457480HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268581",
         "categories": [
             "canada"
         ],
@@ -21874,40 +21012,10 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 461 HD",
-        "id": "SUPERSPORTSCH461HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268585",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 462 HD",
-        "id": "SUPERSPORTSCH462HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268586",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "OHL 03",
         "id": "OHL03.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/ohl.jpg",
         "url": "http://sansat.co:88/02021375753918/8946623682/268602",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "OHL 05",
-        "id": "OHL05.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/ohl.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268604",
         "categories": [
             "canada"
         ],
@@ -21944,16 +21052,6 @@
         "country": "CA"
     },
     {
-        "name": "WHL 02",
-        "id": "WHL02.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268616",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WHL 04",
         "id": "WHL04.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
@@ -21984,36 +21082,6 @@
         "country": "CA"
     },
     {
-        "name": "WHL 12",
-        "id": "WHL12.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268626",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "WHL 13",
-        "id": "WHL13.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268627",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "WHL 15",
-        "id": "WHL15.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268629",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WHL 18",
         "id": "WHL18.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
@@ -22028,26 +21096,6 @@
         "id": "QMIJHL01.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268634",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "QMIJHL 02",
-        "id": "QMIJHL02.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268635",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "QMIJHL 05",
-        "id": "QMIJHL05.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268638",
         "categories": [
             "canada"
         ],
@@ -22094,60 +21142,10 @@
         "country": "CA"
     },
     {
-        "name": "CTV 2 OTTAWA HD",
-        "id": "CTV2OTTAWAHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268651",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "GLOBAL CALGARY SD",
-        "id": "GLOBALCALGARYSD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268652",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CTV EDMONTON HD",
-        "id": "CTVEDMONTONHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268654",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CTV CALGARY HD",
         "id": "CTVCALGARYHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268655",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CBC TORONTO HD",
-        "id": "CBCTORONTOHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CBC-TORONTO-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268665",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CITY TORONTO HD",
-        "id": "CITYTORONTOHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CITY-TV-TORONTO-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268667",
         "categories": [
             "canada"
         ],
@@ -22204,16 +21202,6 @@
         "country": "CA"
     },
     {
-        "name": "CRIME & INVESTIGATION HD",
-        "id": "CRIMEINVESTIGATIONHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CRIME&INVESTIGATION-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268673",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "DEJAVIEW HD",
         "id": "DEJAVIEWHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/DEJAVIEW--NP.png",
@@ -22228,16 +21216,6 @@
         "id": "DTOURHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/DTOUR-NP.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268702",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "E! HD",
-        "id": "EHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/E!-NP.jpeg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268703",
         "categories": [
             "canada"
         ],
@@ -22298,16 +21276,6 @@
         "id": "HGTVHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/HGTV-HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268712",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "MIRACLE HD",
-        "id": "MIRACLEHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/miraclechannel.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268717",
         "categories": [
             "canada"
         ],
@@ -22694,16 +21662,6 @@
         "country": "CA"
     },
     {
-        "name": "NAT GEO",
-        "id": "natgeo.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/NatGeo_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94267",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CTV 2 VANCOUVER",
         "id": "ctv2vancouver.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/CTV__Two_Atlantic_CA.png",
@@ -22780,16 +21738,6 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/94276",
         "categories": [
             "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TSN1",
-        "id": "TSN1.ca",
-        "logo": "https://i.imgur.com/eRFE0jZ.png",
-        "url": "https://tvpass.org/live/tsn1/sd",
-        "categories": [
-            "sports"
         ],
         "country": "CA"
     },
@@ -23624,16 +22572,6 @@
         "country": "UK"
     },
     {
-        "name": "SKY SPORTS+ 05:",
-        "id": "SKYSPORTS05.uk",
-        "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/658529",
-        "categories": [
-            "eu uk"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "SKY SPORTS+ 07:",
         "id": "SKYSPORTS07.uk",
         "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
@@ -23718,16 +22656,6 @@
         "id": "SKYSPORTS19.uk",
         "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/658543",
-        "categories": [
-            "eu uk"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "SKY SPORTS+ 20:",
-        "id": "SKYSPORTS20.uk",
-        "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/658544",
         "categories": [
             "eu uk"
         ],
@@ -23974,16 +22902,6 @@
         "country": "UK"
     },
     {
-        "name": "SKY SPORTS+ 51:",
-        "id": "SKYSPORTS51.uk",
-        "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/658575",
-        "categories": [
-            "eu uk"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "SKY SPORTS+ 52:",
         "id": "SKYSPORTS52.uk",
         "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
@@ -24038,16 +22956,6 @@
         "id": "SKYSPORTS57.uk",
         "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/658581",
-        "categories": [
-            "eu uk"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "SKY SPORTS+ 58:",
-        "id": "SKYSPORTS58.uk",
-        "logo": "http://vodkom.com/Logo/UK/LOGO/sky_sports_plus.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/658582",
         "categories": [
             "eu uk"
         ],
@@ -24639,16 +23547,6 @@
         "country": "HN"
     },
     {
-        "name": "TV Centro HD",
-        "id": "TVCentroHD.hn",
-        "logo": "https://i.imgur.com/bcfmqHb.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Litoral Atlantico HD",
         "id": "LitoralAtlanticoHD.hn",
         "logo": "https://i.imgur.com/UXsgEPX.png",
@@ -24699,16 +23597,6 @@
         "country": "HN"
     },
     {
-        "name": "TV Centro 27.2 HD",
-        "id": "TVCentro272HD.hn",
-        "logo": "https://i.imgur.com/Wo2scQf.jpg",
-        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Television Metropolis 19.2",
         "id": "TelevisionMetropolis192.hn",
         "logo": "https://i.imgur.com/QaocW5x.png",
@@ -24755,16 +23643,6 @@
         "url": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "HN"
-    },
-    {
-        "name": "Radio Omega TV",
-        "id": "RadioOmegaTV.hn",
-        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
-        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "HN"
     },
@@ -25344,16 +24222,6 @@
         "logo": "https://i.imgur.com/VlKl2VB.png",
         "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "La Popular TV",
-        "id": "LaPopularTV.cl",
-        "logo": "https://i.imgur.com/AWdgMCC.png",
-        "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
         "country": "CL"
     },
     {
@@ -26931,16 +25799,6 @@
         "country": "GT"
     },
     {
-        "name": "Multivision Sports",
-        "id": "MultivisionSports.gt",
-        "logo": "https://i.imgur.com/wLjSSo2.jpg",
-        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "TV Florencia",
         "id": "TVFlorencia.gt",
         "logo": "https://i.imgur.com/jsbwnRb.png",
@@ -26971,16 +25829,6 @@
         "country": "GT"
     },
     {
-        "name": "Canal 13 Esquipulas",
-        "id": "Canal13Esquipulas.gt",
-        "logo": "https://i.imgur.com/INKZvlN.png",
-        "url": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "Iglesia Del Camino",
         "id": "IglesiaDelCamino.gt",
         "logo": "https://i.imgur.com/vHfb3Z4.png",
@@ -27007,16 +25855,6 @@
         "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
         "categories": [
             "movies"
-        ],
-        "country": "GT"
-    },
-    {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "GT"
     },
@@ -28017,36 +26855,6 @@
         "country": "DO"
     },
     {
-        "name": "Elias Pina TV",
-        "id": "EliasPinaTV.do",
-        "logo": "https://i.imgur.com/VqxSsZD.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "La Reina TV",
-        "id": "LaReinaTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg",
-        "url": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Jimani TV",
-        "id": "JimaniTV.do",
-        "logo": "https://imgur.com/EPYHUSc.jpeg",
-        "url": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Ready TV Canal 6",
         "id": "ReadyTVCanal6.do",
         "logo": "https://i.imgur.com/ZONPQhR.png",
@@ -28938,30 +27746,10 @@
         "country": "DO"
     },
     {
-        "name": "Informe TV",
-        "id": "InformeTV.do",
-        "logo": "https://imgur.com/TmJaXrO.jpg",
-        "url": "https://mlb.essastream.com:8081/informetv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Reportero TV",
         "id": "ReporteroTV.do",
         "logo": "https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png",
         "url": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Ruta 66 TV",
-        "id": "Ruta66TV.do",
-        "logo": "https://i.imgur.com/oY4Xfvq.png",
-        "url": "https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -29162,16 +27950,6 @@
         "id": "Telecanal28.do",
         "logo": "https://i.imgur.com/hEJ6lZ9.png",
         "url": "https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "TeleCibaoHD",
-        "id": "TeleCibaoHD.do",
-        "logo": "https://i.imgur.com/IpInp05.png",
-        "url": "https://mlb.essastream.com:8081/telecibaotv/tracks-v1a1/mono.m3u8",
         "categories": [
             "general"
         ],
@@ -29609,16 +28387,6 @@
         "country": "DO"
     },
     {
-        "name": "Noticias 16",
-        "id": "Noticias16.do",
-        "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
-        "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Simavision Canal 18",
         "id": "SimavisionCanal18.do",
         "logo": "https://i.imgur.com/io9o30K.jpg",
@@ -29683,16 +28451,6 @@
         "id": "PuntoTV.do",
         "logo": "https://imgur.com/vfvN6ox.png",
         "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Bebeto TV",
-        "id": "BebetoTV.do",
-        "logo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
-        "url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
         "categories": [
             "general"
         ],
@@ -29769,16 +28527,6 @@
         "country": "DO"
     },
     {
-        "name": "Sur TV",
-        "id": "SurTV.do",
-        "logo": "https://i.imgur.com/oAyvK0N.jpeg",
-        "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Teletur",
         "id": "Teletur.do",
         "logo": "https://i.imgur.com/Ig4gR93.png",
@@ -29815,16 +28563,6 @@
         "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Cibaena TV",
-        "id": "CibaenaTV.do",
-        "logo": "https://i.imgur.com/iHjdckl.png",
-        "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "DO"
     },
@@ -29885,6 +28623,36 @@
         "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Alegre TV RD",
+        "id": "AlegreTVRD.do",
+        "logo": "https://i.imgur.com/O6USO8r.png",
+        "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Anime Zone TV",
+        "id": "AnimeZoneTV.do",
+        "logo": "https://i.imgur.com/AHaXlCh.png",
+        "url": "http://animezonetv.net/hls/stream.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Notisur TV",
+        "id": "NotisurTV.do",
+        "logo": "https://rdomint.com/images/station/300.jpg",
+        "url": "https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "DO"
     },
@@ -29976,6 +28744,46 @@
         "url": "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Fabulosa Estereo 100.5 FM",
+        "id": "FabulosaEstereo1005FM.pa",
+        "logo": "https://i.imgur.com/YFmzkOp.png",
+        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Radio Ancon",
+        "id": "RadioAncon.pa",
+        "logo": "https://i.imgur.com/xum8PNe.jpg",
+        "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Radio Hogar",
+        "id": "RadioHogar.pa",
+        "logo": "https://i.imgur.com/P4A1Zwl.jpg",
+        "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Tropi Q 99.7 FM",
+        "id": "TropiQ997FM.pa",
+        "logo": "https://i.imgur.com/5rPdHhb.png",
+        "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "PA"
     },
@@ -30329,6 +29137,17 @@
         "country": "VN"
     },
     {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "NTV",
         "id": "NTV.mv",
         "logo": "https://i.imgur.com/jnXpcwV.png",
@@ -30596,14 +29415,6 @@
         "categories": [
             "religious"
         ],
-        "country": "PK"
-    },
-    {
-        "name": "Praise TV",
-        "id": "PraiseTV.pk",
-        "logo": "https://i.imgur.com/T9fIdLs.png",
-        "url": "https://pixelsmedia.live/livepraisetv/index.m3u8",
-        "categories": [],
         "country": "PK"
     },
     {
@@ -31377,16 +30188,6 @@
         "id": "traceurban.fr",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/MUSIC/TRACE_URBAN.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/127340",
-        "categories": [
-            "france musique"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "NRJ HITS FHD",
-        "id": "nrjhits.fr",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/MUSIC/NRJ_HITS.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/127343",
         "categories": [
             "france musique"
         ],
@@ -32253,16 +31054,6 @@
         "country": "FR"
     },
     {
-        "name": "CHASSE ET PECHE FHD",
-        "id": "chassepeche.fr",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/127052",
-        "categories": [
-            "france decouverte"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "NAUTICAL FHD",
         "id": "nauticalchannel.fr",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Nautical_HD.png",
@@ -32427,16 +31218,6 @@
         "id": "nickelodeon.fr",
         "logo": "http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEON.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/127106",
-        "categories": [
-            "france jeunesse"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "NICKELODEON TEEN FHD",
-        "id": "nickelodeonteen.fr",
-        "logo": "http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEONTEEN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/127107",
         "categories": [
             "france jeunesse"
         ],
@@ -33043,16 +31824,6 @@
         "country": "FR"
     },
     {
-        "name": "CANAL+ GRAND ECRAN 4K",
-        "id": "canalplusgrandecran.fr",
-        "logo": "http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/224456",
-        "categories": [
-            "france my canal"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "CANAL NEWS SD",
         "id": "CANALNEWSSD.fr",
         "logo": "",
@@ -33357,16 +32128,6 @@
         "id": "SKWEEKLIVE6FHDONLYONEVENT.fr",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/658659",
-        "categories": [
-            "france ligue1 | dazn"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "(SKWEEK) - LIVE 7 FHD (ONLY ON EVENT)",
-        "id": "SKWEEKLIVE7FHDONLYONEVENT.fr",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/658660",
         "categories": [
             "france ligue1 | dazn"
         ],
@@ -33895,16 +32656,6 @@
         "country": "SW"
     },
     {
-        "name": "DISCOVERY+ 2",
-        "id": "DISCOVERY2.sw",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/162961",
-        "categories": [
-            "eu sweden"
-        ],
-        "country": "SW"
-    },
-    {
         "name": "DISCOVERY+ 4",
         "id": "DISCOVERY4.sw",
         "logo": "",
@@ -33929,16 +32680,6 @@
         "id": "DISCOVERY8.sw",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/162967",
-        "categories": [
-            "eu sweden"
-        ],
-        "country": "SW"
-    },
-    {
-        "name": "DISNEY CHANNEL HD",
-        "id": "DISNEYCHANNELHD.sw",
-        "logo": "http://vodkom.com:25461/Logo/SWEDEN/Disney_Channel.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/98131",
         "categories": [
             "eu sweden"
         ],
@@ -35549,38 +34290,6 @@
         "country": "HU"
     },
     {
-        "name": "RTL",
-        "id": "RTL.hu",
-        "logo": "https://i.imgur.com/ruRshE1.png",
-        "url": "http://46.149.191.217:9005/play/a018",
-        "categories": [],
-        "country": "HU"
-    },
-    {
-        "name": "RTL Harom",
-        "id": "RTLHarom.hu",
-        "logo": "https://i.imgur.com/c4Hhhzs.png",
-        "url": "http://46.149.191.217:9005/play/a01t",
-        "categories": [],
-        "country": "HU"
-    },
-    {
-        "name": "RTL Ketto",
-        "id": "RTLKetto.hu",
-        "logo": "https://i.imgur.com/IVv0qrI.png",
-        "url": "http://46.149.191.217:9005/play/a01r",
-        "categories": [],
-        "country": "HU"
-    },
-    {
-        "name": "TV2",
-        "id": "TV2.hu",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/512px-TV2_2008.svg.png",
-        "url": "http://46.149.191.217:9005/play/a01q",
-        "categories": [],
-        "country": "HU"
-    },
-    {
         "name": "Tele Louange",
         "id": "TeleLouange.ht",
         "logo": "https://i.imgur.com/DjnMUuL.png",
@@ -35641,16 +34350,6 @@
         "country": "HT"
     },
     {
-        "name": "Radio Tele Full Gospel",
-        "id": "RadioTeleFullGospel.ht",
-        "logo": "https://i.imgur.com/WbwIp9y.jpeg",
-        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "HT"
-    },
-    {
         "name": "Radio Tele Planet Compas",
         "id": "RadioTelePlanetCompas.ht",
         "logo": "https://i.imgur.com/ddb4lsa.png",
@@ -35667,6 +34366,16 @@
         "url": "https://haititivi.com/website/haitinews/index.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "HT"
+    },
+    {
+        "name": "Netalkole TV",
+        "id": "NetalkoleTV.ht",
+        "logo": "https://i.imgur.com/SdVrpzY.png",
+        "url": "https://watch.haitilive.net/naktvhd/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "HT"
     },
@@ -35851,16 +34560,6 @@
         "id": "PuruwaTV.ec",
         "logo": "https://i.imgur.com/CYldC2R.png",
         "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Multicanal Catamayo",
-        "id": "MulticanalCatamayo.ec",
-        "logo": "https://i.imgur.com/IHKBGmu.png",
-        "url": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
         "categories": [
             "general"
         ],
@@ -36141,16 +34840,6 @@
         "country": "EC"
     },
     {
-        "name": "RTU",
-        "id": "RTU.ec",
-        "logo": "https://i.imgur.com/1OWvMP4.png",
-        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
-        "categories": [
-            "news"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "TV Cisne",
         "id": "TVCisne.ec",
         "logo": "https://i.imgur.com/xIuFSnx.png",
@@ -36201,10 +34890,10 @@
         "country": "EC"
     },
     {
-        "name": "RTRTV",
-        "id": "RTRTV.ec",
-        "logo": "https://i.imgur.com/dvP2yqB.png",
-        "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
+        "name": "Red TVE Ventanas",
+        "id": "RedTVEVentanas.ec",
+        "logo": "https://i.imgur.com/Pzf2ZAW.png",
+        "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
         "categories": [
             "general"
         ],
@@ -36258,6 +34947,14 @@
         "categories": [
             "general"
         ],
+        "country": "BF"
+    },
+    {
+        "name": "RTB",
+        "id": "RTB.bf",
+        "logo": "https://i.imgur.com/BFfLV0y.png",
+        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+        "categories": [],
         "country": "BF"
     },
     {
@@ -37297,6 +35994,36 @@
         "country": "IQ"
     },
     {
+        "name": "EmanTv",
+        "id": "EmanTv.iq",
+        "logo": "https://i.imgur.com/QmgaPSi.png",
+        "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "FarmodaTV",
+        "id": "FarmodaTV.iq",
+        "logo": "https://i.imgur.com/x4KCQlH.png",
+        "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Mixkurdy",
+        "id": "Mixkurdy.iq",
+        "logo": "https://i.imgur.com/WHeH5i7.png",
+        "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+        "categories": [
+            "family"
+        ],
+        "country": "IQ"
+    },
+    {
         "name": "Superscreen TV",
         "id": "SuperscreenTV.ng",
         "logo": "https://i.imgur.com/uTNmSWE.png",
@@ -37771,6 +36498,16 @@
         "country": "NG"
     },
     {
+        "name": "LoveWorld UK",
+        "id": "LoveWorldUK.ng",
+        "logo": "https://i.imgur.com/JgHbDmF.png",
+        "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "NG"
+    },
+    {
         "name": "Maria+Vision Medjugorje",
         "id": "MariaPlusVisionMedjugorje.ba",
         "logo": "https://i.imgur.com/xUOspBx.png",
@@ -37813,6 +36550,14 @@
         "id": "Televizija5.ba",
         "logo": "https://i.imgur.com/znpvJys.png",
         "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+        "categories": [],
+        "country": "BA"
+    },
+    {
+        "name": "RTRS plus",
+        "id": "RTRSplus.ba",
+        "logo": "https://i.imgur.com/k06WvYl.png",
+        "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
         "categories": [],
         "country": "BA"
     },
@@ -39489,5 +38234,1253 @@
             "news"
         ],
         "country": "AF"
+    },
+    {
+        "name": "CANAL COMEDY",
+        "id": "CANALCOMEDY.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635517",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "A+ IVOIRE",
+        "id": "AIVOIRE.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635518",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ZEE MAGIC",
+        "id": "ZEEMAGIC.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635519",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TV5",
+        "id": "TV5.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/TV5.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635521",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TREK",
+        "id": "TREK.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/TREK.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635522",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TRACE URBAN FHD",
+        "id": "TRACEURBANFHD.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/Trace_Urban.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635525",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TRACE RIKORA",
+        "id": "TRACERIKORA.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635527",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TOUTE L HISTOIRE",
+        "id": "TOUTELHISTOIRE.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/Toute_L_Histoire.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635531",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TFX",
+        "id": "TFX.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/TFX.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635533",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "RTS 1",
+        "id": "RTS1.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635540",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "RTNC",
+        "id": "RTNC.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635541",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "RTL 9",
+        "id": "RTL9.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/RTL9.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635542",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "RTI 1",
+        "id": "RTI1.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635543",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "RTB",
+        "id": "RTB.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635545",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "PLANETE +",
+        "id": "PLANETE.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/PLANETE+.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635546",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "PIWI +",
+        "id": "PIWI.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/PIWI+.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635547",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ORTM",
+        "id": "ORTM.af",
+        "logo": "http://logo.panel.cx/logo/AFRICA/MALI/MALI.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635548",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "NOLLYWOOD EPIC",
+        "id": "NOLLYWOODEPIC.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635550",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "NBA TV",
+        "id": "NBATV.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635551",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "MANGAS",
+        "id": "MANGAS.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/MANGAS.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635554",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "GULLI AFRICA",
+        "id": "GULLIAFRICA.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/GULLI.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635560",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "GABON TV",
+        "id": "GABONTV.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635562",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "FRANCE 24",
+        "id": "FRANCE24.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/France_24.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635563",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "FRANCE 2",
+        "id": "FRANCE2.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/FRANCE_2.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635564",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "EUROSPORT 1",
+        "id": "EUROSPORT1.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/EUROSPORT_1.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635565",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "EUROSPORT 2",
+        "id": "EUROSPORT2.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/EUROSPORT_2.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635566",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "EQUINOXE TV",
+        "id": "EQUINOXETV.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635568",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CUISINES",
+        "id": "CUISINES.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635570",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CRTV",
+        "id": "CRTV.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635571",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CNEWS",
+        "id": "CNEWS.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/CNEWS.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635572",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL 2 INTERNATIONAL",
+        "id": "CANAL2INTERNATIONAL.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635574",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ SPORT 1",
+        "id": "CANALSPORT1.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635575",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ SPORT 4",
+        "id": "CANALSPORT4.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/CANAL+_SPORT_4_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635578",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ SPORT 5",
+        "id": "CANALSPORT5.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/CANAL+_SPORT_5_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635579",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ QUEST",
+        "id": "CANALQUEST.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635580",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ FAMILY QUEST",
+        "id": "CANALFAMILYQUEST.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635581",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ COMEDIE QUEST",
+        "id": "CANALCOMEDIEQUEST.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635583",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ CENTR",
+        "id": "CANALCENTR.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635585",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "CANAL+ ACTION QUEST",
+        "id": "CANALACTIONQUEST.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635586",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "BET",
+        "id": "BET.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/BET.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635588",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "AUTOMOTO",
+        "id": "AUTOMOTO.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/AUTOMOTO.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635590",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ANTENNE A",
+        "id": "ANTENNEA.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635591",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ANIMAUX",
+        "id": "ANIMAUX.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/ANIMAUX.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635592",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "AFRICABLE",
+        "id": "AFRICABLE.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635593",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ACTION",
+        "id": "ACTION.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/ACTION.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635594",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "AB1",
+        "id": "AB1.af",
+        "logo": "http://vodkom.com/MYAFRIQUE/AB1.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635595",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "2STV",
+        "id": "2STV.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/635597",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "GABON 24",
+        "id": "GABON24.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797056",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TELE AFRICA GABON",
+        "id": "TELEAFRICAGABON.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797057",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "GABON CULTURE",
+        "id": "GABONCULTURE.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797058",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "IVOIRE MUSIC",
+        "id": "IVOIREMUSIC.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797060",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ORTM2",
+        "id": "ORTM2.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797061",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "TM1",
+        "id": "TM1.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797062",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "JOLIBA",
+        "id": "JOLIBA.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797063",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "MANDE",
+        "id": "MANDE.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797064",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "ELECTRON",
+        "id": "ELECTRON.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797066",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "SAHARA",
+        "id": "SAHARA.af",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/797067",
+        "categories": [
+            "af canal afrique"
+        ],
+        "country": "AF"
+    },
+    {
+        "name": "YleX",
+        "id": "YleX.fi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png",
+        "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "MTV Uutiset",
+        "id": "MTVUutiset.fi",
+        "logo": "https://i.imgur.com/ZO8ShOK.png",
+        "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "JRTV Jarviradio",
+        "id": "JRTVJarviradio.fi",
+        "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+        "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Onni TV",
+        "id": "OnniTV.fi",
+        "logo": "https://i.imgur.com/Vba4jUk.png",
+        "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Nar-TV",
+        "id": "NarTV.fi",
+        "logo": "https://i.imgur.com/Ht5yePq.png",
+        "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Nopola News",
+        "id": "NopolaNews.fi",
+        "logo": "https://i.imgur.com/vDoQaGl.png",
+        "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "MTV Ava",
+        "id": "MTVAva.fi",
+        "logo": "https://i.imgur.com/WxNCiAk.png",
+        "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "MTV Sub",
+        "id": "MTVSub.fi",
+        "logo": "https://i.imgur.com/rmV8LO1.png",
+        "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+        "categories": [],
+        "country": "FI"
+    },
+    {
+        "name": "STAR Channel",
+        "id": "STARChannel.fi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png",
+        "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+        "categories": [],
+        "country": "FI"
+    },
+    {
+        "name": "Nelonen",
+        "id": "Nelonen.fi",
+        "logo": "https://i.imgur.com/BFbCyfY.png",
+        "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Eveo",
+        "id": "Eveo.fi",
+        "logo": "https://i.imgur.com/fFIq7tY.png",
+        "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+        "categories": [
+            "general"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Viaplay TV",
+        "id": "ViaplayTV.fi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg",
+        "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+        "categories": [
+            "sports"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Yle Teema & Fem",
+        "id": "YleTeemaFem.fi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/512px-Yle_Teema_%26_Fem.svg.png",
+        "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+        "categories": [],
+        "country": "FI"
+    },
+    {
+        "name": "Yle TV1",
+        "id": "YleTV1.fi",
+        "logo": "https://i.imgur.com/6yXZwUL.png",
+        "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+        "categories": [],
+        "country": "FI"
+    },
+    {
+        "name": "Yle TV2",
+        "id": "YleTV2.fi",
+        "logo": "https://i.imgur.com/4xkc6PL.png",
+        "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+        "categories": [],
+        "country": "FI"
+    },
+    {
+        "name": "Hero",
+        "id": "Hero.fi",
+        "logo": "https://i.imgur.com/4t5JQLY.png",
+        "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+        "categories": [
+            "movies"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Jim",
+        "id": "Jim.fi",
+        "logo": "https://i.imgur.com/PkMgY0K.png",
+        "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Liv",
+        "id": "Liv.fi",
+        "logo": "https://i.imgur.com/k6NsXBj.png",
+        "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Himlen TV7",
+        "id": "HimlenTV7.fi",
+        "logo": "https://i.imgur.com/k8a7KNn.png",
+        "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Taevas TV7",
+        "id": "TaevasTV7.fi",
+        "logo": "https://i.imgur.com/usXedIj.png",
+        "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Taivas TV7",
+        "id": "TaivasTV7.fi",
+        "logo": "https://i.imgur.com/JyJNiXy.png",
+        "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "FRI TV HD",
+        "id": "frii.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591674",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "TV6",
+        "id": "TV6.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591675",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "TV7",
+        "id": "tv7.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591676",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "YLE TV FEM",
+        "id": "ylefem.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591679",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "YLE TV1 HD",
+        "id": "yletv1.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591680",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "SUB",
+        "id": "sub.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591683",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "TV4 STARS FHD",
+        "id": "TV4STARSFHD.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591686",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIASAT FILM FAMILY",
+        "id": "viasatfilmfamily.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591691",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIASAT EXPLORER",
+        "id": "viasatexplore.fi",
+        "logo": "http://vodkom.com:25461/Logo/Logo/International/Viasat/ViasatExplore.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591695",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIASAT HISTORY",
+        "id": "viasathistory.fi",
+        "logo": "http://vodkom.com:25461/Logo/Logo/International/Viasat/ViasatHistory.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591696",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "TV4 HITS HD",
+        "id": "TV4HITSHD.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591699",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "EUROSPORT 2 HD",
+        "id": "eurosport2.fi",
+        "logo": "http://vodkom.com:25461/Logo/NEW/Eurosport_2_HD.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591706",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "V SPORT 1 HD",
+        "id": "viasatsport.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591710",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "V SPORT URHEILU HD",
+        "id": "viasaturheilu.fi",
+        "logo": "",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591711",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 1 HD",
+        "id": "VIAPLAYXTRA1HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591714",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 2 HD",
+        "id": "VIAPLAYXTRA2HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591715",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 4 HD",
+        "id": "VIAPLAYXTRA4HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591717",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 5 HD",
+        "id": "VIAPLAYXTRA5HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591718",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 8 HD",
+        "id": "VIAPLAYXTRA8HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591721",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 9 HD",
+        "id": "VIAPLAYXTRA9HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591722",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 10 HD",
+        "id": "VIAPLAYXTRA10HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591723",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 13 HD",
+        "id": "VIAPLAYXTRA13HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591726",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 14 HD",
+        "id": "VIAPLAYXTRA14HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591727",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 15 HD",
+        "id": "VIAPLAYXTRA15HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591728",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 18 HD",
+        "id": "VIAPLAYXTRA18HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591731",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 19 HD",
+        "id": "VIAPLAYXTRA19HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591732",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 20 HD",
+        "id": "VIAPLAYXTRA20HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591733",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 22 HD",
+        "id": "VIAPLAYXTRA22HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591735",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 23 HD",
+        "id": "VIAPLAYXTRA23HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591736",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 24 HD",
+        "id": "VIAPLAYXTRA24HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591737",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 25 HD",
+        "id": "VIAPLAYXTRA25HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591738",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 26 HD",
+        "id": "VIAPLAYXTRA26HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591739",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 27 HD",
+        "id": "VIAPLAYXTRA27HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591740",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 29 HD",
+        "id": "VIAPLAYXTRA29HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591742",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 30 HD",
+        "id": "VIAPLAYXTRA30HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591743",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 31 HD",
+        "id": "VIAPLAYXTRA31HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591744",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 33 HD",
+        "id": "VIAPLAYXTRA33HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591746",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 35 HD",
+        "id": "VIAPLAYXTRA35HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591748",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 36 HD",
+        "id": "VIAPLAYXTRA36HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591749",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 38 HD",
+        "id": "VIAPLAYXTRA38HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591751",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 40 HD",
+        "id": "VIAPLAYXTRA40HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591753",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 41 HD",
+        "id": "VIAPLAYXTRA41HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591754",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 42 HD",
+        "id": "VIAPLAYXTRA42HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591755",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 45 HD",
+        "id": "VIAPLAYXTRA45HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591758",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 47 HD",
+        "id": "VIAPLAYXTRA47HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591760",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "VIAPLAY XTRA 48 HD",
+        "id": "VIAPLAYXTRA48HD.fi",
+        "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
+        "url": "http://sansat.co:88/02021375753918/8946623682/591761",
+        "categories": [
+            "eu finland"
+        ],
+        "country": "FI"
+    },
+    {
+        "name": "Canal 8 Catacaos",
+        "id": "Canal8Catacaos.pe",
+        "logo": "https://i.imgur.com/O5MrFjY.png",
+        "url": "https://live.obslivestream.com/canal8/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Controversia TV",
+        "id": "ControversiaTV.pe",
+        "logo": "https://i.imgur.com/X7cPyP2.png",
+        "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
+        "categories": [],
+        "country": "PE"
     }
 ]

@@ -150,16 +150,6 @@
         "country": ""
     },
     {
-        "name": "AL: KTV",
-        "id": "alktv",
-        "logo": "http://zdravavoda.xyz:80/images/Bdla5kabdHNgSq9JonCiSF2pW1IbZp9s0eUOXptnA7dB94m855cCg5QafJqvpDaXhZKUFOmLx-svqNY2z7Cim5uyFzYnUNgYTGQZADuQpZE.png",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17081.ts",
-        "categories": [
-            "albania"
-        ],
-        "country": ""
-    },
-    {
         "name": "AL: RTV Sharri",
         "id": "alrtvsharri",
         "logo": "https://yt3.googleusercontent.com/AselV3t7D45bYlbPRj2HhSokMU5UexBdloE9vGm8CkoUk2V7ayaHAQUQy9iUgv2EIU-Mc_Eowg=s900-c-k-c0x00ffffff-no-rj",
@@ -190,10 +180,950 @@
         "country": ""
     },
     {
-        "name": "AL: Tring History",
-        "id": "altringhistory",
-        "logo": "http://zdravavoda.xyz:80/images/3NW-tN25RYPMgtvuaAzu4D4TFp5peTSVkF5ZIIg2Mm8U3D6Zs1lT-2zfbYCB1juZArEpnMOcCx8jP2jveGVXzw.png",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17114.ts",
+        "name": "AA NewYork TV",
+        "id": "aanewyorktv",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783197",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Blue Sky TV Shkodër",
+        "id": "alblueskytvshkodr",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782842",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | CNA News",
+        "id": "alcnanews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782892",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Kanali 7",
+        "id": "alkanali7",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782896",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Klan AL",
+        "id": "alklanal",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782810",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Klan Kosova",
+        "id": "alklankosova",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782803",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Klan News",
+        "id": "alklannews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782883",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Klan Plus",
+        "id": "alklanplus",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782811",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | N TV",
+        "id": "alntv",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782861",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Ora News",
+        "id": "aloranews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782886",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTK 1",
+        "id": "alrtk1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782794",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTK 4",
+        "id": "alrtk4",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782797",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTSH 1",
+        "id": "alrtsh1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782825",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTSH Gjirokastra",
+        "id": "alrtshgjirokastra",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782836",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTSH Muzikë",
+        "id": "alrtshmuzik",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782830",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTSH Shkollë",
+        "id": "alrtshshkoll",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782829",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | RTV Arbëri",
+        "id": "alrtvarbri",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783355",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Syri News",
+        "id": "alsyrinews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782891",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Syri TV",
+        "id": "alsyritv",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782908",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | T 7",
+        "id": "alt7",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782820",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Top Channel",
+        "id": "altopchannel",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782805",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Top News",
+        "id": "altopnews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782902",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | TV Apollon",
+        "id": "altvapollon",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782898",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | TV Besa",
+        "id": "altvbesa",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782864",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | TV Syri",
+        "id": "altvsyri",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782860",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | TVA News",
+        "id": "altvanews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782893",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL | Vision Plus",
+        "id": "alvisionplus",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782814",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Amol TV",
+        "id": "amoltv",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783210",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Art Kino 3",
+        "id": "artkino3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782970",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ArtSport 3.",
+        "id": "artsport3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783347",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BB VIP KOSOVA 1",
+        "id": "bbvipkosova1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/808881",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Big Brother Albania 1",
+        "id": "bigbrotheralbania1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/843586",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark Festive 1",
+        "id": "darkfestive1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783219",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark Gezuar 2024",
+        "id": "darkgezuar2024",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783224",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark GOLD 3",
+        "id": "darkgold3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783116",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark GOLD 4",
+        "id": "darkgold4",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783117",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark Netflix 1",
+        "id": "darknetflix1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783118",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark Netflix 2",
+        "id": "darknetflix2",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783119",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dark PRIME 3",
+        "id": "darkprime3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783112",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dekalogu Kuq e Zi",
+        "id": "dekalogukuqezi",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783316",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DIZI Seriale Turke",
+        "id": "diziserialeturke",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782923",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Explorer Histori",
+        "id": "explorerhistori",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783361",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Explorer Natyra",
+        "id": "explorernatyra",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783249",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Family HD",
+        "id": "familyhd",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782914",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Folk Plus",
+        "id": "folkplus",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783234",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Hutbe Islame",
+        "id": "hutbeislame",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783270",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kinema Aksion MAX",
+        "id": "kinemaaksionmax",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783061",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kinema Classics",
+        "id": "kinemaclassics",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783062",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kino Premiere 2",
+        "id": "kinopremiere2",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782990",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kino Premiere 3",
+        "id": "kinopremiere3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782991",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kino Premiere 4",
+        "id": "kinopremiere4",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782992",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Komedi Shqiptare",
+        "id": "komedishqiptare",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783322",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NETFLIX AKSION",
+        "id": "netflixaksion",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783011",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Oda e Stupcave",
+        "id": "odaestupcave",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783324",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Premiere 3",
+        "id": "premiere3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782943",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Premiere 4",
+        "id": "premiere4",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782944",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Qumili",
+        "id": "qumili",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783325",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTSH Fëmijë",
+        "id": "rtshfmij",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783151",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTV 1 AL",
+        "id": "rtv1al",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783273",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTV 21 MIX",
+        "id": "rtv21mix",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783211",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTV 21 Plus",
+        "id": "rtv21plus",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783213",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ShqipTV Hindi",
+        "id": "shqiptvhindi",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783140",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ShqipTV Hits",
+        "id": "shqiptvhits",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783137",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ShqipTV Thriller",
+        "id": "shqiptvthriller",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783136",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Dramë",
+        "id": "skydram",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782964",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Planet",
+        "id": "skyplanet",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783258",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sky Star",
+        "id": "skystar",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782967",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Super Sport 1",
+        "id": "supersport1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783332",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Super Sport 2",
+        "id": "supersport2",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783333",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Super Sport 3",
+        "id": "supersport3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783334",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Super Sport 4",
+        "id": "supersport4",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783335",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Super Sport 6",
+        "id": "supersport6",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783337",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Syri Vizion",
+        "id": "syrivizion",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783244",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "T Sofa",
+        "id": "tsofa",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782953",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TDC",
+        "id": "tdc",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782922",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TELE one 3",
+        "id": "teleone3",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783031",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TELE one 6",
+        "id": "teleone6",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783034",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TELE one Drama",
+        "id": "teleonedrama",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783040",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TELE one LIGJERATA( Elvis Naci )",
+        "id": "teleoneligjerataelvisnaci",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783300",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Televizija 5",
+        "id": "televizija5",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783267",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tring 3 Plus",
+        "id": "tring3plus",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782926",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tring Collection",
+        "id": "tringcollection",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782938",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tring Fantasy",
+        "id": "tringfantasy",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782929",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tring Life",
+        "id": "tringlife",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/782932",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tring Sport 1",
+        "id": "tringsport1",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783340",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Tring Sport News",
+        "id": "tringsportnews",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783339",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Click",
+        "id": "tvclick",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783205",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Dielli",
+        "id": "tvdielli",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783202",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Fontana",
+        "id": "tvfontana",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783209",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Istogu",
+        "id": "tvistogu",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783240",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Medina",
+        "id": "tvmedina",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783268",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Opoja",
+        "id": "tvopoja",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783264",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV Ulqini",
+        "id": "tvulqini",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783196",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WebStar Drame",
+        "id": "webstardrame",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783077",
+        "categories": [
+            "albania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WebStar Komedi",
+        "id": "webstarkomedi",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/783078",
         "categories": [
             "albania"
         ],

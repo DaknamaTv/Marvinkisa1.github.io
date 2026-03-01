@@ -20,16 +20,6 @@
         "country": ""
     },
     {
-        "name": "Disney Channel DE",
-        "id": "disneychannelde",
-        "logo": "http://tugapt.com/picons/disneychannelde.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/99",
-        "categories": [
-            "germany"
-        ],
-        "country": ""
-    },
-    {
         "name": "Cartoon Network DE",
         "id": "cartoonnetworkde",
         "logo": "http://tugapt.com/picons/cartoonnetwork.png",
@@ -220,26 +210,6 @@
         "country": ""
     },
     {
-        "name": "SAT.1 GOLD HD DE",
-        "id": "sat1goldhdde",
-        "logo": "http://tugapt.com/picons/sat1goldde.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/71",
-        "categories": [
-            "germany"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ProSieben HD DE",
-        "id": "prosiebenhdde",
-        "logo": "http://tugapt.com/picons/prosiebenhdde.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/83",
-        "categories": [
-            "germany"
-        ],
-        "country": ""
-    },
-    {
         "name": "3sat HD DE",
         "id": "3sathdde",
         "logo": "http://tugapt.com/picons/3sathdde.png",
@@ -330,16 +300,6 @@
         "country": ""
     },
     {
-        "name": "MAX Select 3 HD DE",
-        "id": "maxselect3hdde",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/118214",
-        "categories": [
-            "germany"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Sport 2 HD DE",
         "id": "skysport2hdde",
         "logo": "http://tugapt.com/picons/skysport2hdde.png",
@@ -364,6 +324,176 @@
         "id": "spiegeltvkonfliktede",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/133397",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SKY CINEMA ACTION",
+        "id": "deskycinemaaction",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/375px-Sky_Cinema_-_Logo_2020.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/314469",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SUPER RTL HD",
+        "id": "desuperrtlhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SUPER_RTL_HD-2019.svg",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/312890",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SAT.1 FHD",
+        "id": "desat1fhd",
+        "logo": "https://w7.pngwing.com/pngs/1014/168/png-transparent-prosiebensat-1-media-story-house-productions-germany-television-others-television-logo-sphere-thumbnail.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/312887",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: UNIVERSAL TV FHD",
+        "id": "deuniversaltvfhd",
+        "logo": "https://w7.pngwing.com/pngs/392/209/png-transparent-universal-channel-television-channel-studio-universal-universal-tv-others-television-text-trademark.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310694",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SKY DOCUMENTARIES FHD",
+        "id": "deskydocumentariesfhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sky_Documentaries_Logo_2020.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310685",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SKY COMEDY HD",
+        "id": "deskycomedyhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/375px-Sky_Comedy_logo_2020.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310683",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Crime & Investigation HD",
+        "id": "decrimeinvestigationhd",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest/scale-to-width-down/200?cb=20190613183256",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310656",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SILVERLINE TV FHD",
+        "id": "desilverlinetvfhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Silverline_Movie_Channel_Logo_2015.PNG",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310634",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: Phoenix HD",
+        "id": "dephoenixhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/1200px-Phoenix-logo-2018.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310621",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: MDR TH FHD",
+        "id": "demdrthfhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mdr_Fernsehen_HD_Logo_2017.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310604",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: DAZN BAR 1 HD",
+        "id": "dedaznbar1hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310585",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: DAZN BAR 2 FHD",
+        "id": "dedaznbar2fhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310580",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: NAT GEO WILD FHD",
+        "id": "denatgeowildfhd",
+        "logo": "https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310485",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SKY KRIMI FHD",
+        "id": "deskykrimifhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/2560px-Sky_Krimi_2020.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310483",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SPIEGEL GESCHICHTE FHD",
+        "id": "despiegelgeschichtefhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spiegel_Geschichte_HD_Logo_2014.svg/2560px-Spiegel_Geschichte_HD_Logo_2014.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310482",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: KIKA FHD",
+        "id": "dekikafhd",
+        "logo": "https://logos-world.net/wp-content/uploads/2022/07/KiKA-Symbol.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310481",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: WELT HD",
+        "id": "dewelthd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Welt_TV_Alternative_Logo_2016.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310480",
         "categories": [
             "germany"
         ],

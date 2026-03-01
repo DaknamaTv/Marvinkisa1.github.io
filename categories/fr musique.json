@@ -1,0 +1,32 @@
+[
+    {
+        "name": "FR: MTV HITS HD",
+        "id": "frmtvhitshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/germanynew/mtvHits.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/172043",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: MEZZO HD",
+        "id": "frmezzohd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/MEZZOHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/94549",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CSTAR HITS FHD",
+        "id": "frcstarhitsfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CSTAR.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/188521",
+        "categories": [
+            "fr musique"
+        ],
+        "country": ""
+    }
+]

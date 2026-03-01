@@ -140,16 +140,6 @@
         "country": ""
     },
     {
-        "name": "Cine Series FHD IR",
-        "id": "cineseriesfhdir",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9789",
-        "categories": [
-            "iran"
-        ],
-        "country": ""
-    },
-    {
         "name": "Woman TV IR",
         "id": "womantvir",
         "logo": "",
@@ -184,6 +174,536 @@
         "id": "varzishsporthdir",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/597",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: BBC Persian HD",
+        "id": "irbbcpersianhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063709",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Iran International SD",
+        "id": "iriraninternationalsd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063707",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Manoto HD",
+        "id": "irmanotohd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063704",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB TV1",
+        "id": "iriribtv1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063700",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB TV 1 HD",
+        "id": "iriribtv1hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063699",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB TV2",
+        "id": "iriribtv2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063698",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB TV 3 HD",
+        "id": "iriribtv3hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063695",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB TV 3",
+        "id": "iriribtv3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063694",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Nasim TV",
+        "id": "iriribnasimtv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063691",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Grand Cinema",
+        "id": "irgrandcinema",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063686",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Varzesh",
+        "id": "irvarzesh",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063685",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Rubix Plus HD",
+        "id": "irgemrubixplushd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063678",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Mifa + HD",
+        "id": "irgemmifahd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063667",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Latino",
+        "id": "irgemlatino",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063666",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Nature",
+        "id": "irgemnature",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063664",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Arabia",
+        "id": "irgemarabia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063663",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Kids",
+        "id": "irgemkids",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063656",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Life",
+        "id": "irgemlife",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063655",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM Fit",
+        "id": "irgemfit",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063654",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: GEM USA",
+        "id": "irgemusa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063652",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persian Music",
+        "id": "irpersianmusic",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063639",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persiana Billboard HD",
+        "id": "irpersianabillboardhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063637",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persiana Cinema",
+        "id": "irpersianacinema",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063636",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persiana Family HD",
+        "id": "irpersianafamilyhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063634",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persiana Nostalgia",
+        "id": "irpersiananostalgia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063630",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persiana Plus HD",
+        "id": "irpersianaplushd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063629",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Namayesh HD",
+        "id": "iriribnamayeshhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063616",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: RADIO JAVAN HD",
+        "id": "irradiojavanhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063613",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Khatereh",
+        "id": "irkhatereh",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063611",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Ayeneh TV",
+        "id": "irayenehtv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063609",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Alborz",
+        "id": "iriribalborz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063604",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Atrak TV Khorasan Shomali",
+        "id": "iriribatraktvkhorasanshomali",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063602",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Kermanshah Zagros",
+        "id": "iriribkermanshahzagros",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063592",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Khorasan Razavi",
+        "id": "iriribkhorasanrazavi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063590",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Mazandaran Tabarestan TV",
+        "id": "iriribmazandarantabarestantv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063587",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: IRIB Ofogh",
+        "id": "iriribofogh",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063584",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Aftab TV (Markazi)",
+        "id": "iraftabtvmarkazi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063577",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: 24Box TV HD",
+        "id": "ir24boxtvhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063576",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Persian RAP",
+        "id": "irpersianrap",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063573",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: FX TV 1 HD",
+        "id": "irfxtv1hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063567",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: HODHOD Farsi",
+        "id": "irhodhodfarsi",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063563",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: MAXX",
+        "id": "irmaxx",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063553",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Navahang HD",
+        "id": "irnavahanghd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063551",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: PMC HD",
+        "id": "irpmchd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063548",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Press TV HD",
+        "id": "irpresstvhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063543",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Sabalan TV (Ardebil)",
+        "id": "irsabalantvardebil",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063540",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: SL 1 HD",
+        "id": "irsl1hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063536",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Tapesh TV",
+        "id": "irtapeshtv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063534",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: TOONIX HD",
+        "id": "irtoonixhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063531",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Vox 2 TV",
+        "id": "irvox2tv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063528",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Cafe Trade HD",
+        "id": "ircafetradehd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063525",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: Toosheh TV",
+        "id": "irtooshehtv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063522",
+        "categories": [
+            "iran"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IR: JAMES BOND HD",
+        "id": "irjamesbondhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1063513",
         "categories": [
             "iran"
         ],

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "DEN HAAG TV HD",
+        "id": "denhaagtvhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/24382729541.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/bd58f398-3721-466f-af39-c16b7f00a25d.ts",
+        "categories": [
+            "|nl| países baixos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Crime INV HD",
+        "id": "crimeinvhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/48033852131.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/a5c4460e-00dc-4c26-b52f-5c6f2972ed7c.ts",
+        "categories": [
+            "|nl| países baixos"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Film1 Family HD",
+        "id": "film1familyhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/76936868741.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/aefdbb3b-5d3b-40bd-8016-f12906a1549e.ts",
+        "categories": [
+            "|nl| países baixos"
+        ],
+        "country": ""
+    }
+]

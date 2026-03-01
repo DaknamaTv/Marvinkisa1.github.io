@@ -2568,16 +2568,6 @@
         "country": "IN"
     },
     {
-        "name": "Prudent Media",
-        "id": "PrudentMedia.in",
-        "logo": "https://i.imgur.com/DG0x4UD.png",
-        "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "News Nation",
         "id": "NewsNation.in",
         "logo": "https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png",
@@ -3089,14 +3079,14 @@
         "country": "DO"
     },
     {
-        "name": "Noticias 16",
-        "id": "Noticias16.do",
-        "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
-        "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
+        "name": "Radio Ancon",
+        "id": "RadioAncon.pa",
+        "logo": "https://i.imgur.com/xum8PNe.jpg",
+        "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
         "categories": [
             "news"
         ],
-        "country": "DO"
+        "country": "PA"
     },
     {
         "name": "Love Television",
@@ -3113,6 +3103,17 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3335,16 +3336,6 @@
         "id": "EcotelTV.ec",
         "logo": "https://i.imgur.com/pVlZUSV.png",
         "url": "https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "RTU",
-        "id": "RTU.ec",
-        "logo": "https://i.imgur.com/1OWvMP4.png",
-        "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
         "categories": [
             "news"
         ],
@@ -3720,6 +3711,16 @@
         "country": "PE"
     },
     {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "Fresh News",
         "id": "FreshNews.kh",
         "logo": "https://i.imgur.com/bV6sawt.png",
@@ -3790,16 +3791,6 @@
         "country": "PS"
     },
     {
-        "name": "Nablus TV",
-        "id": "NablusTV.ps",
-        "logo": "https://i.imgur.com/GoLhaDK.png",
-        "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PS"
-    },
-    {
         "name": "TVP World",
         "id": "TVPWorld.pl",
         "logo": "https://i.imgur.com/lB4MgRI.png",
@@ -3815,17 +3806,6 @@
         "logo": "https://i.imgur.com/HuIsALV.png",
         "url": "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8",
         "categories": [
-            "news"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "TVK Stella",
-        "id": "TVKStella.pl",
-        "logo": "https://www.tvkstella.pl/img/poster.png",
-        "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
-        "categories": [
-            "general",
             "news"
         ],
         "country": "PL"
@@ -4469,6 +4449,16 @@
         "id": "TCM10HD.br",
         "logo": "https://i.imgur.com/aMuMVvB.png",
         "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Cachoeiro",
+        "id": "TVSimCachoeiro.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5438,16 +5428,6 @@
         "categories": [
             "news",
             "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MS NOW",
-        "id": "MSNOW.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",
-        "url": "http://41.205.93.154/MSNBC/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "US"
     },

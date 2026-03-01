@@ -720,16 +720,6 @@
         "country": "CA"
     },
     {
-        "name": "Sooriyan TV",
-        "id": "SooriyanTV.ca",
-        "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Sardari TV",
         "id": "SardariTV.ca",
         "logo": "",
@@ -898,16 +888,6 @@
         "country": "CA"
     },
     {
-        "name": "CBS WEST",
-        "id": "CBSWEST.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94099",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CHCH",
         "id": "chch.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/CHCH_HD_CA.png",
@@ -922,16 +902,6 @@
         "id": "cinepop.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/CINEPOP-HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94101",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CITY MONTREAL",
-        "id": "citytvmontreal.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CITY-MONTREAL-HD.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94102",
         "categories": [
             "canada"
         ],
@@ -1088,16 +1058,6 @@
         "country": "CA"
     },
     {
-        "name": "HOPE TV",
-        "id": "HOPETV.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94139",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "ICI VANCOUVER",
         "id": "ICIVANCOUVER.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/ICI-VANCOUVER-HD.png",
@@ -1122,16 +1082,6 @@
         "id": "KTLA.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/",
         "url": "http://sansat.co:88/02021375753918/8946623682/94144",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "NICK",
-        "id": "NICK.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/Nick_hd.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94159",
         "categories": [
             "canada"
         ],
@@ -1178,30 +1128,10 @@
         "country": "CA"
     },
     {
-        "name": "TELE QUEBEC",
-        "id": "TELEQUEBEC.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/TELE-QUEBEC-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94190",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "THE WEATHER NETWORK",
         "id": "theweathernetwork.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/TheWeatherNetwork.ca.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/94193",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TMN 1",
-        "id": "tmn.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/tmn.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94195",
         "categories": [
             "canada"
         ],
@@ -1258,16 +1188,6 @@
         "country": "CA"
     },
     {
-        "name": "VISION",
-        "id": "vision.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/Vision_TV_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94211",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WILD TV",
         "id": "wild.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/Wild.ca.png",
@@ -1308,40 +1228,10 @@
         "country": "CA"
     },
     {
-        "name": "TELE TOON FRENCH",
-        "id": "teletoonfrench.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/TeletoonFrench.ca.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94231",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TREEHOUSE",
-        "id": "treehouse.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/Treehouse_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94232",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "TRAVEL ESCAPE",
         "id": "travelescape.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/",
         "url": "http://sansat.co:88/02021375753918/8946623682/94235",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CNN",
-        "id": "cnn.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/CNN_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94239",
         "categories": [
             "canada"
         ],
@@ -1438,16 +1328,6 @@
         "country": "CA"
     },
     {
-        "name": "CBC WINNIPEG HD",
-        "id": "CBCWINNIPEGHD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/235144",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CBC REGINA HD",
         "id": "CBCREGINAHD.ca",
         "logo": "",
@@ -1538,26 +1418,6 @@
         "country": "CA"
     },
     {
-        "name": "DAZN 1 HD",
-        "id": "dazn.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268545",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "DAZN 2 HD",
-        "id": "DAZN2HD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268546",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "DAZN 4 HD",
         "id": "DAZN4HD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/dazn.png",
@@ -1588,16 +1448,6 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 433 HD",
-        "id": "SUPERSPORTSCH433HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268563",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "SUPER SPORTS CH 434 HD",
         "id": "SUPERSPORTSCH434HD.ca",
         "logo": "",
@@ -1618,30 +1468,10 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 441 HD",
-        "id": "SUPERSPORTSCH441HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268571",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "SUPER SPORTS CH 443 HD",
         "id": "SUPERSPORTSCH443HD.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268573",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 444 HD",
-        "id": "SUPERSPORTSCH444HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268574",
         "categories": [
             "canada"
         ],
@@ -1662,26 +1492,6 @@
         "id": "SUPERSPORTSCH452HD.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268576",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 453 HD",
-        "id": "SUPERSPORTSCH453HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268577",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 457/480 HD",
-        "id": "SUPERSPORTSCH457480HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268581",
         "categories": [
             "canada"
         ],
@@ -1718,40 +1528,10 @@
         "country": "CA"
     },
     {
-        "name": "SUPER SPORTS CH 461 HD",
-        "id": "SUPERSPORTSCH461HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268585",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "SUPER SPORTS CH 462 HD",
-        "id": "SUPERSPORTSCH462HD.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268586",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "OHL 03",
         "id": "OHL03.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/ohl.jpg",
         "url": "http://sansat.co:88/02021375753918/8946623682/268602",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "OHL 05",
-        "id": "OHL05.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/ohl.jpg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268604",
         "categories": [
             "canada"
         ],
@@ -1788,16 +1568,6 @@
         "country": "CA"
     },
     {
-        "name": "WHL 02",
-        "id": "WHL02.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268616",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WHL 04",
         "id": "WHL04.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
@@ -1828,36 +1598,6 @@
         "country": "CA"
     },
     {
-        "name": "WHL 12",
-        "id": "WHL12.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268626",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "WHL 13",
-        "id": "WHL13.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268627",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "WHL 15",
-        "id": "WHL15.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268629",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "WHL 18",
         "id": "WHL18.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/whl.png",
@@ -1872,26 +1612,6 @@
         "id": "QMIJHL01.ca",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/268634",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "QMIJHL 02",
-        "id": "QMIJHL02.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268635",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "QMIJHL 05",
-        "id": "QMIJHL05.ca",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268638",
         "categories": [
             "canada"
         ],
@@ -1938,60 +1658,10 @@
         "country": "CA"
     },
     {
-        "name": "CTV 2 OTTAWA HD",
-        "id": "CTV2OTTAWAHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268651",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "GLOBAL CALGARY SD",
-        "id": "GLOBALCALGARYSD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268652",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CTV EDMONTON HD",
-        "id": "CTVEDMONTONHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268654",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CTV CALGARY HD",
         "id": "CTVCALGARYHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/CTV--NP.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268655",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CBC TORONTO HD",
-        "id": "CBCTORONTOHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CBC-TORONTO-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268665",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CITY TORONTO HD",
-        "id": "CITYTORONTOHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CITY-TV-TORONTO-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268667",
         "categories": [
             "canada"
         ],
@@ -2048,16 +1718,6 @@
         "country": "CA"
     },
     {
-        "name": "CRIME & INVESTIGATION HD",
-        "id": "CRIMEINVESTIGATIONHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/CRIME&INVESTIGATION-HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268673",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "DEJAVIEW HD",
         "id": "DEJAVIEWHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/DEJAVIEW--NP.png",
@@ -2072,16 +1732,6 @@
         "id": "DTOURHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/DTOUR-NP.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268702",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "E! HD",
-        "id": "EHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/E!-NP.jpeg",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268703",
         "categories": [
             "canada"
         ],
@@ -2142,16 +1792,6 @@
         "id": "HGTVHD.ca",
         "logo": "http://vodkom.com:25461/Logo/canada/HGTV-HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/268712",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "MIRACLE HD",
-        "id": "MIRACLEHD.ca",
-        "logo": "http://vodkom.com:25461/Logo/canada/miraclechannel.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/268717",
         "categories": [
             "canada"
         ],
@@ -2538,16 +2178,6 @@
         "country": "CA"
     },
     {
-        "name": "NAT GEO",
-        "id": "natgeo.ca",
-        "logo": "http://www.vodkom.com:25461/Logo/canada/NatGeo_HD_CA.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94267",
-        "categories": [
-            "canada"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "CTV 2 VANCOUVER",
         "id": "ctv2vancouver.ca",
         "logo": "http://www.vodkom.com:25461/Logo/canada/CTV__Two_Atlantic_CA.png",
@@ -2624,16 +2254,6 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/94276",
         "categories": [
             "canada"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "TSN1",
-        "id": "TSN1.ca",
-        "logo": "https://i.imgur.com/eRFE0jZ.png",
-        "url": "https://tvpass.org/live/tsn1/sd",
-        "categories": [
-            "sports"
         ],
         "country": "CA"
     },

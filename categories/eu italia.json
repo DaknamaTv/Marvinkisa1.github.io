@@ -40,16 +40,6 @@
         "country": "IT"
     },
     {
-        "name": "DAZN CHANNEL 4K",
-        "id": "DAZNCHANNEL4K.it",
-        "logo": "http://www.vodkom.com:25461/Logo/Logo/International/DAZN/DAZN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/663347",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "DAZN CHANNEL HD",
         "id": "DAZNCHANNELHD.it",
         "logo": "http://www.vodkom.com:25461/Logo/Logo/International/DAZN/DAZN.png",
@@ -334,16 +324,6 @@
         "id": "tv8.it",
         "logo": "http://vodkom.com:25461/Logo/ITALIA/TV8HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/56144",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "IRIS",
-        "id": "iris.it",
-        "logo": "http://vodkom.com:25461/Logo/ITALIA/Iris.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/56145",
         "categories": [
             "eu italia"
         ],
@@ -810,16 +790,6 @@
         "country": "IT"
     },
     {
-        "name": "PRIME VIDEO 5 HD",
-        "id": "PRIMEVIDEO5HD.it",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/195409",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PRIME VIDEO 6 HD",
         "id": "PRIMEVIDEO6HD.it",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
@@ -850,30 +820,10 @@
         "country": "IT"
     },
     {
-        "name": "PRIME VIDEO 9 HD",
-        "id": "PRIMEVIDEO9HD.it",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/195413",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PRIME VIDEO 10 HD",
         "id": "PRIMEVIDEO10HD.it",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/195414",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "PRIME VIDEO 11 HD",
-        "id": "PRIMEVIDEO11HD.it",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/195415",
         "categories": [
             "eu italia"
         ],

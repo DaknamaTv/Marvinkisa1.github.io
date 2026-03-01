@@ -1,0 +1,52 @@
+[
+    {
+        "name": "BBC Earth HD",
+        "id": "bbcearthhd",
+        "logo": "http://img-cdn.curl.pk:8880/chimg/4044460126.jpg",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/0932b127-4186-4bc4-9867-811425474a0b.ts",
+        "categories": [
+            "|pl| polónia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Canal+ Sport FHD",
+        "id": "canalsportfhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/86577741391.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/d0e4f8f0-4da3-4065-aa45-6c68f34f59b3.ts",
+        "categories": [
+            "|pl| polónia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Polsat CAFE HD",
+        "id": "polsatcafehd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/17235390471.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/715607fa-477a-4ad3-a08a-482e4313ea7a.ts",
+        "categories": [
+            "|pl| polónia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Teletoon+ HD",
+        "id": "teletoonhd",
+        "logo": "http://img-cdn.curl.pk:8880/channels_icon/94486604681.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/422059e6-8227-42ca-93f3-a1d2ab131dcf.ts",
+        "categories": [
+            "|pl| polónia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVP Seriale HD",
+        "id": "tvpserialehd",
+        "logo": "http://img-cdn.curl.pk:8880/chimg/9166164202.jpg",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/34c459d0-fb46-4c03-bb1b-ff69d0581523.ts",
+        "categories": [
+            "|pl| polónia"
+        ],
+        "country": ""
+    }
+]

@@ -58,5 +58,125 @@
             "india"
         ],
         "country": ""
+    },
+    {
+        "name": "IND: Berita RTM FHD",
+        "id": "indberitartmfhd",
+        "logo": "https://www.muftiwp.gov.my/images/photo/keratan-akhbar/BeritaRTM/logobes.png",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IND: SONY MAX FHD",
+        "id": "indsonymaxfhd",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/372575",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IND: SONY TEN 3 FHD",
+        "id": "indsonyten3fhd",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/372569",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IND: Zee Cafe HD",
+        "id": "indzeecafehd",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/371917",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IN: Zee Cinema  HD",
+        "id": "inzeecinemahd",
+        "logo": "http://iptv.4ktezz.top:25461/images/yfbnJYfha32xYhbJNmHpYI3F3ELYlPnP.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/371916",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IND: STAR GOLD 2",
+        "id": "indstargold2",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/371904",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IND: ZEE ACTION",
+        "id": "indzeeaction",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/371902",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IND: ZEE ANMOL",
+        "id": "indzeeanmol",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/371901",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Channel Y",
+        "id": "channely",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/186575",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Punjabi TV",
+        "id": "punjabitv",
+        "logo": "http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/186478",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sardari TV",
+        "id": "sardaritv",
+        "logo": "https://i.imgur.com/6Q844bs.jpg",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/186465",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Shubhsandesh",
+        "id": "shubhsandesh",
+        "logo": "https://i.imgur.com/ibnqDAD.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/186456",
+        "categories": [
+            "india"
+        ],
+        "country": ""
     }
 ]

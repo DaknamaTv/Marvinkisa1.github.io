@@ -20,60 +20,10 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Magic FM",
-        "id": "radioromagicfm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1978",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : Radio Cafe",
         "id": "radiororadiocafe",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1979",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Kiss FM",
-        "id": "radiorokissfm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1980",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Focus",
-        "id": "radiororadiofocus",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1981",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Manele",
-        "id": "radiororadiomanele",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1983",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Petrecaretzu",
-        "id": "radiororadiopetrecaretzu",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1985",
         "categories": [
             "acasatv radio"
         ],
@@ -100,30 +50,10 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Radio România Actualități",
-        "id": "radiororadioromniaactualiti",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1989",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : Dance FM",
         "id": "radiorodancefm",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1990",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Rock FM",
-        "id": "radiororockfm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1991",
         "categories": [
             "acasatv radio"
         ],
@@ -140,46 +70,6 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Radio Accent",
-        "id": "radiororadioaccent",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1994",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : ProFM",
-        "id": "radioroprofm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1995",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Petrecere",
-        "id": "radiororadiopetrecere",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1996",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Popular",
-        "id": "radiororadiopopular",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/1998",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : Play 90's",
         "id": "radioroplay90s",
         "logo": "",
@@ -190,50 +80,10 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Vibe FM",
-        "id": "radiorovibefm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2002",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Greu De Difuzat",
-        "id": "radiororadiogreudedifuzat",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2003",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : Radio Hit Romania",
         "id": "radiororadiohitromania",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2004",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio 1 Manele",
-        "id": "radiororadio1manele",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2009",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Ortodox Radio",
-        "id": "radioroortodoxradio",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2010",
         "categories": [
             "acasatv radio"
         ],
@@ -300,26 +150,6 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Radio Doxologia",
-        "id": "radiororadiodoxologia",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2028",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio România Cultural",
-        "id": "radiororadioromniacultural",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2029",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : Radio X Net Manele",
         "id": "radiororadioxnetmanele",
         "logo": "",
@@ -340,36 +170,6 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Radio Pro Manele",
-        "id": "radiororadiopromanele",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2032",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Folclor",
-        "id": "radiororadiofolclor",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2033",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Dobrogea",
-        "id": "radiororadiodobrogea",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2035",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : GherlaFM",
         "id": "radiorogherlafm",
         "logo": "",
@@ -384,56 +184,6 @@
         "id": "radiororadioclubmix",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2040",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Live 247",
-        "id": "radiororadiolive247",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2041",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Plusz FM",
-        "id": "radioropluszfm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2042",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Teatrul Național Radiofonic",
-        "id": "radioroteatrulnaionalradiofonic",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2043",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Balada",
-        "id": "radiororadiobalada",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2044",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Clasic Romania",
-        "id": "radiororadioclasicromania",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2048",
         "categories": [
             "acasatv radio"
         ],
@@ -510,50 +260,10 @@
         "country": ""
     },
     {
-        "name": "RADIO RO : Sport Total FM",
-        "id": "radiorosporttotalfm",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2072",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : West City Radio",
-        "id": "radiorowestcityradio",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2074",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RADIO RO : Radio Timişoara 105.9 FM",
         "id": "radiororadiotimioara1059fm",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2077",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Marosvásárhelyi Rádió",
-        "id": "radioromarosvsrhelyirdi",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2079",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Dance Effect Radio",
-        "id": "radiorodanceeffectradio",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2080",
         "categories": [
             "acasatv radio"
         ],
@@ -574,16 +284,6 @@
         "id": "radioromegahit",
         "logo": "",
         "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2085",
-        "categories": [
-            "acasatv radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RADIO RO : Radio Romania International",
-        "id": "radiororadioromaniainternational",
-        "logo": "",
-        "url": "https://vip-acasatv.online:25463/LKg32HRpca9V75/4SYq9aKEAC/2089",
         "categories": [
             "acasatv radio"
         ],

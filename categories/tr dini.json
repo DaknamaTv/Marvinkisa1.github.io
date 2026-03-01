@@ -1,0 +1,62 @@
+[
+    {
+        "name": "TR: DIYANET TV HD",
+        "id": "trdiyanettvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/TRTDiyanetCocuk.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3626",
+        "categories": [
+            "tr dini"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: VAV TV HD",
+        "id": "trvavtvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/vavTV.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/338965",
+        "categories": [
+            "tr dini"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SEMERKAND HD",
+        "id": "trsemerkandhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/semerkand.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1049",
+        "categories": [
+            "tr dini"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: MELTEM TV",
+        "id": "trmeltemtv",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/meltem_tv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/167460",
+        "categories": [
+            "tr dini"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: IKRA TV HD",
+        "id": "trikratvhd",
+        "logo": "https://sltv-icon.cms-s.com/logo/turkeyT/ikraTv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/5963",
+        "categories": [
+            "tr dini"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: KURAN-I KERIM TV HD",
+        "id": "trkuranikerimtvhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/kuraniKerimTv.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/468045",
+        "categories": [
+            "tr dini"
+        ],
+        "country": ""
+    }
+]

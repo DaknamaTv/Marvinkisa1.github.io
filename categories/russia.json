@@ -58,5 +58,35 @@
             "russia"
         ],
         "country": ""
+    },
+    {
+        "name": "TV 1000 HD RU",
+        "id": "tv1000hdru",
+        "logo": "http://epg.localconectivity.net/LOGO/RUSSIA/rsz_tv1000.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/283999",
+        "categories": [
+            "russia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FOX HD RU",
+        "id": "foxhdru",
+        "logo": "http://epg.localconectivity.net/LOGO/RUSSIA/fox_hd.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/283992",
+        "categories": [
+            "russia"
+        ],
+        "country": ""
+    },
+    {
+        "name": "V Sport FHD RU",
+        "id": "vsportfhdru",
+        "logo": "http://epg.localconectivity.net/LOGO/RUSSIA/rsz_viasat_sport.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/283980",
+        "categories": [
+            "russia"
+        ],
+        "country": ""
     }
 ]

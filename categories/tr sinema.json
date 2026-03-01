@@ -1,0 +1,62 @@
+[
+    {
+        "name": "TR: BEIN MOVIES TURK HD",
+        "id": "trbeinmoviesturkhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/bein_movies_turk.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/132710",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DIZISMART PREMIUM HD",
+        "id": "trdizismartpremiumhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/dizismart_premium.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/132715",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: FILMBOX FHD",
+        "id": "trfilmboxfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/2021mixlogo/filmbox.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/412587",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SINEMA TV AKSIYON HD",
+        "id": "trsinematvaksiyonhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_aksiyon.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/155746",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SINEMA TV KOMEDI HD",
+        "id": "trsinematvkomedihd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_komedi.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/155748",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: SINEMA TV YERLI HD",
+        "id": "trsinematvyerlihd",
+        "logo": "http://sltv-icon.cms-s.com/logo/turkeyT/sinema_yerli%20(1).png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/201419",
+        "categories": [
+            "tr sinema"
+        ],
+        "country": ""
+    }
+]

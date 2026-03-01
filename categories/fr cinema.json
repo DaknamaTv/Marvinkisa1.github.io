@@ -1,0 +1,112 @@
+[
+    {
+        "name": "FR: CANAL+ GRAND ECRAN HD",
+        "id": "frcanalgrandecranhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/a-z/--C--/canal-plus-box-office-fr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/485824",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CANAL+ BOX OFFICE HD",
+        "id": "frcanalboxofficehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/a-z/--C--/canal-plus-box-office-fr.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/485823",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE+ OCS HD",
+        "id": "frcineocshd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/OCSMAXHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/3971",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE+ OCS FHD",
+        "id": "frcineocsfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/OCSMAXHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384433",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE+ EMOTION HD",
+        "id": "frcineemotionhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CINE+EMOTION.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/1474",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE+ FRISSON FHD",
+        "id": "frcinefrissonfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/CINEFRISSON.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/144998",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE CLASSIC FHD",
+        "id": "frcineclassicfhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINECLASSICHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/384828",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: ACTION HD",
+        "id": "fractionhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/ACTIONHD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/2541",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: PARAMOUNT DECALE HD",
+        "id": "frparamountdecalehd",
+        "logo": "http://sltv-icon.cms-s.com/logo/franceT-220x132/PARAMOUNTCHANNEL.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/199990",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 9 EPOUVANTE-HORREUR HD",
+        "id": "frcineoffice9epouvantehorreurhd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%209%20EPOUVANTE-HORREUR%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/212765",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FR: CINE OFFICE 14 CONCERT HD",
+        "id": "frcineoffice14concerthd",
+        "logo": "http://sltv-icon.cms-s.com/logo/FRANCE/CINE%20OFFICE%2014%20CONCERT%20HD.png",
+        "url": "http://ip.sltv.nl:8080/Momokuyen67/KisT5PeotB/247031",
+        "categories": [
+            "fr cinema"
+        ],
+        "country": ""
+    }
+]

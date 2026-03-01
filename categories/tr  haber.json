@@ -160,16 +160,6 @@
         "country": ""
     },
     {
-        "name": "A Haber HD",
-        "id": "ahaberhd",
-        "logo": "https://i.ibb.co/tPpps02w/zVB7Ton.png",
-        "url": "http://kgms.xyz:80/live/deniz2020/e6apwZGq89AX/866470.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
         "name": "A Haber FHD",
         "id": "ahaberfhd",
         "logo": "https://i.ibb.co/tPpps02w/zVB7Ton.png",
@@ -274,16 +264,6 @@
         "id": "tv100hd",
         "logo": "https://i.ibb.co/sdKqXNg2/47.png",
         "url": "http://kgms.xyz:80/live/deniz2020/e6apwZGq89AX/866490.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ILKE TV HD",
-        "id": "ilketvhd",
-        "logo": "https://i.ibb.co/HfyGYgjw/ILKE-TV.png",
-        "url": "http://kgms.xyz:80/live/deniz2020/e6apwZGq89AX/866491.ts",
         "categories": [
             "tr ➤ haber"
         ],
@@ -484,16 +464,6 @@
         "id": "trbloomberghtfhd",
         "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/BLOOMBERG.TV.png",
         "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/849543.ts",
-        "categories": [
-            "tr ➤ haber"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: Flash Haber",
-        "id": "trflashhaber",
-        "logo": "http://logoxx0144.duckdns.org:8080/LOGO.YENI/TR/HABERR/FLASH.HABER.png",
-        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/849546.ts",
         "categories": [
             "tr ➤ haber"
         ],

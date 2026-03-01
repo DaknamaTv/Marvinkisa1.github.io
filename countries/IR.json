@@ -226,16 +226,6 @@
         "country": "IR"
     },
     {
-        "name": "GEM SERIES PLUS HD",
-        "id": "GEMSERIESPLUSHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100848",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "GEM FILM HD",
         "id": "GEMFILMHD.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
@@ -490,16 +480,6 @@
         "id": "ABADANTV.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
         "url": "http://sansat.co:88/02021375753918/8946623682/100909",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "AFTAB TV |MARKAZI|",
-        "id": "AFTABTVMARKAZI.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100910",
         "categories": [
             "as iran"
         ],
@@ -1116,16 +1096,6 @@
         "country": "IR"
     },
     {
-        "name": "MIFA MUSIC TV",
-        "id": "MIFAMUSICTV.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192760",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "IRIB ESFAHAN",
         "id": "IRIBESFAHAN.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
@@ -1206,36 +1176,6 @@
         "country": "IR"
     },
     {
-        "name": "GEM DRAMA PLUS HD",
-        "id": "GEMDRAMAPLUSHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192775",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "GEM RUBIX PLUS HD",
-        "id": "GEMRUBIXPLUSHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192776",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "GEM ONYX HD",
-        "id": "GEMONYXHD.ir",
-        "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/192777",
-        "categories": [
-            "as iran"
-        ],
-        "country": "IR"
-    },
-    {
         "name": "GEM PLUS HD",
         "id": "GEMPLUSHD.ir",
         "logo": "http://www.vodkom.com:25461/Logo/IRAN/",
@@ -1262,6 +1202,26 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/192784",
         "categories": [
             "as iran"
+        ],
+        "country": "IR"
+    },
+    {
+        "name": "RasoulallahTv",
+        "id": "RasoulallahTv.ir",
+        "logo": "https://i.imgur.com/Jh5ADee.png",
+        "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IR"
+    },
+    {
+        "name": "WiseHumanTv",
+        "id": "WiseHumanTv.ir",
+        "logo": "https://i.imgur.com/BT7EtfB.png",
+        "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "IR"
     }

@@ -698,16 +698,6 @@
         "country": "IN"
     },
     {
-        "name": "Sony Pix",
-        "id": "SonyPix.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Star Gold Select",
         "id": "StarGoldSelect.in",
         "logo": "https://dtil.tmsimg.com/assets/s143817_ld_h15_aa.png",
@@ -753,6 +743,16 @@
         "id": "MoviePlex.in",
         "logo": "https://i.imgur.com/THJEAqJ.png",
         "url": "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Roja Movies",
+        "id": "RojaMovies.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -983,6 +983,16 @@
         "country": "PY"
     },
     {
+        "name": "Rai Movie",
+        "id": "RaiMovie.it",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "categories": [
+            "movies"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Grjngo Western Movies",
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
@@ -1007,6 +1017,16 @@
         "id": "CinemaHausa.za",
         "logo": "https://i.imgur.com/uV5cHDW.png",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/video.m3u8?ads.vf=v-YPzZubeoG",
+        "categories": [
+            "movies"
+        ],
+        "country": "ZA"
+    },
+    {
+        "name": "Afriwood Blockbuster",
+        "id": "AfriwoodBlockbuster.za",
+        "logo": "https://i.imgur.com/aESdqiB.png",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/video.m3u8?ads.vf=W6V4C1LsfJK",
         "categories": [
             "movies"
         ],

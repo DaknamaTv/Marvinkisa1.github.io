@@ -18,5 +18,35 @@
             "austria"
         ],
         "country": ""
+    },
+    {
+        "name": "Baden TV AT",
+        "id": "badentvat",
+        "logo": "https://listimg.pinclipart.com/picdir/s/62-627087_baden-baden-tv-videos-und-nachrichten-f-u00fcr.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/117657",
+        "categories": [
+            "austria"
+        ],
+        "country": ""
+    },
+    {
+        "name": "4+ HD AT",
+        "id": "4hdat",
+        "logo": "https://logo.iptveditor.com/4+at.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/117651",
+        "categories": [
+            "austria"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTL 1 HD AT",
+        "id": "rtl1hdat",
+        "logo": "https://img.favpng.com/9/7/15/rtl-television-germany-high-definition-television-vox-png-favpng-HhAHJdHwpmqJb02udmiYJBdZi.jpg",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/117647",
+        "categories": [
+            "austria"
+        ],
+        "country": ""
     }
 ]

@@ -278,5 +278,575 @@
             "poland"
         ],
         "country": ""
+    },
+    {
+        "name": "PL : Animal Planet FHD",
+        "id": "planimalplanetfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/626.png?12122",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309977",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : BBC FIRST FHD",
+        "id": "plbbcfirstfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6643.jpg?25310",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309976",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Cinemax 2 FHD",
+        "id": "plcinemax2fhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/3327.jpg?77053",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309975",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Disney Junior",
+        "id": "pldisneyjunior",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/748.png?35416",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310006",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Disney XD",
+        "id": "pldisneyxd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/759.png?33606",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310005",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : E! Entertainment",
+        "id": "pleentertainment",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/664.png?99563",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310004",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Eleven Sports 2 FHD",
+        "id": "plelevensports2fhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8262.jpg?60304",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310038",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Eleven Sports 3 FHD",
+        "id": "plelevensports3fhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8262.jpg?60304",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310037",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Eska TV",
+        "id": "pleskatv",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9990.jpg?19349",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310003",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Extreme Sports FHD",
+        "id": "plextremesportsfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/619.png?99436",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310002",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : FOX FHD",
+        "id": "plfoxfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/593.png?37131",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309971",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Nickelodeon",
+        "id": "plnickelodeon",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/743.png?5303",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309992",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Polsat Play FHD",
+        "id": "plpolsatplayfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9890.jpg?98736",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310017",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Polsat Seriale FHD",
+        "id": "plpolsatserialefhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9866.jpg?39943",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310023",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Polsat Sport FHD",
+        "id": "plpolsatsportfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9883.jpg?90082",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310028",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Polsat Sport Premium 1 FHD",
+        "id": "plpolsatsportpremium1fhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9895.jpg?37064",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310034",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Romance TV",
+        "id": "plromancetv",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9862.jpg?54612",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309989",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : TLC FHD",
+        "id": "pltlcfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/604.png?33371",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309988",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Travel Channel FHD",
+        "id": "pltravelchannelfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/3081.jpg?73265",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309983",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : TVN Turbo FHD",
+        "id": "pltvnturbofhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9822.jpg?37684",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310041",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : TVN24 BiS FHD",
+        "id": "pltvn24bisfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9820.jpg?60712",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310047",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : TVP 1 FHD",
+        "id": "pltvp1fhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9818.jpg?77096",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310273",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : TVP ABC",
+        "id": "pltvpabc",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9813.jpg?8350",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310270",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : TVP Sport FHD",
+        "id": "pltvpsportfhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9804.jpg?6133",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310049",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: 13 ULICA HD",
+        "id": "pl13ulicahd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/10059.jpg?7081",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309932",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: 4FUN GOLD HITS",
+        "id": "pl4fungoldhits",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/10057.jpg?90564",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309801",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: AMC HD",
+        "id": "plamchd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6164.png?73382",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309872",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: BIZNES24 HD",
+        "id": "plbiznes24hd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6045.jpg?81094",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309883",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CANAL+ FILM HD",
+        "id": "plcanalfilmhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6330.jpg?45827",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309931",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CANAL+ SERIALE HD",
+        "id": "plcanalserialehd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8505.jpg?79415",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309937",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CANAL+ SPORT 2 HD",
+        "id": "plcanalsport2hd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6332.jpg?6448",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309900",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CBS REALITY HD",
+        "id": "plcbsrealityhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/7922.jpg?60316",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309869",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: DISCO POLO MUSIC",
+        "id": "pldiscopolomusic",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/2368.jpg?41547",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309803",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: ELEVEN SPORTS 4 HD",
+        "id": "plelevensports4hd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8262.jpg?44213",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309893",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: ESKA ROCK TV",
+        "id": "pleskarocktv",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9990.jpg?29563",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309797",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: FILMBOX ACTION",
+        "id": "plfilmboxaction",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/3943.jpg?44421",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309813",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: FOKUS TV HD",
+        "id": "plfokustvhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9971.jpg?68773",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309922",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: FOX HD",
+        "id": "plfoxhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/593.png?46012",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309917",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: H2 HD",
+        "id": "plh2hd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9715.jpg?19115",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309857",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: HBO 3 HD",
+        "id": "plhbo3hd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/1918.jpg?22916",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309934",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: HISTORY HD",
+        "id": "plhistoryhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/733.jpg?67449",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309825",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: ID HD",
+        "id": "plidhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/622.jpg?72096",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309856",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: KINO TV HD",
+        "id": "plkinotvhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/3791.png?5478",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309918",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: NAT GEO PEOPLE HD",
+        "id": "plnatgeopeoplehd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6621.png?51693",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309879",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: NATIONAL GEOGRAPHIC HD",
+        "id": "plnationalgeographichd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/616.png?34589",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309877",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: NOVELAS+ HD",
+        "id": "plnovelashd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/8416.jpg?25759",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309850",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: POLSAT HD",
+        "id": "plpolsathd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9897.jpg?6632",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309949",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: POLSAT SERIALE HD",
+        "id": "plpolsatserialehd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9866.jpg?75875",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309947",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: POLSAT VIASAT HISTORY HD",
+        "id": "plpolsatviasathistoryhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9867.jpg?29291",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309838",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: RED CARPET TV HD",
+        "id": "plredcarpettvhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9863.jpg?61612",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309836",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: ROMANCE TV HD",
+        "id": "plromancetvhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/3834.png?36334",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309835",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: SCIFI UNIVERSAL HD",
+        "id": "plscifiuniversalhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9857.jpg?27330",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309890",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: SUNDANCE TV HD",
+        "id": "plsundancetvhd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/11322.jpg?40248",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309833",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVN TURBO HD",
+        "id": "pltvnturbohd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9822.jpg?4515",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309954",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP 3",
+        "id": "pltvp3",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9814.jpg?54943",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309820",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP DOKUMENT HD",
+        "id": "pltvpdokumenthd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9815.jpg?78407",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309829",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: TVP HISTORIA",
+        "id": "pltvphistoria",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9810.jpg?4256",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309818",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
     }
 ]

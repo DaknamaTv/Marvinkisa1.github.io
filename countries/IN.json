@@ -4302,16 +4302,6 @@
         "country": "IN"
     },
     {
-        "name": "Namdhari TV",
-        "id": "NamdhariTV.in",
-        "logo": "https://i.imgur.com/NalsXTo.png",
-        "url": "https://namdhari.tv/live/sbs1.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Pulari TV",
         "id": "PulariTV.in",
         "logo": "https://i.imgur.com/v5urG30.png",
@@ -4368,16 +4358,6 @@
         "url": "https://galaxyott.live/hls/ntv.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sony Pix",
-        "id": "SonyPix.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",
-        "url": "http://103.229.254.25:7001/play/a0ed/index.m3u8",
-        "categories": [
-            "movies"
         ],
         "country": "IN"
     },
@@ -4480,16 +4460,6 @@
         "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Prudent Media",
-        "id": "PrudentMedia.in",
-        "logo": "https://i.imgur.com/DG0x4UD.png",
-        "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -4897,6 +4867,46 @@
         "id": "ZBMusic.in",
         "logo": "https://i.imgur.com/k1nb8u1.jpeg",
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "KCL TV",
+        "id": "KCLTV.in",
+        "logo": "https://i.imgur.com/bkp9dIm.png",
+        "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Mastiii",
+        "id": "Mastiii.in",
+        "logo": "https://i.imgur.com/lxgXHx4.png",
+        "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Roja Movies",
+        "id": "RojaMovies.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
+        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Vaanavil TV",
+        "id": "VaanavilTV.in",
+        "logo": "https://i.imgur.com/etr1k08.png",
+        "url": "http://198.27.83.207:2550/VAANAVIL_SD/index.m3u8",
         "categories": [
             "music"
         ],

@@ -1640,16 +1640,6 @@
         "country": ""
     },
     {
-        "name": "Star Gold 2 HD",
-        "id": "stargold2hd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0d0/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "BoishakhiTV",
         "id": "boishakhitv",
         "logo": "",
@@ -1874,16 +1864,6 @@
         "id": "dbc",
         "logo": "",
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ICC World Cup 2026",
-        "id": "iccworldcup2026",
-        "logo": "",
-        "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -2180,16 +2160,6 @@
         "country": ""
     },
     {
-        "name": "global tv",
-        "id": "globaltv",
-        "logo": "https://tvassets.roarzone.info/images/global-tv.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=6c6d5917fa1cb9f3198b58fa16eb0cc4858ed9f2-88248b6e38278c52dbd214f86eddf221-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ananda tv",
         "id": "anandatv",
         "logo": "https://tvassets.roarzone.info/images/16.png",
@@ -2390,16 +2360,6 @@
         "country": ""
     },
     {
-        "name": "Astro SPORTS Primier",
-        "id": "astrosportsprimier",
-        "logo": "",
-        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "BAHRAIN QURAN",
         "id": "bahrainquran",
         "logo": "",
@@ -2510,10 +2470,30 @@
         "country": ""
     },
     {
-        "name": "ASTRO SPORTS PLUS",
-        "id": "astrosportsplus",
+        "name": "Deshe Bideshe",
+        "id": "deshebideshe",
+        "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
+        "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Azan TV",
+        "id": "azantv",
         "logo": "",
-        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Me-",
+        "id": "me",
+        "logo": "",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8",
         "categories": [
             "bd"
         ],

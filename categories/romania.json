@@ -160,10 +160,280 @@
         "country": ""
     },
     {
-        "name": "RO: PRO ARENA",
-        "id": "roproarena",
+        "name": "Eurosport 2 HD RO",
+        "id": "eurosport2hdro",
+        "logo": "http://epg.puracces.com/LOGO/ROMANIA/eurosport-2.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852284",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV1000 HD RO",
+        "id": "tv1000hdro",
         "logo": "",
-        "url": "http://stb.iphd.tv:80/c4:36:6c:d9:8e:35/FKPzTzKiA8/156964",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852280",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Travel XP HD RO",
+        "id": "travelxphdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852277",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PRO GOLD HD RO",
+        "id": "progoldhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852274",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "National TV HD RO",
+        "id": "nationaltvhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852269",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Minimax HD RO",
+        "id": "minimaxhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852266",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "History HD RO",
+        "id": "historyhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852263",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO HD RO",
+        "id": "hbohdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852261",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Film Cafe HD RO",
+        "id": "filmcafehdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852255",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Favorit TV HD RO",
+        "id": "favorittvhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852254",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Epic Drama HD RO",
+        "id": "epicdramahdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852250",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Docubox HD RO",
+        "id": "docuboxhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852249",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Disney Channel HD RO",
+        "id": "disneychannelhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852246",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Crime+Investigation HD RO",
+        "id": "crimeinvestigationhdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852245",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AXN Romania HD RO",
+        "id": "axnromaniahdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/852235",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Prima Sport 1 HD RO",
+        "id": "primasport1hdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/384047",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Prima Sport 2 HD RO",
+        "id": "primasport2hdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/384046",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Prima Sport 3 HD RO",
+        "id": "primasport3hdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/384045",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Prima Sport 4 HD RO",
+        "id": "primasport4hdro",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/384044",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Viasat Nature HD RO",
+        "id": "viasatnaturehdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_viasat_nature.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270439",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Viasat History HD RO",
+        "id": "viasathistoryhdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_viasat_history.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270428",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HBO 2 HD RO",
+        "id": "hbo2hdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_hbo2_logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270427",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AXN White HD RO",
+        "id": "axnwhitehdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_axn_white_2015%20(1).png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270420",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AXN Spin HD RO",
+        "id": "axnspinhdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_axn_spin.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270418",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kiss tv HD RO",
+        "id": "kisstvhdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_kiss_tv.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270414",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Happy Channel HD RO",
+        "id": "happychannelhdro",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Happy_Channel_logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270413",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fishing &amp; Hunting HD RO",
+        "id": "fishingamphuntinghdro",
+        "logo": "http://epg.localconectivity.net/LOGO/ROMANIA/rsz_fishing_&amp;_hunting.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270412",
+        "categories": [
+            "romania"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nickelodeon HD RO",
+        "id": "nickelodeonhdro",
+        "logo": "http://epg.localconectivity.net/LOGO/UK/rsz_nickelodeon%20(2).png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270402",
         "categories": [
             "romania"
         ],

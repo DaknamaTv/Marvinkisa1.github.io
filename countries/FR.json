@@ -758,16 +758,6 @@
         "country": "FR"
     },
     {
-        "name": "NRJ HITS FHD",
-        "id": "nrjhits.fr",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/MUSIC/NRJ_HITS.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/127343",
-        "categories": [
-            "france musique"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "M6 MUSIC FHD",
         "id": "m6music.fr",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/MUSIC/M6_MUSIC.png",
@@ -1628,16 +1618,6 @@
         "country": "FR"
     },
     {
-        "name": "CHASSE ET PECHE FHD",
-        "id": "chassepeche.fr",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/CHASSE_ET_PECHE.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/127052",
-        "categories": [
-            "france decouverte"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "NAUTICAL FHD",
         "id": "nauticalchannel.fr",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/DECOUVERTE/Nautical_HD.png",
@@ -1802,16 +1782,6 @@
         "id": "nickelodeon.fr",
         "logo": "http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEON.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/127106",
-        "categories": [
-            "france jeunesse"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "NICKELODEON TEEN FHD",
-        "id": "nickelodeonteen.fr",
-        "logo": "http://www.vodkom.com:25461/Logo/FRENCH/LOGO/NICKELODEONTEEN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/127107",
         "categories": [
             "france jeunesse"
         ],
@@ -2418,16 +2388,6 @@
         "country": "FR"
     },
     {
-        "name": "CANAL+ GRAND ECRAN 4K",
-        "id": "canalplusgrandecran.fr",
-        "logo": "http://vodkom.com/MYFRANCE/CANAL+GRAND_ECRAN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/224456",
-        "categories": [
-            "france my canal"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "CANAL NEWS SD",
         "id": "CANALNEWSSD.fr",
         "logo": "",
@@ -2732,16 +2692,6 @@
         "id": "SKWEEKLIVE6FHDONLYONEVENT.fr",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/658659",
-        "categories": [
-            "france ligue1 | dazn"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "(SKWEEK) - LIVE 7 FHD (ONLY ON EVENT)",
-        "id": "SKWEEKLIVE7FHDONLYONEVENT.fr",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/658660",
         "categories": [
             "france ligue1 | dazn"
         ],

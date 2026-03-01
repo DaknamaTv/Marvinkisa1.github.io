@@ -920,16 +920,6 @@
         "country": ""
     },
     {
-        "name": "NatureTime [FR]",
-        "id": "naturetimefr",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC80000437_20250107T031518SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CHBC80000437",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Alberto Sordi & Co",
         "id": "albertosordico",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300016BA_20250326T013522SQUARE.png",
@@ -1164,16 +1154,6 @@
         "id": "epicgardeningtv",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000008F8_20251125T031037SQUARE.png",
         "url": "https://jmp2.uk/stvp-CA2000008F8",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bon Appétit",
-        "id": "bonapptit",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200006AL_20250729T185053SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CABC5200006AL",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -2670,36 +2650,6 @@
         "country": ""
     },
     {
-        "name": "Foodie Hub",
-        "id": "foodiehub",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN460000313",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Foodxp",
-        "id": "foodxp",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3000003QJ",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cinemalizia",
-        "id": "cinemalizia",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300029U3_20250415T022336SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT300029U3",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Duri a morire",
         "id": "duriamorire",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500002FD_20241106T142411SQUARE.png",
@@ -2714,46 +2664,6 @@
         "id": "movesportiviinviaggio",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20241022T044111SQUARE.png",
         "url": "https://jmp2.uk/stvp-ITBD300001GI",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "City Hunter",
-        "id": "cityhunter",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD100000507_20241126T043548SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD100000507",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Inazuma Eleven Collection",
-        "id": "inazumaelevencollection",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200005F4_20250527T014834SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT3200005F4",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MBC 무한도전",
-        "id": "mbc",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260224T012033SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBB5000069BS",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JTBC 냉장고를 부탁해",
-        "id": "jtbc",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20260128T012210SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR400006MW",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -2780,30 +2690,10 @@
         "country": ""
     },
     {
-        "name": "Movie Hub West",
-        "id": "moviehubwest",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500036HP_20251125T030945SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBD3500036HP",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Miramax Channel",
         "id": "miramaxchannel",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240716T002709SQUARE.png",
         "url": "https://jmp2.uk/stvp-US18000163F",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Intervention by A&E",
-        "id": "interventionbyae",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500040WX_20250805T005815SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBD3500040WX",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -2920,16 +2810,6 @@
         "country": ""
     },
     {
-        "name": "Autostop per il Cielo",
-        "id": "autostopperilcielo",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200004KN_20241022T051533SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD3200004KN",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "TSN The Ocho",
         "id": "tsntheocho",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20250729T185423SQUARE.png",
@@ -2980,50 +2860,10 @@
         "country": ""
     },
     {
-        "name": "History & Warfare",
-        "id": "historywarfare",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA600001C3_20250805T010059SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA600001C3",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Stingray Euro Hits",
         "id": "stingrayeurohits",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700001Z6_20250805T010230SQUARE.png",
         "url": "https://jmp2.uk/stvp-CA4700001Z6",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Campfire Vibes",
-        "id": "campfirevibes",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500003ZR_20250318T021227SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1500003ZR",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bares für Rares",
-        "id": "baresfrrares",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260113T032200SQUARE.png",
-        "url": "https://jmp2.uk/stvp-DEBD30000014M",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bob Ross: Die Freude am Malen",
-        "id": "bobrossdiefreudeammalen",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE160000644_20260210T035727SQUARE.png",
-        "url": "https://jmp2.uk/stvp-DE160000644",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -3150,26 +2990,6 @@
         "country": ""
     },
     {
-        "name": "House of Crime",
-        "id": "houseofcrime",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600004HW_20250416T005413SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN4600004HW",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "India TV Aap ki Adalat",
-        "id": "indiatvaapkiadalat",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20240911T003806SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN2600020H9",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Crime Scene TV",
         "id": "crimescenetv",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20250811T033443SQUARE.png",
@@ -3234,16 +3054,6 @@
         "id": "wbtvnews",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20241112T001405SQUARE.png",
         "url": "https://jmp2.uk/stvp-US700004OA",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Crime Zone",
-        "id": "crimezone",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000040M_20260203T191036SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBB36000040M",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -3410,16 +3220,6 @@
         "country": ""
     },
     {
-        "name": "HISTORY TV18",
-        "id": "historytv18",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600008DN_20240925T102238SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN1600008DN",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Film Al Femminile - Wedo Movies",
         "id": "filmalfemminilewedomovies",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700004EQ_20241022T051611SQUARE.png",
@@ -3490,36 +3290,6 @@
         "country": ""
     },
     {
-        "name": "India TV Speed News",
-        "id": "indiatvspeednews",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000002JA_20251106T195124SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN4000002JA",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "3BMeteo",
-        "id": "3bmeteo",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500008CB_20260113T032823SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT500008CB",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Anche i ricchi piangono",
-        "id": "ancheiricchipiangono",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20250307T152327SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBA14000026G",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Inuyasha",
         "id": "inuyasha",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20251013T054512SQUARE.png",
@@ -3540,40 +3310,10 @@
         "country": ""
     },
     {
-        "name": "Gambero Rosso",
-        "id": "gamberorosso",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20251216T040650SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT500011RG",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Mr. Bean",
-        "id": "mrbean",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20250402T010359SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR2400001TI",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "CJ ENM MOVIE",
         "id": "cjenmmovie",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260224T012008SQUARE.png",
         "url": "https://jmp2.uk/stvp-KRBC32000191N",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Brave Wilderness",
-        "id": "bravewilderness",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2100007GY_20251209T013603SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA2100007GY",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -3600,40 +3340,10 @@
         "country": ""
     },
     {
-        "name": "Action Movies - Rakuten TV",
-        "id": "actionmoviesrakutentv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png",
-        "url": "https://jmp2.uk/stvp-GB2600015OS",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Asianet Suvarna News",
-        "id": "asianetsuvarnanews",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000106W_20250507T003808SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN8000106W",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "TeleguOne TV",
         "id": "teleguonetv",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400058AF_20260225T005753SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN400058AF",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ENT Live",
-        "id": "entlive",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400000830_20251126T004252SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN400000830",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -3670,16 +3380,6 @@
         "country": ""
     },
     {
-        "name": "Cine Thriller",
-        "id": "cinethriller",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250708T031020SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD3200002DU",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Adrenaline Movies",
         "id": "adrenalinemovies",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20260127T040632SQUARE.png",
@@ -3704,16 +3404,6 @@
         "id": "5minuticreativi",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png",
         "url": "https://jmp2.uk/stvp-ITBA33000374G",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SuperTennis",
-        "id": "supertennis",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260210T040123SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT800003V4",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -3814,26 +3504,6 @@
         "id": "sonicthehedgehog",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png",
         "url": "https://jmp2.uk/stvp-GB370000369",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Series K BY MBC",
-        "id": "serieskbymbc",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600019L1_20260225T010345SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN4600019L1",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cine Amore",
-        "id": "cineamore",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20260210T040132SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT3800001XM",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -4600,16 +4270,6 @@
         "country": ""
     },
     {
-        "name": "K-Food by CJ ENM",
-        "id": "kfoodbycjenm",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700003M0_20250826T234703SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1700003M0",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "PBS Travel",
         "id": "pbstravel",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA13000084U_20250915T233808SQUARE.png",
@@ -4640,30 +4300,10 @@
         "country": ""
     },
     {
-        "name": "SLVR",
-        "id": "slvr",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700011LV_20260224T212847SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA4700011LV",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "PFL",
         "id": "pfl",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3500003OX_20250729T185300SQUARE.png",
         "url": "https://jmp2.uk/stvp-CA3500003OX",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Combate Global MMA",
-        "id": "combateglobalmma",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600017KV_20250523T235625SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA4600017KV",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -4690,40 +4330,10 @@
         "country": ""
     },
     {
-        "name": "Donut",
-        "id": "donut",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700007YN_20251125T031020SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1700007YN",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Animation+",
         "id": "animation",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400003FQ_20260224T212835SQUARE.png",
         "url": "https://jmp2.uk/stvp-CA400003FQ",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Smosh",
-        "id": "smosh",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA21000060M_20251028T011305SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA21000060M",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "The Try Guys",
-        "id": "thetryguys",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000010EM_20251021T192258SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA2000010EM",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -4744,26 +4354,6 @@
         "id": "cbccomedy",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20250819T224253SQUARE.png",
         "url": "https://jmp2.uk/stvp-CABD1200043OK",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CTV Laughs",
-        "id": "ctvlaughs",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400005SO_20260217T231412SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1400005SO",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Mr. Bean Animated",
-        "id": "mrbeananimated",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700005X1_20250826T234708SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1700005X1",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -4800,16 +4390,6 @@
         "country": ""
     },
     {
-        "name": "Let's Make A Deal Classic",
-        "id": "letsmakeadealclassic",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA700004T7_20260112T181650SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA700004T7",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "The Ringer from Spotify",
         "id": "theringerfromspotify",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1900002GF_20251104T004719SQUARE.png",
@@ -4830,60 +4410,10 @@
         "country": ""
     },
     {
-        "name": "Cutlers Court",
-        "id": "cutlerscourt",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA700003CI_20260210T002311SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA700003CI",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BuzzFeed Celeb",
-        "id": "buzzfeedceleb",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4000007K0_20260217T231410SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA4000007K0",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "It’s Anime",
-        "id": "itsanime",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1100002J6_20250714T223050SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1100002J6",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BizaarTV",
-        "id": "bizaartv",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1700006FC_20251028T011222SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA1700006FC",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sailor Moon",
         "id": "sailormoon",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2000002N3_20251110T235251SQUARE.png",
         "url": "https://jmp2.uk/stvp-CA2000002N3",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JoJo's Bizarre Adventure",
-        "id": "jojosbizarreadventure",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2700002RF_20260105T175901SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA2700002RF",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -4920,16 +4450,6 @@
         "country": ""
     },
     {
-        "name": "Moonbug",
-        "id": "moonbug",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA3700003NA_20250729T184618SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CABA3700003NA",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Blippi",
         "id": "blippi",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000188_20250729T185044SQUARE.png",
@@ -4944,16 +4464,6 @@
         "id": "strawberryshortcake",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200004AI_20260224T212849SQUARE.png",
         "url": "https://jmp2.uk/stvp-CABC5200004AI",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HappyKids",
-        "id": "happykids",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20250729T185159SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CABC2300017XX",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -5260,16 +4770,6 @@
         "country": ""
     },
     {
-        "name": "Les filles d'à côté [FR]",
-        "id": "lesfillesdctfr",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD200004J8_20250107T031513SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CHBD200004J8",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Faites entrer l'accusé [FR]",
         "id": "faitesentrerlaccusfr",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH330000132_20250107T031459SQUARE.png",
@@ -5330,16 +4830,6 @@
         "country": ""
     },
     {
-        "name": "Les Lapins Crétins",
-        "id": "leslapinscrtins",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH41000023N_20260120T031218SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CH41000023N",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Film Al Femminile - Wedo Movies [IT]",
         "id": "filmalfemminilewedomoviesit",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD600003EI_20250107T025507SQUARE.png",
@@ -5380,40 +4870,10 @@
         "country": ""
     },
     {
-        "name": "Entertainment Mix",
-        "id": "entertainmentmix",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700002Z2_20260224T030511SQUARE.png",
-        "url": "https://jmp2.uk/stvp-DEBC4700002Z2",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "ZDF zu Hause",
         "id": "zdfzuhause",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE37000038D_20260224T030455SQUARE.png",
         "url": "https://jmp2.uk/stvp-DE37000038D",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Spooks (MI-5)",
-        "id": "spooksmi5",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000032K_20251013T054917SQUARE.png",
-        "url": "https://jmp2.uk/stvp-DE33000032K",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Merhaba Türkische Serien",
-        "id": "merhabatrkischeserien",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4100001ZB_20250107T024900SQUARE.png",
-        "url": "https://jmp2.uk/stvp-DEBD4100001ZB",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -6760,30 +6220,10 @@
         "country": ""
     },
     {
-        "name": "Ketchup TV",
-        "id": "ketchuptv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png",
-        "url": "https://jmp2.uk/stvp-GB3400003A9",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Smurf TV",
         "id": "smurftv",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20250107T030751SQUARE.png",
         "url": "https://jmp2.uk/stvp-GBBD1300001WA",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Dennis and Gnasher",
-        "id": "dennisandgnasher",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400008GK_20251016T040107SQUARE.png",
-        "url": "https://jmp2.uk/stvp-GB2400008GK",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -6854,26 +6294,6 @@
         "id": "themovieclub2",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN40000100Y",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "B4U Bhojpuri",
-        "id": "b4ubhojpuri",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260121T010753SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN39000307N",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NH BollyRaga",
-        "id": "nhbollyraga",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN460001373",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -6960,40 +6380,10 @@
         "country": ""
     },
     {
-        "name": "@K-MUSIC",
-        "id": "kmusic",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900011OU_20260225T010232SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN4900011OU",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "India TV News",
-        "id": "indiatvnews",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000001LP_20260121T010820SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN4000001LP",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "CNBC AWAAZ",
         "id": "cnbcawaaz",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300007ST_20250604T011414SQUARE.png",
         "url": "https://jmp2.uk/stvp-INBD1300007ST",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NDTV Profit",
-        "id": "ndtvprofit",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800006GF_20240912T093654SQUARE.png",
-        "url": "https://jmp2.uk/stvp-INBC2800006GF",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7014,16 +6404,6 @@
         "id": "zee24taas",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20250612T083837SQUARE.png",
         "url": "https://jmp2.uk/stvp-INBD400001CP",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "NDTV Marathi",
-        "id": "ndtvmarathi",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800013RB_20260121T010830SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN800013RB",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7080,36 +6460,6 @@
         "country": ""
     },
     {
-        "name": "Malai Murasu Seithikal",
-        "id": "malaimurasuseithikal",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900003LA_20251210T003947SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3900003LA",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TV9 Telugu",
-        "id": "tv9telugu",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000048N_20251203T010221SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN40000048N",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "News18 Kannada",
-        "id": "news18kannada",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500012V1_20240131T032509SQUARE.png_20240131032510.png",
-        "url": "https://jmp2.uk/stvp-INBD2500012V1",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "News18 Jammu Kashmir",
         "id": "news18jammukashmir",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600007AU_20240612T015012SQUARE.png",
@@ -7130,16 +6480,6 @@
         "country": ""
     },
     {
-        "name": "News24 MP CG",
-        "id": "news24mpcg",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100008VF_20251015T010545SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN2100008VF",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "News State MP CG",
         "id": "newsstatempcg",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900006S6_20251015T010542SQUARE.png",
@@ -7150,50 +6490,10 @@
         "country": ""
     },
     {
-        "name": "Kings Of Comedy",
-        "id": "kingsofcomedy",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20260225T010342SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN46000184H",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Comedy King",
-        "id": "comedyking",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260204T004055SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3600006RT",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Korean TV",
-        "id": "koreantv",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600005NF_20260211T003302SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3600005NF",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "The Lallantop",
         "id": "thelallantop",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20251015T010515SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN3800002VK",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Auto Live",
-        "id": "autolive",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600007DC_20251203T010208SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN3600007DC",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7224,16 +6524,6 @@
         "id": "etvjosh",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN4900004LP",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cine Jomjomat",
-        "id": "cinejomjomat",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100007QM_20260121T010800SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN2100007QM",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7280,16 +6570,6 @@
         "country": ""
     },
     {
-        "name": "HISTORY TV18 - Hindi",
-        "id": "historytv18hindi",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN1600009NL",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Wild Flix",
         "id": "wildflix",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png",
@@ -7324,26 +6604,6 @@
         "id": "wildstuff",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800006BS_20251217T003120SQUARE.png",
         "url": "https://jmp2.uk/stvp-IN800006BS",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cook & Bake",
-        "id": "cookbake",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20260225T010339SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN46000105Q",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Astro Tak",
-        "id": "astrotak",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20241023T011743SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IN26000170D",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7400,16 +6660,6 @@
         "country": ""
     },
     {
-        "name": "Film Top - Rakuten TV",
-        "id": "filmtoprakutentv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20250415T022347SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT2600002F6",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Cinema italiano",
         "id": "cinemaitaliano",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20260113T032718SQUARE.png",
@@ -7424,26 +6674,6 @@
         "id": "cggrandifilm",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20251111T011343SQUARE.png",
         "url": "https://jmp2.uk/stvp-ITBA14000093A",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Grandi Nomi",
-        "id": "grandinomi",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20250527T014831SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBC1100003KC",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cinemadame",
-        "id": "cinemadame",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20260210T040135SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD1400003D0",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7530,16 +6760,6 @@
         "country": ""
     },
     {
-        "name": "Grjngo- Film Western",
-        "id": "grjngofilmwestern",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000019E_20241022T051628SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD10000019E",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Film Asiatici - Rakuten TV",
         "id": "filmasiaticirakutentv",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600006JG_20250121T012630SQUARE.png",
@@ -7554,16 +6774,6 @@
         "id": "supercinema",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20260210T035236SQUARE.png",
         "url": "https://jmp2.uk/stvp-ITBD3200001VR",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fantascienza - Rakuten TV",
-        "id": "fantascienzarakutentv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT260000131_20250121T012628SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT260000131",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7600,16 +6810,6 @@
         "country": ""
     },
     {
-        "name": "Film d'azione - Rakuten TV",
-        "id": "filmdazionerakutentv",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20240827T040705SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT2600003FM",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Euronews IN DIRETTA",
         "id": "euronewsindiretta",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20250415T022338SQUARE.png",
@@ -7630,30 +6830,10 @@
         "country": ""
     },
     {
-        "name": "Class CNBC",
-        "id": "classcnbc",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2700002ZN_20260210T040118SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT2700002ZN",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "NOVE",
         "id": "nove",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20250408T021504SQUARE.png",
         "url": "https://jmp2.uk/stvp-IT9000060Q",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Class TV Moda",
-        "id": "classtvmoda",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500010AQ_20260113T032834SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT500010AQ",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7680,30 +6860,10 @@
         "country": ""
     },
     {
-        "name": "BEAUTY CHANNEL",
-        "id": "beautychannel",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5100003XM_20260210T040129SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT5100003XM",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Salto Ostacoli",
         "id": "saltoostacoli",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20250415T022319SQUARE.png",
         "url": "https://jmp2.uk/stvp-ITBC3000007XK",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Golf Television",
-        "id": "golftelevision",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT4200001D8",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7750,30 +6910,10 @@
         "country": ""
     },
     {
-        "name": "Elisa di Rivombrosa",
-        "id": "elisadirivombrosa",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20251125T102440SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD4100001MG",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Vita Da Strega",
         "id": "vitadastrega",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20260224T031420SQUARE.png",
         "url": "https://jmp2.uk/stvp-IT2000003B8",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Mutant X",
-        "id": "mutantx",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png",
-        "url": "https://jmp2.uk/stvp-ITBD3200005YA",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7830,16 +6970,6 @@
         "country": ""
     },
     {
-        "name": "Squadra Speciale",
-        "id": "squadraspeciale",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800005HI_20251209T004731SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT3800005HI",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Serie Crime - Rakuten TV",
         "id": "seriecrimerakutentv",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600008RA_20241210T052906SQUARE.png",
@@ -7874,16 +7004,6 @@
         "id": "storiecriminali",
         "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png",
         "url": "https://jmp2.uk/stvp-IT1200001Q8",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Squadra Speciale Cobra 11",
-        "id": "squadraspecialecobra11",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4500001L4_20251202T002731SQUARE.png",
-        "url": "https://jmp2.uk/stvp-IT4500001L4",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -7960,16 +7080,6 @@
         "country": ""
     },
     {
-        "name": "JTBC 효리네 민박1&2",
-        "id": "jtbc12",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20250827T010000SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBD5200001G8",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "MBC every1 어서와 한국은 처음이지?",
         "id": "mbcevery1",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20250903T004959SQUARE.png",
@@ -8000,40 +7110,10 @@
         "country": ""
     },
     {
-        "name": "iHQ 돈쭐내러 왔습니다",
-        "id": "ihq",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20250402T010544SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBC4000002ME",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "SBS HOT CLIP 예능",
         "id": "sbshotclip",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500004XC_20260225T010556SQUARE.png",
         "url": "https://jmp2.uk/stvp-KR4500004XC",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "더라이프2",
-        "id": "2",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000040X_20260224T012110SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR36000040X",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "KBS 겨울연가 (Remastered)",
-        "id": "kbsremastered",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400003ER_20260225T010538SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR4400003ER",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -8110,16 +7190,6 @@
         "country": ""
     },
     {
-        "name": "CW Gold",
-        "id": "cwgold",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000063S_20260224T212717SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US25000063S",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "ALL ACTION",
         "id": "allaction",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300001QP_20251202T005821SQUARE.png",
@@ -8150,16 +7220,6 @@
         "country": ""
     },
     {
-        "name": "Crime 24/7",
-        "id": "crime247",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20251202T005850SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USAK3508703A",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "60 Days In by A&E",
         "id": "60daysinbyae",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png",
@@ -8180,16 +7240,6 @@
         "country": ""
     },
     {
-        "name": "Crimes Cults Killers",
-        "id": "crimescultskillers",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20250805T005746SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBB5200022PY",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "All-Out Reality",
         "id": "alloutreality",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20260224T212709SQUARE.png",
@@ -8200,50 +7250,10 @@
         "country": ""
     },
     {
-        "name": "Bondi Rescue",
-        "id": "bondirescue",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900010UT_20250630T232513SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US2900010UT",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Bring It!",
-        "id": "bringit",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20250520T211342SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBD17000040J",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Hoarders by A&E",
-        "id": "hoardersbyae",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200009Y4_20250805T005802SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBD4200009Y4",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Caught on Tape",
         "id": "caughtontape",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700007CV_20251125T030913SQUARE.png",
         "url": "https://jmp2.uk/stvp-US700007CV",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Million Dollar Dream Home",
-        "id": "milliondollardreamhome",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300067FX_20250826T234542SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US300067FX",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -8520,16 +7530,6 @@
         "country": ""
     },
     {
-        "name": "Hunter x Hunter",
-        "id": "hunterxhunter",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2700001AQ_20250929T231845SQUARE.png",
-        "url": "https://jmp2.uk/stvp-CA2700001AQ",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ninja Kidz",
         "id": "ninjakidz",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA220000285_20250805T010202SQUARE.png",
@@ -8640,26 +7640,6 @@
         "country": ""
     },
     {
-        "name": "JTBC4",
-        "id": "jtbc4",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR3600002ZY",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "JTBC2",
-        "id": "jtbc2",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR3600001J9",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "YTN",
         "id": "ytn",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20251210T003611SQUARE.png",
@@ -8670,30 +7650,10 @@
         "country": ""
     },
     {
-        "name": "KBS 뉴스24",
-        "id": "kbs24",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5100001TH_20260224T012018SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR5100001TH",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "SBS No.1 뉴스라이브",
         "id": "sbsno1",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500008DI_20260224T012041SQUARE.png",
         "url": "https://jmp2.uk/stvp-KR4500008DI",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MTN 머니투데이방송",
-        "id": "mtn",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3500002AE_20251106T195305SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR3500002AE",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -8810,40 +7770,10 @@
         "country": ""
     },
     {
-        "name": "KBS HOT CLIP 예능",
-        "id": "kbshotclip",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR45000060I_20260225T010535SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR45000060I",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "KBS Joy 연애의 참견",
         "id": "kbsjoy",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20250827T010010SQUARE.png",
         "url": "https://jmp2.uk/stvp-KRBC4000005EP",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "E채널 토요일은 밥이 좋아",
-        "id": "e",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20250827T005927SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBC4100008Z6",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MBC 로망스 (Remastered)",
-        "id": "mbcremastered",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4400004NB_20260225T010553SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR4400004NB",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -8870,16 +7800,6 @@
         "country": ""
     },
     {
-        "name": "Kids time",
-        "id": "kidstime",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700007M0_20260128T012223SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR700007M0",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "tvN 벌거벗은 세계사 요약.zip",
         "id": "tvnzip",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20250402T010001SQUARE.png",
@@ -8900,30 +7820,10 @@
         "country": ""
     },
     {
-        "name": "Fireplace 4K",
-        "id": "fireplace4k",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20251223T004824SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KRBD44000025L",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "OGN 스타리그",
         "id": "ogn",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20250521T005538SQUARE.png",
         "url": "https://jmp2.uk/stvp-KRBC3200005SH",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "K바둑",
-        "id": "k",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR36000056R_20251106T195254SQUARE.png",
-        "url": "https://jmp2.uk/stvp-KR36000056R",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -9020,26 +7920,6 @@
         "country": ""
     },
     {
-        "name": "WCNC",
-        "id": "wcnc",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20241112T001524SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US1400004HN",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "WN Charlotte",
-        "id": "wncharlotte",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20241112T001950SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBC3200001S5",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "The Hill",
         "id": "thehill",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300008FX_20241022T004442SQUARE.png",
@@ -9070,40 +7950,10 @@
         "country": ""
     },
     {
-        "name": "Movie Hub Action West",
-        "id": "moviehubactionwest",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US38000108V_20251028T215505SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US38000108V",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Movie Hub Romance",
         "id": "moviehubromance",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500033U0_20260217T231327SQUARE.png",
         "url": "https://jmp2.uk/stvp-USBD3500033U0",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Lifetime Movies Love & Drama",
-        "id": "lifetimemovieslovedrama",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1600002OK_20260224T212703SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US1600002OK",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FilmRise Westerns",
-        "id": "filmrisewesterns",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20251125T191307SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBB32000196O",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -9140,50 +7990,10 @@
         "country": ""
     },
     {
-        "name": "CW FOREVER",
-        "id": "cwforever",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US25000075Y_20250923T020547SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US25000075Y",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Drama Life",
-        "id": "dramalife",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20241112T000622SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USAJ26000015Y",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Wildfire",
-        "id": "wildfire",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900013Z7_20260112T181539SQUARE.png",
-        "url": "https://jmp2.uk/stvp-US1900013Z7",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "K-Stories by CJ ENM",
         "id": "kstoriesbycjenm",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20241008T212621SQUARE.png",
         "url": "https://jmp2.uk/stvp-USBB2900001P9",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MHz Mysteries",
-        "id": "mhzmysteries",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20250616T221704SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USAJ22000130U",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -9284,16 +8094,6 @@
         "id": "rachaelraypresents",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US47000287B_20260210T002206SQUARE.png",
         "url": "https://jmp2.uk/stvp-US47000287B",
-        "categories": [
-            "samsungtvplus-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Jamie Oliver",
-        "id": "jamieoliver",
-        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400016CL_20250526T230404SQUARE.png",
-        "url": "https://jmp2.uk/stvp-USBC4400016CL",
         "categories": [
             "samsungtvplus-all"
         ],
@@ -9844,6 +8644,26 @@
         "id": "vevocountryrewind",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400006630_20260117T020414SQUARE.png",
         "url": "https://jmp2.uk/stvp-US400006630",
+        "categories": [
+            "samsungtvplus-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The LEGO Channel",
+        "id": "thelegochannel",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png",
+        "url": "https://jmp2.uk/stvp-USBA2300001S8",
+        "categories": [
+            "samsungtvplus-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XITE Women in Music",
+        "id": "xitewomeninmusic",
+        "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20260224T212700SQUARE.png",
+        "url": "https://jmp2.uk/stvp-USBD350003932",
         "categories": [
             "samsungtvplus-all"
         ],

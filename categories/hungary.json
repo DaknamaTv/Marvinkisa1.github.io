@@ -180,16 +180,6 @@
         "country": ""
     },
     {
-        "name": "Sport 1 HD HU",
-        "id": "sport1hdhu",
-        "logo": "https://static.epg.best/hu/Sport1.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9426",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
         "name": "Viasat History HU",
         "id": "viasathistoryhu",
         "logo": "http://tugapt.com/picons/viasathistoryse.png",
@@ -244,6 +234,316 @@
         "id": "hufilm4",
         "logo": "http://zdravavoda.xyz:80/images/Gs4T6b-Be_-TUyG0Z7KS-XRhxfHjxGI3YAsdK6AMTkJMibDTJqrP1vaPPl4gSPpTbDYvynHB_8cKmQ4y6WuhyYP4HImrA-ZWlzCNL5XCBphvZaF67WUH7npfZUX4nO8N.jpg",
         "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17898.ts",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Viasat6",
+        "id": "huviasat6",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/TV6_Viasat.svg/1200px-TV6_Viasat.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311067",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Viasat Nature",
+        "id": "huviasatnature",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311065",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TV2 HD",
+        "id": "hutv2hd",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d4/TV2_2008_%28Website%29.svg/revision/latest/scale-to-width-down/250?cb=20191117115708",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311061",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TV 1000",
+        "id": "hutv1000",
+        "logo": "https://www.viasatworld.com/media/1431/tv1000_balkan_rgb-vw.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311059",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TLC HU",
+        "id": "hutlchu",
+        "logo": "https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311058",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Spiler 2 TV HD",
+        "id": "huspiler2tvhd",
+        "logo": "https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fspiler2.gif",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311047",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Sony Movie Channel",
+        "id": "husonymoviechannel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311045",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: RTL Klub HD",
+        "id": "hurtlklubhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/1280px-RTL_Klub_logo.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311042",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: RTL GOLD HU",
+        "id": "hurtlgoldhu",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/95/RTL_Gold_2022.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311040",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: RTL",
+        "id": "hurtl",
+        "logo": "https://w7.pngwing.com/pngs/534/266/png-transparent-germany-television-show-rtl-television-rtl-group-hamburg-miscellaneous-television-text.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311039",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Mozi HD",
+        "id": "humozihd",
+        "logo": "https://w1.pngwing.com/pngs/255/81/png-transparent-linkedin-logo-business-collar-clothing-marketing-mozi-jacket-outerwear.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311029",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: M4 HD",
+        "id": "hum4hd",
+        "logo": "https://play-lh.googleusercontent.com/dhJiXpNKIOdZVi7SGQcj9DsBD6-LErwDQstUag2xWfkFNdxvWfgEJHRDPGLGDu1j1ot0",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311026",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: M1 HD",
+        "id": "hum1hd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311024",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Jocky TV",
+        "id": "hujockytv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Jocky_tv_logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311021",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: IZAURA TV",
+        "id": "huizauratv",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311019",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: HISTORY HD",
+        "id": "huhistoryhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311018",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: HBO2",
+        "id": "huhbo2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311017",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: HBO HD (CZ)",
+        "id": "huhbohdcz",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311015",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: HBO 3 HU",
+        "id": "huhbo3hu",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311014",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Film Cafe HU",
+        "id": "hufilmcafehu",
+        "logo": "https://static.wikia.nocookie.net/dreamlogos/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20200905175043",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311007",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Eurosport HD",
+        "id": "hueurosporthd",
+        "logo": "https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311002",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: E! Entertainment",
+        "id": "hueentertainment",
+        "logo": "https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310997",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Disney Channel",
+        "id": "hudisneychannel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310991",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Digi World HD HU",
+        "id": "hudigiworldhdhu",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Digi_World.png/1200px-Digi_World.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310990",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Cool HD",
+        "id": "hucoolhd",
+        "logo": "https://w7.pngwing.com/pngs/191/796/png-transparent-cool-tv-high-definition-television-sport1-rtl-klub-cool-logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310985",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Cool",
+        "id": "hucool",
+        "logo": "https://w7.pngwing.com/pngs/191/796/png-transparent-cool-tv-high-definition-television-sport1-rtl-klub-cool-logo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310984",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Cinemax2",
+        "id": "hucinemax2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310981",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: ATV",
+        "id": "huatv",
+        "logo": "https://w7.pngwing.com/pngs/244/881/png-transparent-atv-commercial-broadcasting-television-logo-others-miscellaneous-television-text.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310968",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: AMC HU",
+        "id": "huamchu",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310965",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: Da Vinci Learning",
+        "id": "hudavincilearning",
+        "logo": "https://img.favpng.com/13/21/14/da-vinci-learning-logo-television-channel-svg-tv-png-favpng-sKErxgsNnm0Z2eCmmEg7uAvw4.jpg",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310964",
+        "categories": [
+            "hungary"
+        ],
+        "country": ""
+    },
+    {
+        "name": "HU: TV2 Comedy",
+        "id": "hutv2comedy",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Tv2_comedy_2020_new.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310955",
         "categories": [
             "hungary"
         ],

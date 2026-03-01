@@ -308,5 +308,765 @@
             "portugal"
         ],
         "country": ""
+    },
+    {
+        "name": "RTP 2 PT",
+        "id": "rtp2pt",
+        "logo": "https://logo.iptveditor.com/rtp2.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115141",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC HD PT",
+        "id": "sichdpt",
+        "logo": "https://logo.iptveditor.com/sic.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115140",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC PT",
+        "id": "sicpt",
+        "logo": "https://logo.iptveditor.com/sic.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115139",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC NOTÍCIAS HD PT",
+        "id": "sicnotciashdpt",
+        "logo": "https://logo.iptveditor.com/sicnotícias.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115136",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CMTV HD PT",
+        "id": "cmtvhdpt",
+        "logo": "https://logo.iptveditor.com/cmtv.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115134",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC MULHER HD PT",
+        "id": "sicmulherhdpt",
+        "logo": "https://logo.iptveditor.com/sicmulher.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115129",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC RADICAL HD PT",
+        "id": "sicradicalhdpt",
+        "logo": "https://logo.iptveditor.com/sicradical.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115127",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC CARAS PT",
+        "id": "siccaraspt",
+        "logo": "https://logo.iptveditor.com/siccaras.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115125",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVI REALITY PT",
+        "id": "tvirealitypt",
+        "logo": "https://logo.iptveditor.com/tvireality.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115121",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTP MEMORIA PT",
+        "id": "rtpmemoriapt",
+        "logo": "https://logo.iptveditor.com/rtpmemoria.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115119",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTP MADEIRA PT",
+        "id": "rtpmadeirapt",
+        "logo": "https://logo.iptveditor.com/rtpmadeira.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115117",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GLOBO PT",
+        "id": "globopt",
+        "logo": "https://logo.iptveditor.com/globo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115114",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV CABO VERDE PT",
+        "id": "tvcaboverdept",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Logo_of_Rede_Record.png/250px-Logo_of_Rede_Record.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115109",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CANAL Q PT",
+        "id": "canalqpt",
+        "logo": "https://logo.iptveditor.com/canalq.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115108",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ARTV PT",
+        "id": "artvpt",
+        "logo": "https://logo.iptveditor.com/artv.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115107",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 1 SD PT",
+        "id": "sporttv1sdpt",
+        "logo": "https://logo.iptveditor.com/sporttv1.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115103",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 1 HD PT",
+        "id": "sporttv1hdpt",
+        "logo": "https://logo.iptveditor.com/sporttv1.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115102",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 1 FHD",
+        "id": "sporttv1fhd",
+        "logo": "https://logo.iptveditor.com/sporttv1.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115101",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 2 SD PT",
+        "id": "sporttv2sdpt",
+        "logo": "https://logo.iptveditor.com/sporttv2.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115100",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 3 FHD PT",
+        "id": "sporttv3fhdpt",
+        "logo": "https://logo.iptveditor.com/sporttv3.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115097",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 4 FHD PT",
+        "id": "sporttv4fhdpt",
+        "logo": "https://logo.iptveditor.com/sporttv4.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115095",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 5 FHD PT",
+        "id": "sporttv5fhdpt",
+        "logo": "https://logo.iptveditor.com/sporttv5.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115093",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CANAL 11 PT",
+        "id": "canal11pt",
+        "logo": "https://logo.iptveditor.com/canal11.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115078",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "EUROSPORT 1 HD PT",
+        "id": "eurosport1hdpt",
+        "logo": "https://logo.iptveditor.com/eurosport1.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115075",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "A BOLA TV PT",
+        "id": "abolatvpt",
+        "logo": "https://logo.iptveditor.com/abolatv.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115073",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DISNEY JUNIOR PT",
+        "id": "disneyjuniorpt",
+        "logo": "https://logo.iptveditor.com/disneyjunior.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115060",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NATIONAL GEOGRAPHIC HD PT",
+        "id": "nationalgeographichdpt",
+        "logo": "https://logo.iptveditor.com/nationalgeographic.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115046",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NAT GEO WILD PT",
+        "id": "natgeowildpt",
+        "logo": "https://logo.iptveditor.com/natgeowild.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115044",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CANAL HISTORIA PT",
+        "id": "canalhistoriapt",
+        "logo": "https://logo.iptveditor.com/canalhistoria.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115040",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BLAZE TV PT",
+        "id": "blazetvpt",
+        "logo": "https://logo.iptveditor.com/blazetv.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115039",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CRIME INVESTIGATION PT",
+        "id": "crimeinvestigationpt",
+        "logo": "https://logo.iptveditor.com/crimeinvestigation.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115037",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVCINE TOP PT",
+        "id": "tvcinetoppt",
+        "logo": "https://logo.iptveditor.com/tvcinetop.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115031",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVCINE EDITION PT",
+        "id": "tvcineeditionpt",
+        "logo": "https://logo.iptveditor.com/tvcineedition.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115029",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVCINE ACTION HD PT",
+        "id": "tvcineactionhdpt",
+        "logo": "https://logo.iptveditor.com/tvcineaction.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115026",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STAR LIFE PT",
+        "id": "starlifept",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/300px-Star_Channel_2023.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115021",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STAR MOVIES PT",
+        "id": "starmoviespt",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/300px-Star_Channel_2023.svg.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115017",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AXN WHITE PT",
+        "id": "axnwhitept",
+        "logo": "https://logo.iptveditor.com/axnwhite.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115009",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AMC HD PT",
+        "id": "amchdpt",
+        "logo": "https://logo.iptveditor.com/amc.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115008",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CINEMUNDO PT",
+        "id": "cinemundopt",
+        "logo": "https://logo.iptveditor.com/cinemundo.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115005",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SYFY PT",
+        "id": "syfypt",
+        "logo": "https://logo.iptveditor.com/syfy.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/115001",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ICONCERTS HD PT",
+        "id": "iconcertshdpt",
+        "logo": "https://logo.iptveditor.com/iconcerts.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/114997",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV PORTUGAL PT",
+        "id": "mtvportugalpt",
+        "logo": "https://logo.iptveditor.com/mtvportugal.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/114996",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "VH1 MUSIC PT",
+        "id": "vh1musicpt",
+        "logo": "https://logo.iptveditor.com/vh1music.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/114995",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MCM PT",
+        "id": "mcmpt",
+        "logo": "https://logo.iptveditor.com/mcm.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/114994",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CNN PT",
+        "id": "cnnpt",
+        "logo": "https://logo.iptveditor.com/cnn.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/114986",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN 4 FHD",
+        "id": "dazn4fhd",
+        "logo": "https://logowik.com/content/uploads/images/dazn5171.jpg",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/1057173",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTP 1 FHD HEVC",
+        "id": "rtp1fhdhevc",
+        "logo": "http://play.xxx69.in/logos/rtp-1-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/80074",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTP 1 HD [HEVC]",
+        "id": "rtp1hdhevc",
+        "logo": "http://play.xxx69.in/logos/rtp-1-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/84044",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTP 2 HD",
+        "id": "rtp2hd",
+        "logo": "http://play.xxx69.in/logos/rtp-2-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11138",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC FHD",
+        "id": "sicfhd",
+        "logo": "http://play.xxx69.in/logos/sic-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/48139",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC HD",
+        "id": "sichd",
+        "logo": "http://play.xxx69.in/logos/sic-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11140",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVI HD [HEVC]",
+        "id": "tvihdhevc",
+        "logo": "https://play.xxx69.in/logos/tvi-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/84046",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVI HD",
+        "id": "tvihd",
+        "logo": "http://play.xxx69.in/logos/tvi-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11142",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "RTP 3 HD",
+        "id": "rtp3hd",
+        "logo": "http://noz.ddns.net/picons/rtp3.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/105685",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC NOTÍCIAS HD",
+        "id": "sicnotciashd",
+        "logo": "https://play.xxx69.in/logos/sic-noticias-pt.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11144",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC MULHER HD",
+        "id": "sicmulherhd",
+        "logo": "http://noz.ddns.net/picons/sicmulher.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11151",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "V+ TVI",
+        "id": "vtvi",
+        "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11155",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AXN MOVIES HD",
+        "id": "axnmovieshd",
+        "logo": "http://noz.ddns.net/picons/axnmovieshd.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11262",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XCineAção",
+        "id": "xcineao",
+        "logo": "https://i.ibb.co/xGRPvsT/acao.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/48046",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XCineThriller",
+        "id": "xcinethriller",
+        "logo": "https://i.ibb.co/xh7Bwnt/Crime.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/62948",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BOOMERANG",
+        "id": "boomerang",
+        "logo": "http://play.xsmp.xyz/logos/boomerang-us.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/96838",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DISCOVERY SCIENCE (BR)",
+        "id": "discoverysciencebr",
+        "logo": "https://play.xxx69.in/logos/discovery-science-ca.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/80137",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ODISSEIA",
+        "id": "odisseia",
+        "logo": "http://noz.ddns.net/picons/odisseia.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11230",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CANAL HISTORIA",
+        "id": "canalhistoria",
+        "logo": "http://noz.ddns.net/picons/historia.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11232",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AMC BREAK",
+        "id": "amcbreak",
+        "logo": "https://play.panel4all.click/logos/amcbreak.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11233",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRAVEL CHANNEL HD",
+        "id": "travelchannelhd",
+        "logo": "http://noz.ddns.net/picons/travelchannel.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11237",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XTheVoice",
+        "id": "xthevoice",
+        "logo": "http://xsmp.xyz:80/images/75ad44916d8ae63b0ab884f1a84a7b03.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/62242",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XRir",
+        "id": "xrir",
+        "logo": "http://xtrem.stremsmp.eu:8000/images/07174ff5ef3e0ca0f37c2fcb09211841.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/48138",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV PORTUGAL",
+        "id": "mtvportugal",
+        "logo": "http://noz.ddns.net/picons/mtv.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/11275",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ICONCERTS HD",
+        "id": "iconcertshd",
+        "logo": "http://noz.ddns.net/picons/iconcerts.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/44316",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "XSertanejo",
+        "id": "xsertanejo",
+        "logo": "https://i.ibb.co/6PLHVGb/sertanejo.png",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/57143",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 Anatomia de Grey",
+        "id": "247anatomiadegrey",
+        "logo": "http://xtrem.stremsmp.eu:8000/images/b7d9de1edb0c88546871e80d4bbaba22.jpg",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/47041",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 Creeped Out(VP)",
+        "id": "247creepedoutvp",
+        "logo": "http://xtrem.stremsmp.eu:8000/images/8d9d28b90a7f1d4c1fd15842fc315c95.jpg",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/47499",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 Fauda",
+        "id": "247fauda",
+        "logo": "http://xtrem.stremsmp.eu:8000/images/f4a8d0410638cbe9ad319c04bea0ced5.jpg",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/47500",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 Manifest",
+        "id": "247manifest",
+        "logo": "http://xtrem.stremsmp.eu:8000/images/dc9ef05b2364144667f82ebf4024f462.jpg",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/43366",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "24/7 The Killing",
+        "id": "247thekilling",
+        "logo": "http://xtrem.stremsmp.eu:8000/images/1e45ee898f9a8dae27140f5c70b184b0.jpg",
+        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/45610",
+        "categories": [
+            "portugal"
+        ],
+        "country": ""
     }
 ]

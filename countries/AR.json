@@ -315,16 +315,6 @@
         "country": "AR"
     },
     {
-        "name": "Magic Kids",
-        "id": "MagicKids.ar",
-        "logo": "https://i.imgur.com/CMImqQY.png",
-        "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "TV Universidad",
         "id": "TVUniversidad.ar",
         "logo": "https://i.imgur.com/0MXsQ25.png",
@@ -472,16 +462,6 @@
         "logo": "https://i.imgur.com/U9NuJQC.png",
         "url": "https://stream.arcast.com.ar/casse/casse/playlist.m3u8",
         "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Azahares Radiovisual Multimedia",
-        "id": "AzaharesRadiovisualMultimedia.ar",
-        "logo": "https://i.imgur.com/g1BFoSs.png",
-        "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
         "country": "AR"
     },
     {
@@ -2149,32 +2129,10 @@
         "country": "AR"
     },
     {
-        "name": "SHAHID VIP 14",
-        "id": "SHAHIDVIP14.ar",
-        "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/672351",
-        "categories": [
-            "24",
-            "7 shahid"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "SHAHID VIP 15",
         "id": "SHAHIDVIP15.ar",
         "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/672352",
-        "categories": [
-            "24",
-            "7 shahid"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "SHAHID VIP 16",
-        "id": "SHAHIDVIP16.ar",
-        "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/672353",
         "categories": [
             "24",
             "7 shahid"
@@ -2285,17 +2243,6 @@
         "id": "SHAHIDVIP27.ar",
         "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/672364",
-        "categories": [
-            "24",
-            "7 shahid"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "SHAHID VIP 29",
-        "id": "SHAHIDVIP29.ar",
-        "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/672366",
         "categories": [
             "24",
             "7 shahid"
@@ -2424,32 +2371,10 @@
         "country": "AR"
     },
     {
-        "name": "SHAHID SERIES 10 HD",
-        "id": "SHAHIDSERIES10HD.ar",
-        "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/672380",
-        "categories": [
-            "24",
-            "7 shahid"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "SHAHID SERIES 11 HD",
         "id": "SHAHIDSERIES11HD.ar",
         "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/672381",
-        "categories": [
-            "24",
-            "7 shahid"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "SHAHID SERIES 12 HD",
-        "id": "SHAHIDSERIES12HD.ar",
-        "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/672382",
         "categories": [
             "24",
             "7 shahid"

@@ -869,16 +869,6 @@
         "country": "ES"
     },
     {
-        "name": "Univers TV",
-        "id": "UniversTV.es",
-        "logo": "https://i.imgur.com/EW2bfix.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Love The Planet",
         "id": "LoveThePlanet.es",
         "logo": "https://i.imgur.com/RBcD49X.png",
@@ -911,34 +901,6 @@
         "id": "RadioTelevisionMarbella.es",
         "logo": "https://i.imgur.com/o9Ro8TR.png",
         "url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
-        "name": "EsTuTele",
-        "id": "EsTuTele.es",
-        "logo": "https://i.imgur.com/bsAbcmC.png",
-        "url": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Guada TV",
-        "id": "GuadaTV.es",
-        "logo": "https://i.imgur.com/YaDNsYN.png",
-        "url": "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "Television Aranda",
-        "id": "TelevisionAranda.es",
-        "logo": "https://i.imgur.com/FwIIdKG.png",
-        "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
         "categories": [],
         "country": "ES"
     },
@@ -1130,16 +1092,6 @@
         "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "ES"
-    },
-    {
-        "name": "LiraTV",
-        "id": "LiraTV.es",
-        "logo": "https://i.imgur.com/hBswXYZ.png",
-        "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "ES"
     },
@@ -1639,16 +1591,6 @@
         "country": "ES"
     },
     {
-        "name": "Fibwi",
-        "id": "Fibwi.es",
-        "logo": "https://i.imgur.com/4vcGzcC.png",
-        "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Travel TV",
         "id": "TravelTV.es",
         "logo": "https://i.imgur.com/zsGt5iH.png",
@@ -1663,6 +1605,16 @@
         "id": "Trece.es",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png",
         "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Taroteame",
+        "id": "Taroteame.es",
+        "logo": "",
+        "url": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
         "categories": [
             "religious"
         ],

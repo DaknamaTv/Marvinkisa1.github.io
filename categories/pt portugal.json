@@ -1,0 +1,362 @@
+[
+    {
+        "name": "RTP 1 |HD|",
+        "id": "rtp1hd",
+        "logo": "http://93.186.197.172/picons/rtp 1.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/b2f0e0f1-c322-4653-b7e8-de1a1014f78b.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SIC NOTICIAS |FHD|",
+        "id": "sicnoticiasfhd",
+        "logo": "http://93.186.197.172/picons/sic noticias.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/260dd705-59c9-47fb-9072-18f69b7d28e1.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CNN PORTUGAL |HD|",
+        "id": "cnnportugalhd",
+        "logo": "http://93.186.197.172/picons/cnnportugal.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/95f6eb1e-58d3-4fe3-b9ca-7bf6243e520a.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NEWS NOW |FHD|",
+        "id": "newsnowfhd",
+        "logo": "http://93.186.197.172/picons/now.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/e36296d9-d338-4eb7-83c5-811aff0a2eb2.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVI REALITY |CAM3|",
+        "id": "tvirealitycam3",
+        "logo": "http://93.186.197.172/picons/tvi reality.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/6296cc38-cf75-4c9c-ba57-994eddcae7c3.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 1 |H265|",
+        "id": "sporttv1h265",
+        "logo": "http://93.186.197.172/picons/sporttv1.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/77774b4e-9834-4dc8-95cf-84fb2465e36a.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 2 |H265|",
+        "id": "sporttv2h265",
+        "logo": "http://93.186.197.172/picons/sporttv2.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/41a04d20-e9a3-45a9-be29-58c2bad76abe.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 5 |HD|",
+        "id": "sporttv5hd",
+        "logo": "http://93.186.197.172/picons/sporttv5.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/48f330a8-21fe-4fbe-9dc5-7914e9839eb1.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 5 |FHD|",
+        "id": "sporttv5fhd",
+        "logo": "http://93.186.197.172/picons/sporttv5.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/2fb96a32-e47c-474c-9fc8-eeb0a0149eff.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORT TV 5 |H265|",
+        "id": "sporttv5h265",
+        "logo": "http://93.186.197.172/picons/sporttv5.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/277bc518-6de7-46ba-8d9b-6f8b3371be00.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN 1 |HD|",
+        "id": "dazn1hd",
+        "logo": "http://93.186.197.172/picons/dazn1.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/f920dfe4-2c48-4c4c-a7bc-4e56919e7067.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN 3 |FHD|",
+        "id": "dazn3fhd",
+        "logo": "http://93.186.197.172/picons/dazn3.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/fd7a3d28-4c05-4a43-af37-4296af61a2a0.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN 4 |HD|",
+        "id": "dazn4hd",
+        "logo": "http://93.186.197.172/picons/dazn4.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/a02b708b-17ff-4f03-89be-b74c75934358.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DAZN 5 |FHD|",
+        "id": "dazn5fhd",
+        "logo": "http://93.186.197.172/picons/dazn5.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/02487a64-0a31-4512-bd26-78a8b79e0ec2.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BTV |HD|",
+        "id": "btvhd",
+        "logo": "http://93.186.197.172/picons/btv1hd.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/01494462-312a-4d37-9a2f-ba7a9e865575.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SPORTING TV |FHD|",
+        "id": "sportingtvfhd",
+        "logo": "http://93.186.197.172/picons/sportingtv.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/214e5351-73c4-4b10-895a-7ce3cace0834.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "EUROSPORT 1 |FHD|",
+        "id": "eurosport1fhd",
+        "logo": "http://93.186.197.172/picons/eurosport1.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/f8b5517c-b158-4711-be6a-45be668fbbdc.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "W-SPORTS |HD|",
+        "id": "wsportshd",
+        "logo": "http://93.186.197.172/picons/wsport.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/4e6b7a9f-6794-4211-992e-8925bb822743.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "⭐ SÉRIES/FILMES ⭐",
+        "id": "sriesfilmes",
+        "logo": "http://93.186.197.172/picons/PRISMUS_LOGO.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/d894977a-46de-4043-a8c9-390fafda7bb4.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STAR CHANNEL |FHD|",
+        "id": "starchannelfhd",
+        "logo": "http://93.186.197.172/picons/star channel.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/7de156eb-7df2-44a2-aaf4-a01fccc25ea0.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AXN WHITE |FHD|",
+        "id": "axnwhitefhd",
+        "logo": "http://93.186.197.172/picons/axnwhitehd.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/43280a68-1231-482e-a333-38ecb18c41a3.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AMC BREAK |FHD|",
+        "id": "amcbreakfhd",
+        "logo": "http://93.186.197.172/picons/amcbreak.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/e41e8228-9ed8-46b6-93ab-441bfdd5fdd0.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TLC |SD|",
+        "id": "tlcsd",
+        "logo": "http://93.186.197.172/picons/tlc.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/bae27f76-9002-49b4-a132-6153f23a6ff5.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ONETORO |SD|",
+        "id": "onetorosd",
+        "logo": "http://93.186.197.172/picons/onetorotv.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/f2bee5fb-3f2f-40ac-b508-a0d0d6eccd94.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KURIAKOS |FHD|",
+        "id": "kuriakosfhd",
+        "logo": "http://93.186.197.172/picons/kuriakostv.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/ca28dc9f-9de8-44fc-a9f6-45b21aff4705.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LOCALVISAO |HD|",
+        "id": "localvisaohd",
+        "logo": "http://93.186.197.172/picons/localvisaotvhd.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/d64ec339-e60a-436f-b157-a88fc9daba7c.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "E! ENTERTAINMENT |SD|",
+        "id": "eentertainmentsd",
+        "logo": "http://93.186.197.172/picons/eentertainment.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/9385fa58-3e8d-49ff-9f76-3ad3b4853aa3.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "STINGRAY iCONCERTS |FHD|",
+        "id": "stingrayiconcertsfhd",
+        "logo": "http://93.186.197.172/picons/iconcertshd.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/afd40b1b-a7fb-47d0-afb4-ab0817e26c35.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MTV PORTUGAL |FHD|",
+        "id": "mtvportugalfhd",
+        "logo": "http://93.186.197.172/picons/mtvportugal.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/e26527c8-31a4-4dd2-b6bc-f1eac1cc933b.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AFRO MUSIC |SD|",
+        "id": "afromusicsd",
+        "logo": "http://93.186.197.172/picons/afromusic.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/dd028701-a23b-425a-9ec8-546dd8f454f1.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TVE 24H |SD|",
+        "id": "tve24hsd",
+        "logo": "http://93.186.197.172/picons/tve 24h.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/b1c9f259-79af-4f4f-bc19-3f6c2f323d2b.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FRANCE 24 |SD|",
+        "id": "france24sd",
+        "logo": "http://93.186.197.172/picons/france24f.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/04062544-842c-4003-9ee5-8e3093ecca1b.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rádio RDP Internacional",
+        "id": "rdiordpinternacional",
+        "logo": "http://93.186.197.172/radios/rdp int branco.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/03caf11c-bd94-4ab5-a0a3-408f1ae2aa3e.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rádio Cidade Hip Hop",
+        "id": "rdiocidadehiphop",
+        "logo": "http://93.186.197.172/radios/CIDADE HIP HOP.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/dfec2050-ff79-4195-b6b0-e47fe5cf96f4.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rádio Comercial By Night",
+        "id": "rdiocomercialbynight",
+        "logo": "http://93.186.197.172/radios/comercial by night.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/a182eeaa-9c42-4328-8da3-96b2003af60c.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Rádio Comercial Kids",
+        "id": "rdiocomercialkids",
+        "logo": "http://93.186.197.172/radios/comercial kids.png",
+        "url": "http://darkpower.pro:8080/live/darkpower/RTH456J67K67K4/3739f721-0310-4ea8-bbb4-c3acb96a6185.ts",
+        "categories": [
+            "|pt| portugal"
+        ],
+        "country": ""
+    }
+]

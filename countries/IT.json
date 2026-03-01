@@ -1130,39 +1130,6 @@
         "country": "IT"
     },
     {
-        "name": "Peer TV Alto Adige",
-        "id": "PeerTVAltoAdige.it",
-        "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
-        "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
-        "categories": [
-            "outdoor",
-            "travel"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Peer TV South Tyrol",
-        "id": "PeerTVSouthTyrol.it",
-        "logo": "https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",
-        "url": "https://iptv.peer.biz/live/peertv-en.m3u8",
-        "categories": [
-            "outdoor",
-            "travel"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Peer TV Sudtirol",
-        "id": "PeerTVSudtirol.it",
-        "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
-        "url": "https://iptv.peer.biz/live/peertv.m3u8",
-        "categories": [
-            "outdoor",
-            "travel"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "RTC Telecalabria",
         "id": "RTCTelecalabria.it",
         "logo": "https://i.imgur.com/NnFopuS.png",
@@ -1557,16 +1524,6 @@
         "country": "IT"
     },
     {
-        "name": "DAZN CHANNEL 4K",
-        "id": "DAZNCHANNEL4K.it",
-        "logo": "http://www.vodkom.com:25461/Logo/Logo/International/DAZN/DAZN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/663347",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "DAZN CHANNEL HD",
         "id": "DAZNCHANNELHD.it",
         "logo": "http://www.vodkom.com:25461/Logo/Logo/International/DAZN/DAZN.png",
@@ -1851,16 +1808,6 @@
         "id": "tv8.it",
         "logo": "http://vodkom.com:25461/Logo/ITALIA/TV8HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/56144",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "IRIS",
-        "id": "iris.it",
-        "logo": "http://vodkom.com:25461/Logo/ITALIA/Iris.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/56145",
         "categories": [
             "eu italia"
         ],
@@ -2327,16 +2274,6 @@
         "country": "IT"
     },
     {
-        "name": "PRIME VIDEO 5 HD",
-        "id": "PRIMEVIDEO5HD.it",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/195409",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PRIME VIDEO 6 HD",
         "id": "PRIMEVIDEO6HD.it",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
@@ -2367,30 +2304,10 @@
         "country": "IT"
     },
     {
-        "name": "PRIME VIDEO 9 HD",
-        "id": "PRIMEVIDEO9HD.it",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/195413",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PRIME VIDEO 10 HD",
         "id": "PRIMEVIDEO10HD.it",
         "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/195414",
-        "categories": [
-            "eu italia"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "PRIME VIDEO 11 HD",
-        "id": "PRIMEVIDEO11HD.it",
-        "logo": "http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/195415",
         "categories": [
             "eu italia"
         ],
@@ -2747,10 +2664,124 @@
         "country": "IT"
     },
     {
-        "name": "TV Yes Italia",
-        "id": "TVYesItalia.it",
-        "logo": "https://i.imgur.com/3CDxatu.png",
-        "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+        "name": "PREMUIM CALCIO 4",
+        "id": "PREMUIMCALCIO4.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406072",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "PREMUIM CALCIO 5",
+        "id": "PREMUIMCALCIO5.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406071",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "PREMUIM CALCIO 6",
+        "id": "PREMUIMCALCIO6.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406070",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "PREMIUM CALCIO 3",
+        "id": "PREMIUMCALCIO3.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406068",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "PREMIUM CALCIO 2",
+        "id": "PREMIUMCALCIO2.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406067",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "PREMIUM CALCIO 4",
+        "id": "PREMIUMCALCIO4.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406066",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "PREMIUM CALCIO 6",
+        "id": "PREMIUMCALCIO6.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406064",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "INTER CHANNEL",
+        "id": "INTERCHANNEL.it",
+        "logo": "",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406061",
+        "categories": [
+            "italy"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 2",
+        "id": "Rai2.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai 4",
+        "id": "Rai4.it",
+        "logo": "https://i.imgur.com/sEY21rg.png",
+        "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai Movie",
+        "id": "RaiMovie.it",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "categories": [
+            "movies"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Rai Premium",
+        "id": "RaiPremium.it",
+        "logo": "https://i.imgur.com/40g5Urz.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Rai Storia",
+        "id": "RaiStoria.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
         "categories": [],
         "country": "IT"
     }
