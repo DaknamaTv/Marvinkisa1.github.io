@@ -128,5 +128,105 @@
             "tr ➤ [ hevc ]"
         ],
         "country": ""
+    },
+    {
+        "name": "TR: TRT Spor Yıldız HEVC",
+        "id": "trtrtsporyldzhevc",
+        "logo": "https://i.ibb.co/9mX4CQtF/TRT-SPOR-YILDIZ.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/866547.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: 360 TV HEVC",
+        "id": "tr360tvhevc",
+        "logo": "https://i.ibb.co/4RfxjVsh/36.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/866548.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: NTV HEVC",
+        "id": "trntvhevc",
+        "logo": "https://i.ibb.co/YBT3FtJD/30.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/866554.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Cnn Turk HEVC",
+        "id": "trcnnturkhevc",
+        "logo": "https://i.ibb.co/RkgHGRp3/34.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/866557.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TeVe 2 HEVC",
+        "id": "trteve2hevc",
+        "logo": "https://i.ibb.co/LhSzMZxJ/20.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/866538.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT Spor HEVC",
+        "id": "trtrtsporhevc",
+        "logo": "https://i.ibb.co/DDr2n0mT/TRTSPORFHD.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/866546.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Sözcü TV HEVC",
+        "id": "trszctvhevc",
+        "logo": "https://i.ibb.co/spDsNM5J/SOZCU.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/866549.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: DMAX HEVC",
+        "id": "trdmaxhevc",
+        "logo": "https://i.ibb.co/27SL9tG4/a4UcvTF.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/866566.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Viasat History HEVC",
+        "id": "trviasathistoryhevc",
+        "logo": "https://i.ibb.co/vC77HLhh/UaKY4bv.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/866567.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: FX HEVC",
+        "id": "trfxhevc",
+        "logo": "https://i.ibb.co/9m2m7fJw/7wiZCnr.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/866569.ts",
+        "categories": [
+            "tr ➤ [ hevc ]"
+        ],
+        "country": ""
     }
 ]

@@ -360,10 +360,30 @@
         "country": ""
     },
     {
-        "name": "Proturk Vizyon HD",
-        "id": "proturkvizyonhd",
+        "name": "Proturk Rap HD",
+        "id": "proturkraphd",
         "logo": "https://i.ibb.co/r27pKYw3/ow6wjya.png",
-        "url": "http://kgms.xyz:80/live/2712Ertugrul2021/2712-son-2022/861074.ts",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/861094.ts",
+        "categories": [
+            "tr ➤ premium & vip sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Neocine Action HD",
+        "id": "neocineactionhd",
+        "logo": "https://i.ibb.co/Hpf6vHQp/ef0ydvb.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/861223.ts",
+        "categories": [
+            "tr ➤ premium & vip sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR • Usk Vizyon Sinema",
+        "id": "truskvizyonsinema",
+        "logo": "https://i.ibb.co/ynWQXxvG/vizyon-logo-png-seeklogo-221354.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/871151.ts",
         "categories": [
             "tr ➤ premium & vip sinema"
         ],

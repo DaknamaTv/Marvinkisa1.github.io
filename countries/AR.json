@@ -561,14 +561,6 @@
         "country": "AR"
     },
     {
-        "name": "San Pedro TV",
-        "id": "SanPedroTV.ar",
-        "logo": "https://i.imgur.com/UkpXogr.png",
-        "url": "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Telecinco",
         "id": "Telecinco.ar",
         "logo": "https://i.imgur.com/ZDenyAE.png",
@@ -965,16 +957,6 @@
         "country": "AR"
     },
     {
-        "name": "ALKASS 8 4K",
-        "id": "alkasseight.qa",
-        "logo": "http://vodkom.com:25461/MYALKASS/alkasseighthd.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/693700",
-        "categories": [
-            "alkass sports"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "MBC 3 +6H 4K",
         "id": "MBC36H4K.ar",
         "logo": "http://www.vodkom.com:25461/Logo/ARABSAUDIA/MBC3_HD.png",
@@ -985,40 +967,10 @@
         "country": "AR"
     },
     {
-        "name": "MBC DRAMA +6H 4K",
-        "id": "MBCDRAMA6H4K.ar",
-        "logo": "http://www.vodkom.com:25461/Logo/ARABSAUDIA/MBC_Drama_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/694391",
-        "categories": [
-            "arabic mbc"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "MBC MASR +6H 4K",
-        "id": "MBCMASR6H4K.ar",
-        "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/MBC_MASR.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/694392",
-        "categories": [
-            "arabic mbc"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "MBC MASR 2 +6H 4K",
         "id": "MBCMASR26H4K.ar",
         "logo": "http://vodkom.com:25461/Logo/ARABEGYPT/MBC_Masr_2.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/694393",
-        "categories": [
-            "arabic mbc"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "MBC MAX +6H 4K",
-        "id": "MBCMAX6H4K.ar",
-        "logo": "http://www.vodkom.com:25461/Logo/ARABSAUDIA/MBC_Max_HD.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/694395",
         "categories": [
             "arabic mbc"
         ],
@@ -1589,16 +1541,6 @@
         "id": "SALAAMTV.ar",
         "logo": "http://vodkom.com:25461/Logo/ARABISLAM/salamtv.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/638303",
-        "categories": [
-            "arabic islamic"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "AL ZAHRA TV",
-        "id": "ALZAHRATV.ar",
-        "logo": "http://vodkom.com:25461/Logo/ARABISLAM/zahratv.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/638304",
         "categories": [
             "arabic islamic"
         ],
@@ -2251,17 +2193,6 @@
         "country": "AR"
     },
     {
-        "name": "SHAHID VIP 18",
-        "id": "SHAHIDVIP18.ar",
-        "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/672355",
-        "categories": [
-            "24",
-            "7 shahid"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "SHAHID VIP 19",
         "id": "SHAHIDVIP19.ar",
         "logo": "http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png",
@@ -2625,6 +2556,22 @@
         "id": "Canal4SanJuan.ar",
         "logo": "https://i.imgur.com/MsCnwRA.png",
         "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 3 Las Heras",
+        "id": "Canal3LasHeras.ar",
+        "logo": "https://i.imgur.com/bd2afET.png",
+        "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Chaco TV",
+        "id": "ChacoTV.ar",
+        "logo": "https://i.imgur.com/b6RerDw.png",
+        "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
         "categories": [],
         "country": "AR"
     }

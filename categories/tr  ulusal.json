@@ -270,16 +270,6 @@
         "country": ""
     },
     {
-        "name": "TR: Now TV RAW",
-        "id": "trnowtvraw",
-        "logo": "https://i.ibb.co/q30WGxwm/49.png",
-        "url": "http://kgms.xyz:80/live/Hakankir/kir-hakan/849302.ts",
-        "categories": [
-            "tr ➤ ulusal"
-        ],
-        "country": ""
-    },
-    {
         "name": "TV 8 int HD",
         "id": "tv8inthd",
         "logo": "https://i.ibb.co/5XScdBVV/61.png",
@@ -344,6 +334,116 @@
         "id": "tra2hd",
         "logo": "https://i.ibb.co/wj2wXdc/30.png",
         "url": "http://kgms.xyz:80/live/Hakankir/kir-hakan/849317.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRT 1 FHD",
+        "id": "trt1fhd",
+        "logo": "https://i.ibb.co/G4BSQ2yx/4.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865016.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRT 1 HD",
+        "id": "trt1hd",
+        "logo": "https://i.ibb.co/jPM5WHsv/42.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865015.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kanal D HD",
+        "id": "kanaldhd",
+        "logo": "https://i.ibb.co/jPzDwCKk/48.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865023.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV 8.5 HD",
+        "id": "tv85hd",
+        "logo": "https://i.ibb.co/BpDKVdG/22.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865029.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Beyaz TV FHD",
+        "id": "beyaztvfhd",
+        "logo": "https://i.ibb.co/ym4Ww4RQ/20.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865036.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Teve 2 FHD",
+        "id": "teve2fhd",
+        "logo": "https://i.ibb.co/Kzj1pHc2/26.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865039.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRT Avaz HD",
+        "id": "trtavazhd",
+        "logo": "https://i.ibb.co/Dmbh80d/TRT-AVAZ.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865043.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TRT EBA HD",
+        "id": "trtebahd",
+        "logo": "https://i.ibb.co/9mntp4Xj/70.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865046.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT 1 RAW",
+        "id": "trtrt1raw",
+        "logo": "https://i.ibb.co/4wBJHRG1/2.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/849291.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: TRT Kurdi FHD",
+        "id": "trtrtkurdifhd",
+        "logo": "",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/849323.ts",
+        "categories": [
+            "tr ➤ ulusal"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: EURO D FHD",
+        "id": "treurodfhd",
+        "logo": "https://i.ibb.co/4Z98zDcb/60.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/849328.ts",
         "categories": [
             "tr ➤ ulusal"
         ],

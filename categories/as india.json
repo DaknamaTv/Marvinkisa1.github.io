@@ -200,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "IN-UK: AAJ TAK",
-        "id": "inukaajtak",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/Aaj_Tak_IN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100823",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
         "name": "IN-UK: NDTV",
         "id": "inukndtv",
         "logo": "http://vodkom.com:25461/Logo/INDIA/NDTV_24x7_IN.png",
@@ -244,16 +234,6 @@
         "id": "inuksikhchannel",
         "logo": "http://vodkom.com:25461/Logo/INDIA/",
         "url": "http://sansat.co:88/02021375753918/8946623682/100827",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IN-UK: AKAAL CHANNEL",
-        "id": "inukakaalchannel",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/100828",
         "categories": [
             "as india"
         ],
@@ -410,16 +390,6 @@
         "country": ""
     },
     {
-        "name": "|HINDI| SONY PIX HD",
-        "id": "hindisonypixhd",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96182",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
         "name": "|HINDI| SONY BBC EARTH HD",
         "id": "hindisonybbcearthhd",
         "logo": "http://vodkom.com:25461/Logo/INDIA/",
@@ -550,40 +520,10 @@
         "country": ""
     },
     {
-        "name": "|HINDI| BABY TV HD",
-        "id": "hindibabytvhd",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96201",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
         "name": "|HINDI| BIG MAGIC HD",
         "id": "hindibigmagichd",
         "logo": "http://vodkom.com:25461/Logo/INDIA/",
         "url": "http://sansat.co:88/02021375753918/8946623682/96202",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "|HINDI| CINEPLEX HD",
-        "id": "hindicineplexhd",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96204",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "|HINDI| DD NATIONAL HD",
-        "id": "hindiddnationalhd",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96206",
         "categories": [
             "as india"
         ],
@@ -740,16 +680,6 @@
         "country": ""
     },
     {
-        "name": "|HINDI| LIVING FOODZ HD",
-        "id": "hindilivingfoodzhd",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96233",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
         "name": "|HINDI| MINIPLEX HD",
         "id": "hindiminiplexhd",
         "logo": "http://vodkom.com:25461/Logo/INDIA/",
@@ -770,30 +700,10 @@
         "country": ""
     },
     {
-        "name": "|HINDI| MUSIC INDIA",
-        "id": "hindimusicindia",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96238",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
         "name": "|HINDI| NAT GEO WILD HD",
         "id": "hindinatgeowildhd",
         "logo": "http://vodkom.com:25461/Logo/PICONS/NATIONAL_GEOGRAPHIC_WILD_HD.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/96239",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "|HINDI| NEWS 18 INDIA",
-        "id": "hindinews18india",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96243",
         "categories": [
             "as india"
         ],
@@ -1480,16 +1390,6 @@
         "country": ""
     },
     {
-        "name": "|HINDI| PRARTHANA BHAWAN",
-        "id": "hindiprarthanabhawan",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96351",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
         "name": "|HINDI| REPUBLIC NEWS",
         "id": "hindirepublicnews",
         "logo": "http://vodkom.com:25461/Logo/INDIA/Republic_TV_IN.png",
@@ -1524,16 +1424,6 @@
         "id": "hinditarangtv",
         "logo": "http://vodkom.com:25461/Logo/INDIA/Tarang_IN.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/96361",
-        "categories": [
-            "as india"
-        ],
-        "country": ""
-    },
-    {
-        "name": "|HINDI| TARANG MUSIC",
-        "id": "hinditarangmusic",
-        "logo": "http://vodkom.com:25461/Logo/INDIA/Tarang_Music_IN.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/96364",
         "categories": [
             "as india"
         ],

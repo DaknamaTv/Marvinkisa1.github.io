@@ -1,29 +1,9 @@
 [
     {
-        "name": "ESPN 2 FHD US",
-        "id": "espn2fhdus",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/569",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
         "name": "NFL Network 1 US",
         "id": "nflnetwork1us",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/504",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TBS HD US",
-        "id": "tbshdus",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/578",
         "categories": [
             "united states"
         ],
@@ -40,30 +20,10 @@
         "country": ""
     },
     {
-        "name": "AMC US",
-        "id": "amcus",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7792",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
         "name": "BET HD US",
         "id": "bethdus",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7770",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
-        "name": "C-Span 2 US",
-        "id": "cspan2us",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/565",
         "categories": [
             "united states"
         ],
@@ -120,16 +80,6 @@
         "country": ""
     },
     {
-        "name": "Showtime Showcase HD US",
-        "id": "showtimeshowcasehdus",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7735",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
         "name": "Starz Cinema US",
         "id": "starzcinemaus",
         "logo": "",
@@ -144,26 +94,6 @@
         "id": "starzencorehdus",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7731",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SyFy HD US",
-        "id": "syfyhdus",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/548",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA HD US",
-        "id": "usahdus",
-        "logo": "",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/7729",
         "categories": [
             "united states"
         ],
@@ -214,16 +144,6 @@
         "id": "cowboychannelhdus",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/82829",
-        "categories": [
-            "united states"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Redbull TV HD US",
-        "id": "redbulltvhdus",
-        "logo": "https://banner2.cleanpng.com/20180824/fph/kisspng-red-bull-tv-television-film-streaming-media-red-bull-tv-primavera-sound-5b805de6d852c0.5594931315351393028861.jpg",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/83215",
         "categories": [
             "united states"
         ],

@@ -1,15 +1,5 @@
 [
     {
-        "name": "Kurdsat",
-        "id": "Kurdsat.iq",
-        "logo": "https://i.imgur.com/UAbSwYA.png",
-        "url": "http://trn03.bozztv.com/gin-kurdsat/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Kurdsat News",
         "id": "KurdsatNews.iq",
         "logo": "https://i.imgur.com/F3XRwkt.png",
@@ -120,16 +110,6 @@
         "country": "IQ"
     },
     {
-        "name": "Mixkurdy",
-        "id": "Mixkurdy.iq",
-        "logo": "https://i.imgur.com/WHeH5i7.png",
-        "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
-        "categories": [
-            "family"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Marjaeyat TV English",
         "id": "MarjaeyatTVEnglish.iq",
         "logo": "https://i.imgur.com/Dvf61Jp.png",
@@ -158,32 +138,12 @@
         "country": "IQ"
     },
     {
-        "name": "FarmodaTV",
-        "id": "FarmodaTV.iq",
-        "logo": "https://i.imgur.com/x4KCQlH.png",
-        "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Afarin Baxcha",
         "id": "AfarinBaxcha.iq",
         "logo": "https://afarin.tv/images/baxcha.png",
         "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
         "categories": [
             "kids"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "EmanTv",
-        "id": "EmanTv.iq",
-        "logo": "https://i.imgur.com/QmgaPSi.png",
-        "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
-        "categories": [
-            "family"
         ],
         "country": "IQ"
     },
@@ -472,16 +432,6 @@
         "id": "IMAMHUSSEIN2TVARABIC.iq",
         "logo": "http://vodkom.com:25461/Logo/ARABIRAQ/",
         "url": "http://sansat.co:88/02021375753918/8946623682/115237",
-        "categories": [
-            "arabic iraq"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "AL ZAHRA TV",
-        "id": "ALZAHRATV.iq",
-        "logo": "http://vodkom.com:25461/Logo/ARABIRAQ/",
-        "url": "http://sansat.co:88/02021375753918/8946623682/115240",
         "categories": [
             "arabic iraq"
         ],

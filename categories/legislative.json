@@ -51,16 +51,6 @@
         "country": "LU"
     },
     {
-        "name": "Duma TV",
-        "id": "DumaTV.ru",
-        "logo": "https://i.imgur.com/JvlO3PU.png",
-        "url": "https://dumatv.iptv2022.com/playlist.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Ontario Parliamentary Network",
         "id": "OntarioParliamentaryNetwork.ca",
         "logo": "https://i.imgur.com/xKXs6ER.png",
@@ -279,16 +269,6 @@
             "legislative"
         ],
         "country": "GR"
-    },
-    {
-        "name": "Legislative Assembly of El Salvador",
-        "id": "LegislativeAssemblyofElSalvador.sv",
-        "logo": "https://i.imgur.com/OBuiCyb.png",
-        "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "SV"
     },
     {
         "name": "Congreso de los Diputados 5",

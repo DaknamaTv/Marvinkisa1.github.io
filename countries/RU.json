@@ -1285,14 +1285,6 @@
         "country": "RU"
     },
     {
-        "name": "Mir Belogorya",
-        "id": "MirBelogorya.ru",
-        "logo": "https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png",
-        "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8",
-        "categories": [],
-        "country": "RU"
-    },
-    {
         "name": "Radio Shanson",
         "id": "RadioShanson.ru",
         "logo": "https://i.imgur.com/lbqM3K2.png",
@@ -1753,16 +1745,6 @@
             "comedy",
             "movies",
             "family"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "alpha Funny",
-        "id": "alphaFunny.ru",
-        "logo": "https://i.ibb.co/ZcCXw5P/alphaf.png",
-        "url": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
-        "categories": [
-            "comedy"
         ],
         "country": "RU"
     },
@@ -2311,26 +2293,6 @@
         "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
         "categories": [
             "sports"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden TeleNovella",
-        "id": "CityEdenTeleNovella.ru",
-        "logo": "https://i.imgur.com/mT5liTh.png",
-        "url": "https://cityeden.catcast.tv/content/46209/index.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Duma TV",
-        "id": "DumaTV.ru",
-        "logo": "https://i.imgur.com/JvlO3PU.png",
-        "url": "https://dumatv.iptv2022.com/playlist.m3u8",
-        "categories": [
-            "legislative"
         ],
         "country": "RU"
     },
@@ -3201,6 +3163,16 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/682721",
         "categories": [
             "eu russia"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "RU"
     }

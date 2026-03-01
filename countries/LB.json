@@ -98,16 +98,6 @@
         "country": "LB"
     },
     {
-        "name": "Al Ittihad TV",
-        "id": "AlIttihadTV.lb",
-        "logo": "https://i.imgur.com/QMUjPXx.png",
-        "url": "https://live.alittihad.tv:444/ittihad/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "LBC HD",
         "id": "lbc.lb",
         "logo": "http://vodkom.com:25461/Logo/ARABLEBANON/LBC_HD.png",
@@ -204,6 +194,16 @@
         "url": "http://sansat.co:88/02021375753918/8946623682/149003",
         "categories": [
             "arabic lebanon"
+        ],
+        "country": "LB"
+    },
+    {
+        "name": "Aghani Aghani TV",
+        "id": "AghaniAghaniTV.lb",
+        "logo": "https://i.imgur.com/o6HSfNg.png",
+        "url": "http://77.42.253.43:9090/stream5/AGHANITV.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "LB"
     }

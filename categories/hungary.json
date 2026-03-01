@@ -150,16 +150,6 @@
         "country": ""
     },
     {
-        "name": "FilmBox Premium HU",
-        "id": "filmboxpremiumhu",
-        "logo": "https://static.epg.best/hu/FilmboxPremium.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/3605",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
         "name": "Filmbox HU",
         "id": "filmboxhu",
         "logo": "https://static.epg.best/hu/Filmbox.hu.png",
@@ -230,40 +220,10 @@
         "country": ""
     },
     {
-        "name": "HU: Duna Televizio",
-        "id": "hudunatelevizio",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjrSr7ZGQDBArP19fnBRdymnsK6J4GSraTxANFKs6942w5sQNm6L48HkSsaxWWDwDObY&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17991.ts",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
         "name": "HU: Life TV",
         "id": "hulifetv",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXI83IcQ-QIcJXCI7P_roII8CYdW9TFAvJ8Qqw3HuOzYgxxHDsH01C7iPUrbXWZonQ80o&usqp=CAU",
         "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17967.ts",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HU: Nat Geo Wild",
-        "id": "hunatgeowild",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMdncz_2kg4hWEQtjvHWuT8w2oX_Mp2tOxQvHIJpBIJBg4T_NEmHFWKlg3GEURWql2BeI&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17956.ts",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HU: Sport 2",
-        "id": "husport2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17939.ts",
         "categories": [
             "hungary"
         ],

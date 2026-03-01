@@ -440,16 +440,6 @@
         "country": ""
     },
     {
-        "name": "BRT 3 HD",
-        "id": "brt3hd",
-        "logo": "https://i.ibb.co/b5PnGd7X/lk0hfop.png",
-        "url": "http://kgms.xyz:80/live/2712Ertugrul2021/2712-son-2022/865715.ts",
-        "categories": [
-            "tr ➤ yerel"
-        ],
-        "country": ""
-    },
-    {
         "name": "TEK RUMELI TV HD",
         "id": "tekrumelitvhd",
         "logo": "https://i.ibb.co/Xx1kFfYs/MRRz2iF.png",
@@ -574,6 +564,116 @@
         "id": "serhattvhd",
         "logo": "https://i.ibb.co/rKsSP0dj/logo.png",
         "url": "http://kgms.xyz:80/live/Hakankir/kir-hakan/865725.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kanal 42 HD",
+        "id": "kanal42hd",
+        "logo": "https://i.ibb.co/CpyxPnjD/zw5LYlH.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865652.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kanal Avrupa HD",
+        "id": "kanalavrupahd",
+        "logo": "https://i.ibb.co/tpJSPKmR/NSqyYBG.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865661.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES TV HD",
+        "id": "estvhd",
+        "logo": "https://i.ibb.co/Nk760vt/ES-TV.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865680.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Diyar TV HD",
+        "id": "diyartvhd",
+        "logo": "https://i.ibb.co/FbxXyBcD/8wrylv6.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865707.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "idman TV HD",
+        "id": "idmantvhd",
+        "logo": "https://i.ibb.co/Dfs1nxwv/flag-round-250.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865735.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kon TV HD",
+        "id": "kontvhd",
+        "logo": "https://i.ibb.co/k2QGj5zd/D1L3beT.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865636.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ER TV Hd",
+        "id": "ertvhd",
+        "logo": "https://i.ibb.co/gZVtCKFd/XRP09Uy.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865665.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Kanal 58 HD",
+        "id": "kanal58hd",
+        "logo": "https://i.ibb.co/YFdkK28C/nt4oshr.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865690.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TV 1 HD",
+        "id": "tv1hd",
+        "logo": "https://i.ibb.co/23vfXmFF/1ukb45k.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865692.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Zarok TV HD",
+        "id": "zaroktvhd",
+        "logo": "https://i.ibb.co/fdZBX8pf/3qht5xq.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865696.ts",
+        "categories": [
+            "tr ➤ yerel"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Koza TV HD",
+        "id": "kozatvhd",
+        "logo": "https://i.ibb.co/Cswtc5ND/KOZA.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865732.ts",
         "categories": [
             "tr ➤ yerel"
         ],

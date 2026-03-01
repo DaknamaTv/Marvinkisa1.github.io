@@ -220,16 +220,6 @@
         "country": ""
     },
     {
-        "name": "TR: DOST TV",
-        "id": "trdosttv",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1eWnsY9v4hPXJu3QzOt_h2lW4csmG8qM36T_r29b6hxRdQkqAoyxuNgfpH8KItTvwcQ&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17650.ts",
-        "categories": [
-            "turkey"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: DREAM TV",
         "id": "trdreamtv",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXivCcJHnt3L52vDCYvIeApO94W3FR4d2cw&s",
@@ -340,40 +330,10 @@
         "country": ""
     },
     {
-        "name": "TR: MOVİESMART CLASSİC HD+",
-        "id": "trmovesmartclasschd",
-        "logo": "http://zdravavoda.xyz:80/images/47zRlRc2zArDKjLQj4eRv-RUT4WgJqc-oHKvkUDQzeLmrm2gGj-x8pwAAybLCApypcbTepkA7vol4aoDTOL-0Ujr-SzU-RS-FN8GIuhhKxM0qQMgqWJDo8WyG2dL8Ilu.jpg",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17549.ts",
-        "categories": [
-            "turkey"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: NR1 AŞK",
-        "id": "trnr1ak",
-        "logo": "http://zdravavoda.xyz:80/images/uskfn26cPBFoC7MSZE7VnpCyVahxNQ2xsdIIK-nzsd8hpLhOn6mUTr1GO3p62mmDa1I23RW5aPt6Ngl-8VuCzg.jpg",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17844.ts",
-        "categories": [
-            "turkey"
-        ],
-        "country": ""
-    },
-    {
         "name": "TR: SHOW TV HD+",
         "id": "trshowtvhd",
         "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/f/f2/Show_TV_HD_%282011-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20200321092630",
         "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17462.ts",
-        "categories": [
-            "turkey"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TR: SINEMA TV 2 HD+",
-        "id": "trsinematv2hd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GeQSevVtz3EWZPymQIWjD_GagSCfQXANJ-Oui3LGA-w0ezYCAvsR0ECvUlysAYbysac&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17555.ts",
         "categories": [
             "turkey"
         ],

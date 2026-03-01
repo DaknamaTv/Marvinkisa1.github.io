@@ -198,5 +198,25 @@
             "tr ➤ bein sports"
         ],
         "country": ""
+    },
+    {
+        "name": "beIN Sports 2 HD",
+        "id": "beinsports2hd",
+        "logo": "https://i.hizliresim.com/pstlj7z.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/19.ts",
+        "categories": [
+            "tr ➤ bein sports"
+        ],
+        "country": ""
+    },
+    {
+        "name": "beIN Sports MAX 2 HD",
+        "id": "beinsportsmax2hd",
+        "logo": "https://i.hizliresim.com/rkv1bal.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/30.ts",
+        "categories": [
+            "tr ➤ bein sports"
+        ],
+        "country": ""
     }
 ]

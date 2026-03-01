@@ -22,6 +22,17 @@
         "country": "TR"
     },
     {
+        "name": "Ciftci TV",
+        "id": "CiftciTV.tr",
+        "logo": "https://i.imgur.com/CLzP4vL.png",
+        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+        "categories": [
+            "education",
+            "culture"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Costa Rica Channel",
         "id": "CostaRicaChannel.cr",
         "logo": "https://i.imgur.com/N4pFVVF.png",
@@ -354,19 +365,6 @@
         "country": "DO"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "zenith",
         "id": "zenith.fr",
         "logo": "https://znth.tv/static/site_app/thy%20logo.svg",
@@ -616,16 +614,6 @@
         "country": "EE"
     },
     {
-        "name": "Miras",
-        "id": "Miras.tm",
-        "logo": "https://i.imgur.com/pWbJzr9.png",
-        "url": "https://alpha.tv.online.tm/legacyhls/ch003.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "TM"
-    },
-    {
         "name": "Bonaire.tv",
         "id": "Bonairetv.bq",
         "logo": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
@@ -663,17 +651,6 @@
         "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
         "categories": [
             "culture"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
         ],
         "country": "BR"
     },
@@ -819,6 +796,16 @@
             "culture",
             "entertainment",
             "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Hmong Star TV",
+        "id": "HmongStarTV.us",
+        "logo": "https://i.imgur.com/dRsacao.png",
+        "url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8",
+        "categories": [
+            "culture"
         ],
         "country": "US"
     },

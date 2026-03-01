@@ -118,5 +118,35 @@
             "tr ➤ sinema platform"
         ],
         "country": ""
+    },
+    {
+        "name": "Bein Movies Premiere FHD",
+        "id": "beinmoviespremierefhd",
+        "logo": "https://i.ibb.co/hF19dgyC/Bein-Movies-Premiere-Eno.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/865283.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema 1002 HD",
+        "id": "sinema1002hd",
+        "logo": "https://i.ibb.co/6JpKQm02/SINEMA-TV-1002.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865296.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sinema Aile HD",
+        "id": "sinemaailehd",
+        "logo": "https://i.ibb.co/wh2L1jq3/SINEMA-TV-AILE.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865297.ts",
+        "categories": [
+            "tr ➤ sinema platform"
+        ],
+        "country": ""
     }
 ]

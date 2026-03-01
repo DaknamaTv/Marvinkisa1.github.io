@@ -1,95 +1,5 @@
 [
     {
-        "name": "MaximTV Doru TV",
-        "id": "MaximTVDoruTV.tr",
-        "logo": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxdorutv.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/196539",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Maşa İle Koca Ayı HD",
-        "id": "MaaleKocaAyHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/masakocaayi.png",
-        "url": "http://yrtds0911.xyz:8080/cengizacar/KSSEP9J3tK/6238",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Baby TV HD",
-        "id": "BabyTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxbabytv.png",
-        "url": "http://yrtds0911.xyz:8080/ilhami/ilhami/6239",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "MaximTV Niloya HD",
-        "id": "MaximTVNiloyaHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxniloyatv.png",
-        "url": "http://koxgo.shop:8080/kn9696/kn0069/113702",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Pija Maskeliler TV HD",
-        "id": "PijaMaskelilerTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/pijamaskeliler.png",
-        "url": "http://koxgo.shop:8080/kn9696/kn0069/35592",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Disney Junior HD",
-        "id": "DisneyJuniorHD.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/f/f8/Disney_Junior_logosu.png",
-        "url": "http://koxgo.shop:8080/kn9696/kn0069/6236",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Pepe TV HD",
-        "id": "PepeTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpepetv.png",
-        "url": "http://koxgo.shop:8080/kn9696/kn0069/6241",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "TRT Çocuk HD",
-        "id": "TRTocukHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_cocuk.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/48856",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
-        "name": "Minika Go HD",
-        "id": "MinikaGoHD.tr",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6244",
-        "categories": [
-            "cocuk kanallari"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Caillou TV HD",
         "id": "CaillouTVHD.tr",
         "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxcailloutv.png",
@@ -130,20 +40,40 @@
         "country": "TR"
     },
     {
-        "name": "Boomerang TV HD",
-        "id": "BoomerangTVHD.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6243",
+        "name": "Tom & Jerry TV HD",
+        "id": "TomJerryTVHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxtomjerry.png",
+        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6240",
         "categories": [
             "cocuk kanallari"
         ],
         "country": "TR"
     },
     {
-        "name": "Tom & Jerry TV HD",
-        "id": "TomJerryTVHD.tr",
-        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxtomjerry.png",
-        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6240",
+        "name": "MaximTV Nick JR HD",
+        "id": "MaximTVNickJRHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnickjr.png",
+        "url": "http://koxgo.shop:8080/ST5ZcFr7PRYK/NYbRbLavjqar/113705",
+        "categories": [
+            "cocuk kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Minika Çocuk HD",
+        "id": "MinikaocukHD.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",
+        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/6247",
+        "categories": [
+            "cocuk kanallari"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Disney Channel HD",
+        "id": "DisneyChannelHD.tr",
+        "logo": "http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/disnepchannel.png",
+        "url": "http://koxgo.shop:8080/Muratcelik736/knm745sre631/20416",
         "categories": [
             "cocuk kanallari"
         ],

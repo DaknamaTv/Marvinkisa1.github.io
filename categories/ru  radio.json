@@ -130,16 +130,6 @@
         "country": ""
     },
     {
-        "name": "RU: Radio Mast",
-        "id": "ruradiomast",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "http://streams.radiomast.io/radioblues-flac",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "RU: Radio Sputnik Underground!",
         "id": "ruradiosputnikunderground",
         "logo": "https://i.imgur.com/PKPva1e.png",
@@ -1544,16 +1534,6 @@
         "id": "rutechno",
         "logo": "https://i.imgur.com/PKPva1e.png",
         "url": "https://pub0202.101.ru:8443/stream/trust/mp3/128/18",
-        "categories": [
-            "ru ⚡️ radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "RU:  Электроника - Trance",
-        "id": "rutrance",
-        "logo": "https://i.imgur.com/PKPva1e.png",
-        "url": "https://pub0201.101.ru/stream/trust/mp3/128/19",
         "categories": [
             "ru ⚡️ radio"
         ],

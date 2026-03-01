@@ -729,20 +729,30 @@
         "country": "IN"
     },
     {
-        "name": "Roja Movies",
-        "id": "RojaMovies.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
+        "name": "Alankar TV",
+        "id": "AlankarTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png",
+        "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
         "categories": [
             "movies"
         ],
         "country": "IN"
     },
     {
-        "name": "Alankar TV",
-        "id": "AlankarTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142630_ld_h15_aa.png",
-        "url": "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8",
+        "name": "MH One Movies",
+        "id": "MHOneMovies.in",
+        "logo": "https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png",
+        "url": "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "MoviePlex",
+        "id": "MoviePlex.in",
+        "logo": "https://i.imgur.com/THJEAqJ.png",
+        "url": "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -789,6 +799,26 @@
         "country": "UK"
     },
     {
+        "name": "MyTime Movie Network",
+        "id": "MyTimeMovieNetwork.uk",
+        "logo": "https://i.imgur.com/pw4NZK1.png",
+        "url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Aurora Media Films",
+        "id": "AuroraMediaFilms.gt",
+        "logo": "https://i.imgur.com/DVC5w6H.png",
+        "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "GT"
+    },
+    {
         "name": "Boreal",
         "id": "Boreal.do",
         "logo": "https://i.imgur.com/KSquHTG.png",
@@ -833,6 +863,16 @@
         "id": "EmotionL.fr",
         "logo": "https://i.imgur.com/MP34aaj.png",
         "url": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Cine Western",
+        "id": "CineWestern.fr",
+        "logo": "https://i.imgur.com/tteOFkL.png",
+        "url": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8",
         "categories": [
             "movies"
         ],
@@ -922,6 +962,16 @@
         "country": "KH"
     },
     {
+        "name": "One TV Cinema 2",
+        "id": "OneTVCinema2.kh",
+        "logo": "https://i.imgur.com/H8PiAbA.png",
+        "url": "http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "KH"
+    },
+    {
         "name": "Next HD",
         "id": "NextHD.py",
         "logo": "https://i.imgur.com/c2rF3SS.png",
@@ -931,16 +981,6 @@
             "music"
         ],
         "country": "PY"
-    },
-    {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-        "categories": [
-            "movies"
-        ],
-        "country": "IT"
     },
     {
         "name": "Grjngo Western Movies",
@@ -961,16 +1001,6 @@
             "movies"
         ],
         "country": "GR"
-    },
-    {
-        "name": "Afriwood Blockbuster",
-        "id": "AfriwoodBlockbuster.za",
-        "logo": "https://i.imgur.com/aESdqiB.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afriwood-blockbuster/video.m3u8?ads.vf=W6V4C1LsfJK",
-        "categories": [
-            "movies"
-        ],
-        "country": "ZA"
     },
     {
         "name": "Cinema Hausa",

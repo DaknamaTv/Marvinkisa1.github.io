@@ -850,16 +850,6 @@
         "country": "PL"
     },
     {
-        "name": "POLSAT SPORT PREM. 1 HD",
-        "id": "polsatsportpremium1.pl",
-        "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_1.png",
-        "url": "http://sansat.co:88/02021375753918/8946623682/94953",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "POLSAT SPORT PREM. 3 HD",
         "id": "polsatsportpremium3.pl",
         "logo": "http://www.vodkom.com:25461/Logo/POLONIA/Polsat_Sport_Premium_PPV3.png",
@@ -1034,26 +1024,6 @@
         "id": "VIAPLAYXTRA25HD.pl",
         "logo": "http://vodkom.com:25461/Logo/VIAPLAY/viaplay.png",
         "url": "http://sansat.co:88/02021375753918/8946623682/590937",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "CANAL+ EXTRA 1 FHD",
-        "id": "CANALEXTRA1FHD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/662741",
-        "categories": [
-            "eu polonia"
-        ],
-        "country": "PL"
-    },
-    {
-        "name": "CANAL+ EXTRA 2 HD",
-        "id": "CANALEXTRA2HD.pl",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/662742",
         "categories": [
             "eu polonia"
         ],

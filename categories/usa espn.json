@@ -1,15 +1,5 @@
 [
     {
-        "name": "ESPN HD",
-        "id": "ESPNHD.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542342",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN 2 HD",
         "id": "ESPN2HD.us",
         "logo": "",
@@ -120,16 +110,6 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 21 : Vegas Golden Knights vs. Florida Panthers (Panthers Broadcast) 14:30et-19:30uk",
-        "id": "ESPN21VegasGoldenKnightsvsFloridaPanthersPanthersBroadcast1430et1930uk.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542364",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 22 : Anderlecht vs. Genk  14:40et-19:40uk",
         "id": "ESPN22AnderlechtvsGenk1440et1940uk.us",
         "logo": "",
@@ -174,16 +154,6 @@
         "id": "ESPN27EnEspaolGeorgiaStatevsUtahState1530et2030uk.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542370",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 28 : Wellington Blaze vs. Auckland Hearts  16:00et-21:00uk",
-        "id": "ESPN28WellingtonBlazevsAucklandHearts1600et2100uk.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542371",
         "categories": [
             "usa espn+"
         ],
@@ -320,16 +290,6 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 49:  Buffalo Sabres vs. New York Rangers (Rangers Broadcast) 19:30et-00:30uk",
-        "id": "ESPN49BuffaloSabresvsNewYorkRangersRangersBroadcast1930et0030uk.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542392",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 50: Buffalo Sabres vs. New York Rangers (Sabres Broadcast) 19:30et-00:30uk",
         "id": "ESPN50BuffaloSabresvsNewYorkRangersSabresBroadcast1930et0030uk.us",
         "logo": "",
@@ -364,26 +324,6 @@
         "id": "ESPN55ArizonaCoyotesvsColoradoAvalancheAvalancheBroadcast2030et0130uk.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542398",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 56: San Jose Sharks vs. Vancouver Canucks (National Broadcast) 21:30et-02:30uk",
-        "id": "ESPN56SanJoseSharksvsVancouverCanucksNationalBroadcast2130et0230uk.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542399",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 57: Edmonton Oilers vs. New York Rangers  19:30et-00:30uk",
-        "id": "ESPN57EdmontonOilersvsNewYorkRangers1930et0030uk.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542400",
         "categories": [
             "usa espn+"
         ],
@@ -430,46 +370,6 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 69:",
-        "id": "ESPN69.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542412",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 72:",
-        "id": "ESPN72.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542415",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 73:",
-        "id": "ESPN73.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542416",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 74:",
-        "id": "ESPN74.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542417",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 75:",
         "id": "ESPN75.us",
         "logo": "",
@@ -484,36 +384,6 @@
         "id": "ESPN77.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542420",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 78:",
-        "id": "ESPN78.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542421",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 79: Oa",
-        "id": "ESPN79Oa.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542422",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 80:",
-        "id": "ESPN80.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542423",
         "categories": [
             "usa espn+"
         ],
@@ -560,30 +430,10 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 88:",
-        "id": "ESPN88.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542431",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 92:",
         "id": "ESPN92.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542435",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 95:",
-        "id": "ESPN95.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542438",
         "categories": [
             "usa espn+"
         ],
@@ -630,30 +480,10 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 101:",
-        "id": "ESPN101.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542444",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 103:",
         "id": "ESPN103.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542446",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 105:",
-        "id": "ESPN105.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542448",
         "categories": [
             "usa espn+"
         ],
@@ -690,26 +520,6 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 113:",
-        "id": "ESPN113.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542456",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 118:",
-        "id": "ESPN118.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542461",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 119:",
         "id": "ESPN119.us",
         "logo": "",
@@ -730,40 +540,10 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 122:",
-        "id": "ESPN122.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542465",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 123:",
-        "id": "ESPN123.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542466",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 124:",
         "id": "ESPN124.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542467",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 127:",
-        "id": "ESPN127.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542470",
         "categories": [
             "usa espn+"
         ],
@@ -784,26 +564,6 @@
         "id": "ESPN130.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542473",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 131:",
-        "id": "ESPN131.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542474",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 133:",
-        "id": "ESPN133.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542476",
         "categories": [
             "usa espn+"
         ],
@@ -840,30 +600,10 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 143:",
-        "id": "ESPN143.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542486",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 146:",
         "id": "ESPN146.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542489",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 149:",
-        "id": "ESPN149.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542492",
         "categories": [
             "usa espn+"
         ],
@@ -880,26 +620,6 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 153:",
-        "id": "ESPN153.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542496",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 157:",
-        "id": "ESPN157.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542500",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 158:",
         "id": "ESPN158.us",
         "logo": "",
@@ -910,30 +630,10 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 160:",
-        "id": "ESPN160.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542503",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 162:",
         "id": "ESPN162.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542505",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 165:",
-        "id": "ESPN165.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542508",
         "categories": [
             "usa espn+"
         ],
@@ -1010,40 +710,10 @@
         "country": "US"
     },
     {
-        "name": "ESPN+ 181:",
-        "id": "ESPN181.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542524",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 182:",
-        "id": "ESPN182.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542525",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPN+ 184:",
         "id": "ESPN184.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542527",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 186:",
-        "id": "ESPN186.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542529",
         "categories": [
             "usa espn+"
         ],
@@ -1064,46 +734,6 @@
         "id": "ESPN190.us",
         "logo": "",
         "url": "http://sansat.co:88/02021375753918/8946623682/542533",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 192:",
-        "id": "ESPN192.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542535",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 193",
-        "id": "ESPN193.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542536",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 194",
-        "id": "ESPN194.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542537",
-        "categories": [
-            "usa espn+"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "ESPN+ 195",
-        "id": "ESPN195.us",
-        "logo": "",
-        "url": "http://sansat.co:88/02021375753918/8946623682/542538",
         "categories": [
             "usa espn+"
         ],

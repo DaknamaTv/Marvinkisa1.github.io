@@ -1470,16 +1470,6 @@
         "country": ""
     },
     {
-        "name": "Channel24",
-        "id": "channel24",
-        "logo": "",
-        "url": "https://playztv-apps.pages.dev/channel-24/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "MyTV",
         "id": "mytv",
         "logo": "",
@@ -1830,16 +1820,6 @@
         "country": ""
     },
     {
-        "name": "Deshe Bideshe",
-        "id": "deshebideshe",
-        "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
-        "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sony Sports Ten 3 HD",
         "id": "sonysportsten3hd",
         "logo": "",
@@ -1854,16 +1834,6 @@
         "id": "atnafg",
         "logo": "",
         "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Azan TV",
-        "id": "azantv",
-        "logo": "",
-        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
         "categories": [
             "bd"
         ],
@@ -2320,16 +2290,6 @@
         "country": ""
     },
     {
-        "name": "SOMOY TV-[2]",
-        "id": "somoytv2",
-        "logo": "",
-        "url": "http://103.151.61.12/SOMOY_TV/video.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "ZB Cinema",
         "id": "zbcinema",
         "logo": "",
@@ -2534,6 +2494,26 @@
         "id": "atnmusic",
         "logo": "",
         "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "[BD] Dhaka FM",
+        "id": "bddhakafm",
+        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wC7c-JQBv9knK3AHFjbi/posters/c288512c-17aa-4ba2-b2d5-4e7b1b729d88.webp",
+        "url": "https://stream-162.zeno.fm/u9mphfk604zuv?zs=QJnv4-xkRN2k7MeRy9mFyg",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ASTRO SPORTS PLUS",
+        "id": "astrosportsplus",
+        "logo": "",
+        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8",
         "categories": [
             "bd"
         ],

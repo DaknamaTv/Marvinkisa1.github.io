@@ -18,5 +18,55 @@
             "tr ➤ spor"
         ],
         "country": ""
+    },
+    {
+        "name": "Smart Spor 1 FHD",
+        "id": "smartspor1fhd",
+        "logo": "https://i.ibb.co/r2RrchDD/22.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865599.ts",
+        "categories": [
+            "tr ➤ spor"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Eurosport 2 HD",
+        "id": "eurosport2hd",
+        "logo": "https://i.ibb.co/4nJHZJNK/5.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865602.ts",
+        "categories": [
+            "tr ➤ spor"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: Smart Spor 2 FHD",
+        "id": "trsmartspor2fhd",
+        "logo": "https://i.ibb.co/YVPN4HS/24.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/850169.ts",
+        "categories": [
+            "tr ➤ spor"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: NBA TV",
+        "id": "trnbatv",
+        "logo": "https://i.ibb.co/nqxrQWzt/13.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/850182.ts",
+        "categories": [
+            "tr ➤ spor"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TR: T.A.Y TV",
+        "id": "trtaytv",
+        "logo": "https://i.ibb.co/KzfLTDXv/tay-tv.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/850184.ts",
+        "categories": [
+            "tr ➤ spor"
+        ],
+        "country": ""
     }
 ]

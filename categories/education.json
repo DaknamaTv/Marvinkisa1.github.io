@@ -43,6 +43,17 @@
         "country": "TR"
     },
     {
+        "name": "Ciftci TV",
+        "id": "CiftciTV.tr",
+        "logo": "https://i.imgur.com/CLzP4vL.png",
+        "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+        "categories": [
+            "education",
+            "culture"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "EBS 2TV",
         "id": "EBS2TV.kr",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png",
@@ -385,6 +396,16 @@
         "country": "KH"
     },
     {
+        "name": "One TV E-School Cambodia",
+        "id": "OneTVESchoolCambodia.kh",
+        "logo": "https://i.imgur.com/wLzVdeT.png",
+        "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "KH"
+    },
+    {
         "name": "Palestine Edu",
         "id": "PalestineEdu.ps",
         "logo": "https://i.imgur.com/AwVHXyC.png",
@@ -626,16 +647,6 @@
         "country": "ES"
     },
     {
-        "name": "Yaslyk",
-        "id": "Yaslyk.tm",
-        "logo": "https://i.imgur.com/QVWBNGM.png",
-        "url": "https://alpha.tv.online.tm/legacyhls/ch002.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "TM"
-    },
-    {
         "name": "Canal Educacao",
         "id": "CanalEducacao.br",
         "logo": "https://i.imgur.com/OOB7nrS.png",
@@ -656,17 +667,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Unisul TV",
         "id": "UnisulTV.br",
         "logo": "https://i.imgur.com/N0TvAFz.png",
@@ -674,6 +674,16 @@
         "categories": [
             "education",
             "culture"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "ISTV",
+        "id": "ISTV.br",
+        "logo": "https://i.imgur.com/RUKVrOH.png",
+        "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+        "categories": [
+            "education"
         ],
         "country": "BR"
     },

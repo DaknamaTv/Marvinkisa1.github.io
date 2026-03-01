@@ -1065,16 +1065,6 @@
         "country": "NL"
     },
     {
-        "name": "Rararadio",
-        "id": "Rararadio.nl",
-        "logo": "https://i.imgur.com/vTpfxUG.png",
-        "url": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "FomixTV",
         "id": "FomixTV.nl",
         "logo": "https://i.imgur.com/7SLYEMG.png",
@@ -2652,6 +2642,26 @@
         "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "INTRAVEL",
+        "id": "INTRAVEL.nl",
+        "logo": "https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png",
+        "url": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "travel"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "RTV Rijnmond Extra",
+        "id": "RTVRijnmondExtra.nl",
+        "logo": "https://i.imgur.com/mlrd5ia.png",
+        "url": "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "NL"
     }

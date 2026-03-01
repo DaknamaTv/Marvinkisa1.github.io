@@ -58,5 +58,25 @@
             "tr ➤ kombinasyon sinema"
         ],
         "country": ""
+    },
+    {
+        "name": "Premium Yerli 8",
+        "id": "premiumyerli8",
+        "logo": "https://i.ibb.co/KzR5w52f/yerli.png",
+        "url": "http://kgms.xyz:80/live/MyKebab/Vip34/863147.ts",
+        "categories": [
+            "tr ➤ kombinasyon sinema"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Premium Disney 10",
+        "id": "premiumdisney10",
+        "logo": "https://i.ibb.co/s9zD4NMK/disney.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/863243.ts",
+        "categories": [
+            "tr ➤ kombinasyon sinema"
+        ],
+        "country": ""
     }
 ]

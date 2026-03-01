@@ -38,5 +38,45 @@
             "tr ➤ dini kanallar"
         ],
         "country": ""
+    },
+    {
+        "name": "Dost TV HD",
+        "id": "dosttvhd",
+        "logo": "https://i.ibb.co/LdfXppZf/udqv9iJ.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865615.ts",
+        "categories": [
+            "tr ➤ dini kanallar"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Semerkand TV HD",
+        "id": "semerkandtvhd",
+        "logo": "https://i.ibb.co/qMj9646D/4uAjSmd.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865616.ts",
+        "categories": [
+            "tr ➤ dini kanallar"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Lalegul TV HD",
+        "id": "lalegultvhd",
+        "logo": "https://i.ibb.co/mCgcZyVp/kcXg99f.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865617.ts",
+        "categories": [
+            "tr ➤ dini kanallar"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Edessa TV HD",
+        "id": "edessatvhd",
+        "logo": "https://i.ibb.co/k2V1ZbW3/EDESSA.png",
+        "url": "http://kgms.xyz:80/live/hasan.guzel2/ZhPgJRwxzp/865623.ts",
+        "categories": [
+            "tr ➤ dini kanallar"
+        ],
+        "country": ""
     }
 ]

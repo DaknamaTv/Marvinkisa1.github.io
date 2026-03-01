@@ -118,16 +118,6 @@
         "country": "EC"
     },
     {
-        "name": "Canal Sur",
-        "id": "CanalSur.ec",
-        "logo": "https://i.imgur.com/LMoIpU2.jpg",
-        "url": "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "IeanJesus Ecuador",
         "id": "IeanJesusEcuador.ec",
         "logo": "https://i.imgur.com/TyckDSV.png",
@@ -544,16 +534,6 @@
         "id": "RTRTV.ec",
         "logo": "https://i.imgur.com/dvP2yqB.png",
         "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Red TVE Ventanas",
-        "id": "RedTVEVentanas.ec",
-        "logo": "https://i.imgur.com/Pzf2ZAW.png",
-        "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
         "categories": [
             "general"
         ],
