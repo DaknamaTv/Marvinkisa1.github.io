@@ -250,16 +250,6 @@
         "country": ""
     },
     {
-        "name": "Eco TV | AR",
-        "id": "ecotvar",
-        "logo": "https://cdn.m3u.cl/logo/303_Eco_TV.png",
-        "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Litus TV | AR",
         "id": "litustvar",
         "logo": "https://cdn.m3u.cl/logo/241_Litus_TV.png",
@@ -1560,16 +1550,6 @@
         "country": ""
     },
     {
-        "name": "Radio Las Nieves | CL",
-        "id": "radiolasnievescl",
-        "logo": "https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png",
-        "url": "https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Radio Navarino | CL",
         "id": "radionavarinocl",
         "logo": "https://cdn.m3u.cl/logo/1538_Radio_Navarino.png",
@@ -2420,16 +2400,6 @@
         "country": ""
     },
     {
-        "name": "Tele Selva | PE",
-        "id": "teleselvape",
-        "logo": "https://cdn.m3u.cl/logo/1546_Tele_Selva.png",
-        "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Telecolor TV | PE",
         "id": "telecolortvpe",
         "logo": "https://cdn.m3u.cl/logo/1189_Telecolor_TV.png",
@@ -2550,16 +2520,6 @@
         "country": ""
     },
     {
-        "name": "Radio Fiessta | CL",
-        "id": "radiofiesstacl",
-        "logo": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
-        "url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Radio Universal | CL",
         "id": "radiouniversalcl",
         "logo": "https://cdn.m3u.cl/logo/390_Radio_Universal.png",
@@ -2574,16 +2534,6 @@
         "id": "redfueguinaradiocl",
         "logo": "https://cdn.m3u.cl/logo/400_Red_Fueguina_Radio.png",
         "url": "https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Sabor TV | CL",
-        "id": "sabortvcl",
-        "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
-        "url": "https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -2840,16 +2790,6 @@
         "country": ""
     },
     {
-        "name": "UTalcaTV | CL",
-        "id": "utalcatvcl",
-        "logo": "https://cdn.m3u.cl/logo/55_UTalcaTV.png",
-        "url": "https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "Net Channel | VE",
         "id": "netchannelve",
         "logo": "https://cdn.m3u.cl/logo/1573_Net_Channel.png",
@@ -2954,16 +2894,6 @@
         "id": "canal7neuquenar",
         "logo": "https://cdn.m3u.cl/logo/1401_Canal_7_Neuquen.png",
         "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Chaco TV | AR",
-        "id": "chacotvar",
-        "logo": "https://cdn.m3u.cl/logo/279_Chaco_TV.png",
-        "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3170,16 +3100,6 @@
         "country": ""
     },
     {
-        "name": "Uranio TV | PE",
-        "id": "uraniotvpe",
-        "logo": "https://cdn.m3u.cl/logo/1094_Uranio_TV.png",
-        "url": "https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "ADN | CL",
         "id": "adncl",
         "logo": "https://cdn.m3u.cl/logo/424_ADN.png",
@@ -3224,16 +3144,6 @@
         "id": "autonomatvcl",
         "logo": "https://cdn.m3u.cl/logo/1120_Autonoma_TV.png",
         "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Canal Latino 54 | CL",
-        "id": "canallatino54cl",
-        "logo": "https://cdn.m3u.cl/logo/359_Canal_Latino_54.png",
-        "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],
@@ -3390,16 +3300,6 @@
         "country": ""
     },
     {
-        "name": "Canal Once Del Zulia | VE",
-        "id": "canaloncedelzuliave",
-        "logo": "https://cdn.m3u.cl/logo/143_Canal_Once_Del_Zulia.png",
-        "url": "https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
         "name": "TRT | VE",
         "id": "trtve",
         "logo": "https://cdn.m3u.cl/logo/1327_TRT.png",
@@ -3414,16 +3314,6 @@
         "id": "azaharesradiomultimediaar",
         "logo": "https://cdn.m3u.cl/logo/215_Azahares_Radio_Multimedia.png",
         "url": "http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL",
-        "categories": [
-            "→ geo chile (regional) ←"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Canal Cinco Tigre | AR",
-        "id": "canalcincotigrear",
-        "logo": "https://cdn.m3u.cl/logo/274_Canal_Cinco_Tigre.png",
-        "url": "https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL",
         "categories": [
             "→ geo chile (regional) ←"
         ],

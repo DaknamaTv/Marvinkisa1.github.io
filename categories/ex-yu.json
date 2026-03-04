@@ -1,15 +1,5 @@
 [
     {
-        "name": "CROMAX SPORT 1",
-        "id": "cromaxsport1",
-        "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/MAXSport_1_logo.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/384935",
-        "categories": [
-            "ex-yu"
-        ],
-        "country": ""
-    },
-    {
         "name": "CROMAX SPORT 2",
         "id": "cromaxsport2",
         "logo": "",
@@ -60,16 +50,6 @@
         "country": ""
     },
     {
-        "name": "Pink..",
-        "id": "pink",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/212656",
-        "categories": [
-            "ex-yu"
-        ],
-        "country": ""
-    },
-    {
         "name": "B92..",
         "id": "b92",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_of_B92_%282020-present%29.svg/1200px-Logo_of_B92_%282020-present%29.svg.png",
@@ -110,30 +90,10 @@
         "country": ""
     },
     {
-        "name": "Pink Thriller",
-        "id": "pinkthriller",
-        "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Pink_Thriller_logo.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/212558",
-        "categories": [
-            "ex-yu"
-        ],
-        "country": ""
-    },
-    {
         "name": "Pink Pedia",
         "id": "pinkpedia",
         "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/pinkPedia.png",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/212554",
-        "categories": [
-            "ex-yu"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pink Soap",
-        "id": "pinksoap",
-        "logo": "https://img.favpng.com/24/3/6/satellite-television-pink-soap-rtv-pink-telemach-png-favpng-WNzXg8a8qEtzj8tCQHLXN5R4Z.jpg",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/212552",
         "categories": [
             "ex-yu"
         ],
@@ -284,26 +244,6 @@
         "id": "m1gold",
         "logo": "https://logo.iptveditor.com/m1gold.png",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/118659",
-        "categories": [
-            "ex-yu"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Kino TV HD",
-        "id": "kinotvhd",
-        "logo": "https://logo.iptveditor.com/kinotv.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/118654",
-        "categories": [
-            "ex-yu"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Pink Music 2..",
-        "id": "pinkmusic2",
-        "logo": "https://logo.iptveditor.com/pinkmusic2.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/118636",
         "categories": [
             "ex-yu"
         ],

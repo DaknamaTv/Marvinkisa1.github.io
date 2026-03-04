@@ -30,16 +30,6 @@
         "country": "AT"
     },
     {
-        "name": "Konniy mir",
-        "id": "Konniymir.ru",
-        "logo": "https://i.imgur.com/X6otbK0.png",
-        "url": "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Moya Planeta",
         "id": "MoyaPlaneta.ru",
         "logo": "https://i.imgur.com/uIiAdBv.png",
@@ -259,16 +249,6 @@
         "id": "SpikeOutdoors.us",
         "logo": "https://i.imgur.com/cdCD2A2.png",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb097-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba96820a-ef7c-474b-9484-5944ae6322c0",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Boat Show",
-        "id": "TheBoatShow.us",
-        "logo": "https://i.imgur.com/qlhS2zw.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=UjpAnxTwLMK",
         "categories": [
             "outdoor"
         ],

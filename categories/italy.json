@@ -30,16 +30,6 @@
         "country": "IT"
     },
     {
-        "name": "PREMIUM CALCIO 3",
-        "id": "PREMIUMCALCIO3.it",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406068",
-        "categories": [
-            "italy"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PREMIUM CALCIO 2",
         "id": "PREMIUMCALCIO2.it",
         "logo": "",
@@ -144,16 +134,6 @@
         "id": "itrai3",
         "logo": "",
         "url": "http://xxip25.top:8080/G7ykGB/928030/212897",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
-        "name": "IT: RAI ITALIA",
-        "id": "itraiitalia",
-        "logo": "",
-        "url": "http://tv2watch.icu:8080/7vGX9F/030546/212900",
         "categories": [
             "italy"
         ],
@@ -460,16 +440,6 @@
         "country": ""
     },
     {
-        "name": "Sky Cinema Uno +24 FHD IT",
-        "id": "skycinemauno24fhdit",
-        "logo": "http://epg.localconectivity.net/LOGO/ITALIE/rsz_sky_cinema_uno_-24.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270557",
-        "categories": [
-            "italy"
-        ],
-        "country": ""
-    },
-    {
         "name": "Sky Cinema Uno HD IT",
         "id": "skycinemaunohdit",
         "logo": "http://epg.localconectivity.net/LOGO/ITALIE/rsz_sky_cinema_uno.png",
@@ -484,6 +454,26 @@
         "id": "cartoonitohdit",
         "logo": "http://epg.localconectivity.net/LOGO/ITALIE/rsz_cartoonito.png",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/270551",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI 2",
+        "id": "itrai2",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/212896",
+        "categories": [
+            "italy"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IT: RAI SCUOLA",
+        "id": "itraiscuola",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/212934",
         "categories": [
             "italy"
         ],

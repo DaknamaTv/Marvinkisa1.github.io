@@ -835,5 +835,15 @@
             "general"
         ],
         "country": "TR"
+    },
+    {
+        "name": "Al Qanat 9",
+        "id": "AlQanat9.tr",
+        "logo": "https://i.imgur.com/HC91Mho.png",
+        "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "TR"
     }
 ]

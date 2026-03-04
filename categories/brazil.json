@@ -80,16 +80,6 @@
         "country": ""
     },
     {
-        "name": "BR: Woohoo HD",
-        "id": "brwoohoohd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvF3rtIHckmbIiHn3MierLAFEkStAPp6Wq7FKJQLA2hUDk8LRwu27Ym_XHKSeAJp8FdYw&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/29207.ts",
-        "categories": [
-            "brazil"
-        ],
-        "country": ""
-    },
-    {
         "name": "BR: Warner Channel  FHD",
         "id": "brwarnerchannelfhd",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvj3vxGTgGtbB6xa1rDZxeFM-uUIwZVTZIf-xOQ30F3Y_2J5kwV2_YVK3OZF9rgnL42Dg&usqp=CAU",
@@ -144,6 +134,16 @@
         "id": "pttpainternacionalsd",
         "logo": "",
         "url": "http://fortv.cc:8080/Archie100/MrArchie/164855",
+        "categories": [
+            "brazil"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BR Globo SP HD",
+        "id": "brglobosphd",
+        "logo": "https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/21020",
         "categories": [
             "brazil"
         ],

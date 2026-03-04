@@ -208,5 +208,45 @@
             "movie networks"
         ],
         "country": ""
+    },
+    {
+        "name": "US Lifetime Movies",
+        "id": "uslifetimemovies",
+        "logo": "https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/20863",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US EPIX2 (East)",
+        "id": "usepix2east",
+        "logo": "https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/12730",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US HBO Family (East)",
+        "id": "ushbofamilyeast",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/17772",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Starz Cinema (East)",
+        "id": "usstarzcinemaeast",
+        "logo": "https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/9301",
+        "categories": [
+            "movie networks"
+        ],
+        "country": ""
     }
 ]

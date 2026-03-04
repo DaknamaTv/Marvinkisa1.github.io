@@ -549,16 +549,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Arapuan",
-        "id": "TVArapuan.br",
-        "logo": "https://i.imgur.com/3395A2h.png",
-        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "IMPD TV Worldwide",
         "id": "IMPDTVWorldwide.br",
         "logo": "https://i.imgur.com/9dW3AUQ.png",
@@ -847,16 +837,6 @@
         "country": "BR"
     },
     {
-        "name": "Cultura Para",
-        "id": "CulturaPara.br",
-        "logo": "https://i.imgur.com/5jPEI5c.png",
-        "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "RBATV",
         "id": "RBATV.br",
         "logo": "https://i.imgur.com/ZWFxlU1.png",
@@ -881,16 +861,6 @@
         "id": "SBTInterior.br",
         "logo": "https://i.imgur.com/IkZfa4j.png",
         "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Brasil Oeste",
-        "id": "TVBrasilOeste.br",
-        "logo": "https://i.imgur.com/noqGfuy.png",
-        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1063,6 +1033,16 @@
         "id": "TVSimColatina.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
         "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Cachoeiro",
+        "id": "TVSimCachoeiro.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
         "categories": [
             "news"
         ],

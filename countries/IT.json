@@ -1308,16 +1308,6 @@
         "country": "IT"
     },
     {
-        "name": "Onda TV",
-        "id": "OndaTV.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg",
-        "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Rai Gulp",
         "id": "RaiGulp.it",
         "logo": "https://i.imgur.com/irAhPJM.png",
@@ -1486,16 +1476,6 @@
         "country": "IT"
     },
     {
-        "name": "PREMIUM CALCIO 3",
-        "id": "PREMIUMCALCIO3.it",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/406068",
-        "categories": [
-            "italy"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "PREMIUM CALCIO 2",
         "id": "PREMIUMCALCIO2.it",
         "logo": "",
@@ -1634,6 +1614,16 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
         "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
         "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "TeleSanDomenico",
+        "id": "TeleSanDomenico.it",
+        "logo": "https://i.imgur.com/l52v9uv.png",
+        "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
         "country": "IT"
     }
 ]

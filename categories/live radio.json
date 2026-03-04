@@ -40,16 +40,6 @@
         "country": ""
     },
     {
-        "name": "khpr2",
-        "id": "khpr2",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/87616",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "instrumental",
         "id": "instrumental",
         "logo": "",
@@ -134,26 +124,6 @@
         "id": "wdnyfmprocmp3",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/87698",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "a07058",
-        "id": "a07058",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/87859",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "stream",
-        "id": "stream",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/87863",
         "categories": [
             "live radio"
         ],
@@ -270,16 +240,6 @@
         "country": ""
     },
     {
-        "name": "defcon-64-aac",
-        "id": "defcon64aac",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/88406",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
         "name": "5208_48",
         "id": "520848",
         "logo": "",
@@ -294,16 +254,6 @@
         "id": "live",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/88449",
-        "categories": [
-            "live radio"
-        ],
-        "country": ""
-    },
-    {
-        "name": "2459_128.mp3",
-        "id": "2459128mp3",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/93993",
         "categories": [
             "live radio"
         ],
@@ -444,6 +394,366 @@
         "id": "stream15",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/88429",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "evergreen-aac-128k",
+        "id": "evergreenaac128k",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88358",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "2556_128.mp3?uuid=b85ijfmaq",
+        "id": "2556128mp3uuidb85ijfmaq",
+        "logo": "",
+        "url": "http://nocable.cc:8080/37ccEK/176337/88782",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "stream03",
+        "id": "stream03",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/87487",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KWAM",
+        "id": "kwam",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/87621",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kwpzaacp",
+        "id": "kwpzaacp",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/87628",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "wshu-baroque",
+        "id": "wshubaroque",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/87633",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SLCR_highdef.mp3",
+        "id": "slcrhighdefmp3",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/87892",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KLOQ",
+        "id": "kloq",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88042",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5139_128",
+        "id": "5139128",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88095",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "1296_128?cb=812660.mp3&type=.flv",
+        "id": "1296128cb812660mp3typeflv",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88116",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WCKA",
+        "id": "wcka",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88213",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "cms.mp3",
+        "id": "cmsmp3",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88288",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5181_48",
+        "id": "518148",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88318",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kcmsmp3",
+        "id": "kcmsmp3",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88346",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "lv_wkkcfm1--broadcast1",
+        "id": "lvwkkcfm1broadcast1",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88545",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "folkf",
+        "id": "folkf",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/88783",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "secretagent-128-mp3",
+        "id": "secretagent128mp3",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/93826",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KWOW",
+        "id": "kwow",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/93998",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "100-PROGRESSIVEROCK",
+        "id": "100progressiverock",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94096",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio72",
+        "id": "radio72",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94177",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio54",
+        "id": "radio54",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94244",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio33",
+        "id": "radio33",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94298",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio32",
+        "id": "radio32",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94303",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio20",
+        "id": "radio20",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94323",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio16",
+        "id": "radio16",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94334",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio10",
+        "id": "radio10",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/94358",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WRPW",
+        "id": "wrpw",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/87617",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "WFKY",
+        "id": "wfky",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/87618",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KOMAFMAAC_SC",
+        "id": "komafmaacsc",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/87635",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "5138_128",
+        "id": "5138128",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/93891",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "krcl-high",
+        "id": "krclhigh",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/94124",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio79",
+        "id": "radio79",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/94168",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio77",
+        "id": "radio77",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/94171",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio66",
+        "id": "radio66",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/94204",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio11",
+        "id": "radio11",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/94354",
+        "categories": [
+            "live radio"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Radio6",
+        "id": "radio6",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/94367",
         "categories": [
             "live radio"
         ],

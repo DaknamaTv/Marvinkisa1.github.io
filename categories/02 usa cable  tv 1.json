@@ -1,39 +1,9 @@
 [
     {
-        "name": "GRIT",
-        "id": "grit",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Grit_TV_Network_Logo.png",
-        "url": "http://bgdc.live:25461/derekyarbrough/32684682/10406",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BIZARRE FOODS",
-        "id": "bizarrefoods",
-        "logo": "https://cantseeus.com/wp-content/uploads/2025/11/BIZARRE-FOODS.png",
-        "url": "http://bgdc.live:25461/RobinMichalski/i5vqXcTik5/204140",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "A&E",
         "id": "ae",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png",
         "url": "http://bgdc.live:25461/edward2024/6207676/10357",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ABC EAST",
-        "id": "abceast",
-        "logo": "https://cantseeus.com/wp-content/uploads/2025/08/directv-newyorkabcwabc.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10358",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -50,40 +20,10 @@
         "country": ""
     },
     {
-        "name": "AHC American Hero",
-        "id": "ahcamericanhero",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/American_Heroes_Channel.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10370",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "AXS TV",
         "id": "axstv",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/AXS_TV_2012.png",
         "url": "http://bgdc.live:25461/edward2024/6207676/10371",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BRAVO",
-        "id": "bravo",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10373",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Cooking Channel",
-        "id": "cookingchannel",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Cooking_Channel.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10381",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -150,16 +90,6 @@
         "country": ""
     },
     {
-        "name": "OVATION",
-        "id": "ovation",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Ovation.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10436",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "OXYGEN TRUE CRIMES",
         "id": "oxygentruecrimes",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Oxygen_2017.png",
@@ -174,16 +104,6 @@
         "id": "smithsonianchannel",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Smithsonian.png",
         "url": "http://bgdc.live:25461/edward2024/6207676/10442",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "START TV",
-        "id": "starttv",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/start1.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10443",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -210,80 +130,10 @@
         "country": ""
     },
     {
-        "name": "FREEFORM",
-        "id": "freeform",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Freeform_2018.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10398",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CMT HD",
-        "id": "cmthd",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/cmttrans.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10377",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "UP TV",
-        "id": "uptv",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/uptv-2021.png",
-        "url": "http://bgdc.live:25461/edward2024/6207676/10455",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DESTINATION AMERICA",
-        "id": "destinationamerica",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Destination_America_2015.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/10386",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "INSP",
         "id": "insp",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/insp.png",
         "url": "http://bgdc.live:25461/garretth2024/6065452377/10418",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "VH1",
-        "id": "vh1",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/VH1_2013.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/10457",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "W Network",
-        "id": "wnetwork",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/W_Network.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/10459",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MAGNOLIA NETWORK",
-        "id": "magnolianetwork",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/DIY_Network.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/10390",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -330,26 +180,6 @@
         "country": ""
     },
     {
-        "name": "GAC FAMILY",
-        "id": "gacfamily",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/GAC_2015.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/50076",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "FETV",
-        "id": "fetv",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/FETV2021.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/10392",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "PARAMOUNT",
         "id": "paramount",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Paramount_Network.png",
@@ -360,50 +190,10 @@
         "country": ""
     },
     {
-        "name": "BET JAMS",
-        "id": "betjams",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/BET_Jams.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/40760",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BET SOUL",
-        "id": "betsoul",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/betsoul1.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/40761",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PIXL",
-        "id": "pixl",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Pixl.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/48054",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "CW",
         "id": "cw",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/The_CW.png",
         "url": "http://bgdc.live:25461/garretth2024/6065452377/48476",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "SCIENCE FICTION TV",
-        "id": "sciencefictiontv",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/CTV_SciFi_Channel_Primary_Logo_Print_Reverse.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/16268",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -430,60 +220,10 @@
         "country": ""
     },
     {
-        "name": "ABC WEST",
-        "id": "abcwest",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Abc_2013_logo_dark_grey.png",
-        "url": "http://bgdc.live:25461/garretth2024/6065452377/10359",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LIFETIME NETWORK",
-        "id": "lifetimenetwork",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Lifetime_2020.png",
-        "url": "http://bgdc.live:25461/MelissaDaugherty/LJxENP7N97/10422",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MOTOR TREND",
-        "id": "motortrend",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Motor_Trend.png",
-        "url": "http://bgdc.live:25461/MelissaDaugherty/LJxENP7N97/10424",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "MTV 2",
         "id": "mtv2",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/MTV2_2013.png",
         "url": "http://bgdc.live:25461/MelissaDaugherty/LJxENP7N97/10427",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Catchy Comedy",
-        "id": "catchycomedy",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/decades-1.png",
-        "url": "http://bgdc.live:25461/MelissaDaugherty/LJxENP7N97/22435",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "TCM WEST",
-        "id": "tcmwest",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Turner_Classic_Movies_2009.png",
-        "url": "http://bgdc.live:25461/MelissaDaugherty/LJxENP7N97/208407",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -500,46 +240,6 @@
         "country": ""
     },
     {
-        "name": "FUSE",
-        "id": "fuse",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Fuse_Orange_logo.png",
-        "url": "http://bgdc.live:25461/lewisthompson/74852822/10399",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HALLMARK FAMILY",
-        "id": "hallmarkfamily",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/halldrama.png",
-        "url": "http://bgdc.live:25461/lewisthompson/74852822/10408",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "LIFETIME MOVIE NETWORK",
-        "id": "lifetimemovienetwork",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Lifetime_Movie_Network_2019.png",
-        "url": "http://bgdc.live:25461/lewisthompson/74852822/10421",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CBS EAST",
-        "id": "cbseast",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/CBS.png",
-        "url": "http://bgdc.live:25461/lewisthompson/74852822/10374",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "ANTENNA TV",
         "id": "antennatv",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Antenna_TV_logo.png",
@@ -550,40 +250,10 @@
         "country": ""
     },
     {
-        "name": "SHOWCASE",
-        "id": "showcase",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png",
-        "url": "http://bgdc.live:25461/lewisthompson/74852822/46107",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HALLMARK CHANNEL",
-        "id": "hallmarkchannel",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Channel.png",
-        "url": "http://bgdc.live:25461/benjaminhampton/2285478/10407",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "LAFF TV",
         "id": "lafftv",
         "logo": "https://cantseeus.com/wp-content/uploads/2023/10/LAFF_28You_Know_You_Want_To29.png",
         "url": "http://bgdc.live:25461/benjaminhampton/2285478/10420",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HLN HEAD LINE NEWS",
-        "id": "hlnheadlinenews",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/HLN_2017.png",
-        "url": "http://bgdc.live:25461/benjaminhampton/2285478/10415",
         "categories": [
             "02. usa cable  tv #1"
         ],
@@ -660,50 +330,10 @@
         "country": ""
     },
     {
-        "name": "FMC FAMILY MOVIE CLASSICS",
-        "id": "fmcfamilymovieclassics",
-        "logo": "",
-        "url": "http://bgdc.live:25461/dajuan/mcbeth/204412",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BOUNCE TV XL",
-        "id": "bouncetvxl",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/208405",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
         "name": "FilmRise Comedy",
         "id": "filmrisecomedy",
         "logo": "https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png",
         "url": "http://bgdc.live:25461/Samanthac3959/3959/199001",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "True Crmz",
-        "id": "truecrmz",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/Justice_Network_Logo_2019.png",
-        "url": "http://bgdc.live:25461/Samanthac3959/3959/10382",
-        "categories": [
-            "02. usa cable  tv #1"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BET+Tyler Perry Drama",
-        "id": "bettylerperrydrama",
-        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/BET_28201029.png",
-        "url": "http://bgdc.live:25461/Samanthac3959/3959/61025",
         "categories": [
             "02. usa cable  tv #1"
         ],

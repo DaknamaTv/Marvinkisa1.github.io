@@ -30,16 +30,6 @@
         "country": ""
     },
     {
-        "name": "SUR | CDF BASICO",
-        "id": "surcdfbasico",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CDF_Logo.svg/1200px-CDF_Logo.svg.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/300329",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
         "name": "SUR | MEGA",
         "id": "surmega",
         "logo": "https://anthoncode.com/wp-content/uploads/2020/07/logo-mega-nz.png",
@@ -70,16 +60,6 @@
         "country": ""
     },
     {
-        "name": "03 | FOX SPORTS 2 HD",
-        "id": "03foxsports2hd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/300301",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
         "name": "25 | CINE CANAL ®",
         "id": "25cinecanal",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",
@@ -100,70 +80,10 @@
         "country": ""
     },
     {
-        "name": "chil: Radio Fiessta",
-        "id": "chilradiofiessta",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/293428",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
-        "name": "chil: UCV 2",
-        "id": "chilucv2",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/293423",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
         "name": "chil:  VClassicTV",
         "id": "chilvclassictv",
         "logo": "",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/293395",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
-        "name": "CL: Mega FHD",
-        "id": "clmegafhd",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/287984",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
-        "name": "chil: Radio Rancagua FM",
-        "id": "chilradiorancaguafm",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/287555",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
-        "name": "chil: Puncón TV",
-        "id": "chilpuncntv",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/287530",
-        "categories": [
-            "chile"
-        ],
-        "country": ""
-    },
-    {
-        "name": "chil: ATV",
-        "id": "chilatv",
-        "logo": "",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/287518",
         "categories": [
             "chile"
         ],

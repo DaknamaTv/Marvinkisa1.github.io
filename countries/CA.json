@@ -740,16 +740,6 @@
         "country": "CA"
     },
     {
-        "name": "TV Punjab",
-        "id": "TVPunjab.ca",
-        "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=FKWvIiyQPz8",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "5AAB TV",
         "id": "5AABTV.ca",
         "logo": "https://i.imgur.com/jrGrfof.png",
@@ -774,6 +764,16 @@
         "url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Kidoodle.TV",
+        "id": "KidoodleTV.ca",
+        "logo": "https://i.imgur.com/MaFtbM5.png",
+        "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "kids"
         ],
         "country": "CA"
     }

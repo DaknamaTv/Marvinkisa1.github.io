@@ -108,5 +108,35 @@
             "india"
         ],
         "country": ""
+    },
+    {
+        "name": "US (Punjabi) JUS One (S)",
+        "id": "uspunjabijusones",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/125801",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian (Hindi) Times Now (S)",
+        "id": "usasianhinditimesnows",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/125817",
+        "categories": [
+            "india"
+        ],
+        "country": ""
+    },
+    {
+        "name": "US Asian Kairali News (Malayalam) (S)",
+        "id": "usasiankairalinewsmalayalams",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/125828",
+        "categories": [
+            "india"
+        ],
+        "country": ""
     }
 ]

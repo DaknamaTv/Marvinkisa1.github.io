@@ -60,16 +60,6 @@
         "country": ""
     },
     {
-        "name": "[BR] Rede Familia FHD",
-        "id": "brredefamiliafhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86368",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
         "name": "[BR] TC Premium SD",
         "id": "brtcpremiumsd",
         "logo": "",
@@ -100,90 +90,10 @@
         "country": ""
     },
     {
-        "name": "[BR] TV Gazeta Sul SD",
-        "id": "brtvgazetasulsd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86195",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] TV Ra Tim Bum SD",
-        "id": "brtvratimbumsd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86198",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
         "name": "[BR] TV Santa Cruz SD",
         "id": "brtvsantacruzsd",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86201",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] TVE RS FHD",
-        "id": "brtversfhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86462",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] Warner Channel HD",
-        "id": "brwarnerchannelhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86215",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] 24h Capitão Planeta",
-        "id": "br24hcapitoplaneta",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86521",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] 24h Super Choque",
-        "id": "br24hsuperchoque",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86644",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] HBO Xtreme DUAL FHD",
-        "id": "brhboxtremedualfhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/92501",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] Globo RPC Curitiba",
-        "id": "brgloborpccuritiba",
-        "logo": "http://play.xsmp.xyz/logos/tvglobo.png",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/85943",
         "categories": [
             "brasil"
         ],
@@ -204,36 +114,6 @@
         "id": "brglobointertvdosvales",
         "logo": "http://play.xsmp.xyz/logos/tvglobo.png",
         "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/86020",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] Record BA",
-        "id": "brrecordba",
-        "logo": "http://play.xsmp.xyz/logos/recordtv.png",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/86092",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] SporTV 3 FHD",
-        "id": "brsportv3fhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/86134",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] TC Touch FHD",
-        "id": "brtctouchfhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/86164",
         "categories": [
             "brasil"
         ],
@@ -290,16 +170,6 @@
         "country": ""
     },
     {
-        "name": "[BR] AXN",
-        "id": "braxn",
-        "logo": "http://play.xsmp.xyz/logos/axn.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/85770",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
         "name": "[BR] Globo NSC Florianopolis",
         "id": "brglobonscflorianopolis",
         "logo": "http://play.xsmp.xyz/logos/tvglobo.png",
@@ -334,16 +204,6 @@
         "id": "brsportvfhd",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86137",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] TBS FHD",
-        "id": "brtbsfhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86146",
         "categories": [
             "brasil"
         ],
@@ -400,30 +260,10 @@
         "country": ""
     },
     {
-        "name": "[BR] 24h Timão e Pumba",
-        "id": "br24htimoepumba",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/86649",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
         "name": "[BR] TV Tem Bauru FHD",
         "id": "brtvtembaurufhd",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/92482",
-        "categories": [
-            "brasil"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[BR] SBT SD²",
-        "id": "brsbtsd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/92511",
         "categories": [
             "brasil"
         ],

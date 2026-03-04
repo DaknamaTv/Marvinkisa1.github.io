@@ -730,50 +730,10 @@
         "country": ""
     },
     {
-        "name": "[CA-FR] RDS 2",
-        "id": "cafrrds2",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/14010",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA-FR] SUPER ECRAN 2",
-        "id": "cafrsuperecran2",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/14014",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "[CA] CBC CALGARY | SD",
         "id": "cacbccalgarysd",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/Pedrrrrr/Qv3XvzWn8C4N/14103",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] : CBC CHARLOTTETOWN",
-        "id": "cacbccharlottetown",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/13909",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] DISCOVERY SCIENCE | HD",
-        "id": "cadiscoverysciencehd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/14050",
         "categories": [
             "canada"
         ],
@@ -1010,60 +970,10 @@
         "country": ""
     },
     {
-        "name": "[CA] : CITY TV TORONTO",
-        "id": "cacitytvtoronto",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/13924",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] VISION TV | SD",
-        "id": "cavisiontvsd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/14049",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "[CA] : BNN BLOOMBERG",
         "id": "cabnnbloomberg",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/13903",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] : CBC REGINA",
-        "id": "cacbcregina",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/13915",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] : CBC VANCOUVER",
-        "id": "cacbcvancouver",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/13916",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] : CBS",
-        "id": "cacbs",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/13920",
         "categories": [
             "canada"
         ],
@@ -1080,30 +990,10 @@
         "country": ""
     },
     {
-        "name": "[CA] : FX",
-        "id": "cafx",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/13953",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
         "name": "[CA] : TSN 3",
         "id": "catsn3",
         "logo": "",
         "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/13987",
-        "categories": [
-            "canada"
-        ],
-        "country": ""
-    },
-    {
-        "name": "[CA] CNN INTERNATIONAL | HD",
-        "id": "cacnninternationalhd",
-        "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/14086",
         "categories": [
             "canada"
         ],
@@ -1120,10 +1010,60 @@
         "country": ""
     },
     {
-        "name": "[CA] BBC CANADA | SD",
-        "id": "cabbccanadasd",
+        "name": "CA: CRAVE 1 HD",
+        "id": "cacrave1hd",
         "logo": "",
-        "url": "http://bragatv.livrexs.xyz:80/MrxXFvMsE3/2E5dMmBcJG/14108",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/57309",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Edmonton News (E)",
+        "id": "caglobaledmontonnewse",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/58724",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global News Calgary (D)",
+        "id": "caglobalnewscalgaryd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/111067",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA Global Maritimes HD",
+        "id": "caglobalmaritimeshd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/ahx4CN/815233/171954",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: CP24 FHD",
+        "id": "cacp24fhd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/47218",
+        "categories": [
+            "canada"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CA: Showcase HD",
+        "id": "cashowcasehd",
+        "logo": "",
+        "url": "http://1tv41.icu:8080/5ZCJFs/416986/47366",
         "categories": [
             "canada"
         ],
