@@ -100,6 +100,16 @@
         "country": "IR"
     },
     {
+        "name": "RasoulallahTv",
+        "id": "RasoulallahTv.ir",
+        "logo": "https://i.imgur.com/Jh5ADee.png",
+        "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IR"
+    },
+    {
         "name": "Ando TV",
         "id": "AndoTV.cn",
         "logo": "https://i.imgur.com/EpTsFVu.png",
@@ -194,6 +204,16 @@
         "id": "ExtremaTV.cr",
         "logo": "https://i.imgur.com/E9AuhOU.png",
         "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "San Jose TV",
+        "id": "SanJoseTV.cr",
+        "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -346,6 +366,16 @@
         "id": "IAmChannel.id",
         "logo": "https://i.imgur.com/Gg6OcGT.png",
         "url": "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -701,6 +731,16 @@
         "id": "WWXYDT3.pr",
         "logo": "https://i.imgur.com/lAhIGsI.png",
         "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PR"
+    },
+    {
+        "name": "Triunfo 96.9 FM",
+        "id": "Triunfo969FM.pr",
+        "logo": "https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png",
+        "url": "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -1208,16 +1248,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Bhakti",
-        "id": "ZBBhakti.in",
-        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
-        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Hebron TV",
         "id": "HebronTV.in",
         "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
@@ -1668,16 +1698,6 @@
         "country": "SI"
     },
     {
-        "name": "CNA",
-        "id": "CNA.dz",
-        "logo": "https://i.imgur.com/Ki3ySUE.png",
-        "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "DZ"
-    },
-    {
         "name": "Light Channel",
         "id": "LightChannel.bg",
         "logo": "https://i.imgur.com/S3Fbf8T.png",
@@ -1909,6 +1929,16 @@
         "country": "PA"
     },
     {
+        "name": "Radio Hogar",
+        "id": "RadioHogar.pa",
+        "logo": "https://i.imgur.com/P4A1Zwl.jpg",
+        "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PA"
+    },
+    {
         "name": "Guadalupe Media",
         "id": "GuadalupeMedia.bz",
         "logo": "https://i.imgur.com/EfaOwRE.png",
@@ -2109,30 +2139,10 @@
         "country": "HT"
     },
     {
-        "name": "Radio Tele Full Gospel",
-        "id": "RadioTeleFullGospel.ht",
-        "logo": "https://i.imgur.com/WbwIp9y.jpeg",
-        "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "HT"
-    },
-    {
         "name": "IeanJesus Ecuador",
         "id": "IeanJesusEcuador.ec",
         "logo": "https://i.imgur.com/TyckDSV.png",
         "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "TV Universal Ecuador",
-        "id": "TVUniversalEcuador.ec",
-        "logo": "https://i.imgur.com/TIsk5zN.png",
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -2193,16 +2203,6 @@
         "id": "BeitolAbbasTVChannel.iq",
         "logo": "https://i.imgur.com/s8PfUQy.png",
         "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Marjaeyat TV English",
-        "id": "MarjaeyatTVEnglish.iq",
-        "logo": "https://i.imgur.com/Dvf61Jp.png",
-        "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2364,6 +2364,16 @@
         "id": "LoveWorldUK.ng",
         "logo": "https://i.imgur.com/JgHbDmF.png",
         "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "NG"
+    },
+    {
+        "name": "Africa TV3",
+        "id": "AfricaTV3.ng",
+        "logo": "https://i.imgur.com/iibE9WL.png",
+        "url": "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2614,16 +2624,6 @@
         "id": "IBNTV.tz",
         "logo": "https://i.imgur.com/hkV51ij.png",
         "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "TZ"
-    },
-    {
-        "name": "IBN TV Africa",
-        "id": "IBNTVAfrica.tz",
-        "logo": "https://i.imgur.com/eKy2ocd.png",
-        "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -2983,6 +2983,16 @@
         "country": "CD"
     },
     {
+        "name": "Compassion TV",
+        "id": "CompassionTV.cd",
+        "logo": "https://i.imgur.com/lfoUsyR.jpeg",
+        "url": "https://tnt-television.com/COMPASSION_FM/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "TV Leon de Juda",
         "id": "TVLeondeJuda.sv",
         "logo": "https://i.imgur.com/ZUCppwi.png",
@@ -3047,26 +3057,6 @@
         "id": "TVCRET.sv",
         "logo": "https://i.imgur.com/ChonoKb.png",
         "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "JFV TV",
-        "id": "JFVTV.sv",
-        "logo": "https://i.imgur.com/SrmI6nU.jpeg",
-        "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
-        "name": "TVCa",
-        "id": "TVCa.sv",
-        "logo": "https://i.imgur.com/uPWWtCA.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4382,16 +4372,6 @@
         "country": "US"
     },
     {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Hope Channel International",
         "id": "HopeChannelInternational.us",
         "logo": "https://i.imgur.com/PNihgl2.png",
@@ -4416,6 +4396,16 @@
         "id": "OCNTV.us",
         "logo": "https://i.imgur.com/iSB5Obl.png",
         "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Radio Tele Sentinel",
+        "id": "RadioTeleSentinel.us",
+        "logo": "https://i.imgur.com/hy3BJxj.png",
+        "url": "https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4506,6 +4496,16 @@
         "id": "TVManaArgentina.ar",
         "logo": "https://i.imgur.com/jars0mP.png",
         "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
         "categories": [
             "religious"
         ],

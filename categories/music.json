@@ -60,6 +60,16 @@
         "country": "SN"
     },
     {
+        "name": "A2i Music",
+        "id": "A2iMusic.sn",
+        "logo": "https://i.imgur.com/Fykhzxh.jpg",
+        "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "Med Muzik",
         "id": "MedMuzik.tr",
         "logo": "https://i.imgur.com/gtUFmCD.png",
@@ -200,16 +210,6 @@
         "country": "CR"
     },
     {
-        "name": "Canal 3 KMK TV",
-        "id": "Canal3KMKTV.cr",
-        "logo": "https://i.imgur.com/sgRDRBK.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Gex TV",
         "id": "GexTV.cr",
         "logo": "https://gextv.com/LOGO-WHITE.png",
@@ -337,6 +337,16 @@
         "id": "ElRadio9090FM.eg",
         "logo": "https://www.9090.fm/images/logo.png",
         "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EG"
+    },
+    {
+        "name": "NogoumFMTV",
+        "id": "NogoumFMTV.eg",
+        "logo": "https://i.imgur.com/krp3kgv.png",
+        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
         "categories": [
             "music"
         ],
@@ -679,6 +689,16 @@
         "id": "Zhara.ru",
         "logo": "https://i.imgur.com/41K9Y2s.png",
         "url": "http://31.148.48.15/Zhara/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1031,26 +1051,6 @@
         "id": "VijayTakkar.in",
         "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
         "url": "http://111.88.78.21:8000/play/a0xx/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Isai Aruvi",
-        "id": "IsaiAruvi.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143212_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0wn/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Max Music",
-        "id": "MaxMusic.in",
-        "logo": "https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg",
-        "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1730,6 +1730,26 @@
         "country": "PA"
     },
     {
+        "name": "Fabulosa Estereo 100.5 FM",
+        "id": "FabulosaEstereo1005FM.pa",
+        "logo": "https://i.imgur.com/YFmzkOp.png",
+        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Flex Studio Radio TV",
+        "id": "FlexStudioRadioTV.bz",
+        "logo": "https://i.imgur.com/tZjqtxd.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BZ"
+    },
+    {
         "name": "Melody",
         "id": "Melody.fr",
         "logo": "https://i.imgur.com/9GVyQ6x.png",
@@ -1861,16 +1881,6 @@
         "country": "CI"
     },
     {
-        "name": "Radio Tele Hit",
-        "id": "RadioTeleHit.ht",
-        "logo": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
-        "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "HT"
-    },
-    {
         "name": "Radio Bonita 106.7",
         "id": "RadioBonita1067.ec",
         "logo": "https://i.imgur.com/IvZtqyz.png",
@@ -1965,16 +1975,6 @@
         "id": "FMMundo.ec",
         "logo": "https://i.imgur.com/1nNnYQO.png",
         "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Vos y TV",
-        "id": "VosyTV.ec",
-        "logo": "https://i.imgur.com/294FDCB.png",
-        "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
         "categories": [
             "music"
         ],
@@ -2362,16 +2362,6 @@
         "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
         "categories": [
             "movies",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Dismar Radio TV",
-        "id": "DismarRadioTV.py",
-        "logo": "https://i.imgur.com/KOuxdMD.png",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-        "categories": [
             "music"
         ],
         "country": "PY"
@@ -2788,26 +2778,6 @@
         "country": "LB"
     },
     {
-        "name": "OneFM",
-        "id": "OneFM.lb",
-        "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
-        "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "One TV",
-        "id": "OneTV.lb",
-        "logo": "https://i.imgur.com/O4DuR9G.png",
-        "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "Mosaique FM",
         "id": "MosaiqueFM.tn",
         "logo": "https://i.imgur.com/GDUykah.png",
@@ -3119,16 +3089,6 @@
             "music"
         ],
         "country": "PH"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "Couleur 3",
@@ -3720,30 +3680,10 @@
         "country": "MK"
     },
     {
-        "name": "Love TV",
-        "id": "LoveTV.mk",
-        "logo": "https://i.imgur.com/B8iaejQ.png",
-        "url": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "MK"
-    },
-    {
         "name": "Rock TV",
         "id": "RockTV.mk",
         "logo": "https://i.imgur.com/Y9miDQo.png",
         "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "MK"
-    },
-    {
-        "name": "Folk TV",
-        "id": "FolkTV.mk",
-        "logo": "https://i.imgur.com/4b9aZ9P.png",
-        "url": "https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8",
         "categories": [
             "music"
         ],

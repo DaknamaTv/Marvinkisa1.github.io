@@ -330,17 +330,6 @@
         "country": ""
     },
     {
-        "name": "M4: Superhero",
-        "id": "m4superhero",
-        "logo": "",
-        "url": "http://mytvstream.net:8080/RKu2Hy/559290/215325",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "M4: Zoe Saldana",
         "id": "m4zoesaldana",
         "logo": "",
@@ -440,17 +429,6 @@
         "country": ""
     },
     {
-        "name": "M4: Hangover",
-        "id": "m4hangover",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/215290",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "M4: Toy Story",
         "id": "m4toystory",
         "logo": "",
@@ -466,28 +444,6 @@
         "id": "m4mattdamon",
         "logo": "",
         "url": "http://nocable.cc:8080/37ccEK/176337/215364",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Sigourney Weaver",
-        "id": "m4sigourneyweaver",
-        "logo": "",
-        "url": "http://nocable.cc:8080/37ccEK/176337/215432",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DOCUBOX: REAL WILD",
-        "id": "docuboxrealwild",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/119451",
         "categories": [
             "24",
             "7 channels"
@@ -517,43 +473,10 @@
         "country": ""
     },
     {
-        "name": "24/7 THE GOLDEN GIRLS",
-        "id": "247thegoldengirls",
-        "logo": "",
-        "url": "http://fortv.cc:8080/Archie100/MrArchie/120948",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 DUCK TALES",
         "id": "247ducktales",
         "logo": "",
         "url": "http://1tv41.icu:8080/5ZCJFs/416986/125636",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 THE SOPRANOS",
-        "id": "247thesopranos",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/125971",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Action",
-        "id": "m4action",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/215269",
         "categories": [
             "24",
             "7 channels"
@@ -583,98 +506,10 @@
         "country": ""
     },
     {
-        "name": "M4: Brad Pitt",
-        "id": "m4bradpitt",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/215391",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "M4: Jennifer Aniston",
         "id": "m4jenniferaniston",
         "logo": "",
         "url": "http://1tv41.icu:8080/5ZCJFs/416986/215425",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Melissa McCarthy",
-        "id": "m4melissamccarthy",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/215429",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Penope Cruz",
-        "id": "m4penopecruz",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/5ZCJFs/416986/215431",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Game Of Thrones",
-        "id": "gameofthrones",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/66318",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Animation",
-        "id": "m4animation",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215272",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Blade Runner",
-        "id": "m4bladerunner",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215277",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Creature",
-        "id": "m4creature",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215279",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Mad Max",
-        "id": "m4madmax",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215301",
         "categories": [
             "24",
             "7 channels"
@@ -693,65 +528,10 @@
         "country": ""
     },
     {
-        "name": "M4: Tom Cruise",
-        "id": "m4tomcruise",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215370",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Meryl Streep",
-        "id": "m4merylstreep",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215410",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Natalie Portman",
-        "id": "m4natalieportman",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215412",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Drew Barrymore",
-        "id": "m4drewbarrymore",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215423",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
         "name": "M4: Eva Green",
         "id": "m4evagreen",
         "logo": "",
         "url": "http://1tv41.icu:8080/ahx4CN/815233/215424",
-        "categories": [
-            "24",
-            "7 channels"
-        ],
-        "country": ""
-    },
-    {
-        "name": "M4: Lucy Liu",
-        "id": "m4lucyliu",
-        "logo": "",
-        "url": "http://1tv41.icu:8080/ahx4CN/815233/215427",
         "categories": [
             "24",
             "7 channels"

@@ -254,16 +254,6 @@
         "country": "CR"
     },
     {
-        "name": "Canal 3 KMK TV",
-        "id": "Canal3KMKTV.cr",
-        "logo": "https://i.imgur.com/sgRDRBK.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Limon TV",
         "id": "LimonTV.cr",
         "logo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
@@ -381,6 +371,16 @@
         "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "San Jose TV",
+        "id": "SanJoseTV.cr",
+        "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+        "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "CR"
     }

@@ -280,30 +280,10 @@
         "country": ""
     },
     {
-        "name": "USA |PA| ABC 16 WNEP Scranton",
-        "id": "usapaabc16wnepscranton",
-        "logo": "",
-        "url": "http://bgdc.live:25461/dajuan/mcbeth/190013",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA |TN| CBS 5 WTVF Nashville",
         "id": "usatncbs5wtvfnashville",
         "logo": "",
         "url": "http://bgdc.live:25461/dajuan/mcbeth/190116",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |TX| NBC 9 KWES Midland",
-        "id": "usatxnbc9kwesmidland",
-        "logo": "",
-        "url": "http://bgdc.live:25461/dajuan/mcbeth/190166",
         "categories": [
             "18. locals -abc, cbs, nbc, fox"
         ],
@@ -330,16 +310,6 @@
         "country": ""
     },
     {
-        "name": "USA |MS| FOX WDBD Jackson",
-        "id": "usamsfoxwdbdjackson",
-        "logo": "",
-        "url": "http://bgdc.live:25461/johnnyyoung/625684654/189865",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA |NY| CBS WCBS New York",
         "id": "usanycbswcbsnewyork",
         "logo": "",
@@ -350,60 +320,10 @@
         "country": ""
     },
     {
-        "name": "USA |AL| CBS 19 WHNT Huntsville",
-        "id": "usaalcbs19whnthuntsville",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189524",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |AR| CBS KTHV Little Rock",
-        "id": "usaarcbskthvlittlerock",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189543",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
         "name": "USA |CA| ABC KSAT San Antonio",
         "id": "usacaabcksatsanantonio",
         "logo": "",
         "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189567",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |GA| CBS 13 WMAZ Macon",
-        "id": "usagacbs13wmazmacon",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189670",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |GA| NBC WAGT Augusta",
-        "id": "usaganbcwagtaugusta",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189684",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |KS| NBC KSNT Topeka",
-        "id": "usaksnbcksnttopeka",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189752",
         "categories": [
             "18. locals -abc, cbs, nbc, fox"
         ],
@@ -424,36 +344,6 @@
         "id": "usalanbc33wvlabatonrouge",
         "logo": "",
         "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189783",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |MA| FOX WFXT Boston",
-        "id": "usamafoxwfxtboston",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189792",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |NC| NBC WRAL Raleigh",
-        "id": "usancnbcwralraleigh",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/189908",
-        "categories": [
-            "18. locals -abc, cbs, nbc, fox"
-        ],
-        "country": ""
-    },
-    {
-        "name": "USA |SC| NBC WYFF Greenville",
-        "id": "usascnbcwyffgreenville",
-        "logo": "",
-        "url": "http://bgdc.live:25461/BobLorch/7N4BuuqSPK/190106",
         "categories": [
             "18. locals -abc, cbs, nbc, fox"
         ],

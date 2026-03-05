@@ -1170,16 +1170,6 @@
         "country": ""
     },
     {
-        "name": "B4u Music",
-        "id": "4uusic",
-        "logo": "",
-        "url": "http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts",
-        "categories": [
-            "bd"
-        ],
-        "country": "Unknown"
-    },
-    {
         "name": "30AMusic",
         "id": "30amusic",
         "logo": "",
@@ -1810,16 +1800,6 @@
         "country": ""
     },
     {
-        "name": "Animal Planet HD",
-        "id": "animalplanethd",
-        "logo": "",
-        "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "DBC",
         "id": "dbc",
         "logo": "",
@@ -2090,30 +2070,10 @@
         "country": ""
     },
     {
-        "name": "channel s",
-        "id": "channels",
-        "logo": "https://tvassets.roarzone.info/images/channel-s.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8?token=bb7ed26c53665af550ec460742a3771038be89f2-b622f36626df6be0da8128751fd984f0-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "somoy tv",
         "id": "somoytv",
         "logo": "https://tvassets.roarzone.info/images/17.png",
         "url": "https://edge2.roarzone.info:8447/roarzone/edge3/somoy-tv/index.m3u8?token=4454ad0e26f8da141edcadbf53329d141f87a579-c818f4261b37f9d11b8284ad68ea040d-1771958651-1771955051",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "asian tv",
-        "id": "asiantv",
-        "logo": "https://tvassets.roarzone.info/images/62.png",
-        "url": "https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8?token=1ecffadcf1d59340ff7dc944e7eaa93c7e4904f9-c240b02905504a1cf6695c9a65d02eff-1771958651-1771955051",
         "categories": [
             "bd"
         ],
@@ -2480,30 +2440,20 @@
         "country": ""
     },
     {
-        "name": "ZB Cinema",
-        "id": "zbcinema",
-        "logo": "",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
-        "name": "ARY Digital",
-        "id": "arydigital",
-        "logo": "",
-        "url": "https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v1a1/mono.ts.m3u8",
-        "categories": [
-            "bd"
-        ],
-        "country": ""
-    },
-    {
         "name": "Azan TV",
         "id": "azantv",
         "logo": "",
         "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+        "categories": [
+            "bd"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Deshe Bideshe",
+        "id": "deshebideshe",
+        "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
+        "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
         "categories": [
             "bd"
         ],

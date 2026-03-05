@@ -8744,16 +8744,6 @@
         "country": "US"
     },
     {
-        "name": "KVEA-DT1",
-        "id": "KVEADT1.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",
-        "url": "http://104.238.205.28:9090/278661_.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Latino Channel TV",
         "id": "LatinoChannelTV.us",
         "logo": "https://i.imgur.com/FcLIOGp.png",
@@ -9505,16 +9495,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WTTW-DT1",
         "id": "WTTWDT1.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg",
@@ -9549,16 +9529,6 @@
         "country": "US"
     },
     {
-        "name": "Little Guyana TV",
-        "id": "LittleGuyanaTV.us",
-        "logo": "https://i.imgur.com/b475xOT.jpg",
-        "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "WSOC Now",
         "id": "WSOCNow.us",
         "logo": "https://i.imgur.com/tUb1mdc.png",
@@ -9585,16 +9555,6 @@
         "url": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
         "categories": [
             "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "JBS",
-        "id": "JBS.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj",
-        "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-        "categories": [
-            "religious"
         ],
         "country": "US"
     },
@@ -10023,6 +9983,16 @@
         "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
         "categories": [
             "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Radio Tele Sentinel",
+        "id": "RadioTeleSentinel.us",
+        "logo": "https://i.imgur.com/hy3BJxj.png",
+        "url": "https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "US"
     }

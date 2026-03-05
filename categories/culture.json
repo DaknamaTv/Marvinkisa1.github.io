@@ -1,15 +1,5 @@
 [
     {
-        "name": "2STV",
-        "id": "2STV.sn",
-        "logo": "https://i.imgur.com/WByVBZf.png",
-        "url": "http://69.64.57.208/2stv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "Natural TV",
         "id": "NaturalTV.tr",
         "logo": "https://i.imgur.com/rfcJ674.png",
@@ -206,17 +196,6 @@
         "id": "JayaPlus.in",
         "logo": "https://dtil.tmsimg.com/assets/s143227_ld_h15_aa.png?lock=720x540",
         "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
-        "categories": [
-            "culture",
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Jaya Max",
-        "id": "JayaMax.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
-        "url": "http://111.88.78.21:8000/play/a0wk/index.m3u8",
         "categories": [
             "culture",
             "entertainment"
@@ -563,6 +542,16 @@
         "country": "PE"
     },
     {
+        "name": "AsiriTV",
+        "id": "AsiriTV.pe",
+        "logo": "https://i.imgur.com/7bGVFBa.png",
+        "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "UCL",
         "id": "UCL.uy",
         "logo": "https://i.imgur.com/BzQphbw.png",
@@ -849,6 +838,16 @@
             "culture"
         ],
         "country": "MM"
+    },
+    {
+        "name": "JOS TV HD",
+        "id": "JOSTVHD.cg",
+        "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
+        "url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CG"
     },
     {
         "name": "AlternaTV",

@@ -851,41 +851,10 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Max Movies",
-        "id": "MaxMovies.in",
-        "logo": "https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg",
-        "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Movies Now +",
         "id": "MoviesNowPlus.in",
         "logo": "https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=720x540",
         "url": "http://116.90.120.128:8000/play/a0i4/index.m3u88",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Roja Movies",
-        "id": "RojaMovies.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",
-        "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -1164,16 +1133,6 @@
             "music"
         ],
         "country": "PY"
-    },
-    {
-        "name": "Rai Movie",
-        "id": "RaiMovie.it",
-        "logo": "https://i.imgur.com/0FjxXU9.png",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
-        "categories": [
-            "movies"
-        ],
-        "country": "IT"
     },
     {
         "name": "Grjngo Western Movies",

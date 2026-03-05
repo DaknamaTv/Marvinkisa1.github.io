@@ -1,25 +1,5 @@
 [
     {
-        "name": "X Games TV",
-        "id": "xgamestv",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/0128b5f756acf1e1c488509fd76b0a61/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758735344999_X_Games_TV_260x147_White.png",
-        "url": "https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Super Mario Brothers",
-        "id": "supermariobrothers",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3c405bfca9b525983054aa761b10dfb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694472710975_SuperMarioBrothers_HUDlogo_260x147.png",
-        "url": "https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8",
-        "categories": [
-            "roku-all"
-        ],
-        "country": ""
-    },
-    {
         "name": "Chaos on Cam by A&E",
         "id": "chaosoncambyae",
         "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/99e44ea6699928b32c444dce774b9b32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1751556977789_Chaos_On_Cam_by_AE_HUD_logo__efefef_center_aligned_260x147.png",
@@ -30,10 +10,80 @@
         "country": ""
     },
     {
-        "name": "FreeTV Acción",
-        "id": "freetvaccin",
-        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/9fc6583c28985e15b3f05b46f5d77957/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1710282473878_FREETV_Accion_260x147.png",
-        "url": "https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8",
+        "name": "Tennis+",
+        "id": "tennis",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c938a72f44eca56206b4b585ab01cad5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png",
+        "url": "https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GrowthDay Network",
+        "id": "growthdaynetwork",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/182b6ef4e015e33d0f34d53fbc4524cc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1761657522100_GDN_260x147_HUD.png",
+        "url": "https://jmp2.uk/rok-182b6ef4e015e33d0f34d53fbc4524cc.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "The Gaming Central : League of Legends",
+        "id": "thegamingcentralleagueoflegends",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c92e70a4e0599a4907ad900c43ffbaed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758346933759_ROKU_logo_THEGAMINGCENTRALLOL_efefef_center_260x147.png",
+        "url": "https://jmp2.uk/rok-c92e70a4e0599a4907ad900c43ffbaed.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sobreviví",
+        "id": "sobreviv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/e4a278e5f27cc0c97aae4ddbefdbc5e6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765924286648_ISBA-LATAM_HUD_logo_260x147.png",
+        "url": "https://jmp2.uk/rok-e4a278e5f27cc0c97aae4ddbefdbc5e6.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Homeful en Español",
+        "id": "homefulenespaol",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/5dd7bdd7b320a81dd501cfac172db9c1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1762753422169_Homeful_Roku_ChannelAssets_Espanol_InfoHudLogo_260x147.png",
+        "url": "https://jmp2.uk/rok-5dd7bdd7b320a81dd501cfac172db9c1.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Remezcla TV",
+        "id": "remezclatv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/4b57abbe1258eecebd2a7bde87482fa3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757900163147_Roku-RemezclaTV-HUD-260x147-aligned-to-center.png",
+        "url": "https://jmp2.uk/rok-4b57abbe1258eecebd2a7bde87482fa3.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "FILMEX Acción",
+        "id": "filmexaccin",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/f53e794f65b781ff1a0d37843c704827/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766446354112_FMXac_HUD_WHITE.png",
+        "url": "https://jmp2.uk/rok-f53e794f65b781ff1a0d37843c704827.m3u8",
+        "categories": [
+            "roku-all"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ÚNICA TV",
+        "id": "nicatv",
+        "logo": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/427be38e736e5c6e92bd1cec086e941a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763491674042_LOGO_uNICATV-HUD-HORIZONTALefefef.png",
+        "url": "https://jmp2.uk/rok-427be38e736e5c6e92bd1cec086e941a.m3u8",
         "categories": [
             "roku-all"
         ],

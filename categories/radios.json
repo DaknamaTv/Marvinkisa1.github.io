@@ -220,106 +220,6 @@
         "country": ""
     },
     {
-        "name": "Rádio Lusitânia",
-        "id": "rdiolusitnia",
-        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/radiolusitania.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109549",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 2 Jazzin'",
-        "id": "antena2jazzin",
-        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2jazzin.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109551",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 2 Opera",
-        "id": "antena2opera",
-        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2opera.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109552",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Cidade FM",
-        "id": "rdiocidadefm",
-        "logo": "https://cdn.webrad.io/images/logos/radioonline-com-pt/cidade-fm.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109554",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Cidade Hip Hop",
-        "id": "rdiocidadehiphop",
-        "logo": "https://static.mytuner.mobi/media/tvos_radios/sa6w8uy9rsvl.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109555",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Comercial",
-        "id": "rdiocomercial",
-        "logo": "https://cdn.webrad.io/images/logos/radioonline-com-pt/comercial.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109557",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Comercial Rock",
-        "id": "rdiocomercialrock",
-        "logo": "https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109558",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Observador",
-        "id": "rdioobservador",
-        "logo": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109573",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Renascença",
-        "id": "rdiorenascena",
-        "logo": "https://cdn-radiotime-logos.tunein.com/s25179d.png",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109577",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Fama Rádio",
-        "id": "famardio",
-        "logo": "https://fastcast4u.com/player/fama/_user/cover/f/fama/fama.radio.jpg",
-        "url": "http://bragatv.livrexs.xyz:80/nunomartins/xnfMEk3tMa/109613",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
         "name": "The Time Machine - Classic Hits - 192 kbit/s",
         "id": "thetimemachineclassichits192kbits",
         "logo": "http://radio.pervii.com/logo/22140.jpg",
@@ -374,96 +274,6 @@
         "id": "1fmabsolute90spartyzoneradio256kbits",
         "logo": "http://radio.pervii.com/im/3/1550031043.jpg",
         "url": "http://ultrapremium.cloud:8080/965997980tv/ic5w65/265104",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio RDP África",
-        "id": "rdiordpfrica",
-        "logo": "http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpAfrica_positivo_horiz_RGB.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109546",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Antena 1 Fado",
-        "id": "antena1fado",
-        "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1fado.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109550",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Amália",
-        "id": "rdioamlia",
-        "logo": "http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109553",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Mega Hits",
-        "id": "rdiomegahits",
-        "logo": "http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109569",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio MEO Music",
-        "id": "rdiomeomusic",
-        "logo": "https://cdn-profiles.tunein.com/s81786/images/logod.png?t=155740",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109570",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Orbital",
-        "id": "rdioorbital",
-        "logo": "https://cdn-profiles.tunein.com/s15270/images/logod.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109574",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Rádio Zig Zag",
-        "id": "rdiozigzag",
-        "logo": "http://media.rtp.pt/refresca/wp-content/themes/refresca/includes/img/logo_RadioZigZag.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109589",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Marcoense FM",
-        "id": "marcoensefm",
-        "logo": "http://www.marcoensefm.com/wp-content/themes/marcoense-fm/images/logo.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109597",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Nove3Cinco",
-        "id": "nove3cinco",
-        "logo": "http://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",
-        "url": "http://bragatv.livrexs.xyz:80/BPb7RFktNt3L1/wHyBzeTFb5YC/109601",
         "categories": [
             "radios"
         ],
@@ -610,36 +420,6 @@
         "country": ""
     },
     {
-        "name": "Passazh - Moskva - 56 kbit/s",
-        "id": "passazhmoskva56kbits",
-        "logo": "http://radio.pervii.com/im/5/1537514485.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/265089",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ok Radio High bandwidth 128k stereo server EU - 128 kbit/s",
-        "id": "okradiohighbandwidth128kstereoservereu128kbits",
-        "logo": "http://radio.pervii.com/im/0/1537444540.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/265092",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Ok Radio 64 Kbit Mono server EU - 128 kbit/s",
-        "id": "okradio64kbitmonoservereu128kbits",
-        "logo": "http://radio.pervii.com/im/0/1537444540.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/265099",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
         "name": "Ok Radio low bandwidth AAC+ 16 Kbit mono - 160 kbit/s",
         "id": "okradiolowbandwidthaac16kbitmono160kbits",
         "logo": "http://radio.pervii.com/im/0/1537444540.jpg",
@@ -664,26 +444,6 @@
         "id": "011fm90salternative192kbits",
         "logo": "http://radio.pervii.com/im/2/1552792182.jpg",
         "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/265139",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "De Piraten Gigant - 192 kbit/s",
-        "id": "depiratengigant192kbits",
-        "logo": "http://radio.pervii.com/im/0/1556547190.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/265169",
-        "categories": [
-            "radios"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Radio Studio Souto - Megamix - 128 kbit/s",
-        "id": "radiostudiosoutomegamix128kbits",
-        "logo": "http://radio.pervii.com/im/5/1555120575.jpg",
-        "url": "http://ultrapremium.cloud:8080/961764347tv1/ji847xwg/265181",
         "categories": [
             "radios"
         ],

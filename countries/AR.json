@@ -397,14 +397,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 7 Salta",
-        "id": "Canal7Salta.ar",
-        "logo": "https://i.imgur.com/CudG6sl.png",
-        "url": "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "TV Mana Argentina",
         "id": "TVManaArgentina.ar",
         "logo": "https://i.imgur.com/jars0mP.png",
@@ -575,14 +567,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 79 Puan",
-        "id": "Canal79Puan.ar",
-        "logo": "https://i.imgur.com/HYuSqJy.png",
-        "url": "https://streamconex.com:19360/puan/puan.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "AlternaTV",
         "id": "AlternaTV.ar",
         "logo": "https://tv.alterna.ar/alternatv.png",
@@ -737,16 +721,6 @@
         "country": "AR"
     },
     {
-        "name": "Panc TV",
-        "id": "PancTV.ar",
-        "logo": "https://i.imgur.com/u1dnEVv.png",
-        "url": "https://panel.host-live.com:19360/20004/20004.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 22",
         "id": "Canal22.ar",
         "logo": "https://i.imgur.com/R4wXVxf.png",
@@ -776,6 +750,26 @@
         "logo": "https://i.imgur.com/b6RerDw.png",
         "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
         "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "TN",
+        "id": "TN.ar",
+        "logo": "https://i.imgur.com/vFwPhPS.png",
+        "url": "http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "AR"
     }
 ]

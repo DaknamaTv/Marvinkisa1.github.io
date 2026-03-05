@@ -401,16 +401,6 @@
         "country": "ID"
     },
     {
-        "name": "Kawanua TV",
-        "id": "KawanuaTV.id",
-        "logo": "https://i.imgur.com/xFaoLIX.png",
-        "url": "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Kilisuci TV",
         "id": "KilisuciTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png",
@@ -717,16 +707,6 @@
         "country": "ID"
     },
     {
-        "name": "Batam TV",
-        "id": "BatamTV.id",
-        "logo": "https://i.imgur.com/lo7YXnW.png",
-        "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Al-Iman TV",
         "id": "AlImanTV.id",
         "logo": "https://i.imgur.com/Qj1EFf1.png",
@@ -825,16 +805,6 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "PKTV",
         "id": "PKTV.id",
         "logo": "https://i.imgur.com/mldv8Sf.png",
@@ -847,6 +817,44 @@
         "id": "RRINet.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/2560px-RRI_NET_2023.svg.png",
         "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jakarta Globe News Channel",
+        "id": "JakartaGlobeNewsChannel.id",
+        "logo": "https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png",
+        "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jek TV",
+        "id": "JekTV.id",
+        "logo": "https://i.imgur.com/wh75d1f.png",
+        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Matrix TV Yogyakarta",
+        "id": "MatrixTVYogyakarta.id",
+        "logo": "https://stream.matrixtv.id/logo",
+        "url": "https://stream.matrixtv.id/hls/0/stream.m3u8",
         "categories": [],
         "country": "ID"
     }

@@ -639,31 +639,11 @@
         "country": "BR"
     },
     {
-        "name": "TV Vila Real",
-        "id": "TVVilaReal.br",
-        "logo": "https://i.imgur.com/Z1uWe7g.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "TV Guara",
         "id": "TVGuara.br",
         "logo": "https://i.imgur.com/8PErNBT.png",
         "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
         "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TV Modelo",
-        "id": "TVModelo.br",
-        "logo": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g",
-        "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
-        "categories": [
-            "general",
-            "entertainment",
-            "news"
-        ],
         "country": "BR"
     },
     {
@@ -1026,6 +1006,26 @@
         "id": "TVBrasilOeste.br",
         "logo": "https://i.imgur.com/noqGfuy.png",
         "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Adesso TV",
+        "id": "AdessoTV.br",
+        "logo": "https://i.imgur.com/KgetM8j.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Arapuan",
+        "id": "TVArapuan.br",
+        "logo": "https://i.imgur.com/3395A2h.png",
+        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
         "categories": [
             "general"
         ],

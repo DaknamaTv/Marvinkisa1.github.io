@@ -160,16 +160,6 @@
         "country": "TR"
     },
     {
-        "name": "Finans Turk TV",
-        "id": "FinansTurkTV.tr",
-        "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
-        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Guneydogu TV",
         "id": "GuneydoguTV.tr",
         "logo": "https://i.imgur.com/JT5pp3Y.png",
@@ -432,16 +422,6 @@
         "country": "CR"
     },
     {
-        "name": "Monaco Info",
-        "id": "MonacoInfo.mc",
-        "logo": "https://i.imgur.com/FPyPaL1.png",
-        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "MC"
-    },
-    {
         "name": "Visir",
         "id": "Visir.is",
         "logo": "https://i.imgur.com/07Vlt6i.jpg",
@@ -544,6 +524,16 @@
         "country": "ID"
     },
     {
+        "name": "Jakarta Globe News Channel",
+        "id": "JakartaGlobeNewsChannel.id",
+        "logo": "https://i.postimg.cc/B6GFBy9C/In_Shot_20260121_203812695.png",
+        "url": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "Espreso TV",
         "id": "EspresoTV.ua",
         "logo": "https://i.imgur.com/xNatV8K.png",
@@ -588,6 +578,16 @@
         "id": "IT3.ua",
         "logo": "https://i.imgur.com/8rNbbY7.png",
         "url": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "Reporter",
+        "id": "Reporter.ua",
+        "logo": "https://i.imgur.com/LyA3kBR.png",
+        "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -1976,16 +1976,6 @@
         "country": "IN"
     },
     {
-        "name": "High News",
-        "id": "HighNews.in",
-        "logo": "https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png",
-        "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "First India News",
         "id": "FirstIndiaNews.in",
         "logo": "https://i.imgur.com/MUTe7cu.png",
@@ -2508,26 +2498,6 @@
         "country": "IN"
     },
     {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Gujarat First",
         "id": "GujaratFirst.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",
@@ -2548,10 +2518,10 @@
         "country": "IN"
     },
     {
-        "name": "VBC News",
-        "id": "VBCNews.in",
-        "logo": "https://i.imgur.com/SvXCjha.png",
-        "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
+        "name": "RDX Goa",
+        "id": "RDXGoa.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
+        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2940,28 +2910,6 @@
         "country": "VN"
     },
     {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "VTV",
         "id": "VTV.mv",
         "logo": "https://i.imgur.com/6bY9Umo.png",
@@ -3298,16 +3246,6 @@
         "country": "NG"
     },
     {
-        "name": "Advocate Broadcasting Network",
-        "id": "AdvocateBroadcastingNetwork.ng",
-        "logo": "https://i.imgur.com/ZkBEAp7.png",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "NG"
-    },
-    {
         "name": "CTi News",
         "id": "CTiNews.tw",
         "logo": "https://i.imgur.com/FZONZEr.png",
@@ -3550,6 +3488,16 @@
         "country": "KH"
     },
     {
+        "name": "EAC News TV",
+        "id": "EACNewsTV.kh",
+        "logo": "https://i.imgur.com/EuYhS9Z.png",
+        "url": "http://43.252.18.195:5080/LiveApp/streams/eacnews.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "KH"
+    },
+    {
         "name": "Mega TV",
         "id": "MegaTV.py",
         "logo": "https://i.imgur.com/CaA7l86.png",
@@ -3564,26 +3512,6 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "C9N",
-        "id": "C9N.py",
-        "logo": "https://i.imgur.com/Cp4zJ7O.png",
-        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3857,16 +3785,6 @@
         "id": "LiraTV.it",
         "logo": "https://i.imgur.com/sC9ELuY.jpg",
         "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Telegela 647",
-        "id": "Telegela647.it",
-        "logo": "https://i.imgur.com/ppkX45f.png",
-        "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4235,18 +4153,6 @@
         "logo": "https://i.imgur.com/pOUY2Uz.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8c530424-556e-4d0f-b64e-9e2d82496a7b",
         "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Modelo",
-        "id": "TVModelo.br",
-        "logo": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g",
-        "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
-        "categories": [
-            "general",
-            "entertainment",
             "news"
         ],
         "country": "BR"
@@ -5359,6 +5265,16 @@
         "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
         "categories": [
             "culture",
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "TN",
+        "id": "TN.ar",
+        "logo": "https://i.imgur.com/vFwPhPS.png",
+        "url": "http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8",
+        "categories": [
             "news"
         ],
         "country": "AR"
