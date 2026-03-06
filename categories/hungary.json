@@ -110,16 +110,6 @@
         "country": ""
     },
     {
-        "name": "Filmbox HU",
-        "id": "filmboxhu",
-        "logo": "https://static.epg.best/hu/Filmbox.hu.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/9502",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
         "name": "M1 HD HU",
         "id": "m1hdhu",
         "logo": "https://static.epg.best/hu/m1.hu.png",
@@ -244,26 +234,6 @@
         "id": "huizauratv",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/2560px-Izaura_TV_logo.svg.png",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311019",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HU: HISTORY HD",
-        "id": "huhistoryhd",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/311018",
-        "categories": [
-            "hungary"
-        ],
-        "country": ""
-    },
-    {
-        "name": "HU: E! Entertainment",
-        "id": "hueentertainment",
-        "logo": "https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png",
-        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310997",
         "categories": [
             "hungary"
         ],

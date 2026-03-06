@@ -61,16 +61,6 @@
         "country": "LU"
     },
     {
-        "name": "Duma TV",
-        "id": "DumaTV.ru",
-        "logo": "https://i.imgur.com/JvlO3PU.png",
-        "url": "https://dumatv.iptv2022.com/playlist.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Ontario Parliamentary Network",
         "id": "OntarioParliamentaryNetwork.ca",
         "logo": "https://i.imgur.com/xKXs6ER.png",
@@ -341,16 +331,6 @@
         "country": "ES"
     },
     {
-        "name": "Parlamento de Navarra",
-        "id": "ParlamentodeNavarra.es",
-        "logo": "https://i.imgur.com/JnhWxKv.png",
-        "url": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Parliament TV",
         "id": "ParliamentTV.nz",
         "logo": "https://i.imgur.com/2aHW4q7.png",
@@ -589,16 +569,6 @@
             "legislative"
         ],
         "country": "NL"
-    },
-    {
-        "name": "ARTV",
-        "id": "ARTV.pt",
-        "logo": "https://i.imgur.com/y00t9hr.png",
-        "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-        "categories": [
-            "legislative"
-        ],
-        "country": "PT"
     },
     {
         "name": "Canal Parlamento del Congreso de Jalisco",

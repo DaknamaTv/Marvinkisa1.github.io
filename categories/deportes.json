@@ -8,5 +8,35 @@
             "deportes"
         ],
         "country": ""
+    },
+    {
+        "name": "ES: (HD) M+ VAMOS",
+        "id": "eshdmvamos",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/M_Vamos.png",
+        "url": "http://kb87.eshofrcep.top:8080/ES0135174016231324/01746908452043/123",
+        "categories": [
+            "deportes"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES: M+ DEPORTES 5",
+        "id": "esmdeportes5",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png",
+        "url": "http://kb87.eshofrcep.top:8080/ES0135174016231324/01746908452043/138",
+        "categories": [
+            "deportes"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ES: RALLY TV",
+        "id": "esrallytv",
+        "logo": "https://docdog.top/logo/countries/spain/movistar/RallyTv.png",
+        "url": "http://kb87.eshofrcep.top:8080/ES0135174016231324/01746908452043/410",
+        "categories": [
+            "deportes"
+        ],
+        "country": ""
     }
 ]

@@ -510,16 +510,6 @@
         "country": "EC"
     },
     {
-        "name": "Telemar",
-        "id": "Telemar.ec",
-        "logo": "https://i.imgur.com/0vX9oJF.png",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Educa TV",
         "id": "EducaTV.ec",
         "logo": "https://i.imgur.com/lY9Bx2u.png",
@@ -566,6 +556,26 @@
         "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
         "categories": [
             "religious"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "Radio Monumental TV",
+        "id": "RadioMonumentalTV.ec",
+        "logo": "https://i.imgur.com/a97MaV2.png",
+        "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "Vos y TV",
+        "id": "VosyTV.ec",
+        "logo": "https://i.imgur.com/294FDCB.png",
+        "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "EC"
     }

@@ -400,16 +400,6 @@
         "country": "KE"
     },
     {
-        "name": "MERU TV",
-        "id": "MERUTV.ke",
-        "logo": "https://i.imgur.com/EPmWNfz.jpg",
-        "url": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "KE"
-    },
-    {
         "name": "Louga TV",
         "id": "LougaTV.sn",
         "logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
@@ -454,6 +444,16 @@
         "id": "SenJeunesTV.sn",
         "logo": "https://i.imgur.com/MeCSPsI.jpg",
         "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SN"
+    },
+    {
+        "name": "Sen TV",
+        "id": "SenTV.sn",
+        "logo": "https://i.imgur.com/beVCugh.png",
+        "url": "http://69.64.57.208/sentv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1021,10 +1021,50 @@
         "country": "KR"
     },
     {
-        "name": "TV Chosun",
-        "id": "TVChosun.kr",
-        "logo": "https://i.imgur.com/62EwaCG.png",
-        "url": "http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8",
+        "name": "HLAJ-DTV",
+        "id": "HLAJDTV.kr",
+        "logo": "https://i.imgur.com/JM4rxGU.png",
+        "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLAM-DTV",
+        "id": "HLAMDTV.kr",
+        "logo": "https://i.imgur.com/5oraHc0.png",
+        "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLAT-DTV",
+        "id": "HLATDTV.kr",
+        "logo": "https://i.imgur.com/3VSuYsn.png",
+        "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLDH-DTV",
+        "id": "HLDHDTV.kr",
+        "logo": "https://i.imgur.com/Srsw4Mi.png",
+        "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "KR"
+    },
+    {
+        "name": "HLDQ-DTV",
+        "id": "HLDQDTV.kr",
+        "logo": "https://i.imgur.com/byss0Ld.png",
+        "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1181,20 +1221,20 @@
         "country": "CR"
     },
     {
-        "name": "Canal 10",
-        "id": "Canal10.cr",
-        "logo": "https://i.imgur.com/TO6WQbW.png",
-        "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
+        "name": "Canal 4",
+        "id": "Canal4.cr",
+        "logo": "https://i.imgur.com/5arZEgO.png",
+        "url": "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
         ],
         "country": "CR"
     },
     {
-        "name": "Cartago Medios TV",
-        "id": "CartagoMediosTV.cr",
-        "logo": "https://i.imgur.com/Vcd40AL.png",
-        "url": "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8",
+        "name": "Canal 6",
+        "id": "Canal6.cr",
+        "logo": "https://i.imgur.com/nfKJftW.png",
+        "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
         ],
@@ -1361,6 +1401,16 @@
         "country": "IS"
     },
     {
+        "name": "Okey",
+        "id": "Okey.my",
+        "logo": "https://i.imgur.com/V2jREQ5.png",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+        "categories": [
+            "general"
+        ],
+        "country": "MY"
+    },
+    {
         "name": "TVRI",
         "id": "TVRI.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png",
@@ -1395,16 +1445,6 @@
         "id": "BalikpapanTV.id",
         "logo": "https://i.imgur.com/P3whqna.png",
         "url": "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "DM TV Malang",
-        "id": "DMTVMalang.id",
-        "logo": "https://i.imgur.com/3iC41QX.png",
-        "url": "https://e.siar.us/live/dmtv.m3u8",
         "categories": [
             "general"
         ],
@@ -1595,16 +1635,6 @@
         "id": "BatamTV.id",
         "logo": "https://i.imgur.com/lo7YXnW.png",
         "url": "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
         "categories": [
             "general"
         ],
@@ -1911,14 +1941,14 @@
         "country": "EG"
     },
     {
-        "name": "Fish TV",
-        "id": "FishTV.gh",
-        "logo": "https://i.imgur.com/A4VeRnS.png",
-        "url": "https://tv.localstreamgh.com/fishtv/index.m3u8",
+        "name": "TV Direct 13",
+        "id": "TVDirect13.cw",
+        "logo": "https://i.imgur.com/T2IbQqv.png",
+        "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
         "categories": [
             "general"
         ],
-        "country": "GH"
+        "country": "CW"
     },
     {
         "name": "Vepaco TV",
@@ -2011,16 +2041,6 @@
         "country": "VE"
     },
     {
-        "name": "TVM para ti",
-        "id": "TVMparati.ve",
-        "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
-        "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Grande TV",
         "id": "GrandeTV.ve",
         "logo": "https://i.imgur.com/jxCirrP.png",
@@ -2041,30 +2061,10 @@
         "country": "VE"
     },
     {
-        "name": "Catatumbo TV",
-        "id": "CatatumboTV.ve",
-        "logo": "https://i.imgur.com/LBI2la0.png",
-        "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "Siembra TV",
         "id": "SiembraTV.ve",
         "logo": "https://i.imgur.com/zRX91Xr.png",
         "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Somos TV",
-        "id": "SomosTV.ve",
-        "logo": "https://i.imgur.com/jOroeJZ.png",
-        "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -2131,16 +2131,6 @@
         "country": "VE"
     },
     {
-        "name": "Telecolor",
-        "id": "Telecolor.ve",
-        "logo": "https://i.imgur.com/YvdzJHj.png",
-        "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "TVS",
         "id": "TVS.ve",
         "logo": "https://i.imgur.com/J8ztiAN.png",
@@ -2161,20 +2151,20 @@
         "country": "VE"
     },
     {
-        "name": "Portuguesa Television",
-        "id": "PortuguesaTelevision.ve",
-        "logo": "https://i.imgur.com/jHUSfGz.png",
-        "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+        "name": "TAM TV",
+        "id": "TAMTV.ve",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
+        "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
         "categories": [
             "general"
         ],
         "country": "VE"
     },
     {
-        "name": "TAM TV",
-        "id": "TAMTV.ve",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png",
-        "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
+        "name": "Fortuna TV",
+        "id": "FortunaTV.ve",
+        "logo": "https://i.imgur.com/RPiTPnK.png",
+        "url": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -3253,6 +3243,16 @@
         "country": "IN"
     },
     {
+        "name": "Metro TV",
+        "id": "MetroTV.in",
+        "logo": "https://i.ibb.co/CBgJ4QV/metro-logo.jpg",
+        "url": "https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Az Star TV",
         "id": "AzStarTV.ca",
         "logo": "https://i.imgur.com/di3XX5L.png",
@@ -3327,6 +3327,16 @@
         "id": "WataneMaaTV.ca",
         "logo": "https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png",
         "url": "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "NACTV",
+        "id": "NACTV.ca",
+        "logo": "https://i.imgur.com/FzM95rH.png",
+        "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
         "categories": [
             "general"
         ],
@@ -3473,10 +3483,10 @@
         "country": "HN"
     },
     {
-        "name": "Television Metropolis 19.1",
-        "id": "TelevisionMetropolis191.hn",
-        "logo": "https://i.imgur.com/X5C1GzB.png",
-        "url": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8",
+        "name": "VTV",
+        "id": "VTV.hn",
+        "logo": "https://i.imgur.com/CsPkwD5.png",
+        "url": "https://d3q93l5bumjyoq.cloudfront.net/index.m3u8",
         "categories": [
             "general"
         ],
@@ -3543,16 +3553,6 @@
         "country": "CL"
     },
     {
-        "name": "Decima TV",
-        "id": "DecimaTV.cl",
-        "logo": "https://i.imgur.com/eu8hDDc.png",
-        "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Antofagasta TV",
         "id": "AntofagastaTV.cl",
         "logo": "https://i.imgur.com/XIQr0fs.png",
@@ -3597,6 +3597,16 @@
         "id": "LaPopularTV.cl",
         "logo": "https://i.imgur.com/AWdgMCC.png",
         "url": "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "La Red",
+        "id": "LaRed.cl",
+        "logo": "https://i.imgur.com/nJOVM6e.png",
+        "url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "general"
         ],
@@ -3667,6 +3677,26 @@
         "id": "MultivisionCanal3.gt",
         "logo": "https://i.imgur.com/6bdj2BV.jpg",
         "url": "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "Canal 13 Esquipulas",
+        "id": "Canal13Esquipulas.gt",
+        "logo": "https://i.imgur.com/INKZvlN.png",
+        "url": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "Nim TV",
+        "id": "NimTV.gt",
+        "logo": "https://i.imgur.com/mBNOSzl.png",
+        "url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
         "categories": [
             "general"
         ],
@@ -4283,16 +4313,6 @@
         "country": "DO"
     },
     {
-        "name": "Nueva Vision 14",
-        "id": "NuevaVision14.do",
-        "logo": "https://imgur.com/0fWQS53.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "R Television",
         "id": "RTelevision.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg",
@@ -4874,16 +4894,6 @@
         "country": "DO"
     },
     {
-        "name": "Del Pueblo TV",
-        "id": "DelPuebloTV.do",
-        "logo": "https://imgur.com/Pw7ZUT1.jpg",
-        "url": "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Informe TV",
         "id": "InformeTV.do",
         "logo": "https://imgur.com/TmJaXrO.jpg",
@@ -5024,26 +5034,6 @@
         "country": "DO"
     },
     {
-        "name": "Junior Technologia TV",
-        "id": "JuniorTechnologiaTV.do",
-        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg",
-        "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Simavision Canal 18",
-        "id": "SimavisionCanal18.do",
-        "logo": "https://i.imgur.com/io9o30K.jpg",
-        "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "VTV Canal 32",
         "id": "VTVCanal32.do",
         "logo": "https://i.imgur.com/qjm4B0J.png",
@@ -5084,10 +5074,90 @@
         "country": "DO"
     },
     {
-        "name": "Tenarenses TV",
-        "id": "TenarensesTV.do",
-        "logo": "https://i.imgur.com/cPIgs0v.png",
-        "url": "https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8",
+        "name": "Antena 7",
+        "id": "Antena7.do",
+        "logo": "https://i.imgur.com/zKWFgeQ.png",
+        "url": "https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Bebeto TV",
+        "id": "BebetoTV.do",
+        "logo": "https://www.lyngsat.com/logo/tv/bb/bebeto-tv-do.png",
+        "url": "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Canal 56",
+        "id": "Canal56.do",
+        "logo": "https://i.imgur.com/HcLs5eM.png",
+        "url": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Cinevision Canal 19",
+        "id": "CinevisionCanal19.do",
+        "logo": "https://i.imgur.com/mJN2XNm.png",
+        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Codigo TV",
+        "id": "CodigoTV.do",
+        "logo": "https://imgur.com/DbjywI3.png",
+        "url": "https://mlb.essastream.com:8081/codigotv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Larivision TV",
+        "id": "LarivisionTV.do",
+        "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
+        "url": "https://live.larimartv.net/livelan/stream.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "MorroTV",
+        "id": "MorroTV.do",
+        "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg",
+        "url": "https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telealtura",
+        "id": "Telealtura.do",
+        "logo": "https://i.imgur.com/Ql2eaP0.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Telecanal 12",
+        "id": "Telecanal12.do",
+        "logo": "https://i.imgur.com/90cTK8S.png",
+        "url": "https://mlb.essastream.com:8081/telecanal12/tracks-v1a1/mono.m3u8",
         "categories": [
             "general"
         ],
@@ -5240,17 +5310,6 @@
         "logo": "https://i.imgur.com/mgp6RAU.png",
         "url": "https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8",
         "categories": [
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
-        "categories": [
-            "news",
             "general"
         ],
         "country": "VN"
@@ -5413,6 +5472,16 @@
         "categories": [
             "general",
             "culture"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Canal 32",
+        "id": "Canal32.fr",
+        "logo": "https://i.imgur.com/lAsE6kN.png",
+        "url": "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "FR"
     },
@@ -5847,20 +5916,20 @@
         "country": "HU"
     },
     {
+        "name": "Rakosmente TV",
+        "id": "RakosmenteTV.hu",
+        "logo": "https://i.imgur.com/n39a2DT.png",
+        "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "HU"
+    },
+    {
         "name": "Radio Tele Stanne Charitab",
         "id": "RadioTeleStanneCharitab.ht",
         "logo": "https://i.ibb.co/wB0brbD/unnamed.png",
         "url": "https://59d39900ebfb8.streamlock.net/radiotelestannecharitab/radiotelestannecharitab/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "HT"
-    },
-    {
-        "name": "TV Panou",
-        "id": "TVPanou.ht",
-        "logo": "https://i.imgur.com/zee6sWn.png",
-        "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -5881,26 +5950,6 @@
         "id": "RadioTele6Univers.ht",
         "logo": "https://i.imgur.com/aeVXn7p.jpeg",
         "url": "https://acwstream.com/lakay/tele6/tracks-v1a1/mono.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "HT"
-    },
-    {
-        "name": "Netalkole TV",
-        "id": "NetalkoleTV.ht",
-        "logo": "https://i.imgur.com/SdVrpzY.png",
-        "url": "https://watch.haitilive.net/naktvhd/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "HT"
-    },
-    {
-        "name": "Tele Variete",
-        "id": "TeleVariete.ht",
-        "logo": "https://i.imgur.com/0J5MzTB.png",
-        "url": "https://acwstream.com/hb/chaine30/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -6157,16 +6206,6 @@
         "country": "EC"
     },
     {
-        "name": "Telemar",
-        "id": "Telemar.ec",
-        "logo": "https://i.imgur.com/0vX9oJF.png",
-        "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Oromar TV",
         "id": "OromarTV.ec",
         "logo": "https://i.imgur.com/j5Vvxd5.png",
@@ -6400,6 +6439,26 @@
         "country": "BO"
     },
     {
+        "name": "Bolivision",
+        "id": "Bolivision.bo",
+        "logo": "https://i.imgur.com/U98Z5zn.png",
+        "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "UPP TV",
+        "id": "UPPTV.bo",
+        "logo": "https://i.ibb.co/Kwvbyr0/unnamed.jpg",
+        "url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Iraq Future",
         "id": "IraqFuture.iq",
         "logo": "https://i.imgur.com/Z7woTe5.png",
@@ -6611,6 +6670,16 @@
         "country": "LV"
     },
     {
+        "name": "TV Jurmala",
+        "id": "TVJurmala.lv",
+        "logo": "https://i.imgur.com/tQHkHD0.png",
+        "url": "https://air.star.lv/TV_Jurmala_multistream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "LV"
+    },
+    {
         "name": "Canal Dos",
         "id": "CanalDos.co",
         "logo": "https://i.imgur.com/BYsyNHZ.jpg",
@@ -6783,11 +6852,23 @@
         "country": "CO"
     },
     {
-        "name": "Mas Norte TV",
-        "id": "MasNorteTV.co",
-        "logo": "https://i.imgur.com/NmsWlj6.jpeg",
-        "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
+        "name": "CNC Bugavision",
+        "id": "CNCBugavision.co",
+        "logo": "https://i.imgur.com/zJAwnvd.png",
+        "url": "https://video.ejeserver.com/live/cncbuga.m3u8",
         "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "MCI Television",
+        "id": "MCITelevision.co",
+        "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+        "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+        "categories": [
+            "movies",
+            "family",
             "general"
         ],
         "country": "CO"
@@ -7053,6 +7134,26 @@
         "country": "PE"
     },
     {
+        "name": "ATV",
+        "id": "ATV.pe",
+        "logo": "https://i.imgur.com/eUzYZfg.png",
+        "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "ATV Sur",
+        "id": "ATVSur.pe",
+        "logo": "https://i.imgur.com/LnyVa5H.png",
+        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "TVK",
         "id": "TVK.kh",
         "logo": "https://i.imgur.com/5hPxjcl.png",
@@ -7234,16 +7335,6 @@
         "country": "PS"
     },
     {
-        "name": "Hala Ramallah",
-        "id": "HalaRamallah.ps",
-        "logo": "https://i.ibb.co/swP1FDK/halaramallah-logo.png",
-        "url": "https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PS"
-    },
-    {
         "name": "Mithila Nepal TV",
         "id": "MithilaNepalTV.np",
         "logo": "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
@@ -7258,6 +7349,16 @@
         "id": "KantipurTV.np",
         "logo": "https://i.imgur.com/HEVo2Gc.png",
         "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "NP"
+    },
+    {
+        "name": "Capital TV HD",
+        "id": "CapitalTVHD.np",
+        "logo": "https://i.imgur.com/hb4bq1t.png",
+        "url": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8",
         "categories": [
             "general"
         ],
@@ -7492,6 +7593,16 @@
         "id": "Notele.be",
         "logo": "https://i.imgur.com/fGS55nR.png",
         "url": "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BE"
+    },
+    {
+        "name": "Matele",
+        "id": "Matele.be",
+        "logo": "https://i.imgur.com/rw72POr.png",
+        "url": "https://live.matele.be/hls/live.m3u8",
         "categories": [
             "general"
         ],
@@ -8519,6 +8630,16 @@
         "country": "CD"
     },
     {
+        "name": "Numerica TV",
+        "id": "NumericaTV.cd",
+        "logo": "https://i.imgur.com/ZUPJJ59.png",
+        "url": "https://tnt-television.com/NUMERICA/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "Agape TV",
         "id": "AgapeTV.sv",
         "logo": "https://i.imgur.com/DsGmrnc.png",
@@ -8573,6 +8694,26 @@
         "id": "Canal10.sv",
         "logo": "https://i.imgur.com/y2ppMnY.png",
         "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "Canal 12",
+        "id": "Canal12.sv",
+        "logo": "https://i.imgur.com/UGDbp3O.png",
+        "url": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SV"
+    },
+    {
+        "name": "RTV Canal 57",
+        "id": "RTVCanal57.sv",
+        "logo": "https://i.imgur.com/tnOGWqL.png",
+        "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
         "categories": [
             "general"
         ],
@@ -9180,10 +9321,10 @@
         "country": "ES"
     },
     {
-        "name": "TVR",
-        "id": "TVR.es",
-        "logo": "https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png",
-        "url": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8",
+        "name": "Fibwi",
+        "id": "Fibwi.es",
+        "logo": "https://i.imgur.com/4vcGzcC.png",
+        "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
         "categories": [
             "general"
         ],
@@ -9590,16 +9731,6 @@
         "country": "BR"
     },
     {
-        "name": "TVNBN",
-        "id": "TVNBN.br",
-        "logo": "https://i.imgur.com/zoHBxn1.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Rede SPTV",
         "id": "RedeSPTV.br",
         "logo": "https://i.imgur.com/kh3LGAP.png",
@@ -9748,6 +9879,16 @@
         "id": "TVArapuan.br",
         "logo": "https://i.imgur.com/3395A2h.png",
         "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Sertao TV",
+        "id": "SertaoTV.br",
+        "logo": "https://i.imgur.com/b5xOCsC.png",
+        "url": "http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -10938,16 +11079,6 @@
         "country": "US"
     },
     {
-        "name": "TVS Television Network",
-        "id": "TVSTelevisionNetwork.us",
-        "logo": "",
-        "url": "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Mahar TV",
         "id": "MaharTV.mm",
         "logo": "https://i.imgur.com/ig0QECf.png",
@@ -11158,35 +11289,10 @@
         "country": "AR"
     },
     {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "NG Federal",
         "id": "NGFederal.ar",
         "logo": "https://i.imgur.com/lJCIqYn.png",
         "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Canal 5 TV Chepes",
-        "id": "Canal5TVChepes.ar",
-        "logo": "https://i.imgur.com/AzEqroq.png",
-        "url": "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8",
         "categories": [
             "general"
         ],
@@ -11257,6 +11363,16 @@
         "id": "MNetHD.mk",
         "logo": "https://i.imgur.com/HDYqWuR.png",
         "url": "https://live.mnet.mk/hls/mnet.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MK"
+    },
+    {
+        "name": "Nasa TV",
+        "id": "NasaTV.mk",
+        "logo": "https://i.imgur.com/9rB4VZy.png",
+        "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
         "categories": [
             "general"
         ],
@@ -12407,6 +12523,46 @@
         "country": "MX"
     },
     {
+        "name": "B15 Fresnillo",
+        "id": "B15Fresnillo.mx",
+        "logo": "https://i.imgur.com/kaUhEQy.png",
+        "url": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "B15 Zacatecas",
+        "id": "B15Zacatecas.mx",
+        "logo": "https://i.imgur.com/kaUhEQy.png",
+        "url": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "IMRyT",
+        "id": "IMRyT.mx",
+        "logo": "https://i.imgur.com/D91O6ka.png",
+        "url": "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "SIPSE TV 8.1",
+        "id": "SIPSETV81.mx",
+        "logo": "https://i.imgur.com/123P7dV.png",
+        "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MX"
+    },
+    {
         "name": "Television Caribbean",
         "id": "TelevisionCaribbean.kn",
         "logo": "https://i.imgur.com/Ogw0COv.png",
@@ -12676,1186 +12832,6 @@
             "general"
         ],
         "country": "RO"
-    },
-    {
-        "name": "XXX VOD 2948",
-        "id": "xxxvod2948",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/2948.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 2974",
-        "id": "xxxvod2974",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/2974.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3178",
-        "id": "xxxvod3178",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3178.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3549",
-        "id": "xxxvod3549",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3549.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3566",
-        "id": "xxxvod3566",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3566.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3570",
-        "id": "xxxvod3570",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3570.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3574",
-        "id": "xxxvod3574",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3574.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3576",
-        "id": "xxxvod3576",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3576.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3592",
-        "id": "xxxvod3592",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3592.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3650",
-        "id": "xxxvod3650",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3650.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3668",
-        "id": "xxxvod3668",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3668.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3706",
-        "id": "xxxvod3706",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3706.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3709",
-        "id": "xxxvod3709",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3709.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 3960",
-        "id": "xxxvod3960",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/3960.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4022",
-        "id": "xxxvod4022",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4022.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4168",
-        "id": "xxxvod4168",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4168.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4218",
-        "id": "xxxvod4218",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4218.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4220",
-        "id": "xxxvod4220",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4220.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4230",
-        "id": "xxxvod4230",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4230.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4232",
-        "id": "xxxvod4232",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4232.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4238",
-        "id": "xxxvod4238",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4238.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4252",
-        "id": "xxxvod4252",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4252.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4259",
-        "id": "xxxvod4259",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4259.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4264",
-        "id": "xxxvod4264",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4264.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4274",
-        "id": "xxxvod4274",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4274.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4275",
-        "id": "xxxvod4275",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4275.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4283",
-        "id": "xxxvod4283",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4283.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4291",
-        "id": "xxxvod4291",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4291.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4295",
-        "id": "xxxvod4295",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4295.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4302",
-        "id": "xxxvod4302",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4302.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4334",
-        "id": "xxxvod4334",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4334.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4486",
-        "id": "xxxvod4486",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4486.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4541",
-        "id": "xxxvod4541",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4541.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4557",
-        "id": "xxxvod4557",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4557.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4573",
-        "id": "xxxvod4573",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4573.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4581",
-        "id": "xxxvod4581",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4581.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4588",
-        "id": "xxxvod4588",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4588.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4589",
-        "id": "xxxvod4589",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4589.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4624",
-        "id": "xxxvod4624",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4624.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4655",
-        "id": "xxxvod4655",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4655.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4677",
-        "id": "xxxvod4677",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4677.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4692",
-        "id": "xxxvod4692",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4692.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4708",
-        "id": "xxxvod4708",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4708.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4709",
-        "id": "xxxvod4709",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4709.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4744",
-        "id": "xxxvod4744",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4744.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4763",
-        "id": "xxxvod4763",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4763.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4764",
-        "id": "xxxvod4764",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4764.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4785",
-        "id": "xxxvod4785",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4785.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4809",
-        "id": "xxxvod4809",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4809.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4810",
-        "id": "xxxvod4810",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4810.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4813",
-        "id": "xxxvod4813",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4813.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4829",
-        "id": "xxxvod4829",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4829.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4986",
-        "id": "xxxvod4986",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4986.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 4993",
-        "id": "xxxvod4993",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/4993.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5233",
-        "id": "xxxvod5233",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5233.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5303",
-        "id": "xxxvod5303",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5303.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5307",
-        "id": "xxxvod5307",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5307.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5309",
-        "id": "xxxvod5309",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5309.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5341",
-        "id": "xxxvod5341",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5341.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5343",
-        "id": "xxxvod5343",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5343.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5349",
-        "id": "xxxvod5349",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5349.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5350",
-        "id": "xxxvod5350",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5350.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5364",
-        "id": "xxxvod5364",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5364.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5365",
-        "id": "xxxvod5365",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5365.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5367",
-        "id": "xxxvod5367",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5367.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5395",
-        "id": "xxxvod5395",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5395.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5407",
-        "id": "xxxvod5407",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5407.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5447",
-        "id": "xxxvod5447",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5447.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5459",
-        "id": "xxxvod5459",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5459.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5466",
-        "id": "xxxvod5466",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5466.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5493",
-        "id": "xxxvod5493",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5493.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5495",
-        "id": "xxxvod5495",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5495.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5499",
-        "id": "xxxvod5499",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5499.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5520",
-        "id": "xxxvod5520",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5520.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5527",
-        "id": "xxxvod5527",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5527.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5529",
-        "id": "xxxvod5529",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5529.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5541",
-        "id": "xxxvod5541",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5541.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5552",
-        "id": "xxxvod5552",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5552.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5556",
-        "id": "xxxvod5556",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5556.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5560",
-        "id": "xxxvod5560",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5560.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5580",
-        "id": "xxxvod5580",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5580.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5592",
-        "id": "xxxvod5592",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5592.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5610",
-        "id": "xxxvod5610",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5610.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5618",
-        "id": "xxxvod5618",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5618.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5621",
-        "id": "xxxvod5621",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5621.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5642",
-        "id": "xxxvod5642",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5642.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5653",
-        "id": "xxxvod5653",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5653.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5672",
-        "id": "xxxvod5672",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5672.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5682",
-        "id": "xxxvod5682",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5682.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5763",
-        "id": "xxxvod5763",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5763.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5818",
-        "id": "xxxvod5818",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5818.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5834",
-        "id": "xxxvod5834",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5834.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5842",
-        "id": "xxxvod5842",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5842.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 5981",
-        "id": "xxxvod5981",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/5981.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6033",
-        "id": "xxxvod6033",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6033.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6159",
-        "id": "xxxvod6159",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6159.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6173",
-        "id": "xxxvod6173",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6173.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6191",
-        "id": "xxxvod6191",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6191.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6193",
-        "id": "xxxvod6193",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6193.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6200",
-        "id": "xxxvod6200",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6200.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6214",
-        "id": "xxxvod6214",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6214.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6270",
-        "id": "xxxvod6270",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6270.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6291",
-        "id": "xxxvod6291",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6291.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6302",
-        "id": "xxxvod6302",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6302.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6306",
-        "id": "xxxvod6306",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6306.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6393",
-        "id": "xxxvod6393",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6393.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6461",
-        "id": "xxxvod6461",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6461.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 6536",
-        "id": "xxxvod6536",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/6536.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8053",
-        "id": "xxxvod8053",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8053.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8269",
-        "id": "xxxvod8269",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8269.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8297",
-        "id": "xxxvod8297",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8297.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8298",
-        "id": "xxxvod8298",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8298.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8333",
-        "id": "xxxvod8333",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8333.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8375",
-        "id": "xxxvod8375",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8375.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8425",
-        "id": "xxxvod8425",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8425.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8433",
-        "id": "xxxvod8433",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8433.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8473",
-        "id": "xxxvod8473",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8473.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "XXX VOD 8497",
-        "id": "xxxvod8497",
-        "logo": "",
-        "url": "https://xc.adultiptv.net/movie/os4856/os1234/8497.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
     },
     {
         "name": "XXX VOD 8513",
@@ -14692,16 +13668,6 @@
         "id": "caribespn2",
         "logo": "",
         "url": "http://tv14s.xyz:8080/Zkv3Zw/765991/99623",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "DOCUBOX: FREE DOCUMENTERY",
-        "id": "docuboxfreedocumentery",
-        "logo": "",
-        "url": "http://tv14s.xyz:8080/Zkv3Zw/765991/119442",
         "categories": [
             "general"
         ],
@@ -18888,16 +17854,6 @@
         "country": ""
     },
     {
-        "name": "NOVA",
-        "id": "nova",
-        "logo": "",
-        "url": "http://51.91.29.188:8910/live/hermanomanonas/00:7c:2d:5d:f5:8c/77.ts",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "BEMAD TV HD",
         "id": "bemadtvhd",
         "logo": "",
@@ -20942,16 +19898,6 @@
         "id": "xxxvod1847",
         "logo": "",
         "url": "https://xc.adultiptv.net/movie/AT7ItUEHbw/2CS5l9RWTX/1847.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "PEQUE TV",
-        "id": "pequetv",
-        "logo": "https://i.ibb.co/GJ3Qw6b/peque.jpg",
-        "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8",
         "categories": [
             "general"
         ],
@@ -27548,16 +26494,6 @@
         "country": ""
     },
     {
-        "name": "WILD SIDE TV",
-        "id": "wildsidetv",
-        "logo": "https://i.ibb.co/VvMKr5V/wildside.jpg",
-        "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "CNN INT",
         "id": "cnnint",
         "logo": "https://i.ibb.co/XbSHxd5/cnn.png",
@@ -29182,16 +28118,6 @@
         "id": "la1canarias",
         "logo": "https://i.ibb.co/VM5vGBV/la1.jpg",
         "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "BURSA LINE TV",
-        "id": "bursalinetv",
-        "logo": "https://i.ibb.co/mHt7rQf/Tryerel.png",
-        "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -35598,16 +34524,6 @@
         "country": ""
     },
     {
-        "name": "Mis dos amores (1938)",
-        "id": "misdosamores1938",
-        "logo": "",
-        "url": "http://ultrapremium.cloud:8080/movie/961764347tv1/ji847xwg/264134.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "NA TV",
         "id": "natv",
         "logo": "https://i.ibb.co/Tr2b0gV/natv.png",
@@ -36248,16 +35164,6 @@
         "country": ""
     },
     {
-        "name": "UK Sky Cinema Scifi & Horror FHD",
-        "id": "ukskycinemascifihorrorfhd",
-        "logo": "",
-        "url": "http://fortv.cc:8080/markstaine66@gmail.com/M9546541467S/35248",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "US BET (East)",
         "id": "usbeteast",
         "logo": "",
@@ -36578,16 +35484,6 @@
         "country": ""
     },
     {
-        "name": "24/7 A Million Little Things",
-        "id": "247amillionlittlethings",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/183",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 Abstract The Art of Design",
         "id": "247abstracttheartofdesign",
         "logo": "",
@@ -36628,16 +35524,6 @@
         "country": ""
     },
     {
-        "name": "24/7 American Vandal",
-        "id": "247americanvandal",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/270",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 Ancient Aliens",
         "id": "247ancientaliens",
         "logo": "",
@@ -36668,30 +35554,10 @@
         "country": ""
     },
     {
-        "name": "24/7 Beavis and Butt Head",
-        "id": "247beavisandbutthead",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/373",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 Bella and The Bulldogs",
         "id": "247bellaandthebulldogs",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/378",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 Best Burger Recipes by the BBQ Pit Boys",
-        "id": "247bestburgerrecipesbythebbqpitboys",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/397",
         "categories": [
             "general"
         ],
@@ -36722,16 +35588,6 @@
         "id": "247clipped",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/627",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 Dark Angel",
-        "id": "247darkangel",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/734",
         "categories": [
             "general"
         ],
@@ -36822,26 +35678,6 @@
         "id": "247theinflightfoodtrip",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/2930",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 The Jamie Foxx Show",
-        "id": "247thejamiefoxxshow",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/2935",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 The Jim Jefferies Show",
-        "id": "247thejimjefferiesshow",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/2939",
         "categories": [
             "general"
         ],
@@ -36948,16 +35784,6 @@
         "country": ""
     },
     {
-        "name": "24/7 The Little Rascals",
-        "id": "247thelittlerascals",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/2977",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 The Loch",
         "id": "247theloch",
         "logo": "",
@@ -37028,16 +35854,6 @@
         "country": ""
     },
     {
-        "name": "24/7 The Murders",
-        "id": "247themurders",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3011",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 The Name of the Rose",
         "id": "247thenameoftherose",
         "logo": "",
@@ -37088,16 +35904,6 @@
         "country": ""
     },
     {
-        "name": "24/7 The Oath",
-        "id": "247theoath",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3029",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 The Object of Murder",
         "id": "247theobjectofmurder",
         "logo": "",
@@ -37138,50 +35944,10 @@
         "country": ""
     },
     {
-        "name": "24/7 The Passage",
-        "id": "247thepassage",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3043",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 The Quad",
-        "id": "247thequad",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3061",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 The Rain",
         "id": "247therain",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3064",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 The Real Housewives Of Cheshire",
-        "id": "247therealhousewivesofcheshire",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3072",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 The Supremes",
-        "id": "247thesupremes",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3127",
         "categories": [
             "general"
         ],
@@ -37208,16 +35974,6 @@
         "country": ""
     },
     {
-        "name": "24/7 True Detective",
-        "id": "247truedetective",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3249",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 Urban Myths",
         "id": "247urbanmyths",
         "logo": "",
@@ -37232,26 +35988,6 @@
         "id": "247usher",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3307",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 Vera",
-        "id": "247vera",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3319",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 Welcome to Sweden",
-        "id": "247welcometosweden",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3362",
         "categories": [
             "general"
         ],
@@ -37302,26 +36038,6 @@
         "id": "247whatwedointheshadows",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3374",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 What Would Diplo Do",
-        "id": "247whatwoulddiplodo",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3375",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 What's Happening!!",
-        "id": "247whatshappening",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3376",
         "categories": [
             "general"
         ],
@@ -37438,16 +36154,6 @@
         "country": ""
     },
     {
-        "name": "24/7 Wolfblood",
-        "id": "247wolfblood",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3411",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
         "name": "24/7 WWE Wrestling",
         "id": "247wwewrestling",
         "logo": "",
@@ -37492,16 +36198,6 @@
         "id": "247znation",
         "logo": "",
         "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3457",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "24/7 Zoey's Extraordinary Playlist",
-        "id": "247zoeysextraordinaryplaylist",
-        "logo": "",
-        "url": "http://bigfree.xyz:25461/JOIN-FOR-MORE/forum.tfms.xyz/3464",
         "categories": [
             "general"
         ],
@@ -37762,16 +36458,6 @@
         "id": "pornboxrealdirtyvideos",
         "logo": "",
         "url": "http://xxip25.top:8080/VFSUn3vMry/XpeHVhFxH1/160038",
-        "categories": [
-            "general"
-        ],
-        "country": ""
-    },
-    {
-        "name": "STARS EXCLUSIVE: ABELLA DANGER",
-        "id": "starsexclusiveabelladanger",
-        "logo": "",
-        "url": "http://xxip25.top:8080/VFSUn3vMry/XpeHVhFxH1/160049",
         "categories": [
             "general"
         ],
@@ -40042,6 +38728,1316 @@
         "id": "butterflyxo",
         "logo": "",
         "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/619836.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AriHale",
+        "id": "arihale",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/745376.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "UnsealedCoverage",
+        "id": "unsealedcoverage",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/751678.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Japonesa_hott",
+        "id": "japonesahott",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/154448.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sophia_tf",
+        "id": "sophiatf",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/597186.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CoraDiamond",
+        "id": "coradiamond",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/554751.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KennyXSX",
+        "id": "kennyxsx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/681909.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "openmyflower",
+        "id": "openmyflower",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/292839.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "brithany_bridge",
+        "id": "brithanybridge",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/97686.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MarcelineChi",
+        "id": "marcelinechi",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/631521.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "OneInAMillionXXX",
+        "id": "oneinamillionxxx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/472920.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Masbandida553",
+        "id": "masbandida553",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/692882.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Minnie-Micky",
+        "id": "minniemicky",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/747036.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "pamelajackson",
+        "id": "pamelajackson",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/351211.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Baddest_Boobies",
+        "id": "baddestboobies",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/265035.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AnTikaMy",
+        "id": "antikamy",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/436832.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Luna_Lu",
+        "id": "lunalu",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/35394.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "bigpussylipskiss",
+        "id": "bigpussylipskiss",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/122479.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Agaveforests",
+        "id": "agaveforests",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/499044.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "eva-2023",
+        "id": "eva2023",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/84616.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "noasarri",
+        "id": "noasarri",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/754251.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "NiiaMoore",
+        "id": "niiamoore",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/86542.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ashly_pnik1",
+        "id": "ashlypnik1",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/549611.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Lucy_fit",
+        "id": "lucyfit",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/65291.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kate-kaixin",
+        "id": "katekaixin",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/760187.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "nathalyasummer",
+        "id": "nathalyasummer",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/572149.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "alliebennet",
+        "id": "alliebennet",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/744658.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "anie_saenz",
+        "id": "aniesaenz",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/767158.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ArethaOzz",
+        "id": "arethaozz",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/749564.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "alannablair",
+        "id": "alannablair",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/393734.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Anna-688",
+        "id": "anna688",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/180276.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nastywoman4u",
+        "id": "nastywoman4u",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/421062.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "agatha_collins_",
+        "id": "agathacollins",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/50817.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AlannaViera",
+        "id": "alannaviera",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/662165.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "CIccioline_",
+        "id": "ciccioline",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/758540.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ScarStarX",
+        "id": "scarstarx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/618999.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "caata_cata",
+        "id": "caatacata",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/758481.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "luna_cinnamonqs",
+        "id": "lunacinnamonqs",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/767211.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "jannemary",
+        "id": "jannemary",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/183481.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "alicewallflower",
+        "id": "alicewallflower",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/766972.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Real_virgin_Pussy",
+        "id": "realvirginpussy",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/753725.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sophiasloane",
+        "id": "sophiasloane",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/459236.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "xxgreengoodxx",
+        "id": "xxgreengoodxx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/554375.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "JaneJoh",
+        "id": "janejoh",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/751281.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Dulce_Melodia",
+        "id": "dulcemelodia",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/47352.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BlowMommy",
+        "id": "blowmommy",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/37039.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "cloe_spencer_",
+        "id": "cloespencer",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/762264.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "jackie_tk",
+        "id": "jackietk",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/757745.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SweetLucyX",
+        "id": "sweetlucyx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/579462.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "mature_martina",
+        "id": "maturemartina",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/104933.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kailythompson_",
+        "id": "kailythompson",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/751381.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "naia-blesed",
+        "id": "naiablesed",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/39928.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Miss_Milka",
+        "id": "missmilka",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/689888.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "maturexxx_",
+        "id": "maturexxx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/523044.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Marine778",
+        "id": "marine778",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/59249.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hermione_brown",
+        "id": "hermionebrown",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/749764.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "pamelagunns",
+        "id": "pamelagunns",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/35518.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Emily_Hudsson",
+        "id": "emilyhudsson",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/748865.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mia_Novikov",
+        "id": "mianovikov",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/116564.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "IZzyBellxX_",
+        "id": "izzybellxx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/751348.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "hanna_and_samanthaa",
+        "id": "hannaandsamanthaa",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/675778.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MorganHicks",
+        "id": "morganhicks",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/41278.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Eva_Feller69",
+        "id": "evafeller69",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/638557.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sharonurbex",
+        "id": "sharonurbex",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/489714.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SexyGirl-18",
+        "id": "sexygirl18",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/452438.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "maye_wells_",
+        "id": "mayewells",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/677178.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Karamelsw",
+        "id": "karamelsw",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/40435.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TweetiePieXXX",
+        "id": "tweetiepiexxx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/485933.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "trinity_moss",
+        "id": "trinitymoss",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/727077.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "VictoriaRomans",
+        "id": "victoriaromans",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/72942.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "barbara_cambels",
+        "id": "barbaracambels",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/45754.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AlazSanna1",
+        "id": "alazsanna1",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/360524.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Emilyblussh",
+        "id": "emilyblussh",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/766043.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "celeste_evanzz",
+        "id": "celesteevanzz",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/511572.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Monalisa_Don",
+        "id": "monalisadon",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/117681.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fenixheaven",
+        "id": "fenixheaven",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/78937.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DellScarbro",
+        "id": "dellscarbro",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/671540.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "goodgirlbabydoll",
+        "id": "goodgirlbabydoll",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/504257.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Meganlola",
+        "id": "meganlola",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/129384.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Abbeey",
+        "id": "abbeey",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/228621.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "EllaShow93",
+        "id": "ellashow93",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/375555.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "queen_yully",
+        "id": "queenyully",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/100966.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "debbie_hans",
+        "id": "debbiehans",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/636136.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "monttserratt",
+        "id": "monttserratt",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/322571.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "kikabrun",
+        "id": "kikabrun",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/250522.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "bambi_lu",
+        "id": "bambilu",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/453296.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LeandraBaughan",
+        "id": "leandrabaughan",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/753988.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BellaaGrace",
+        "id": "bellaagrace",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/693713.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AlazSanna",
+        "id": "alazsanna",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/346452.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Nastya-29",
+        "id": "nastya29",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/56378.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "TemikaHeilig",
+        "id": "temikaheilig",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/629649.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "soynahid_",
+        "id": "soynahid",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/389631.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "candycox_606",
+        "id": "candycox606",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/560075.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DannaJhonson1",
+        "id": "dannajhonson1",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/406756.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Fitcougar",
+        "id": "fitcougar",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/37609.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LustyNibbles",
+        "id": "lustynibbles",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/489043.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "lilithcb_",
+        "id": "lilithcb",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/638627.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Sexybigass3",
+        "id": "sexybigass3",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/461015.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "LunaRex",
+        "id": "lunarex",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/94982.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Amara_sexyy_",
+        "id": "amarasexyy",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/763866.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "orianaasaenz",
+        "id": "orianaasaenz",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/433463.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "_nannan_",
+        "id": "nannan",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/708563.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Haru_Bonny",
+        "id": "harubonny",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/280386.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "prettytylor",
+        "id": "prettytylor",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/69810.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "chenxi003",
+        "id": "chenxi003",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/738526.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "latanyabarthel",
+        "id": "latanyabarthel",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/599012.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "lia_hottie",
+        "id": "liahottie",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/312991.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "zasmin3",
+        "id": "zasmin3",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/393277.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Samyprincexx",
+        "id": "samyprincexx",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/46194.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MaeWilkins",
+        "id": "maewilkins",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/746693.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "annycolin",
+        "id": "annycolin",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/144891.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "darle_volant",
+        "id": "darlevolant",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/551798.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "KendallJay",
+        "id": "kendalljay",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/577077.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "MidoriQuiinn",
+        "id": "midoriquiinn",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/84214.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "melanyrouse1",
+        "id": "melanyrouse1",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/69037.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DakotaCandy",
+        "id": "dakotacandy",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/681090.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cristal2342",
+        "id": "cristal2342",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/766160.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "EmiliWilliams",
+        "id": "emiliwilliams",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/763271.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Clarita_Hill",
+        "id": "claritahill",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/695943.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "BustyxVixen",
+        "id": "bustyxvixen",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/681892.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "GigiBelli",
+        "id": "gigibelli",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/758861.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "treejeanne",
+        "id": "treejeanne",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/503872.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "emily_as_",
+        "id": "emilyas",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/760846.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Mlleeffy",
+        "id": "mlleeffy",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/168871.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "sweet_____cute",
+        "id": "sweetcute",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/46749.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "cherylfoster_",
+        "id": "cherylfoster",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/102380.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "aura_vega",
+        "id": "auravega",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/759134.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Aphrodite_Magic",
+        "id": "aphroditemagic",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/764646.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Cute_Mango",
+        "id": "cutemango",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/672373.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "ariadna_x1x1x1",
+        "id": "ariadnax1x1x1",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/737338.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Afroditarggenis",
+        "id": "afroditarggenis",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/342168.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": ""
+    },
+    {
+        "name": "SherryBoone",
+        "id": "sherryboone",
+        "logo": "",
+        "url": "https://xc.adultiptv.net/live/918373tiago/918373tiago/758555.m3u8",
         "categories": [
             "general"
         ],

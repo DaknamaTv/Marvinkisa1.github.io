@@ -540,16 +540,6 @@
         "country": ""
     },
     {
-        "name": "PL: teleTOON  HD",
-        "id": "plteletoonhd",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMY1CLxYc8cjUSzKnRozfipo4BbhJ3sJbFWnR19zJElr3YngRJ8SugI3WBQjNr55EpaQ&usqp=CAU",
-        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17258.ts",
-        "categories": [
-            "poland"
-        ],
-        "country": ""
-    },
-    {
         "name": "PL: DISCO POLO MUSIC",
         "id": "pldiscopolomusic",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/2368.jpg?41547",
@@ -574,6 +564,46 @@
         "id": "plh2hd",
         "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9715.jpg?19115",
         "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309857",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: Disney Channel HD",
+        "id": "pldisneychannelhd",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR965YmFGMfM0s7yWEyF4j5q1fBOrnFBIli-TkFIKZegX3SIqh_4PTL6YYMpuoWCL60bUQ&usqp=CAU",
+        "url": "http://planetline.xyz:80/teso.lukic/televizijatelevizija/17187.ts",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: NATIONAL GEOGRAPHIC HD",
+        "id": "plnationalgeographichd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/616.png?34589",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309877",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL : Romance TV",
+        "id": "plromancetv",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/9862.jpg?54612",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309989",
+        "categories": [
+            "poland"
+        ],
+        "country": ""
+    },
+    {
+        "name": "PL: CANAL+ SPORT 2 HD",
+        "id": "plcanalsport2hd",
+        "logo": "http://vod-logo.go4k.me/stalker_portal/misc/logos/320/6332.jpg?6448",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/309900",
         "categories": [
             "poland"
         ],

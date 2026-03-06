@@ -200,16 +200,6 @@
         "country": ""
     },
     {
-        "name": "3sat HD DE",
-        "id": "3sathdde",
-        "logo": "http://tugapt.com/picons/3sathdde.png",
-        "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/2565",
-        "categories": [
-            "germany"
-        ],
-        "country": ""
-    },
-    {
         "name": "National Geographic DE",
         "id": "nationalgeographicde",
         "logo": "http://tugapt.com/picons/nationalgeographicde.png",
@@ -474,6 +464,16 @@
         "id": "serieaxpeterpanfhdde",
         "logo": "",
         "url": "http://edinpajalic.streamtv.to:8080/sasodaniel2/GTG53de3f3erFR/118276",
+        "categories": [
+            "germany"
+        ],
+        "country": ""
+    },
+    {
+        "name": "DE: SKY DOCUMENTARIES FHD",
+        "id": "deskydocumentariesfhd",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sky_Documentaries_Logo_2020.png",
+        "url": "http://nxtplay.xyz:8080/vgPssGX4/ed45AYPb/310685",
         "categories": [
             "germany"
         ],
