@@ -90,16 +90,6 @@
         "country": "PA"
     },
     {
-        "name": "Radio Ancon",
-        "id": "RadioAncon.pa",
-        "logo": "https://i.imgur.com/xum8PNe.jpg",
-        "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PA"
-    },
-    {
         "name": "Planet 100.9 FM",
         "id": "Planet1009FM.pa",
         "logo": "https://i.imgur.com/8ZIBs8l.png",
@@ -110,10 +100,10 @@
         "country": "PA"
     },
     {
-        "name": "Fabulosa Estereo 100.5 FM",
-        "id": "FabulosaEstereo1005FM.pa",
-        "logo": "https://i.imgur.com/YFmzkOp.png",
-        "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+        "name": "Super Q Panama",
+        "id": "SuperQPanama.pa",
+        "logo": "https://i.imgur.com/ocTnqi7.png",
+        "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
         "categories": [
             "music"
         ],

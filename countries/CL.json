@@ -700,14 +700,6 @@
         "country": "CL"
     },
     {
-        "name": "Thema Television",
-        "id": "ThemaTelevision.cl",
-        "logo": "https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png",
-        "url": "https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Telecanal",
         "id": "Telecanal.cl",
         "logo": "https://i.imgur.com/3g6SbSt.png",
@@ -794,16 +786,6 @@
         "url": "https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "La Clave",
-        "id": "LaClave.cl",
-        "logo": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
-        "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "CL"
     },
@@ -1609,32 +1591,12 @@
         "country": "CL"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Radio El Sembrador",
         "id": "RadioElSembrador.cl",
         "logo": "https://i.imgur.com/gBpMAc3.png",
         "url": "https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Radio Frecuencia Uno",
-        "id": "RadioFrecuenciaUno.cl",
-        "logo": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
-        "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1665,26 +1627,6 @@
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Cooperativa",
-        "id": "Cooperativa.cl",
-        "logo": "https://cdn.m3u.cl/logo/422_Cooperativa.png",
-        "url": "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Zona Play TV",
-        "id": "ZonaPlayTV.cl",
-        "logo": "https://i.imgur.com/GewcpHv.png",
-        "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "CL"
     },
@@ -1721,16 +1663,6 @@
         "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Juntos TV",
-        "id": "JuntosTV.cl",
-        "logo": "https://i.imgur.com/U62q2eM.png",
-        "url": "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CL"
     },
@@ -1866,6 +1798,16 @@
         "logo": "https://i.imgur.com/kBRbCUb.png",
         "url": "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8",
         "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "CL"
     }
 ]

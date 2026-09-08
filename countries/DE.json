@@ -1047,16 +1047,6 @@
         "country": "DE"
     },
     {
-        "name": "Sky Sport Top Event",
-        "id": "SkySportTopEvent.de",
-        "logo": "https://i.imgur.com/kQ6cVNx.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Zwei Music Television",
         "id": "ZweiMusicTelevision.de",
         "logo": "https://i.imgur.com/RbdpCNf.png",
@@ -1226,44 +1216,6 @@
         "logo": "https://i.imgur.com/G0cImlU.png",
         "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
         "categories": [],
-        "country": "DE"
-    },
-    {
-        "name": "Funny AF",
-        "id": "FunnyAF.de",
-        "logo": "https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8",
-        "categories": [
-            "comedy"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "labor14",
-        "id": "labor14.de",
-        "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
-        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
-        "categories": [],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Kids",
-        "id": "PlutoTVKids.de",
-        "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
-        "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Reality",
-        "id": "PlutoTVReality.de",
-        "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8",
-        "categories": [
-            "entertainment"
-        ],
         "country": "DE"
     }
 ]

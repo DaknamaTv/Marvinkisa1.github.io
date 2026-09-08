@@ -494,14 +494,6 @@
         "country": "GR"
     },
     {
-        "name": "Ecclesia TV",
-        "id": "EcclesiaTV.gr",
-        "logo": "https://i.imgur.com/QQSSMZx.png",
-        "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
-        "categories": [],
-        "country": "GR"
-    },
-    {
         "name": "Baraza TV",
         "id": "BarazaTV.gr",
         "logo": "https://i.imgur.com/TZ1unwF.png",
@@ -570,31 +562,13 @@
         "country": "GR"
     },
     {
-        "name": "4E",
-        "id": "4E.gr",
-        "logo": "https://i.imgur.com/Na0UCV7.png",
-        "url": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "DELTA TV",
-        "id": "DELTATV.gr",
-        "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
-        "url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+        "name": "Lepanto TV",
+        "id": "LepantoTV.gr",
+        "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
+        "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
         "categories": [
             "general"
         ],
-        "country": "GR"
-    },
-    {
-        "name": "Faros TV2",
-        "id": "FarosTV2.gr",
-        "logo": "https://i.imgur.com/7xtz1Jo.png",
-        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
-        "categories": [],
         "country": "GR"
     }
 ]

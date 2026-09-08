@@ -140,16 +140,6 @@
         "country": "BO"
     },
     {
-        "name": "TVU Sucre",
-        "id": "TVUSucre.bo",
-        "logo": "https://i.imgur.com/7c0b4Y4.png",
-        "url": "https://edge.enhdtv.com/8214/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Unifranz",
         "id": "Unifranz.bo",
         "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
@@ -208,16 +198,6 @@
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Radio Clasica TV",
-        "id": "RadioClasicaTV.bo",
-        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
-        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "BO"
     },
@@ -327,16 +307,6 @@
         "id": "ImperialTV.bo",
         "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
         "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Palenque TV",
-        "id": "PalenqueTV.bo",
-        "logo": "https://i.imgur.com/wAIBvaO.png",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "categories": [
             "general"
         ],
@@ -513,6 +483,50 @@
         "id": "VosTV.bo",
         "logo": "https://i.imgur.com/Cm1Xjeq.png",
         "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "FAP TV",
+        "id": "FAPTV.bo",
+        "logo": "https://i.imgur.com/jZ7g58e.png",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Gigavision",
+        "id": "Gigavision.bo",
+        "logo": "https://i.imgur.com/fE3BkcT.png",
+        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "RedADvenir TV",
+        "id": "RedADvenirTV.bo",
+        "logo": "https://i.imgur.com/970zAEn.png",
+        "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "SPC Canal 15",
+        "id": "SPCCanal15.bo",
+        "logo": "https://i.imgur.com/8GzjELt.jpeg",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "TL Estrella",
+        "id": "TLEstrella.bo",
+        "logo": "",
+        "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
         "categories": [],
         "country": "BO"
     }

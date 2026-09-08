@@ -1586,16 +1586,6 @@
         "country": "RU"
     },
     {
-        "name": "Sportivnyy",
-        "id": "Sportivnyy.ru",
-        "logo": "https://i.imgur.com/ujS6mMo.png",
-        "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Vitrina TV",
         "id": "VitrinaTV.ru",
         "logo": "https://i.imgur.com/lzQsVfn.png",
@@ -3087,12 +3077,13 @@
         "country": "RU"
     },
     {
-        "name": "SONGTV Russia",
-        "id": "SONGTVRussia.ru",
-        "logo": "https://i.imgur.com/nM7LbmV.png",
-        "url": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+        "name": "City Eden TV",
+        "id": "CityEdenTV.ru",
+        "logo": "https://i.imgur.com/X9kACKi.png",
+        "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
         "categories": [
-            "music"
+            "general",
+            "religious"
         ],
         "country": "RU"
     }

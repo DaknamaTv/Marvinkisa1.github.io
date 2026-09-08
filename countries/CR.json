@@ -68,14 +68,6 @@
         "country": "CR"
     },
     {
-        "name": "Quince UCR",
-        "id": "QuinceUCR.cr",
-        "logo": "https://i.imgur.com/U7DUlem.png",
-        "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
-        "categories": [],
-        "country": "CR"
-    },
-    {
         "name": "San Jose TV",
         "id": "SanJoseTV.cr",
         "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
@@ -524,17 +516,6 @@
         "url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "Gex TV",
-        "id": "GexTV.cr",
-        "logo": "https://gextv.com/LOGO-WHITE.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
-        "categories": [
-            "music",
-            "entertainment"
         ],
         "country": "CR"
     },

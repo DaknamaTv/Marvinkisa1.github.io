@@ -1,5 +1,17 @@
 [
     {
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "categories": [
+            "public",
+            "education",
+            "culture"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "3CatInfo",
         "id": "3CatInfo.es",
         "logo": "https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",

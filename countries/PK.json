@@ -355,16 +355,6 @@
         "country": "PK"
     },
     {
-        "name": "Aik News",
-        "id": "AikNews.pk",
-        "logo": "https://i.imgur.com/svPXoAP.png",
-        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "A-Plus TV",
         "id": "APlusTV.pk",
         "logo": "https://i.imgur.com/uu0UJme.png",
@@ -396,11 +386,13 @@
         "country": "PK"
     },
     {
-        "name": "Zindagi TV",
-        "id": "ZindagiTV.pk",
-        "logo": "https://i.imgur.com/XBHvR5J.png",
-        "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
-        "categories": [],
+        "name": "Such TV",
+        "id": "SuchTV.pk",
+        "logo": "https://i.imgur.com/yYMh3JJ.png",
+        "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "PK"
     }
 ]

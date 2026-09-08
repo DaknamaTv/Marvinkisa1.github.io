@@ -40,6 +40,16 @@
         "country": "BG"
     },
     {
+        "name": "ARDB TV",
+        "id": "ARDBTV.kh",
+        "logo": "https://i.imgur.com/yOncWla.png",
+        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "KH"
+    },
+    {
         "name": "Ohotnik i rybolov",
         "id": "Ohotnikirybolov.ru",
         "logo": "https://i.imgur.com/Bj1jI7F.png",
@@ -149,6 +159,16 @@
             "outdoor"
         ],
         "country": "BR"
+    },
+    {
+        "name": "Productiva TV",
+        "id": "ProductivaTV.py",
+        "logo": "https://i.imgur.com/KXHK7UP.png",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+        "categories": [
+            "outdoor"
+        ],
+        "country": "PY"
     },
     {
         "name": "Agro TV",
@@ -288,49 +308,6 @@
         "id": "OutsideTV.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/960px-HSN_logo.svg.png",
         "url": "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Backcountry",
-        "id": "PlutoTVBackcountry.us",
-        "logo": "https://i.imgur.com/KnlQzs7.png",
-        "url": "https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Monster Jam",
-        "id": "MonsterJam.us",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
-        "url": "https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8",
-        "categories": [
-            "sports",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Adventure",
-        "id": "PlutoTVAdventure.us",
-        "logo": "https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8",
-        "categories": [
-            "entertainment",
-            "series",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Spike Outdoors",
-        "id": "SpikeOutdoors.us",
-        "logo": "https://i.imgur.com/cdCD2A2.png",
-        "url": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
         "categories": [
             "outdoor"
         ],

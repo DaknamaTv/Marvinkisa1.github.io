@@ -312,16 +312,6 @@
         "country": "PE"
     },
     {
-        "name": "LotPlus TV",
-        "id": "LotPlusTV.pe",
-        "logo": "https://i.imgur.com/gBbCDCL.png",
-        "url": "https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "ATV+",
         "id": "ATVPlus.pe",
         "logo": "https://i.imgur.com/fY9256H.png",
@@ -1062,10 +1052,50 @@
         "country": "PE"
     },
     {
-        "name": "Top TV",
-        "id": "TopTV.pe",
-        "logo": "https://i.imgur.com/tiNvihZ.png",
-        "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+        "name": "Galactica TV",
+        "id": "GalacticaTV.pe",
+        "logo": "https://i.imgur.com/byL1zCV.jpeg",
+        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "NZK Television",
+        "id": "NZKTelevision.pe",
+        "logo": "https://i.imgur.com/IqsB6VR.jpeg",
+        "url": "https://eu1.servers10.com:8081/8258/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Trivu",
+        "id": "Trivu.pe",
+        "logo": "https://i.imgur.com/QrUYjOS.png",
+        "url": "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8",
         "categories": [
             "general"
         ],

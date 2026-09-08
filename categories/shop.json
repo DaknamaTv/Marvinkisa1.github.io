@@ -376,16 +376,6 @@
         "country": "US"
     },
     {
-        "name": "QVC",
-        "id": "QVC.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
-        "url": "https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8",
-        "categories": [
-            "shop"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Tea TV",
         "id": "TeaTV.vn",
         "logo": "https://i.imgur.com/WorbnyD.jpg",
@@ -570,6 +560,16 @@
         "id": "ETMall60.tw",
         "logo": "https://i.imgur.com/nvm6dyH.png",
         "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8",
+        "categories": [
+            "shop"
+        ],
+        "country": "TW"
+    },
+    {
+        "name": "MOMO TV",
+        "id": "MOMOTV.tw",
+        "logo": "https://m.momoshop.com.tw/img/message.png",
+        "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
         "categories": [
             "shop"
         ],

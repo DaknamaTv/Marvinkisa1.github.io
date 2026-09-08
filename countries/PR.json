@@ -48,14 +48,6 @@
         "country": "PR"
     },
     {
-        "name": "Pura Palabra",
-        "id": "PuraPalabra.pr",
-        "logo": "https://i.imgur.com/nl5vyIw.png",
-        "url": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8",
-        "categories": [],
-        "country": "PR"
-    },
-    {
         "name": "WELU 8.1",
         "id": "WELU81.pr",
         "logo": "https://i.imgur.com/42UdwD0.png",
@@ -218,16 +210,6 @@
         "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "PR"
-    },
-    {
-        "name": "CAtv",
-        "id": "CAtv.pr",
-        "logo": "https://caribbeanadvantage.com/images/CAtv-logo-512.png",
-        "url": "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "PR"
     },

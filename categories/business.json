@@ -459,6 +459,16 @@
         "country": "UK"
     },
     {
+        "name": "Le Nouveau Manager TV",
+        "id": "LeNouveauManagerTV.bj",
+        "logo": "https://i.imgur.com/pEoOtEf.jpeg",
+        "url": "https://lnmlive.com/live/lnmtv.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "BJ"
+    },
+    {
         "name": "Bloomberg TV Asia (720p)",
         "id": "bloombergtvasia720p",
         "logo": "https://i.imgur.com/OuogLHx.png",

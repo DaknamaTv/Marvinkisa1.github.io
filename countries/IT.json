@@ -1360,16 +1360,6 @@
         "country": "IT"
     },
     {
-        "name": "Promovideo TV",
-        "id": "PromovideoTV.it",
-        "logo": "https://i.imgur.com/eKpS5Ck.png",
-        "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Stereo 5 TV",
         "id": "Stereo5TV.it",
         "logo": "https://i.imgur.com/sCDcYFW.png",
@@ -1608,26 +1598,6 @@
         "country": "IT"
     },
     {
-        "name": "A2i TV",
-        "id": "A2iTV.it",
-        "logo": "https://i.imgur.com/YlDFir7.jpg",
-        "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Giovanni Paolo TV",
-        "id": "GiovanniPaoloTV.it",
-        "logo": "",
-        "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "TV Yes Italia",
         "id": "TVYesItalia.it",
         "logo": "https://i.imgur.com/3CDxatu.png",
@@ -1692,6 +1662,24 @@
         "id": "RadioIglesias.it",
         "logo": "https://i.imgur.com/2OXQpZM.png",
         "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+        "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "Etna Espresso Channel",
+        "id": "EtnaEspressoChannel.it",
+        "logo": "https://i.imgur.com/lSI5QgV.png",
+        "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "TeleTusciaSabina 2000",
+        "id": "TeleTusciaSabina2000.it",
+        "logo": "https://i.imgur.com/cfexNL9.png",
+        "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8",
         "categories": [],
         "country": "IT"
     }

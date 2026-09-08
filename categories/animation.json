@@ -292,31 +292,10 @@
         "country": "US"
     },
     {
-        "name": "Crunchyroll",
-        "id": "Crunchyroll.us",
-        "logo": "https://i.imgur.com/2FlIQUO.png",
-        "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nickelodeon Pluto TV",
-        "id": "NickelodeonPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Anime",
-        "id": "PlutoTVAnime.us",
-        "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
-        "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
+        "name": "One Piece",
+        "id": "OnePiece.us",
+        "logo": "https://i.imgur.com/XsvbAWR.png",
+        "url": "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8",
         "categories": [
             "animation"
         ],

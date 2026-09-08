@@ -270,16 +270,6 @@
         "country": ""
     },
     {
-        "name": "ICC Plus (1080p)",
-        "id": "iccplus1080p",
-        "logo": "",
-        "url": "https://icchls.wns.live/hls/stream.m3u8",
-        "categories": [
-            "wnslive"
-        ],
-        "country": ""
-    },
-    {
         "name": "icnet 3",
         "id": "icnet3",
         "logo": "",

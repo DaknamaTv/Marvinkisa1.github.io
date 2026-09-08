@@ -261,6 +261,18 @@
         "country": "BR"
     },
     {
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "categories": [
+            "public",
+            "education",
+            "culture"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Kite Victers",
         "id": "KiteVicters.in",
         "logo": "https://i.imgur.com/kj4OEsb.png",
@@ -769,16 +781,6 @@
         "id": "TUTV.us",
         "logo": "https://i.imgur.com/At0BPeA.png",
         "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Gillette Public Access Television Channel 189",
-        "id": "GillettePublicAccessTelevisionChannel189.us",
-        "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-        "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8",
         "categories": [
             "education"
         ],

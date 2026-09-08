@@ -432,16 +432,6 @@
         "country": "EC"
     },
     {
-        "name": "America Estereo Guayaquil",
-        "id": "AmericaEstereoGuayaquil.ec",
-        "logo": "https://i.imgur.com/gUqKymM.png",
-        "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Oromar TV+",
         "id": "OromarTVPlus.ec",
         "logo": "https://oromartv.com/images/OTV400.png",
@@ -548,16 +538,6 @@
         "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "EC"
-    },
-    {
-        "name": "Gaviota TV",
-        "id": "GaviotaTV.ec",
-        "logo": "https://i.imgur.com/1vlZA6O.png",
-        "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "EC"
     },

@@ -391,24 +391,6 @@
         "country": "IQ"
     },
     {
-        "name": "Al Iraqia News",
-        "id": "AlIraqiaNews.iq",
-        "logo": "https://i.imgur.com/feQTXeZ.jpg",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Al-Naeem TV",
-        "id": "AlNaeemTV.iq",
-        "logo": "https://i.imgur.com/JyWjfIB.png",
-        "url": "http://37.238.136.61/hls/stream.m3u8",
-        "categories": [],
-        "country": "IQ"
-    },
-    {
         "name": "Al Rasheed TV",
         "id": "AlRasheedTV.iq",
         "logo": "https://i.imgur.com/ltyRjPK.png",
@@ -439,26 +421,6 @@
         "country": "IQ"
     },
     {
-        "name": "Al Iraqia Sport",
-        "id": "AlIraqiaSport.iq",
-        "logo": "https://i.imgur.com/DrrlxTO.png",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IQ"
-    },
-    {
-        "name": "Al Janoub TV",
-        "id": "AlJanoubTV.iq",
-        "logo": "https://i.imgur.com/rxDh6W1.png",
-        "url": "https://live.alissahost.net/hls/test.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "Ishtar TV",
         "id": "IshtarTV.iq",
         "logo": "https://i.imgur.com/qzApokm.png",
@@ -466,6 +428,16 @@
         "categories": [
             "culture",
             "music",
+            "religious"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al-Jawadain TV",
+        "id": "AlJawadainTV.iq",
+        "logo": "https://i.imgur.com/Eo3UYCK.png",
+        "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+        "categories": [
             "religious"
         ],
         "country": "IQ"

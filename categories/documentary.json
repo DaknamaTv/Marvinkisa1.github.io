@@ -487,16 +487,6 @@
         "country": "CL"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Dvojka",
         "id": "Dvojka.sk",
         "logo": "https://i.imgur.com/ft10wQn.png",
@@ -755,56 +745,6 @@
         "id": "History.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
         "url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Forensic Files",
-        "id": "ForensicFiles.us",
-        "logo": "https://i.imgur.com/V5vvuLK.png",
-        "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Ink Master",
-        "id": "InkMaster.us",
-        "logo": "https://i.imgur.com/DiBojYh.png",
-        "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Investigacao",
-        "id": "PlutoTVInvestigacao.us",
-        "logo": "https://i.imgur.com/JlQq0YJ.png",
-        "url": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Paranormal",
-        "id": "PlutoTVParanormal.us",
-        "logo": "https://i.imgur.com/ApN6nfw.png",
-        "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Spike Pluto TV",
-        "id": "SpikePlutoTV.us",
-        "logo": "https://i.imgur.com/woY8Ecb.png",
-        "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
         "categories": [
             "documentary"
         ],

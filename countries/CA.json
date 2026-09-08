@@ -786,16 +786,6 @@
         "country": "CA"
     },
     {
-        "name": "C Malayalam TV",
-        "id": "CMalayalamTV.ca",
-        "logo": "https://i.imgur.com/rpg0bQA.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "5AAB TV",
         "id": "5AABTV.ca",
         "logo": "https://i.imgur.com/jrGrfof.png",
@@ -811,16 +801,6 @@
         "logo": "",
         "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
         "categories": [],
-        "country": "CA"
-    },
-    {
-        "name": "ZenLIFE by Stingray",
-        "id": "ZenLIFEbyStingray.ca",
-        "logo": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
-        "url": "https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8",
-        "categories": [
-            "relax"
-        ],
         "country": "CA"
     },
     {
@@ -840,26 +820,6 @@
         "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Stingray DJAZZ",
-        "id": "StingrayDJAZZ.ca",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-        "url": "https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Stingray Naturescape",
-        "id": "StingrayNaturescape.ca",
-        "logo": "https://i.imgur.com/882kd90.png",
-        "url": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "CA"
     }
