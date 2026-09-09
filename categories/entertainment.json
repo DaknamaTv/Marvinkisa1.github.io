@@ -588,6 +588,16 @@
         "country": "DO"
     },
     {
+        "name": "TVS",
+        "id": "TVS.do",
+        "logo": "https://i.imgur.com/a2YX1oj.jpg",
+        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "EVI TV",
         "id": "EVITV.cd",
         "logo": "https://i.imgur.com/fBc9JSM.png",
@@ -1596,16 +1606,6 @@
         "country": "IN"
     },
     {
-        "name": "Siri Kannada All Time",
-        "id": "SiriKannadaAllTime.in",
-        "logo": "https://i.imgur.com/IR0BrEX.jpeg",
-        "url": "https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Spondon",
         "id": "Spondon.in",
         "logo": "https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png",
@@ -1786,12 +1786,13 @@
         "country": "PY"
     },
     {
-        "name": "Oasis TV",
-        "id": "OasisTV.py",
-        "logo": "https://i.imgur.com/u9umNKp.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "categories": [
-            "entertainment"
+            "entertainment",
+            "music"
         ],
         "country": "PY"
     },
@@ -1962,16 +1963,6 @@
         "id": "MovistarPlus.pe",
         "logo": "https://i.imgur.com/yGQGDoi.png",
         "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Kora TV",
-        "id": "KoraTV.pe",
-        "logo": "https://i.imgur.com/ahBYv4x.png",
-        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2179,6 +2170,16 @@
         "country": "CL"
     },
     {
+        "name": "Zona Play TV",
+        "id": "ZonaPlayTV.cl",
+        "logo": "https://i.imgur.com/GewcpHv.png",
+        "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Jim",
         "id": "Jim.fi",
         "logo": "https://i.imgur.com/PkMgY0K.png",
@@ -2292,6 +2293,16 @@
         "country": "AR"
     },
     {
+        "name": "Canal Pulpo TV",
+        "id": "CanalPulpoTV.ar",
+        "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+        "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "BTV",
         "id": "BTV.ug",
         "logo": "https://i.imgur.com/rcHZ1al.png",
@@ -2391,6 +2402,17 @@
         "logo": "https://i.imgur.com/ti5Fg5D.png",
         "url": "https://latamvdo.com:3626/hybrid/play.m3u8",
         "categories": [
+            "entertainment"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Gex TV",
+        "id": "GexTV.cr",
+        "logo": "https://gextv.com/LOGO-WHITE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "categories": [
+            "music",
             "entertainment"
         ],
         "country": "CR"
@@ -3316,6 +3338,46 @@
         "country": "US"
     },
     {
+        "name": "Heartland",
+        "id": "Heartland.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg",
+        "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MTV Con Mi Ex",
+        "id": "MTVConMiEx.us",
+        "logo": "https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MTV Ridiculousness",
+        "id": "MTVRidiculousness.us",
+        "logo": "https://i.imgur.com/GIKkbjT.png",
+        "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Tough Jobs",
+        "id": "ToughJobs.us",
+        "logo": "https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
         "name": "La Une",
         "id": "LaUne.be",
         "logo": "https://i.imgur.com/jMwZp7z.png",
@@ -3380,16 +3442,6 @@
         "id": "InterTV.ve",
         "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
         "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Maxima TV",
-        "id": "MaximaTV.ve",
-        "logo": "https://i.imgur.com/HMZRVL5.jpeg",
-        "url": "https://maximatv.net/hls/stream.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -4200,6 +4252,16 @@
         "id": "TR24Television.cm",
         "logo": "https://i.ibb.co/fQrBY1M/tr24-telepack.jpg",
         "url": "https://stream.it-innov.com/tr24/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CM"
+    },
+    {
+        "name": "PLEX TV",
+        "id": "PLEXTV.cm",
+        "logo": "https://i.ibb.co/H4VktvG/Plex-TV-237.jpg",
+        "url": "http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],

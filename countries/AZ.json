@@ -108,5 +108,15 @@
             "general"
         ],
         "country": "AZ"
+    },
+    {
+        "name": "KN Music TV",
+        "id": "KNMusicTV.az",
+        "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+        "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AZ"
     }
 ]

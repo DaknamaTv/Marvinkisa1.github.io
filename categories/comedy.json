@@ -361,11 +361,12 @@
         "country": "US"
     },
     {
-        "name": "Sitcom Legends",
-        "id": "SitcomLegends.us",
-        "logo": "https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8",
+        "name": "South Park: Colecao Kyle",
+        "id": "SouthParkColecaoKyle.us",
+        "logo": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
         "categories": [
+            "animation",
             "comedy"
         ],
         "country": "US"
@@ -453,11 +454,12 @@
         "country": "MX"
     },
     {
-        "name": "Tosh.0",
-        "id": "Tosh0.se",
-        "logo": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8",
+        "name": "Pluto TV Humor",
+        "id": "PlutoTVHumor.se",
+        "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
         "categories": [
+            "movies",
             "comedy"
         ],
         "country": "SE"

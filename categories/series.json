@@ -243,6 +243,26 @@
         "country": "DE"
     },
     {
+        "name": "Beverly Hills 90210",
+        "id": "BeverlyHills90210.de",
+        "logo": "https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Serie",
+        "id": "PlutoTVSerie.de",
+        "logo": "https://i.imgur.com/u3c80e8.png",
+        "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "13T",
         "id": "13T.cl",
         "logo": "https://i.imgur.com/csBNi2L.png",
@@ -880,20 +900,40 @@
         "country": "US"
     },
     {
-        "name": "CSI: Miami",
-        "id": "CSIMiami.us",
-        "logo": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8",
+        "name": "Farscape",
+        "id": "Farscape.us",
+        "logo": "https://i.imgur.com/2WH4lSc.png",
+        "url": "https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8",
         "categories": [
             "series"
         ],
         "country": "US"
     },
     {
-        "name": "MTV Com o Ex",
-        "id": "MTVComoEx.us",
-        "logo": "https://i.imgur.com/sWqnNPm.png",
-        "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8",
+        "name": "Kenan & Kel",
+        "id": "KenanKel.us",
+        "logo": "https://i.imgur.com/9PAY5Xz.png",
+        "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Dog el cazarrecompensas",
+        "id": "PlutoTVDogelcazarrecompensas.us",
+        "logo": "https://i.imgur.com/h3kSZLc.png",
+        "url": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Sin tetas no hay paraiso",
+        "id": "Sintetasnohayparaiso.us",
+        "logo": "https://i.imgur.com/fpwU2IQ.png",
+        "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8",
         "categories": [
             "series"
         ],

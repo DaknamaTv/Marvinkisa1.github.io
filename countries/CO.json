@@ -604,16 +604,6 @@
         "country": "CO"
     },
     {
-        "name": "TeleQuindio",
-        "id": "TeleQuindio.co",
-        "logo": "https://i.imgur.com/bJWj5ja.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal Oracion Con Son",
         "id": "CanalOracionConSon.co",
         "logo": "https://i.imgur.com/rfnFqU3.png",
@@ -765,32 +755,12 @@
         "country": "CO"
     },
     {
-        "name": "UMC TV",
-        "id": "UMCTV.co",
-        "logo": "https://i.imgur.com/YQUK4wO.png",
-        "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "TeveColombia",
         "id": "TeveColombia.co",
         "logo": "https://i.imgur.com/vPwiJTw.png",
         "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Canal CHD",
-        "id": "CanalCHD.co",
-        "logo": "https://i.imgur.com/cNv1MPs.jpeg",
-        "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "CO"
     },
@@ -859,16 +829,6 @@
         "id": "CNCBugavision.co",
         "logo": "https://i.imgur.com/zJAwnvd.png",
         "url": "https://video.ejeserver.com/live/cncbuga.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Tele Mocoa Canal 10",
-        "id": "TeleMocoaCanal10.co",
-        "logo": "https://i.imgur.com/XHtpEfu.png",
-        "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
         "categories": [
             "general"
         ],

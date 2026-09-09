@@ -292,12 +292,13 @@
         "country": "US"
     },
     {
-        "name": "One Piece",
-        "id": "OnePiece.us",
-        "logo": "https://i.imgur.com/XsvbAWR.png",
-        "url": "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8",
+        "name": "South Park: Colecao Kyle",
+        "id": "SouthParkColecaoKyle.us",
+        "logo": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
         "categories": [
-            "animation"
+            "animation",
+            "comedy"
         ],
         "country": "US"
     },

@@ -566,16 +566,6 @@
         "country": "RO"
     },
     {
-        "name": "Kapital TV",
-        "id": "KapitalTV.ro",
-        "logo": "https://i.imgur.com/Q1PYwkZ.png",
-        "url": "https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Kiss TV",
         "id": "KissTV.ro",
         "logo": "https://i.imgur.com/NKfVymH.png",
@@ -636,16 +626,6 @@
         "country": "RO"
     },
     {
-        "name": "Arges TV",
-        "id": "ArgesTV.ro",
-        "logo": "https://i.imgur.com/qufz6nk.png",
-        "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Super TV",
         "id": "SuperTV.ro",
         "logo": "https://i.imgur.com/pzxUE0O.png",
@@ -700,16 +680,6 @@
         "url": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
         "categories": [
             "series"
-        ],
-        "country": "RO"
-    },
-    {
-        "name": "Radio Romania Antena Satelor",
-        "id": "RadioRomaniaAntenaSatelor.ro",
-        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "RO"
     },

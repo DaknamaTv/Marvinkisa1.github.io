@@ -117,6 +117,16 @@
         "country": "DO"
     },
     {
+        "name": "Guaymate TV",
+        "id": "GuaymateTV.do",
+        "logo": "https://i.imgur.com/PBgQi9a.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Abai TV",
         "id": "AbaiTV.kz",
         "logo": "https://i.imgur.com/Nw2R7Dq.png",
@@ -854,16 +864,6 @@
         "country": "FR"
     },
     {
-        "name": "Ev-tele",
-        "id": "Evtele.cg",
-        "logo": "https://i.imgur.com/iBlXl2T.png",
-        "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CG"
-    },
-    {
         "name": "Bonaire.tv",
         "id": "Bonairetv.bq",
         "logo": "https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png",
@@ -905,6 +905,16 @@
             "culture"
         ],
         "country": "HU"
+    },
+    {
+        "name": "Belarus-3",
+        "id": "Belarus3.by",
+        "logo": "https://i.imgur.com/JkcDycn.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "BY"
     },
     {
         "name": "RTB 3",
@@ -1259,6 +1269,16 @@
         "id": "DoyelTV.ca",
         "logo": "https://i.imgur.com/8pR8Q4J.png",
         "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "C Malayalam TV",
+        "id": "CMalayalamTV.ca",
+        "logo": "https://i.imgur.com/rpg0bQA.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
         "categories": [
             "culture"
         ],

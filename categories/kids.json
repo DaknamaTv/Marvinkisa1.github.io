@@ -180,6 +180,16 @@
         "country": "TR"
     },
     {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Tiguerito TV",
         "id": "TigueritoTV.do",
         "logo": "https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg",
@@ -712,6 +722,16 @@
         "country": "DE"
     },
     {
+        "name": "Bob l'eponge",
+        "id": "Bobleponge.de",
+        "logo": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "13 Kids",
         "id": "13Kids.cl",
         "logo": "https://i.imgur.com/8WJUbSD.png",
@@ -1232,6 +1252,16 @@
         "id": "SmurfTV.us",
         "logo": "https://img.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/EJIyYyBMkbW5UntSCAkGp-uLla7Z8KWHvDjyEqoOf3k.jpg",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nickelodeon Clasico",
+        "id": "NickelodeonClasico.us",
+        "logo": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png",
+        "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
         "categories": [
             "kids"
         ],

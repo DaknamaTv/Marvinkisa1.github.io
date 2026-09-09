@@ -1210,26 +1210,6 @@
         "country": "IT"
     },
     {
-        "name": "Lombardia TV",
-        "id": "LombardiaTV.it",
-        "logo": "https://i.imgur.com/frVhm9q.png",
-        "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Prima TV",
-        "id": "PrimaTV.it",
-        "logo": "https://i.imgur.com/HE9c8Sk.png",
-        "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Rete 55",
         "id": "Rete55.it",
         "logo": "https://i.imgur.com/UtS9YLc.png",
@@ -1681,6 +1661,16 @@
         "logo": "https://i.imgur.com/cfexNL9.png",
         "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8",
         "categories": [],
+        "country": "IT"
+    },
+    {
+        "name": "A2i TV",
+        "id": "A2iTV.it",
+        "logo": "https://i.imgur.com/YlDFir7.jpg",
+        "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "IT"
     }
 ]

@@ -1552,14 +1552,6 @@
         "country": "ES"
     },
     {
-        "name": "Vision 6 TV",
-        "id": "Vision6TV.es",
-        "logo": "https://i.imgur.com/TB1wMQ7.jpg",
-        "url": "https://streaming.proceso.info:8888/vision6-web/stream.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "Tac12",
         "id": "Tac12.es",
         "logo": "https://i.imgur.com/XHOVbSu.png",
@@ -1629,14 +1621,6 @@
         "categories": [
             "general"
         ],
-        "country": "ES"
-    },
-    {
-        "name": "Canal Donana",
-        "id": "CanalDonana.es",
-        "logo": "https://i.imgur.com/0WrKIxm.png",
-        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-        "categories": [],
         "country": "ES"
     }
 ]

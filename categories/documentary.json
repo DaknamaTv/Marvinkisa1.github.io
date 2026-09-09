@@ -487,6 +487,16 @@
         "country": "CL"
     },
     {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Dvojka",
         "id": "Dvojka.sk",
         "logo": "https://i.imgur.com/ft10wQn.png",
@@ -745,6 +755,37 @@
         "id": "History.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
         "url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Naturaleza",
+        "id": "PlutoTVNaturaleza.us",
+        "logo": "https://i.imgur.com/vUHAWAJ.png",
+        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+        "categories": [
+            "documentary",
+            "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Smithsonian Channel Pluto TV",
+        "id": "SmithsonianChannelPlutoTV.us",
+        "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Spike Pluto TV",
+        "id": "SpikePlutoTV.us",
+        "logo": "https://i.imgur.com/woY8Ecb.png",
+        "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
         "categories": [
             "documentary"
         ],

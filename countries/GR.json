@@ -570,5 +570,33 @@
             "general"
         ],
         "country": "GR"
+    },
+    {
+        "name": "4E",
+        "id": "4E.gr",
+        "logo": "https://i.imgur.com/Na0UCV7.png",
+        "url": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "DELTA TV",
+        "id": "DELTATV.gr",
+        "logo": "https://i.ibb.co/Nt79gnx/319386123-3050873715211949-6691293256713061450-n-1024x752.png",
+        "url": "http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "Ecclesia TV",
+        "id": "EcclesiaTV.gr",
+        "logo": "https://i.imgur.com/QQSSMZx.png",
+        "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+        "categories": [],
+        "country": "GR"
     }
 ]

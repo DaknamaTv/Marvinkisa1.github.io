@@ -244,16 +244,6 @@
         "country": "PK"
     },
     {
-        "name": "Filmax",
-        "id": "Filmax.pk",
-        "logo": "https://i.imgur.com/eLmdZ6k.png",
-        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "PK"
-    },
-    {
         "name": "BS Film",
         "id": "BSFilm.pk",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg",
@@ -393,6 +383,34 @@
         "categories": [
             "news"
         ],
+        "country": "PK"
+    },
+    {
+        "name": "Aik News",
+        "id": "AikNews.pk",
+        "logo": "https://i.imgur.com/svPXoAP.png",
+        "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Sky News Urdu",
+        "id": "SkyNewsUrdu.pk",
+        "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PK"
+    },
+    {
+        "name": "Zindagi TV",
+        "id": "ZindagiTV.pk",
+        "logo": "https://i.imgur.com/XBHvR5J.png",
+        "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+        "categories": [],
         "country": "PK"
     }
 ]

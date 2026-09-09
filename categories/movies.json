@@ -244,6 +244,16 @@
         "country": "BG"
     },
     {
+        "name": "cine.box",
+        "id": "cinebox.bg",
+        "logo": "",
+        "url": "http://212.70.131.37:8000/play/a08b",
+        "categories": [
+            "movies"
+        ],
+        "country": "BG"
+    },
+    {
         "name": "NH BollyFlix",
         "id": "NHBollyFlix.np",
         "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
@@ -1239,6 +1249,16 @@
         "country": "IN"
     },
     {
+        "name": "B4U Kadak",
+        "id": "B4UKadak.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
+        "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Next HD",
         "id": "NextHD.py",
         "logo": "https://i.imgur.com/c2rF3SS.png",
@@ -1284,6 +1304,16 @@
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
         "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Cine Drama",
+        "id": "PlutoTVCineDrama.de",
+        "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8",
         "categories": [
             "movies"
         ],
@@ -1893,16 +1923,6 @@
         "country": "US"
     },
     {
-        "name": "FX Movie Channel",
-        "id": "FXMovieChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/960px-FX_Movies_logo.svg.png",
-        "url": "http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
         "name": "TVS Drive In Movie",
         "id": "TVSDriveInMovie.us",
         "logo": "https://i.imgur.com/OR9APjb.png",
@@ -1983,6 +2003,16 @@
         "categories": [
             "movies",
             "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Cine Crimen",
+        "id": "PlutoTVCineCrimen.us",
+        "logo": "https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8",
+        "categories": [
+            "movies"
         ],
         "country": "US"
     },
@@ -2510,6 +2540,16 @@
         "country": "CN"
     },
     {
+        "name": "CND Film Middle School Channel",
+        "id": "CNDFilmMiddleSchoolChannel.cn",
+        "logo": "https://i.imgur.com/4uG8HsQ.png",
+        "url": "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "CN"
+    },
+    {
         "name": "Nolly Africa",
         "id": "NollyAfrica.uk",
         "logo": "https://i.imgur.com/IxtGpti.png",
@@ -2598,16 +2638,6 @@
             "movies"
         ],
         "country": "IL"
-    },
-    {
-        "name": "Filmax",
-        "id": "Filmax.pk",
-        "logo": "https://i.imgur.com/eLmdZ6k.png",
-        "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "PK"
     },
     {
         "name": "iFilm 2",
@@ -2720,6 +2750,17 @@
             "series"
         ],
         "country": "SG"
+    },
+    {
+        "name": "Pluto TV Humor",
+        "id": "PlutoTVHumor.se",
+        "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+        "categories": [
+            "movies",
+            "comedy"
+        ],
+        "country": "SE"
     },
     {
         "name": "Canal Cine Dios",

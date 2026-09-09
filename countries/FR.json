@@ -816,15 +816,5 @@
             "sports"
         ],
         "country": "FR"
-    },
-    {
-        "name": "Alpe d'Huez TV",
-        "id": "AlpedHuezTV.fr",
-        "logo": "https://i.imgur.com/090tCQ5.png",
-        "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "FR"
     }
 ]

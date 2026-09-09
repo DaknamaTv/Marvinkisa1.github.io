@@ -1217,5 +1217,53 @@
         "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8",
         "categories": [],
         "country": "DE"
+    },
+    {
+        "name": "Beverly Hills 90210",
+        "id": "BeverlyHills90210.de",
+        "logo": "https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Bob l'eponge",
+        "id": "Bobleponge.de",
+        "logo": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "labor14",
+        "id": "labor14.de",
+        "logo": "https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg",
+        "url": "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Cine Drama",
+        "id": "PlutoTVCineDrama.de",
+        "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Serie",
+        "id": "PlutoTVSerie.de",
+        "logo": "https://i.imgur.com/u3c80e8.png",
+        "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
     }
 ]

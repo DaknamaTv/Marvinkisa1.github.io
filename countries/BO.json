@@ -421,16 +421,6 @@
         "country": "BO"
     },
     {
-        "name": "TransMedia",
-        "id": "TransMedia.bo",
-        "logo": "https://i.imgur.com/tAdxar9.jpeg",
-        "url": "https://edge.enhdtv.com/8064/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "VTV Canal 17",
         "id": "VTVCanal17.bo",
         "logo": "https://i.imgur.com/TUhFzql.png",
@@ -513,21 +503,39 @@
         "country": "BO"
     },
     {
-        "name": "SPC Canal 15",
-        "id": "SPCCanal15.bo",
-        "logo": "https://i.imgur.com/8GzjELt.jpeg",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "TL Estrella",
         "id": "TLEstrella.bo",
         "logo": "",
         "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
         "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "Radio Clasica TV",
+        "id": "RadioClasicaTV.bo",
+        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Red CCTV",
+        "id": "RedCCTV.bo",
+        "logo": "https://i.imgur.com/YC5FRmq.png",
+        "url": "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "TVU Sucre",
+        "id": "TVUSucre.bo",
+        "logo": "https://i.imgur.com/7c0b4Y4.png",
+        "url": "https://edge.enhdtv.com/8214/index.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "BO"
     }
 ]

@@ -3086,5 +3086,15 @@
             "religious"
         ],
         "country": "RU"
+    },
+    {
+        "name": "Sportivnyy",
+        "id": "Sportivnyy.ru",
+        "logo": "https://i.imgur.com/ujS6mMo.png",
+        "url": "https://live-3.otcnet.ru/sportivny/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
     }
 ]

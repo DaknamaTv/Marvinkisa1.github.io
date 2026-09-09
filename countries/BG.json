@@ -206,5 +206,15 @@
             "religious"
         ],
         "country": "BG"
+    },
+    {
+        "name": "cine.box",
+        "id": "cinebox.bg",
+        "logo": "",
+        "url": "http://212.70.131.37:8000/play/a08b",
+        "categories": [
+            "movies"
+        ],
+        "country": "BG"
     }
 ]
