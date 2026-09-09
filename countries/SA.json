@@ -165,15 +165,5 @@
             "general"
         ],
         "country": "SA"
-    },
-    {
-        "name": "Jeddah Radio",
-        "id": "JeddahRadio.sa",
-        "logo": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
-        "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "SA"
     }
 ]

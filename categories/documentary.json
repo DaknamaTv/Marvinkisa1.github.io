@@ -223,16 +223,6 @@
         "country": "DO"
     },
     {
-        "name": "RL PRO TV",
-        "id": "RLPROTV.cd",
-        "logo": "https://i.imgur.com/PIBtCEN.jpeg",
-        "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CD"
-    },
-    {
         "name": "Nano",
         "id": "Nano.ru",
         "logo": "https://i.imgur.com/dYj3XDa.png",
@@ -406,6 +396,16 @@
         "country": "IN"
     },
     {
+        "name": "Safari TV",
+        "id": "SafariTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540",
+        "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "TV8",
         "id": "TV8.md",
         "logo": "https://i.imgur.com/Rsn4oUh.png",
@@ -481,16 +481,6 @@
         "id": "Docu.cl",
         "logo": "https://i.imgur.com/7xvQ7jR.png",
         "url": "http://45.162.193.35/DOCU/index.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
         "categories": [
             "documentary"
         ],
@@ -772,20 +762,30 @@
         "country": "US"
     },
     {
-        "name": "Smithsonian Channel Pluto TV",
-        "id": "SmithsonianChannelPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+        "name": "Pluto TV Animais",
+        "id": "PlutoTVAnimais.us",
+        "logo": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8",
         "categories": [
             "documentary"
         ],
         "country": "US"
     },
     {
-        "name": "Spike Pluto TV",
-        "id": "SpikePlutoTV.us",
-        "logo": "https://i.imgur.com/woY8Ecb.png",
-        "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+        "name": "Pluto TV Investigacao",
+        "id": "PlutoTVInvestigacao.us",
+        "logo": "https://i.imgur.com/JlQq0YJ.png",
+        "url": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Paranormal",
+        "id": "PlutoTVParanormal.us",
+        "logo": "https://i.imgur.com/ApN6nfw.png",
+        "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
         "categories": [
             "documentary"
         ],
@@ -963,6 +963,16 @@
         "id": "DocuBox.nl",
         "logo": "https://i.imgur.com/pX4U9OG.png",
         "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/7049/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8",
         "categories": [
             "documentary"
         ],

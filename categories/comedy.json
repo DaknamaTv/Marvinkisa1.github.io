@@ -145,6 +145,27 @@
         "country": "DE"
     },
     {
+        "name": "Cheers",
+        "id": "Cheers.de",
+        "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park",
+        "id": "SouthPark.de",
+        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
+        "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "13 Humor",
         "id": "13Humor.cl",
         "logo": "https://i.imgur.com/56uwseX.png",
@@ -372,6 +393,71 @@
         "country": "US"
     },
     {
+        "name": "Classic TV Comedy",
+        "id": "ClassicTVComedy.us",
+        "logo": "https://i.imgur.com/wg5I5Fb.png",
+        "url": "https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Comedy Movies",
+        "id": "PlutoTVComedyMovies.us",
+        "logo": "https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8",
+        "categories": [
+            "comedy",
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Cartman Collection",
+        "id": "SouthParkCartmanCollection.us",
+        "logo": "https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Colecao Cartman",
+        "id": "SouthParkColecaoCartman.us",
+        "logo": "https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Colecao Kenny",
+        "id": "SouthParkColecaoKenny.us",
+        "logo": "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "South Park: Coleccion Cartman",
+        "id": "SouthParkColeccionCartman.us",
+        "logo": "https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Jail",
         "id": "Jail.pl",
         "logo": "",
@@ -434,16 +520,6 @@
         "country": "UK"
     },
     {
-        "name": "Planet Fun",
-        "id": "PlanetFun.uk",
-        "logo": "https://i.imgur.com/5U1iKUq.png",
-        "url": "http://66.102.126.10:8000/play/a02k/index.m3u8",
-        "categories": [
-            "comedy"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "Distrito Comedia",
         "id": "DistritoComedia.mx",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png",
@@ -452,17 +528,6 @@
             "comedy"
         ],
         "country": "MX"
-    },
-    {
-        "name": "Pluto TV Humor",
-        "id": "PlutoTVHumor.se",
-        "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
-        "categories": [
-            "movies",
-            "comedy"
-        ],
-        "country": "SE"
     },
     {
         "name": "Dry Bar Comedy (720p)",

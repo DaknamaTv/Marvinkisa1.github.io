@@ -162,16 +162,6 @@
         "country": "BO"
     },
     {
-        "name": "Dmoda Channel",
-        "id": "DmodaChannel.bo",
-        "logo": "https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png",
-        "url": "https://master.tucableip.com/dmoda/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "RTP",
         "id": "RTP.bo",
         "logo": "https://i.imgur.com/cECNvvr.png",
@@ -461,14 +451,6 @@
         "country": "BO"
     },
     {
-        "name": "Univalle Television",
-        "id": "UnivalleTelevision.bo",
-        "logo": "https://i.imgur.com/qgrWDIs.png",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
-        "categories": [],
-        "country": "BO"
-    },
-    {
         "name": "Vos TV",
         "id": "VosTV.bo",
         "logo": "https://i.imgur.com/Cm1Xjeq.png",
@@ -484,14 +466,6 @@
         "categories": [
             "general"
         ],
-        "country": "BO"
-    },
-    {
-        "name": "Gigavision",
-        "id": "Gigavision.bo",
-        "logo": "https://i.imgur.com/fE3BkcT.png",
-        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
-        "categories": [],
         "country": "BO"
     },
     {
@@ -533,6 +507,26 @@
         "id": "TVUSucre.bo",
         "logo": "https://i.imgur.com/7c0b4Y4.png",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "SPC Canal 15",
+        "id": "SPCCanal15.bo",
+        "logo": "https://i.imgur.com/8GzjELt.jpeg",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "TransMedia",
+        "id": "TransMedia.bo",
+        "logo": "https://i.imgur.com/tAdxar9.jpeg",
+        "url": "https://edge.enhdtv.com/8064/index.m3u8",
         "categories": [
             "general"
         ],

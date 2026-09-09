@@ -120,16 +120,6 @@
         "country": "MD"
     },
     {
-        "name": "TV Camara",
-        "id": "TVCamara.py",
-        "logo": "https://i.imgur.com/Mfypr0t.png",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "categories": [
-            "legislative"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Parliament TV",
         "id": "ParliamentTV.nz",
         "logo": "https://i.imgur.com/2aHW4q7.png",

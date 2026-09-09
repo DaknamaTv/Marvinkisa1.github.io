@@ -10,16 +10,6 @@
         "country": "GH"
     },
     {
-        "name": "MOGPA TV",
-        "id": "MOGPATV.gh",
-        "logo": "https://i.imgur.com/34PmVAq.png",
-        "url": "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "GH"
-    },
-    {
         "name": "AP TV",
         "id": "APTV.gh",
         "logo": "https://i.imgur.com/Oky18bX.png",

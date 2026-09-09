@@ -107,6 +107,17 @@
         "country": "TR"
     },
     {
+        "name": "TRT Genc",
+        "id": "TRTGenc.tr",
+        "logo": "https://i.imgur.com/fCHQYWS.png",
+        "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "general",
+            "culture"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Canal 17 RTVD",
         "id": "Canal17RTVD.do",
         "logo": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
@@ -193,17 +204,6 @@
         "logo": "https://i.imgur.com/Ivnk7A6.png",
         "url": "http://45.162.64.114/ARTE1/index.m3u8",
         "categories": [
-            "culture"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
             "culture"
         ],
         "country": "BR"
@@ -988,16 +988,6 @@
         "country": "NL"
     },
     {
-        "name": "Kemet TV",
-        "id": "KemetTV.cm",
-        "logo": "https://i.imgur.com/NZ0YqOb.jpeg",
-        "url": "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "CM"
-    },
-    {
         "name": "Ciracu TV",
         "id": "CiracuTV.ec",
         "logo": "https://i.imgur.com/mkf2TJ6.png",
@@ -1136,16 +1126,6 @@
         "id": "UAATV.mx",
         "logo": "https://i.imgur.com/brCSiGh.png",
         "url": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "El Sonorense",
-        "id": "ElSonorense.mx",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
         "categories": [
             "culture"
         ],

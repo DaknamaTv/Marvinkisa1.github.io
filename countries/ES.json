@@ -1622,5 +1622,29 @@
             "general"
         ],
         "country": "ES"
+    },
+    {
+        "name": "Canal 10 Emporda",
+        "id": "Canal10Emporda.es",
+        "logo": "https://i.imgur.com/ojQ6wzX.png",
+        "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+        "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "Canal Donana",
+        "id": "CanalDonana.es",
+        "logo": "https://i.imgur.com/0WrKIxm.png",
+        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "categories": [],
+        "country": "ES"
+    },
+    {
+        "name": "Vision 6 TV",
+        "id": "Vision6TV.es",
+        "logo": "https://i.imgur.com/TB1wMQ7.jpg",
+        "url": "https://streaming.proceso.info:8888/vision6-web/stream.m3u8",
+        "categories": [],
+        "country": "ES"
     }
 ]

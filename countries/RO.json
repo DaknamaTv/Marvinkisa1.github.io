@@ -505,16 +505,6 @@
         "country": "RO"
     },
     {
-        "name": "TeleM Botosani",
-        "id": "TeleMBotosani.ro",
-        "logo": "https://i.imgur.com/3EZ8CmJ.png",
-        "url": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "TVR 1",
         "id": "TVR1.ro",
         "logo": "https://i.imgur.com/CcUX1gB.png",
@@ -684,16 +674,6 @@
         "country": "RO"
     },
     {
-        "name": "A7TV",
-        "id": "A7TV.ro",
-        "logo": "https://i.imgur.com/RmFg8BN.png",
-        "url": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Alfa Omega TV",
         "id": "AlfaOmegaTV.ro",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
@@ -754,22 +734,32 @@
         "country": "RO"
     },
     {
-        "name": "Nova TV Brasov",
-        "id": "NovaTVBrasov.ro",
-        "logo": "https://i.imgur.com/33Vn0Ij.png",
-        "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "TeleMoldova +",
         "id": "TeleMoldovaPlus.ro",
         "logo": "https://i.imgur.com/8z0zLjw.jpeg",
         "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Arges TV",
+        "id": "ArgesTV.ro",
+        "logo": "https://i.imgur.com/qufz6nk.png",
+        "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Radio Romania Antena Satelor",
+        "id": "RadioRomaniaAntenaSatelor.ro",
+        "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+        "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "RO"
     }

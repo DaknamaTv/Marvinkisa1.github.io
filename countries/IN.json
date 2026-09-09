@@ -2334,16 +2334,6 @@
         "country": "IN"
     },
     {
-        "name": "VIP News",
-        "id": "VIPNews.in",
-        "logo": "https://i.imgur.com/84kRaW1.png",
-        "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "WOW Kidz",
         "id": "WOWKidz.in",
         "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
@@ -3239,16 +3229,6 @@
         "logo": "https://i.imgur.com/U4W0Rw8.png",
         "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
         "categories": [],
-        "country": "IN"
-    },
-    {
-        "name": "TNP News",
-        "id": "TNPNews.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png",
-        "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8",
-        "categories": [
-            "news"
-        ],
         "country": "IN"
     },
     {
@@ -4563,62 +4543,12 @@
         "country": "IN"
     },
     {
-        "name": "B4U Movies",
-        "id": "B4UMovies.in",
-        "logo": "https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540",
-        "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "B4U Music",
-        "id": "B4UMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
-        "url": "http://66.102.126.10:8000/play/a01e/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Colors Cineplex",
-        "id": "ColorsCineplex.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=720x540",
-        "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Colors Infinity",
-        "id": "ColorsInfinity.in",
-        "logo": "https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540",
-        "url": "http://66.102.126.10:8000/play/a014/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Hope Channel India",
         "id": "HopeChannelIndia.in",
         "logo": "https://i.imgur.com/wPzPUrK.png",
         "url": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8",
         "categories": [
             "religious"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Hungama TV",
-        "id": "HungamaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143150_ld_h15_aa.png?lock=720x540",
-        "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
-        "categories": [
-            "kids"
         ],
         "country": "IN"
     },
@@ -4639,36 +4569,6 @@
         "url": "https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "B4U Kadak",
-        "id": "B4UKadak.in",
-        "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
-        "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Epic Music",
-        "id": "EpicMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540",
-        "url": "http://66.102.126.10:8000/play/a01i/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Makkal TV",
-        "id": "MakkalTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540",
-        "url": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "IN"
     },
@@ -4699,6 +4599,97 @@
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "All Time Movies",
+        "id": "AllTimeMovies.in",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
+        "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "&xplor HD",
+        "id": "AndxplorHD.in",
+        "logo": "https://i.imgur.com/9mK6dgM.png",
+        "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Colors Marathi",
+        "id": "ColorsMarathi.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158237_ld_h15_aa.png?lock=720x540",
+        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Public First",
+        "id": "PublicFirst.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Safari TV",
+        "id": "SafariTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540",
+        "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Siri Kannada All Time",
+        "id": "SiriKannadaAllTime.in",
+        "logo": "https://i.imgur.com/IR0BrEX.jpeg",
+        "url": "https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Bhakti",
+        "id": "ZBBhakti.in",
+        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
+        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Cartoon",
+        "id": "ZBCartoon.in",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZillarBarta News",
+        "id": "ZillarBartaNews.in",
+        "logo": "https://i.imgur.com/6uestzY.jpeg",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+        "categories": [
+            "news",
+            "classic"
         ],
         "country": "IN"
     }

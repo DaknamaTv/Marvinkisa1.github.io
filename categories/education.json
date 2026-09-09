@@ -146,17 +146,6 @@
         "country": "RU"
     },
     {
-        "name": "Canal Saude",
-        "id": "CanalSaude.br",
-        "logo": "https://i.imgur.com/ht4tUOc.png",
-        "url": "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8",
-        "categories": [
-            "education",
-            "lifestyle"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Canal Educacao",
         "id": "CanalEducacao.br",
         "logo": "https://i.imgur.com/OOB7nrS.png",
@@ -235,17 +224,6 @@
         "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
         "categories": [
             "education"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Unisul TV",
-        "id": "UnisulTV.br",
-        "logo": "https://i.imgur.com/N0TvAFz.png",
-        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-        "categories": [
-            "education",
-            "culture"
         ],
         "country": "BR"
     },
@@ -817,16 +795,6 @@
         "country": "US"
     },
     {
-        "name": "St Lucie Public Schools",
-        "id": "StLuciePublicSchools.us",
-        "logo": "https://i.imgur.com/wnB0fWG.png",
-        "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "US"
-    },
-    {
         "name": "HCTV Educational Access Channel",
         "id": "HCTVEducationalAccessChannel.us",
         "logo": "https://i.imgur.com/bVbpgiD.png",
@@ -872,6 +840,16 @@
         "id": "GillettePublicAccessTelevisionChannel189.us",
         "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
         "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Misterios",
+        "id": "PlutoTVMisterios.us",
+        "logo": "https://i.imgur.com/gwxX1Y3.png",
+        "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
         "categories": [
             "education"
         ],

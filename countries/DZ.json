@@ -38,15 +38,5 @@
             "news"
         ],
         "country": "DZ"
-    },
-    {
-        "name": "El-Heddaf TV",
-        "id": "ElHeddafTV.dz",
-        "logo": "https://i.imgur.com/cDkIDIA.png",
-        "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DZ"
     }
 ]

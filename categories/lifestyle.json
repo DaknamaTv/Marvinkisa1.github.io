@@ -144,17 +144,6 @@
         "country": "RU"
     },
     {
-        "name": "Canal Saude",
-        "id": "CanalSaude.br",
-        "logo": "https://i.imgur.com/ht4tUOc.png",
-        "url": "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8",
-        "categories": [
-            "education",
-            "lifestyle"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Loupe",
         "id": "Loupe.br",
         "logo": "https://i.imgur.com/T6tsw0O.png",
@@ -467,6 +456,26 @@
         "id": "SoReal.us",
         "logo": "https://i.imgur.com/wZ2uj9d.png",
         "url": "https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Cozinha",
+        "id": "PlutoTVCozinha.us",
+        "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8",
+        "categories": [
+            "lifestyle"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Viagens",
+        "id": "PlutoTVViagens.us",
+        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
+        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
         "categories": [
             "lifestyle"
         ],

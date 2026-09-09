@@ -40,16 +40,6 @@
         "country": "BG"
     },
     {
-        "name": "ARDB TV",
-        "id": "ARDBTV.kh",
-        "logo": "https://i.imgur.com/yOncWla.png",
-        "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "KH"
-    },
-    {
         "name": "Ohotnik i rybolov",
         "id": "Ohotnikirybolov.ru",
         "logo": "https://i.imgur.com/Bj1jI7F.png",
@@ -308,16 +298,6 @@
         "id": "OutsideTV.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/960px-HSN_logo.svg.png",
         "url": "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "categories": [
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Backcountry",
-        "id": "PlutoTVBackcountry.us",
-        "logo": "https://i.imgur.com/KnlQzs7.png",
-        "url": "https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8",
         "categories": [
             "outdoor"
         ],

@@ -224,6 +224,16 @@
         "country": "UK"
     },
     {
+        "name": "Masala TV",
+        "id": "MasalaTV.pk",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8",
+        "categories": [
+            "cooking"
+        ],
+        "country": "PK"
+    },
+    {
         "name": "Gusto TV",
         "id": "GustoTV.ca",
         "logo": "https://i.imgur.com/swUX3hQ.png",

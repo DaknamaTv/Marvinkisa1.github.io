@@ -1417,5 +1417,15 @@
         "url": "https://stream.studiorhedenlive.nl/hlstv/stream.m3u8",
         "categories": [],
         "country": "NL"
+    },
+    {
+        "name": "National Geographic",
+        "id": "NationalGeographic.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+        "url": "http://46.32.176.50/NationalGeographicHD/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "NL"
     }
 ]

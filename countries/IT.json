@@ -252,16 +252,6 @@
         "country": "IT"
     },
     {
-        "name": "Casa Italia 53",
-        "id": "CasaItalia53.it",
-        "logo": "https://i.imgur.com/X8BI1Md.png",
-        "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
-        "categories": [
-            "shop"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Rete 8",
         "id": "Rete8.it",
         "logo": "https://i.imgur.com/jojCxg3.png",
@@ -1274,16 +1264,6 @@
         "country": "IT"
     },
     {
-        "name": "La Nuova TV",
-        "id": "LaNuovaTV.it",
-        "logo": "https://i.imgur.com/OHMv86A.png",
-        "url": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "BeJoy.kids",
         "id": "BeJoykids.it",
         "logo": "https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",
@@ -1638,14 +1618,6 @@
         "country": "IT"
     },
     {
-        "name": "Radio Iglesias",
-        "id": "RadioIglesias.it",
-        "logo": "https://i.imgur.com/2OXQpZM.png",
-        "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
-        "categories": [],
-        "country": "IT"
-    },
-    {
         "name": "Etna Espresso Channel",
         "id": "EtnaEspressoChannel.it",
         "logo": "https://i.imgur.com/lSI5QgV.png",
@@ -1670,6 +1642,16 @@
         "url": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "7 Gold",
+        "id": "7Gold.it",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+        "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "IT"
     }

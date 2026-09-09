@@ -28,5 +28,15 @@
             "general"
         ],
         "country": "MV"
+    },
+    {
+        "name": "YES",
+        "id": "YES.mv",
+        "logo": "https://i.imgur.com/HARIGQl.png",
+        "url": "https://lana.psm.mv/live/yes.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "MV"
     }
 ]

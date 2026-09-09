@@ -151,6 +151,16 @@
         "country": "IN"
     },
     {
+        "name": "Canal Pro",
+        "id": "CanalPro.py",
+        "logo": "https://i.imgur.com/ah8n7jL.png",
+        "url": "https://www.desde-paraguay.com/pro.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Tevex",
         "id": "Tevex.cl",
         "logo": "https://i.imgur.com/FnInQRd.png",
@@ -447,6 +457,16 @@
             "business"
         ],
         "country": "UK"
+    },
+    {
+        "name": "Le Nouveau Manager TV",
+        "id": "LeNouveauManagerTV.bj",
+        "logo": "https://i.imgur.com/pEoOtEf.jpeg",
+        "url": "https://lnmlive.com/live/lnmtv.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "BJ"
     },
     {
         "name": "Bloomberg TV Asia (720p)",

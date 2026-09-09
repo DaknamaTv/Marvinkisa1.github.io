@@ -243,21 +243,65 @@
         "country": "DE"
     },
     {
-        "name": "Beverly Hills 90210",
-        "id": "BeverlyHills90210.de",
-        "logo": "https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8",
+        "name": "Pluto TV Serie",
+        "id": "PlutoTVSerie.de",
+        "logo": "https://i.imgur.com/u3c80e8.png",
+        "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
         "categories": [
             "series"
         ],
         "country": "DE"
     },
     {
-        "name": "Pluto TV Serie",
-        "id": "PlutoTVSerie.de",
-        "logo": "https://i.imgur.com/u3c80e8.png",
-        "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
+        "name": "Blue Bloods",
+        "id": "BlueBloods.de",
+        "logo": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8",
         "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Action",
+        "id": "PlutoTVAction.de",
+        "logo": "https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png",
+        "url": "https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Sci-Fi",
+        "id": "PlutoTVSciFi.de",
+        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
+        "categories": [
+            "series",
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Star Trek",
+        "id": "PlutoTVStarTrek.de",
+        "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Star Trek: Voyager",
+        "id": "StarTrekVoyager.de",
+        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
+        "categories": [
+            "movies",
             "series"
         ],
         "country": "DE"
@@ -900,26 +944,6 @@
         "country": "US"
     },
     {
-        "name": "Farscape",
-        "id": "Farscape.us",
-        "logo": "https://i.imgur.com/2WH4lSc.png",
-        "url": "https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Kenan & Kel",
-        "id": "KenanKel.us",
-        "logo": "https://i.imgur.com/9PAY5Xz.png",
-        "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Dog el cazarrecompensas",
         "id": "PlutoTVDogelcazarrecompensas.us",
         "logo": "https://i.imgur.com/h3kSZLc.png",
@@ -930,10 +954,151 @@
         "country": "US"
     },
     {
-        "name": "Sin tetas no hay paraiso",
-        "id": "Sintetasnohayparaiso.us",
-        "logo": "https://i.imgur.com/fpwU2IQ.png",
-        "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8",
+        "name": "Acapulco Shore",
+        "id": "AcapulcoShore.us",
+        "logo": "https://i.imgur.com/D2jgGOi.png",
+        "url": "https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Andromeda",
+        "id": "Andromeda.us",
+        "logo": "https://i.imgur.com/6ot2lmd.png",
+        "url": "https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CSI: Miami",
+        "id": "CSIMiami.us",
+        "logo": "https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Feel Good Drama",
+        "id": "FeelGoodDrama.us",
+        "logo": "https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Highway to Heaven",
+        "id": "HighwaytoHeaven.us",
+        "logo": "https://i.imgur.com/e6pvibn.png",
+        "url": "https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MTV Teen Mom",
+        "id": "MTVTeenMom.us",
+        "logo": "https://i.imgur.com/6EzdThG.png",
+        "url": "https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NCIS",
+        "id": "NCIS.us",
+        "logo": "https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Dramas Coreanos Teen",
+        "id": "PlutoTVDramasCoreanosTeen.us",
+        "logo": "https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png",
+        "url": "https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Minuto Para Ganar",
+        "id": "PlutoTVMinutoParaGanar.us",
+        "logo": "https://i.imgur.com/go5o1gB.png",
+        "url": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Series Criminais",
+        "id": "PlutoTVSeriesCriminais.us",
+        "logo": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Series Latinas",
+        "id": "PlutoTVSeriesLatinas.us",
+        "logo": "https://i.imgur.com/hxl6Ctq.png",
+        "url": "https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Star Trek: Voyager",
+        "id": "StarTrekVoyager.us",
+        "logo": "https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png",
+        "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Addams Family",
+        "id": "TheAddamsFamily.us",
+        "logo": "https://i.imgur.com/Bl8X7EW.png",
+        "url": "https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Tosh.0",
+        "id": "Tosh0.us",
+        "logo": "https://i.imgur.com/sXkluxg.png",
+        "url": "https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Weeds & Nurse Jackie",
+        "id": "WeedsNurseJackie.us",
+        "logo": "https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png",
+        "url": "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8",
         "categories": [
             "series"
         ],

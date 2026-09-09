@@ -126,16 +126,6 @@
         "country": "EC"
     },
     {
-        "name": "Curiquingue TV",
-        "id": "CuriquingueTV.ec",
-        "logo": "https://i.imgur.com/oukGx28.png",
-        "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Nuka TV",
         "id": "NukaTV.ec",
         "logo": "https://i.imgur.com/4r2Ycju.png",
@@ -568,6 +558,16 @@
         "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "EC"
+    },
+    {
+        "name": "Gaviota TV",
+        "id": "GaviotaTV.ec",
+        "logo": "https://i.imgur.com/1vlZA6O.png",
+        "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "EC"
     }

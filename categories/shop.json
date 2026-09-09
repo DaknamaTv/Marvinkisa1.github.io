@@ -376,6 +376,16 @@
         "country": "US"
     },
     {
+        "name": "QVC",
+        "id": "QVC.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",
+        "url": "https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8",
+        "categories": [
+            "shop"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Tea TV",
         "id": "TeaTV.vn",
         "logo": "https://i.imgur.com/WorbnyD.jpg",
@@ -591,16 +601,6 @@
         "id": "QVC.it",
         "logo": "https://i.imgur.com/6TWUVrh.png",
         "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
-        "categories": [
-            "shop"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Casa Italia 53",
-        "id": "CasaItalia53.it",
-        "logo": "https://i.imgur.com/X8BI1Md.png",
-        "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
         "categories": [
             "shop"
         ],

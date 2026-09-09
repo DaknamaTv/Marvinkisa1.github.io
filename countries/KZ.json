@@ -242,15 +242,5 @@
         "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
         "categories": [],
         "country": "KZ"
-    },
-    {
-        "name": "Balapan International",
-        "id": "BalapanInternational.kz",
-        "logo": "https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png",
-        "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "KZ"
     }
 ]

@@ -80,23 +80,12 @@
         "country": "SE"
     },
     {
-        "name": "Pluto TV Humor",
-        "id": "PlutoTVHumor.se",
-        "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+        "name": "MTV Teen Mom",
+        "id": "MTVTeenMom.se",
+        "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
+        "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
         "categories": [
-            "movies",
-            "comedy"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.se",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
-        "categories": [
-            "sports"
+            "entertainment"
         ],
         "country": "SE"
     }

@@ -332,14 +332,6 @@
         "country": "PE"
     },
     {
-        "name": "Universitaria TV",
-        "id": "UniversitariaTV.pe",
-        "logo": "https://i.imgur.com/OcDimHX.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "TV Peru",
         "id": "TVPeru.pe",
         "logo": "https://i.imgur.com/6io0IrX.png",
@@ -976,16 +968,6 @@
         "country": "PE"
     },
     {
-        "name": "Genios TV",
-        "id": "GeniosTV.pe",
-        "logo": "https://i.imgur.com/iH2Lx6E.png",
-        "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Agro TV",
         "id": "AgroTV.pe",
         "logo": "https://i.imgur.com/1uLGa3w.png",
@@ -1078,6 +1060,26 @@
         "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Galactica TV",
+        "id": "GalacticaTV.pe",
+        "logo": "https://i.imgur.com/byL1zCV.jpeg",
+        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+        "categories": [
+            "entertainment"
         ],
         "country": "PE"
     }

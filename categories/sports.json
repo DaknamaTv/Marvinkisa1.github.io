@@ -150,6 +150,16 @@
         "country": "UA"
     },
     {
+        "name": "UPL.TV",
+        "id": "UPLTV.ua",
+        "logo": "https://s4.vcdn.biz/static/f/9219528031/image.jpg",
+        "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "Realitatea Sportiva",
         "id": "RealitateaSportiva.ro",
         "logo": "https://i.imgur.com/BaEyZto.png",
@@ -1385,16 +1395,6 @@
         "country": "US"
     },
     {
-        "name": "Fox Sports 2",
-        "id": "FoxSports2.us",
-        "logo": "https://i.ibb.co/35bddzKR/IMG-2281.png",
-        "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "NFL Network",
         "id": "NFLNetwork.us",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
@@ -1519,20 +1519,20 @@
         "country": "US"
     },
     {
-        "name": "Golazo Network",
-        "id": "GolazoNetwork.us",
-        "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
-        "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+        "name": "Pluto TV Deportes",
+        "id": "PlutoTVDeportes.us",
+        "logo": "https://i.imgur.com/0pDy6f4.png",
+        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
         "categories": [
             "sports"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Esportes",
-        "id": "PlutoTVEsportes.us",
-        "logo": "https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoSVG_1780355759776.svg",
-        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.us",
+        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
         "categories": [
             "sports"
         ],
@@ -2270,16 +2270,6 @@
         "country": "PK"
     },
     {
-        "name": "El-Heddaf TV",
-        "id": "ElHeddafTV.dz",
-        "logo": "https://i.imgur.com/cDkIDIA.png",
-        "url": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DZ"
-    },
-    {
         "name": "ITV Deportes",
         "id": "ITVDeportes.mx",
         "logo": "https://iili.io/J1kV1Bn.png",
@@ -2381,6 +2371,26 @@
         "country": "IE"
     },
     {
+        "name": "Sky Sports Cricket",
+        "id": "SkySportsCricket.ie",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+        "url": "https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IE"
+    },
+    {
+        "name": "Sky Sports Golf",
+        "id": "SkySportsGolf.ie",
+        "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+        "url": "https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "IE"
+    },
+    {
         "name": "ATG Live",
         "id": "ATGLive.se",
         "logo": "https://i.imgur.com/bPWFXkL.png",
@@ -2395,16 +2405,6 @@
         "id": "VSportGolf.se",
         "logo": "https://i.imgur.com/r3XbOmM.png",
         "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.se",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
         "categories": [
             "sports"
         ],

@@ -1028,14 +1028,6 @@
         "country": "CL"
     },
     {
-        "name": "TV UCT",
-        "id": "TVUCT.cl",
-        "logo": "https://i.imgur.com/tpI0WQH.png",
-        "url": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Uniregion TV",
         "id": "UniregionTV.cl",
         "logo": "https://i.imgur.com/VEO6aos.png",
@@ -1051,16 +1043,6 @@
         "logo": "https://i.imgur.com/0bFVvKj.png",
         "url": "https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8",
         "categories": [],
-        "country": "CL"
-    },
-    {
-        "name": "Contivision",
-        "id": "Contivision.cl",
-        "logo": "https://i.imgur.com/Lz2OlKf.png",
-        "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
         "country": "CL"
     },
     {
@@ -1561,16 +1543,6 @@
         "country": "CL"
     },
     {
-        "name": "Maqui TV",
-        "id": "MaquiTV.cl",
-        "logo": "https://i.imgur.com/U849xvX.png",
-        "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Maray TV",
         "id": "MarayTV.cl",
         "logo": "https://i.imgur.com/YinMA8c.png",
@@ -1793,16 +1765,6 @@
         "country": "CL"
     },
     {
-        "name": "ClickTV Chile",
-        "id": "ClickTVChile.cl",
-        "logo": "https://i.imgur.com/H0XNbMS.png",
-        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Cooperativa",
         "id": "Cooperativa.cl",
         "logo": "https://cdn.m3u.cl/logo/422_Cooperativa.png",
@@ -1847,6 +1809,32 @@
         "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Atacama TV",
+        "id": "AtacamaTV.cl",
+        "logo": "https://i.postimg.cc/rwS082hL/atacama-tv.png",
+        "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Pichilemu TV",
+        "id": "PichilemuTV.cl",
+        "logo": "https://i.imgur.com/eaJVCwM.png",
+        "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8",
+        "categories": [],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Chiloe",
+        "id": "RadioChiloe.cl",
+        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "CL"
     }

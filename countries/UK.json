@@ -1217,12 +1217,22 @@
         "country": "UK"
     },
     {
-        "name": "Planet Fun",
-        "id": "PlanetFun.uk",
-        "logo": "https://i.imgur.com/5U1iKUq.png",
-        "url": "http://66.102.126.10:8000/play/a02k/index.m3u8",
+        "name": "Canaf54 TV",
+        "id": "Canaf54TV.uk",
+        "logo": "https://i.imgur.com/viB0FS2.png",
+        "url": "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8",
         "categories": [
-            "comedy"
+            "general"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Latest TV",
+        "id": "LatestTV.uk",
+        "logo": "https://i.imgur.com/Cl1iGEb.jpeg",
+        "url": "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8",
+        "categories": [
+            "general"
         ],
         "country": "UK"
     }
