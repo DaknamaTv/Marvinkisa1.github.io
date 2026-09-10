@@ -614,5 +614,15 @@
         "url": "https://live.canthotv.vn/cs3/tv/chunklist.m3u8",
         "categories": [],
         "country": "VN"
+    },
+    {
+        "name": "VSBet HD",
+        "id": "VSBetHD.vn",
+        "logo": "https://i.imgur.com/sMhL2Nl.png",
+        "url": "https://live05.meung.app/live/16226575.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "VN"
     }
 ]

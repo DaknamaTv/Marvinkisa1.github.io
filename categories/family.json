@@ -248,20 +248,20 @@
         "country": "US"
     },
     {
-        "name": "Hallmark Channel",
-        "id": "HallmarkChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
-        "url": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8",
+        "name": "TVS Family Channel",
+        "id": "TVSFamilyChannel.us",
+        "logo": "https://i.imgur.com/Y3EV3DL.png",
+        "url": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
         "categories": [
             "family"
         ],
         "country": "US"
     },
     {
-        "name": "TVS Family Channel",
-        "id": "TVSFamilyChannel.us",
-        "logo": "https://i.imgur.com/Y3EV3DL.png",
-        "url": "https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
+        "name": "Hallmark Channel",
+        "id": "HallmarkChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",
+        "url": "http://41.205.93.154/HALLMARK/index.m3u8",
         "categories": [
             "family"
         ],

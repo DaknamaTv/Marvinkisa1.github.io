@@ -80,12 +80,22 @@
         "country": "SE"
     },
     {
-        "name": "MTV Teen Mom",
-        "id": "MTVTeenMom.se",
-        "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-        "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
+        "name": "Pluto TV Alien Invasion",
+        "id": "PlutoTVAlienInvasion.se",
+        "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8",
         "categories": [
-            "entertainment"
+            "documentary"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "The New Detectives",
+        "id": "TheNewDetectives.se",
+        "logo": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8",
+        "categories": [
+            "series"
         ],
         "country": "SE"
     }

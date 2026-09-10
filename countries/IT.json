@@ -1236,16 +1236,6 @@
         "country": "IT"
     },
     {
-        "name": "Sky Sport F1",
-        "id": "SkySportF1.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "MadeinBO TV",
         "id": "MadeinBOTV.it",
         "logo": "https://i.imgur.com/47X44DD.png",
@@ -1284,26 +1274,6 @@
         "country": "IT"
     },
     {
-        "name": "Sky Sport Basket",
-        "id": "SkySportBasket.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_Sport_Basket_-_Logo_2025.svg/960px-Sky_Sport_Basket_-_Logo_2025.svg.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/9/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Zona DAZN",
-        "id": "ZonaDAZN.it",
-        "logo": "https://i.imgur.com/Jop3Vip.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Telefriuli",
         "id": "Telefriuli.it",
         "logo": "https://i.imgur.com/He3uCs6.png",
@@ -1334,16 +1304,6 @@
         "url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8",
         "categories": [
             "general"
-        ],
-        "country": "IT"
-    },
-    {
-        "name": "Minformo TV",
-        "id": "MinformoTV.it",
-        "logo": "https://i.imgur.com/9Oq6fLw.png",
-        "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IT"
     },
@@ -1646,13 +1606,41 @@
         "country": "IT"
     },
     {
-        "name": "7 Gold",
-        "id": "7Gold.it",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
-        "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+        "name": "Casa Italia 53",
+        "id": "CasaItalia53.it",
+        "logo": "https://i.imgur.com/X8BI1Md.png",
+        "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8",
         "categories": [
-            "entertainment"
+            "shop"
         ],
+        "country": "IT"
+    },
+    {
+        "name": "Giovanni Paolo TV",
+        "id": "GiovanniPaoloTV.it",
+        "logo": "",
+        "url": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Prima TV",
+        "id": "PrimaTV.it",
+        "logo": "https://i.imgur.com/HE9c8Sk.png",
+        "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Radio Iglesias",
+        "id": "RadioIglesias.it",
+        "logo": "https://i.imgur.com/2OXQpZM.png",
+        "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+        "categories": [],
         "country": "IT"
     }
 ]

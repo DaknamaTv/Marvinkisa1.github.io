@@ -223,6 +223,16 @@
         "country": "DO"
     },
     {
+        "name": "RL PRO TV",
+        "id": "RLPROTV.cd",
+        "logo": "https://i.imgur.com/PIBtCEN.jpeg",
+        "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "Nano",
         "id": "Nano.ru",
         "logo": "https://i.imgur.com/dYj3XDa.png",
@@ -477,10 +487,62 @@
         "country": "DE"
     },
     {
+        "name": "Bondi Rescue",
+        "id": "BondiRescue.de",
+        "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Food",
+        "id": "PlutoTVFood.de",
+        "logo": "https://i.imgur.com/HTLo1GG.png",
+        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
+        "categories": [
+            "cooking",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV History",
+        "id": "PlutoTVHistory.de",
+        "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Science",
+        "id": "PlutoTVScience.de",
+        "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+        "categories": [
+            "science",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "Docu.",
         "id": "Docu.cl",
         "logo": "https://i.imgur.com/7xvQ7jR.png",
         "url": "http://45.162.193.35/DOCU/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
         "categories": [
             "documentary"
         ],
@@ -751,17 +813,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Naturaleza",
-        "id": "PlutoTVNaturaleza.us",
-        "logo": "https://i.imgur.com/vUHAWAJ.png",
-        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
-        "categories": [
-            "documentary",
-            "outdoor"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Animais",
         "id": "PlutoTVAnimais.us",
         "logo": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
@@ -786,6 +837,57 @@
         "id": "PlutoTVParanormal.us",
         "logo": "https://i.imgur.com/ApN6nfw.png",
         "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Detetives Medicos",
+        "id": "DetetivesMedicos.us",
+        "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Ink Master",
+        "id": "InkMaster.us",
+        "logo": "https://i.imgur.com/DiBojYh.png",
+        "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Science",
+        "id": "PlutoTVScience.us",
+        "logo": "https://i.imgur.com/uhunRoU.png",
+        "url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8",
+        "categories": [
+            "science",
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Spike Pluto TV",
+        "id": "SpikePlutoTV.us",
+        "logo": "https://i.imgur.com/woY8Ecb.png",
+        "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Teen Mom",
+        "id": "TeenMom.us",
+        "logo": "https://i.imgur.com/8o3ClCV.png",
+        "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
         "categories": [
             "documentary"
         ],
@@ -1094,6 +1196,16 @@
         "id": "ViasatNature.se",
         "logo": "https://i.imgur.com/ousRqqD.png",
         "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Alien Invasion",
+        "id": "PlutoTVAlienInvasion.se",
+        "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8",
         "categories": [
             "documentary"
         ],

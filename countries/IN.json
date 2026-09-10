@@ -2960,16 +2960,6 @@
         "country": "IN"
     },
     {
-        "name": "Unite8 Sports 2",
-        "id": "Unite8Sports2.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=720x540",
-        "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ANB News",
         "id": "ANBNews.in",
         "logo": "https://i.imgur.com/8LjMtnk.png",
@@ -4495,16 +4485,6 @@
         "country": "IN"
     },
     {
-        "name": "Mei Alai TV",
-        "id": "MeiAlaiTV.in",
-        "logo": "https://www.meialai.in/assets/meialai-DBaBUZTH.png",
-        "url": "https://meialai.iptelevishion.com/meialai/2/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "NDTV Good Times",
         "id": "NDTVGoodTimes.in",
         "logo": "https://i.imgur.com/7cruYvo.png",
@@ -4603,26 +4583,6 @@
         "country": "IN"
     },
     {
-        "name": "All Time Movies",
-        "id": "AllTimeMovies.in",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
-        "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "&xplor HD",
-        "id": "AndxplorHD.in",
-        "logo": "https://i.imgur.com/9mK6dgM.png",
-        "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Colors Marathi",
         "id": "ColorsMarathi.in",
         "logo": "https://dtil.tmsimg.com/assets/s158237_ld_h15_aa.png?lock=720x540",
@@ -4663,16 +4623,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Bhakti",
-        "id": "ZBBhakti.in",
-        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
-        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZB Cartoon",
         "id": "ZBCartoon.in",
         "logo": "https://i.imgur.com/BbFNpMr.jpeg",
@@ -4690,6 +4640,59 @@
         "categories": [
             "news",
             "classic"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "B4U Kadak",
+        "id": "B4UKadak.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
+        "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Indywood TV",
+        "id": "IndywoodTV.in",
+        "logo": "https://i.ibb.co/jT3NCPp/logo-tv.png",
+        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
+        "categories": [
+            "movies",
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Makkal TV",
+        "id": "MakkalTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143296_ld_h15_aa.png?lock=720x540",
+        "url": "https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "MediBizTV",
+        "id": "MediBizTV.in",
+        "logo": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
+        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+        "categories": [
+            "science",
+            "education",
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "TNP News",
+        "id": "TNPNews.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TNP_News.png",
+        "url": "https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "IN"
     }

@@ -730,26 +730,6 @@
         "country": "CA"
     },
     {
-        "name": "CFTO-DT",
-        "id": "CFTODT.ca",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png",
-        "url": "http://stream.cammonitorplus.net/1712/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "CTV 2 Atlantic",
-        "id": "CTV2Atlantic.ca",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/960px-CTV_2_2018.svg.png",
-        "url": "http://stream.cammonitorplus.net/1731/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Sooriyan TV",
         "id": "SooriyanTV.ca",
         "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
@@ -806,22 +786,32 @@
         "country": "CA"
     },
     {
-        "name": "NACTV",
-        "id": "NACTV.ca",
-        "logo": "https://i.imgur.com/FzM95rH.png",
-        "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "C Malayalam TV",
         "id": "CMalayalamTV.ca",
         "logo": "https://i.imgur.com/rpg0bQA.png",
         "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
         "categories": [
             "culture"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "NTV",
+        "id": "NTV.ca",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",
+        "url": "https://live.omni3.pl/cjon-dt/index.m3u8?token=ebnk.xyz",
+        "categories": [
+            "general"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "Radio Tele Evangile Sans Limite",
+        "id": "RadioTeleEvangileSansLimite.ca",
+        "logo": "https://i.imgur.com/CL32kFA.png",
+        "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+        "categories": [
+            "religious"
         ],
         "country": "CA"
     }

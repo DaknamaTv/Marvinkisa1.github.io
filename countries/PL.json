@@ -664,16 +664,6 @@
         "country": "PL"
     },
     {
-        "name": "TVP Sport",
-        "id": "TVPSport.pl",
-        "logo": "https://i.imgur.com/JUZDOCO.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "Eska TV",
         "id": "EskaTV.pl",
         "logo": "https://i.imgur.com/N0eH0Cg.png",
@@ -869,16 +859,6 @@
         "country": "PL"
     },
     {
-        "name": "Ultra TV 4K",
-        "id": "UltraTV4K.pl",
-        "logo": "https://i.imgur.com/sRtjNdd.png",
-        "url": "http://45.190.28.50/ULTRA/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PL"
-    },
-    {
         "name": "Polsat JimJam",
         "id": "PolsatJimJam.pl",
         "logo": "https://i.imgur.com/GjppUlg.png",
@@ -886,6 +866,14 @@
         "categories": [
             "kids"
         ],
+        "country": "PL"
+    },
+    {
+        "name": "TNA Wrestling Channel",
+        "id": "TNAWrestlingChannel.pl",
+        "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
+        "url": "https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8",
+        "categories": [],
         "country": "PL"
     }
 ]

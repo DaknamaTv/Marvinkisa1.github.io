@@ -413,16 +413,6 @@
         "country": "GR"
     },
     {
-        "name": "Cosmote Sport 1",
-        "id": "CosmoteSport1.gr",
-        "logo": "https://i.imgur.com/fn0TM6V.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/26/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Alert TV",
         "id": "AlertTV.gr",
         "logo": "https://i.imgur.com/xqa87lG.png",
@@ -558,16 +548,6 @@
         "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "Lepanto TV",
-        "id": "LepantoTV.gr",
-        "logo": "https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg",
-        "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "GR"
     },

@@ -641,16 +641,6 @@
         "country": "FR"
     },
     {
-        "name": "RMC Sport 1",
-        "id": "RMCSport1.fr",
-        "logo": "https://i.imgur.com/NsFTG7u.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "Canal+ Cinemas",
         "id": "CanalPlusCinemas.fr",
         "logo": "https://i.imgur.com/fvPoNEa.jpeg",
@@ -814,16 +804,6 @@
         "categories": [
             "news",
             "sports"
-        ],
-        "country": "FR"
-    },
-    {
-        "name": "Euronews Spanish",
-        "id": "EuronewsSpanish.fr",
-        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
-        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "FR"
     }

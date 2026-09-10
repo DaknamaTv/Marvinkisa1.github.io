@@ -116,5 +116,15 @@
             "music"
         ],
         "country": "CM"
+    },
+    {
+        "name": "Kemet TV",
+        "id": "KemetTV.cm",
+        "logo": "https://i.imgur.com/NZ0YqOb.jpeg",
+        "url": "https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CM"
     }
 ]

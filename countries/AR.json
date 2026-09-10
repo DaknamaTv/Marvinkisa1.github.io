@@ -354,16 +354,6 @@
         "country": "AR"
     },
     {
-        "name": "Telefe Interior",
-        "id": "TelefeInterior.ar",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
-        "url": "http://200.91.32.158:8080/telefehdvalle/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 4 Posadas",
         "id": "Canal4Posadas.ar",
         "logo": "https://i.imgur.com/tElJr3e.png",
@@ -846,14 +836,6 @@
         "country": "AR"
     },
     {
-        "name": "Chaco TV",
-        "id": "ChacoTV.ar",
-        "logo": "https://i.imgur.com/b6RerDw.png",
-        "url": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Cosmos Tv",
         "id": "CosmosTv.ar",
         "logo": "https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp",
@@ -861,16 +843,6 @@
         "categories": [
             "movies",
             "news"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "Radio Yguazu TV",
-        "id": "RadioYguazuTV.ar",
-        "logo": "https://i.imgur.com/kVi0ICm.png",
-        "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
-        "categories": [
-            "entertainment"
         ],
         "country": "AR"
     },
@@ -1193,6 +1165,54 @@
         "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
         "categories": [
             "entertainment"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Bayres TV",
+        "id": "BayresTV.ar",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png",
+        "url": "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Cadena103.TV",
+        "id": "Cadena103TV.ar",
+        "logo": "https://i.imgur.com/vBsry35.png",
+        "url": "https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 7 Neuquen",
+        "id": "Canal7Neuquen.ar",
+        "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Radio UP",
+        "id": "RadioUP.ar",
+        "logo": "https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png",
+        "url": "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "X Level Media",
+        "id": "XLevelMedia.ar",
+        "logo": "https://i.imgur.com/BGwQdQW.jpeg",
+        "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+        "categories": [
+            "music"
         ],
         "country": "AR"
     }

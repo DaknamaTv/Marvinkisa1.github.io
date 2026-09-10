@@ -21,16 +21,6 @@
         "country": "RO"
     },
     {
-        "name": "Comedy Play",
-        "id": "ComedyPlay.ro",
-        "logo": "https://i.imgur.com/6kAeVOk.png",
-        "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
-        "categories": [
-            "comedy"
-        ],
-        "country": "RO"
-    },
-    {
         "name": "Tvoye TV Yumor",
         "id": "TvoyeTVYumor.ru",
         "logo": "https://smotret.tv/images/tvoe-tv-yumor.webp",
@@ -145,20 +135,74 @@
         "country": "DE"
     },
     {
-        "name": "Cheers",
-        "id": "Cheers.de",
-        "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
+        "name": "Comedy Central South Park",
+        "id": "ComedyCentralSouthPark.de",
+        "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
+        "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Frasier",
+        "id": "Frasier.de",
+        "logo": "https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8",
         "categories": [
             "comedy"
         ],
         "country": "DE"
     },
     {
-        "name": "South Park",
-        "id": "SouthPark.de",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "name": "Funny AF",
+        "id": "FunnyAF.de",
+        "logo": "https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Butters Collection",
+        "id": "SouthParkButtersCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kenny Collection",
+        "id": "SouthParkKennyCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kyle Collection",
+        "id": "SouthParkKyleCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Stan Collection",
+        "id": "SouthParkStanCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
         "categories": [
             "animation",
             "comedy"
@@ -319,16 +363,6 @@
         "country": "US"
     },
     {
-        "name": "Comedy Central",
-        "id": "ComedyCentral.us",
-        "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
-        "url": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8",
-        "categories": [
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
         "name": "USA Network",
         "id": "USANetwork.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
@@ -382,17 +416,6 @@
         "country": "US"
     },
     {
-        "name": "South Park: Colecao Kyle",
-        "id": "SouthParkColecaoKyle.us",
-        "logo": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Classic TV Comedy",
         "id": "ClassicTVComedy.us",
         "logo": "https://i.imgur.com/wg5I5Fb.png",
@@ -436,10 +459,30 @@
         "country": "US"
     },
     {
-        "name": "South Park: Colecao Kenny",
-        "id": "SouthParkColecaoKenny.us",
-        "logo": "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
+        "name": "Comedy Central",
+        "id": "ComedyCentral.us",
+        "logo": "https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png",
+        "url": "https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Comedy Central en Espanol",
+        "id": "ComedyCentralenEspanol.us",
+        "logo": "https://i.imgur.com/6xTD3G8.png",
+        "url": "https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Comedy Central South Park",
+        "id": "ComedyCentralSouthPark.us",
+        "logo": "https://i.imgur.com/7GKO6Fp.png",
+        "url": "https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8",
         "categories": [
             "animation",
             "comedy"
@@ -447,12 +490,63 @@
         "country": "US"
     },
     {
-        "name": "South Park: Coleccion Cartman",
-        "id": "SouthParkColeccionCartman.us",
-        "logo": "https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8",
+        "name": "Funny AF",
+        "id": "FunnyAF.us",
+        "logo": "https://i.imgur.com/UCwjdtQ.png",
+        "url": "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8",
         "categories": [
-            "animation",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "More TV Sitcoms",
+        "id": "MoreTVSitcoms.us",
+        "logo": "https://i.imgur.com/4mbhOEo.png",
+        "url": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Series Comedia",
+        "id": "PlutoTVSeriesComedia.us",
+        "logo": "https://i.imgur.com/INcTSkj.png",
+        "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
+        "categories": [
+            "series",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Sitcom Legends",
+        "id": "SitcomLegends.us",
+        "logo": "https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Beverly Hillbillies",
+        "id": "TheBeverlyHillbillies.us",
+        "logo": "https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8",
+        "categories": [
+            "comedy",
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "TV Land Sitcoms",
+        "id": "TVLandSitcoms.us",
+        "logo": "https://i.imgur.com/phHHs7l.png",
+        "url": "https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8",
+        "categories": [
             "comedy"
         ],
         "country": "US"

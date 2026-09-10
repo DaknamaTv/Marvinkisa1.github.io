@@ -168,5 +168,15 @@
             "music"
         ],
         "country": "MD"
+    },
+    {
+        "name": "Hit FM",
+        "id": "HitFM.md",
+        "logo": "https://i.imgur.com/QwqM5j6.png",
+        "url": "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MD"
     }
 ]

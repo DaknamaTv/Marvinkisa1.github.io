@@ -248,5 +248,15 @@
             "legislative"
         ],
         "country": "SV"
+    },
+    {
+        "name": "Canal 15 El Zamorano",
+        "id": "Canal15ElZamorano.sv",
+        "logo": "https://i.imgur.com/op13ujg.png",
+        "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "SV"
     }
 ]

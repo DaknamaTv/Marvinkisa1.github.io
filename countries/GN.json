@@ -18,5 +18,15 @@
             "news"
         ],
         "country": "GN"
+    },
+    {
+        "name": "Afrik Info TV",
+        "id": "AfrikInfoTV.gn",
+        "logo": "https://i.imgur.com/hz2LOD8.jpeg",
+        "url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "GN"
     }
 ]

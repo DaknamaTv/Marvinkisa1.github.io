@@ -157,16 +157,6 @@
         "country": "AT"
     },
     {
-        "name": "ORF 1",
-        "id": "ORF1.at",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ORF_1_2019.svg",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AT"
-    },
-    {
         "name": "Okto",
         "id": "Okto.at",
         "logo": "https://i.imgur.com/9XfhgbS.png",
@@ -208,6 +198,16 @@
         "logo": "https://i.imgur.com/FpVNrxk.png",
         "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
         "categories": [],
+        "country": "AT"
+    },
+    {
+        "name": "Steiermark TV",
+        "id": "SteiermarkTV.at",
+        "logo": "https://i.imgur.com/AJrUPze.png",
+        "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+        "categories": [
+            "general"
+        ],
         "country": "AT"
     }
 ]

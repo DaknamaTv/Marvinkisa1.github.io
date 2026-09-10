@@ -99,15 +99,79 @@
         "country": "IN"
     },
     {
-        "name": "South Park",
-        "id": "SouthPark.de",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "name": "Comedy Central South Park",
+        "id": "ComedyCentralSouthPark.de",
+        "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
+        "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8",
         "categories": [
             "animation",
             "comedy"
         ],
         "country": "DE"
+    },
+    {
+        "name": "South Park: Butters Collection",
+        "id": "SouthParkButtersCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kenny Collection",
+        "id": "SouthParkKennyCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kyle Collection",
+        "id": "SouthParkKyleCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Stan Collection",
+        "id": "SouthParkStanCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "EnerGeek",
+        "id": "EnerGeek.cl",
+        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "animation"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "EnerGeek FAN",
+        "id": "EnerGeekFAN.cl",
+        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "animation"
+        ],
+        "country": "CL"
     },
     {
         "name": "Xtrema Cartoons",
@@ -303,47 +367,6 @@
         "country": "US"
     },
     {
-        "name": "South Park: Colecao Kyle",
-        "id": "SouthParkColecaoKyle.us",
-        "logo": "https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Las Tortugas Ninja",
-        "id": "LasTortugasNinja.us",
-        "logo": "https://i.imgur.com/urJdNc9.png",
-        "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Naruto en espanol",
-        "id": "Narutoenespanol.us",
-        "logo": "https://i.imgur.com/hG8F0RY.png",
-        "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Naruto Shippuden",
-        "id": "NarutoShippuden.us",
-        "logo": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "US"
-    },
-    {
         "name": "South Park: Cartman Collection",
         "id": "SouthParkCartmanCollection.us",
         "logo": "https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png",
@@ -366,10 +389,10 @@
         "country": "US"
     },
     {
-        "name": "South Park: Colecao Kenny",
-        "id": "SouthParkColecaoKenny.us",
-        "logo": "https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8",
+        "name": "Comedy Central South Park",
+        "id": "ComedyCentralSouthPark.us",
+        "logo": "https://i.imgur.com/7GKO6Fp.png",
+        "url": "https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8",
         "categories": [
             "animation",
             "comedy"
@@ -377,21 +400,32 @@
         "country": "US"
     },
     {
-        "name": "South Park: Coleccion Cartman",
-        "id": "SouthParkColeccionCartman.us",
-        "logo": "https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8",
+        "name": "Detective Conan",
+        "id": "DetectiveConan.us",
+        "logo": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
+        "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8",
         "categories": [
             "animation",
-            "comedy"
+            "kids"
         ],
         "country": "US"
     },
     {
-        "name": "Tokusato",
-        "id": "Tokusato.us",
-        "logo": "https://i.imgur.com/tWpjXtl.png",
-        "url": "https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8",
+        "name": "Nickelodeon Pluto TV",
+        "id": "NickelodeonPlutoTV.us",
+        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "One Piece",
+        "id": "OnePiece.us",
+        "logo": "https://i.imgur.com/XsvbAWR.png",
+        "url": "https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8",
         "categories": [
             "animation"
         ],

@@ -251,12 +251,35 @@
         "country": "BR"
     },
     {
+        "name": "Unisul TV",
+        "id": "UnisulTV.br",
+        "logo": "https://i.imgur.com/N0TvAFz.png",
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+        "categories": [
+            "education",
+            "culture"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Kite Victers",
         "id": "KiteVicters.in",
         "logo": "https://i.imgur.com/kj4OEsb.png",
         "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
         "categories": [
             "education"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "MediBizTV",
+        "id": "MediBizTV.in",
+        "logo": "https://www.medibiztv.com/assets/logo-E76jcvP9.png",
+        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+        "categories": [
+            "science",
+            "education",
+            "news"
         ],
         "country": "IN"
     },
@@ -846,10 +869,40 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Misterios",
-        "id": "PlutoTVMisterios.us",
-        "logo": "https://i.imgur.com/gwxX1Y3.png",
-        "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
+        "name": "Pluto TV Natureza",
+        "id": "PlutoTVNatureza.us",
+        "logo": "https://i.imgur.com/RuyQQ6M.png",
+        "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Paisagens por Stingray",
+        "id": "PlutoTVPaisagensporStingray.us",
+        "logo": "https://i.imgur.com/6kElzw7.png",
+        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pronto-socorro: Historias De Emergencia",
+        "id": "ProntosocorroHistoriasDeEmergencia.us",
+        "logo": "https://i.imgur.com/0PkyJ3U.png",
+        "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "St Lucie Public Schools",
+        "id": "StLuciePublicSchools.us",
+        "logo": "https://i.imgur.com/wnB0fWG.png",
+        "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
         "categories": [
             "education"
         ],
@@ -1152,16 +1205,6 @@
         "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
         "categories": [
             "culture",
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
             "education"
         ],
         "country": "ID"

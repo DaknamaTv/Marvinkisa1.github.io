@@ -20,16 +20,6 @@
         "country": "UA"
     },
     {
-        "name": "Lanet.TV",
-        "id": "LanetTV.ua",
-        "logo": "https://i.imgur.com/Jdy4SoG.png",
-        "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "NTK TV",
         "id": "NTKTV.ua",
         "logo": "https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png",
@@ -1368,24 +1358,6 @@
         "categories": [
             "general"
         ],
-        "country": "UA"
-    },
-    {
-        "name": "IRT",
-        "id": "IRT.ua",
-        "logo": "https://i.imgur.com/tDTUIRm.png",
-        "url": "https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "OTV",
-        "id": "OTV.ua",
-        "logo": "https://i.imgur.com/TkGGGAj.png",
-        "url": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8",
-        "categories": [],
         "country": "UA"
     },
     {

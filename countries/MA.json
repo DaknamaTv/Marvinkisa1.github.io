@@ -68,5 +68,15 @@
             "culture"
         ],
         "country": "MA"
+    },
+    {
+        "name": "Al Maghribia",
+        "id": "AlMaghribia.ma",
+        "logo": "https://i.imgur.com/7GaahYh.png",
+        "url": "http://185.9.2.18/chid_205/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "MA"
     }
 ]

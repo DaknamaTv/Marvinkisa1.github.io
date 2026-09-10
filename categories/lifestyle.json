@@ -154,16 +154,6 @@
         "country": "BR"
     },
     {
-        "name": "FashionTV",
-        "id": "FashionTV.br",
-        "logo": "https://i.imgur.com/cZWKyuM.png",
-        "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Food Food",
         "id": "FoodFood.in",
         "logo": "https://i.imgur.com/J930pA1.png",
@@ -242,6 +232,18 @@
         "url": "https://stream.wapptv.cl/video/index.m3u8",
         "categories": [
             "lifestyle"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "PRIDEtv LATAM",
+        "id": "PRIDEtvLATAM.cl",
+        "logo": "",
+        "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "entertainment",
+            "lifestyle",
+            "music"
         ],
         "country": "CL"
     },
@@ -466,16 +468,6 @@
         "id": "PlutoTVCozinha.us",
         "logo": "https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png",
         "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Viagens",
-        "id": "PlutoTVViagens.us",
-        "logo": "https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png",
-        "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8",
         "categories": [
             "lifestyle"
         ],

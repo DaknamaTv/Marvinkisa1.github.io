@@ -740,16 +740,6 @@
         "country": "CL"
     },
     {
-        "name": "Interactiva TV",
-        "id": "InteractivaTV.cl",
-        "logo": "https://i.imgur.com/RcjwlX4.png",
-        "url": "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "13 Realities",
         "id": "13Realities.cl",
         "logo": "https://i.imgur.com/m0SuwMU.png",
@@ -1243,16 +1233,6 @@
         "country": "CL"
     },
     {
-        "name": "Teleangol Radio",
-        "id": "TeleangolRadio.cl",
-        "logo": "https://i.imgur.com/nhPFGs8.png",
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "TNE",
         "id": "TNE.cl",
         "logo": "https://i.imgur.com/8QbvXva.png",
@@ -1729,14 +1709,6 @@
         "country": "CL"
     },
     {
-        "name": "RTV Nuble",
-        "id": "RTVNuble.cl",
-        "logo": "https://i.imgur.com/BDKgDZG.png",
-        "url": "https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Radio UNIACC",
         "id": "RadioUNIACC.cl",
         "logo": "https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png",
@@ -1829,12 +1801,74 @@
         "country": "CL"
     },
     {
-        "name": "Radio Chiloe",
-        "id": "RadioChiloe.cl",
-        "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
-        "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
+        "name": "ClickTV Chile",
+        "id": "ClickTVChile.cl",
+        "logo": "https://i.imgur.com/H0XNbMS.png",
+        "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "EnerGeek",
+        "id": "EnerGeek.cl",
+        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "animation"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "EnerGeek FAN",
+        "id": "EnerGeekFAN.cl",
+        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "animation"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "EnerGeek Radio",
+        "id": "EnerGeekRadio.cl",
+        "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
+        "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Juntos TV",
+        "id": "JuntosTV.cl",
+        "logo": "https://i.imgur.com/U62q2eM.png",
+        "url": "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Maqui TV",
+        "id": "MaquiTV.cl",
+        "logo": "https://i.imgur.com/U849xvX.png",
+        "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "PRIDEtv LATAM",
+        "id": "PRIDEtvLATAM.cl",
+        "logo": "",
+        "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
+        "categories": [
+            "entertainment",
+            "lifestyle",
+            "music"
         ],
         "country": "CL"
     }

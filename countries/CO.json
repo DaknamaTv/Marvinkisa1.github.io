@@ -715,16 +715,6 @@
         "country": "CO"
     },
     {
-        "name": "Emisora Comunitaria 104.1 FM",
-        "id": "EmisoraComunitaria1041FM.co",
-        "logo": "https://i.imgur.com/SQ79Wsb.png",
-        "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Canal Telefamilia",
         "id": "CanalTelefamilia.co",
         "logo": "https://i.imgur.com/D1s1Q3k.png",
@@ -805,22 +795,42 @@
         "country": "CO"
     },
     {
-        "name": "Canal CHD",
-        "id": "CanalCHD.co",
-        "logo": "https://i.imgur.com/cNv1MPs.jpeg",
-        "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Tele Mocoa Canal 10",
         "id": "TeleMocoaCanal10.co",
         "logo": "https://i.imgur.com/XHtpEfu.png",
         "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "CNC Valledupar",
+        "id": "CNCValledupar.co",
+        "logo": "https://i.imgur.com/y5N6PCg.jpg",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "TV3 La Plata",
+        "id": "TV3LaPlata.co",
+        "logo": "https://i.imgur.com/uRMq5HC.jpeg",
+        "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "UMC TV",
+        "id": "UMCTV.co",
+        "logo": "https://i.imgur.com/YQUK4wO.png",
+        "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+        "categories": [
+            "outdoor"
         ],
         "country": "CO"
     }

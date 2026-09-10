@@ -441,16 +441,6 @@
         "country": "TR"
     },
     {
-        "name": "DHA",
-        "id": "DHA.tr",
-        "logo": "https://i.imgur.com/VZhag2x.png",
-        "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Erzurum Web TV",
         "id": "ErzurumWebTV.tr",
         "logo": "https://i.imgur.com/HF7N4Li.png",
@@ -764,14 +754,6 @@
         "country": "TR"
     },
     {
-        "name": "TV 100",
-        "id": "TV100.tr",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png",
-        "url": "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8",
-        "categories": [],
-        "country": "TR"
-    },
-    {
         "name": "Ilke TV",
         "id": "IlkeTV.tr",
         "logo": "https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png",
@@ -1078,16 +1060,6 @@
         "country": "TR"
     },
     {
-        "name": "Kanal 33",
-        "id": "Kanal33.tr",
-        "logo": "https://i.imgur.com/5WYaoFZ.png",
-        "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "TRT Genc",
         "id": "TRTGenc.tr",
         "logo": "https://i.imgur.com/fCHQYWS.png",
@@ -1095,6 +1067,16 @@
         "categories": [
             "general",
             "culture"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+        "categories": [
+            "kids"
         ],
         "country": "TR"
     }

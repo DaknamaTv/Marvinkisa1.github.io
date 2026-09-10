@@ -82,16 +82,6 @@
         "country": "BO"
     },
     {
-        "name": "Aiquilena Radio y Television",
-        "id": "AiquilenaRadioyTelevision.bo",
-        "logo": "https://i.imgur.com/uJy75i0.png",
-        "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Radio Television Ichilo",
         "id": "RadioTelevisionIchilo.bo",
         "logo": "https://i.imgur.com/s5P9lz0.png",
@@ -293,16 +283,6 @@
         "country": "BO"
     },
     {
-        "name": "Imperial TV",
-        "id": "ImperialTV.bo",
-        "logo": "https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Canal 56 Quiero TV",
         "id": "Canal56QuieroTV.bo",
         "logo": "https://i.imgur.com/l9kDNld.jpeg",
@@ -451,14 +431,6 @@
         "country": "BO"
     },
     {
-        "name": "Vos TV",
-        "id": "VosTV.bo",
-        "logo": "https://i.imgur.com/Cm1Xjeq.png",
-        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
-        "categories": [],
-        "country": "BO"
-    },
-    {
         "name": "FAP TV",
         "id": "FAPTV.bo",
         "logo": "https://i.imgur.com/jZ7g58e.png",
@@ -513,16 +485,6 @@
         "country": "BO"
     },
     {
-        "name": "SPC Canal 15",
-        "id": "SPCCanal15.bo",
-        "logo": "https://i.imgur.com/8GzjELt.jpeg",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "TransMedia",
         "id": "TransMedia.bo",
         "logo": "https://i.imgur.com/tAdxar9.jpeg",
@@ -530,6 +492,42 @@
         "categories": [
             "general"
         ],
+        "country": "BO"
+    },
+    {
+        "name": "Dmoda Channel",
+        "id": "DmodaChannel.bo",
+        "logo": "https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png",
+        "url": "https://master.tucableip.com/dmoda/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Palenque TV",
+        "id": "PalenqueTV.bo",
+        "logo": "https://i.imgur.com/wAIBvaO.png",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Univalle Television",
+        "id": "UnivalleTelevision.bo",
+        "logo": "https://i.imgur.com/qgrWDIs.png",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "categories": [],
+        "country": "BO"
+    },
+    {
+        "name": "XTOTV",
+        "id": "XTOTV.bo",
+        "logo": "https://i.imgur.com/MLwLlWl.png",
+        "url": "https://www.sccbolivia.com/dash/720p.mpd",
+        "categories": [],
         "country": "BO"
     }
 ]

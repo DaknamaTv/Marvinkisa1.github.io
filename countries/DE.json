@@ -855,16 +855,6 @@
         "country": "DE"
     },
     {
-        "name": "Lausitzwelle",
-        "id": "Lausitzwelle.de",
-        "logo": "https://i.imgur.com/4kYF4bK.png",
-        "url": "https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=",
-        "categories": [
-            "music"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "MDF.1",
         "id": "MDF1.de",
         "logo": "https://i.imgur.com/IFGXK6u.png",
@@ -1219,56 +1209,6 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Serie",
-        "id": "PlutoTVSerie.de",
-        "logo": "https://i.imgur.com/u3c80e8.png",
-        "url": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Blue Bloods",
-        "id": "BlueBloods.de",
-        "logo": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Cheers",
-        "id": "Cheers.de",
-        "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
-        "categories": [
-            "comedy"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Geordie Shore",
-        "id": "GeordieShore.de",
-        "logo": "https://i.imgur.com/WOkqDRi.png",
-        "url": "https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Nick Jr. Club",
-        "id": "NickJrClub.de",
-        "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
-        "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Pluto TV Action",
         "id": "PlutoTVAction.de",
         "logo": "https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png",
@@ -1290,37 +1230,6 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Kids Club",
-        "id": "PlutoTVKidsClub.de",
-        "logo": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
-        "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Paranormal",
-        "id": "PlutoTVParanormal.de",
-        "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Sci-Fi",
-        "id": "PlutoTVSciFi.de",
-        "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
-        "categories": [
-            "series",
-            "movies"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Pluto TV Star Trek",
         "id": "PlutoTVStarTrek.de",
         "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
@@ -1332,10 +1241,40 @@
         "country": "DE"
     },
     {
-        "name": "South Park",
-        "id": "SouthPark.de",
-        "logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-        "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
+        "name": "Auction Hunters",
+        "id": "AuctionHunters.de",
+        "logo": "https://i.imgur.com/4SPOVN7.png",
+        "url": "https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "BET Pluto TV",
+        "id": "BETPlutoTV.de",
+        "logo": "https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Bondi Rescue",
+        "id": "BondiRescue.de",
+        "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Comedy Central South Park",
+        "id": "ComedyCentralSouthPark.de",
+        "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
+        "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8",
         "categories": [
             "animation",
             "comedy"
@@ -1343,10 +1282,50 @@
         "country": "DE"
     },
     {
-        "name": "Star Trek: Voyager",
-        "id": "StarTrekVoyager.de",
-        "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
+        "name": "Fix & Foxi",
+        "id": "FixFoxi.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
+        "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
+        "categories": [
+            "kids"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Frasier",
+        "id": "Frasier.de",
+        "logo": "https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Funny AF",
+        "id": "FunnyAF.de",
+        "logo": "https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8",
+        "categories": [
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "MacGyver",
+        "id": "MacGyver.de",
+        "logo": "https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Medium",
+        "id": "Medium.de",
+        "logo": "https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8",
         "categories": [
             "movies",
             "series"
@@ -1354,32 +1333,165 @@
         "country": "DE"
     },
     {
-        "name": "Teen Mom",
-        "id": "TeenMom.de",
-        "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
+        "name": "MTV Dating",
+        "id": "MTVDating.de",
+        "logo": "https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8",
         "categories": [
             "entertainment"
         ],
         "country": "DE"
     },
     {
-        "name": "Tortues Ninja TV",
-        "id": "TortuesNinjaTV.de",
-        "logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
+        "name": "MTV Ridiculousness",
+        "id": "MTVRidiculousness.de",
+        "logo": "https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Crime Drama",
+        "id": "PlutoTVCrimeDrama.de",
+        "logo": "https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/colorLogoPNG_1754296852868.png",
+        "url": "https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Cult Films",
+        "id": "PlutoTVCultFilms.de",
+        "logo": "https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Food",
+        "id": "PlutoTVFood.de",
+        "logo": "https://i.imgur.com/HTLo1GG.png",
+        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
+        "categories": [
+            "cooking",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV History",
+        "id": "PlutoTVHistory.de",
+        "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Science",
+        "id": "PlutoTVScience.de",
+        "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+        "categories": [
+            "science",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Thrillers",
+        "id": "PlutoTVThrillers.de",
+        "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "RTL",
+        "id": "RTL.de",
+        "logo": "https://i.imgur.com/94K94k2.png",
+        "url": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "RTL Zwei",
+        "id": "RTLZwei.de",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+        "url": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz",
+        "categories": [],
+        "country": "DE"
+    },
+    {
+        "name": "Rugrats",
+        "id": "Rugrats.de",
+        "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
         "categories": [
             "kids"
         ],
         "country": "DE"
     },
     {
-        "name": "Totally Turtles",
-        "id": "TotallyTurtles.de",
-        "logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8",
+        "name": "South Park: Butters Collection",
+        "id": "SouthParkButtersCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14a0e94c3800082a8d3a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8",
         "categories": [
-            "kids"
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kenny Collection",
+        "id": "SouthParkKennyCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Kyle Collection",
+        "id": "SouthParkKyleCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "South Park: Stan Collection",
+        "id": "SouthParkStanCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
+        "categories": [
+            "animation",
+            "comedy"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Star Trek: The Next Generation",
+        "id": "StarTrekTheNextGeneration.de",
+        "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
+        "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
+        "categories": [
+            "movies",
+            "series"
         ],
         "country": "DE"
     }

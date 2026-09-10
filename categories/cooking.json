@@ -61,6 +61,17 @@
         "country": "IN"
     },
     {
+        "name": "Pluto TV Food",
+        "id": "PlutoTVFood.de",
+        "logo": "https://i.imgur.com/HTLo1GG.png",
+        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
+        "categories": [
+            "cooking",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "El Gourmet",
         "id": "ElGourmet.ar",
         "logo": "https://i.imgur.com/ByMyRI9.png",
@@ -196,6 +207,16 @@
         "id": "MadDogandMerrill.us",
         "logo": "https://i.imgur.com/5QQy3aW.png",
         "url": "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8",
+        "categories": [
+            "cooking"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Tastemade Brasil",
+        "id": "TastemadeBrasil.us",
+        "logo": "https://i.imgur.com/FPy4zF4.png",
+        "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8",
         "categories": [
             "cooking"
         ],

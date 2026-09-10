@@ -196,16 +196,6 @@
         "country": "BR"
     },
     {
-        "name": "Fala Litoral",
-        "id": "FalaLitoral.br",
-        "logo": "https://i.imgur.com/NF6PL8O.png",
-        "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Fora Tedio TV",
         "id": "ForaTedioTV.br",
         "logo": "https://i.imgur.com/R9ul4T1.png",
@@ -918,56 +908,6 @@
         "country": "BR"
     },
     {
-        "name": "AXN",
-        "id": "AXN.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-        "url": "http://45.190.28.50/AXN_HD/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Band",
-        "id": "Band.br",
-        "logo": "https://i.imgur.com/1r5T6Pw.png",
-        "url": "http://45.190.28.50/BAND_HD/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Box Kids TV",
-        "id": "BoxKidsTV.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
-        "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "FashionTV",
-        "id": "FashionTV.br",
-        "logo": "https://i.imgur.com/cZWKyuM.png",
-        "url": "http://45.190.28.50/FASHION_TV_HD/index.m3u8",
-        "categories": [
-            "lifestyle"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Music Box Brazil",
-        "id": "MusicBoxBrazil.br",
-        "logo": "https://i.imgur.com/CDPCF2X.png",
-        "url": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Petlovers TV",
         "id": "PetloversTV.br",
         "logo": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",
@@ -975,58 +915,6 @@
         "categories": [
             "entertainment"
         ],
-        "country": "BR"
-    },
-    {
-        "name": "Rede Vida",
-        "id": "RedeVida.br",
-        "logo": "https://i.imgur.com/mP1qfp2.png",
-        "url": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Sony Channel",
-        "id": "SonyChannel.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
-        "url": "http://45.190.28.50/SONY_HD/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "Travel Box Brazil",
-        "id": "TravelBoxBrazil.br",
-        "logo": "https://i.imgur.com/3tBJERH.png",
-        "url": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8",
-        "categories": [
-            "travel"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVE Cultura",
-        "id": "TVECultura.br",
-        "logo": "https://i.imgur.com/FpqoWcB.png",
-        "url": "http://45.190.28.50/TVE/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TV Escola",
-        "id": "TVEscola.br",
-        "logo": "https://i.imgur.com/OF6aGQj.png",
-        "url": "http://45.190.28.50/TV_ESCOLA/index.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TV Globo Rio de Janeiro",
-        "id": "TVGloboRiodeJaneiro.br",
-        "logo": "",
-        "url": "http://45.190.28.50/GLOBO_HD/index.m3u8",
-        "categories": [],
         "country": "BR"
     },
     {
@@ -1347,16 +1235,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Sim Cachoeiro",
-        "id": "TVSimCachoeiro.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Canal Sete",
         "id": "CanalSete.br",
         "logo": "https://i.imgur.com/0cq0BPp.png",
@@ -1467,16 +1345,6 @@
         "country": "BR"
     },
     {
-        "name": "KpopTV Play",
-        "id": "KpopTVPlay.br",
-        "logo": "https://i.imgur.com/Tf0vweF.png",
-        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TVE Bahia",
         "id": "TVEBahia.br",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
@@ -1518,16 +1386,6 @@
         "id": "TVitape.br",
         "logo": "https://i.imgur.com/XeqcwKe.png",
         "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Metropole",
-        "id": "TVMetropole.br",
-        "logo": "https://i.imgur.com/bJyjLpg.png",
-        "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
         "categories": [
             "general"
         ],
@@ -1635,22 +1493,103 @@
         "country": "BR"
     },
     {
-        "name": "TV Arapuan",
-        "id": "TVArapuan.br",
-        "logo": "https://i.imgur.com/3395A2h.png",
-        "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Brasil Oeste",
         "id": "TVBrasilOeste.br",
         "logo": "https://i.imgur.com/noqGfuy.png",
         "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "AXN",
+        "id": "AXN.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "url": "http://170.83.49.66:8083/AXNHD/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Band",
+        "id": "Band.br",
+        "logo": "https://i.imgur.com/1r5T6Pw.png",
+        "url": "https://media.cdntvms.com.br/band_sat/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Box Kids TV",
+        "id": "BoxKidsTV.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
+        "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Music Box Brazil",
+        "id": "MusicBoxBrazil.br",
+        "logo": "https://i.imgur.com/CDPCF2X.png",
+        "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Plenitude TV",
+        "id": "PlenitudeTV.br",
+        "logo": "",
+        "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Rede SPTV",
+        "id": "RedeSPTV.br",
+        "logo": "https://i.imgur.com/kh3LGAP.png",
+        "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Travel Box Brazil",
+        "id": "TravelBoxBrazil.br",
+        "logo": "https://i.imgur.com/3tBJERH.png",
+        "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
+        "categories": [
+            "travel"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Futuro",
+        "id": "TVFuturo.br",
+        "logo": "https://i.imgur.com/xonrNBf.png",
+        "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Unisul TV",
+        "id": "UnisulTV.br",
+        "logo": "https://i.imgur.com/N0TvAFz.png",
+        "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
+        "categories": [
+            "education",
+            "culture"
         ],
         "country": "BR"
     }

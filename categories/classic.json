@@ -310,6 +310,48 @@
         "country": "US"
     },
     {
+        "name": "Classic TV Drama",
+        "id": "ClassicTVDrama.us",
+        "logo": "https://i.imgur.com/XHQxv0x.png",
+        "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Classic TV: Families",
+        "id": "ClassicTVFamilies.us",
+        "logo": "https://i.imgur.com/llAZ49f.png",
+        "url": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8",
+        "categories": [
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV The Twilight Zone",
+        "id": "PlutoTVTheTwilightZone.us",
+        "logo": "https://i.imgur.com/FiIRQAR.png",
+        "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+        "categories": [
+            "classic",
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "The Beverly Hillbillies",
+        "id": "TheBeverlyHillbillies.us",
+        "logo": "https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8",
+        "categories": [
+            "comedy",
+            "classic"
+        ],
+        "country": "US"
+    },
+    {
         "name": "CCTV-Nostalgia Theater",
         "id": "CCTVNostalgiaTheater.cn",
         "logo": "https://i.imgur.com/TVs9PBc.png",
